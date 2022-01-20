@@ -1,6 +1,6 @@
 ---
 title: Belgium
-layout: page
+layout: post
 image: images/uploads/demo.jpg
 categories:
 - country
