@@ -1,4 +1,68 @@
+Aalst
 Amsterdam
+Antwerp
+Austin
+Baghdad
+Bangalore
+Bangkok
+Bejing
+Berlin
+Bogota
+Boston
 Brussels
+Budapest
+Buenos Aires
+Cairo
+Calcutta
+Chicago
+Dallas
+Delhi
+Dhaka
+Dublin
+Dusseldorf
+Gent
+Hong Kong
+Houston
+Istanbul
+Jakarta
+Johannesburg
+Karachi
+Kinshasa
+Kopenhagen
+Kuala Lumpur
+Lagos
+Lahore
+Lima
+Lissabon
 London
+Los Angeles
+Madrid
+Manila
+Melbourne
+Mexico City
+Miami
+Moscow
+Mumbai
+Nanjing
+New York
+Oostende
+Osaka
+Oslo
 Paris
+Rio de Janeiro
+San Francisco
+Santiago
+Sao Paulo
+Seoul
+Shanghai
+Singapore
+Sydney
+Taipei
+Tehran
+Tokyo
+Toronto
+Vienna
+Vilnius
+Washington
+Wuhan
+Zagreb

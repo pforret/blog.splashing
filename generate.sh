@@ -141,11 +141,12 @@ do_country() {
 
     progress "Country: $name (markdown)"
     < "$template" \
-      sed "s|{title}|$name|" \
-    | sed "s|{slug}|$slug|" \
-    | sed "s|{image1}|$image1|" \
-    | sed "s|{image2}|$image2|" \
-    | sed "s|{image3}|$image3|" \
+      sed "s|{title}|$name|g" \
+    | sed "s|{slug}|$slug|g" \
+    | sed "s|{search}|$search|g" \
+    | sed "s|{image1}|$image1|g" \
+    | sed "s|{image2}|$image2|g" \
+    | sed "s|{image3}|$image3|g" \
     > "$output_md"
 
   done
@@ -162,7 +163,7 @@ do_city() {
     progress "$name ..."
     local slug="$(lower_case "${name//[^a-zA-Z]/}")"
     local search="${name// /+}"
-    local title="${name// /\n}"
+    local title="$(echo "$name" | tr ' ' "\n" )"
     local output_md="$output_dir/$slug.md"
     local template="$template_dir/$action.template.md"
 

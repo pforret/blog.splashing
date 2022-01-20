@@ -10,7 +10,7 @@ tags:
 
 ## Unsplash
 
-These are the most popular photos on Unsplash for Brussels.
+These are the most popular photos on [Unsplash](https://unsplash.com) for Brussels.
 
 ![Brussels](/images/city/brussels.1.jpg)
 

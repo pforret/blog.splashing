@@ -10,7 +10,7 @@ tags:
 
 ## Unsplash
 
-These are the most popular photos on Unsplash for Amsterdam.
+These are the most popular photos on [Unsplash](https://unsplash.com) for Amsterdam.
 
 ![Amsterdam](/images/city/amsterdam.1.jpg)
 
