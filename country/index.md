@@ -7,6 +7,6 @@ title: Countries
 {% assign categories = item.category | join: "|" %}
 
 {% if categories == "country" %}
-<div style="float:left; width: 50%"><a href="{{ item.url }}"><img src="{{ item.image }}"><br />{{ item.title }}</a></div>
+<div style="padding: 4px; float:left; width: 25%"><a title="{{title}}" href="{{ item.url }}"><img alt="{{title}}" src="{{ item.image }}"> {{ item.title }}</a></div>
 {%endif%}
 {% endfor %}

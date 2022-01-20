@@ -9,9 +9,9 @@ function main() {
 #  jekyll_taxonomy generate category
 #  git add category
 
-  jekyll_taxonomy -c -p country generate tag
+#  jekyll_taxonomy -c -p country generate tag
 #  jekyll_taxonomy -p city generate tag
-  git add tag
+#  git add tag
 
   git add country
   git add city

@@ -5,8 +5,8 @@ nav: false
 ---
 
 {% assign rawtags = "" %}
-{% for post in site.posts %}
-{% assign ttags = post.categories | join:'|' | append:'|' %}
+{% for post in site.pages %}
+{% assign ttags = post.category | join:'|' | append:'|' %}
 {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
@@ -27,12 +27,11 @@ nav: false
 {% for tag in tags %}
 <h2 id="{{ tag | slugify }}">{{ tag }}</h2>
 <ul>
-    {% for post in site.posts %}
-    {% if post.categories contains tag %}
+    {% for post in site.pages %}
+    {% if post.category contains tag %}
     <li>
             <a href="{{ post.url }}">
                 {{ post.title }}
-                &bull; <small>{{ post.date | date_to_string }}</small>
             </a>
     </li>
     {% endif %}

@@ -1,7 +1,7 @@
 ---
 title: {title}
 layout: splash
-image: {image1}
+image: /{image1}
 category: city
 tags:
 - {slug}
@@ -10,8 +10,8 @@ tags:
 
 ## Unsplash
 
-![{title}]({image1})
+![{title}](/{image1})
 
-![{title}]({image2})
+![{title}](/{image2})
 
-![{title}]({image3})
+![{title}](/{image3})

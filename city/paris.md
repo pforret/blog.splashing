@@ -1,7 +1,7 @@
 ---
 title: Paris
 layout: splash
-image: images/city/paris.1.jpg
+image: /images/city/paris.1.jpg
 category: city
 tags:
 - paris
@@ -10,8 +10,8 @@ tags:
 
 ## Unsplash
 
-![Paris](images/city/paris.1.jpg)
+![Paris](/images/city/paris.1.jpg)
 
-![Paris](images/city/paris.2.jpg)
+![Paris](/images/city/paris.2.jpg)
 
-![Paris](images/city/paris.3.jpg)
+![Paris](/images/city/paris.3.jpg)
