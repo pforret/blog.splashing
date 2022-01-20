@@ -16,6 +16,7 @@ function main() {
 
   git add country
   git add city
+  git add sport
   git add images
 
   if [[ "$1" == "push" ]] ; then
