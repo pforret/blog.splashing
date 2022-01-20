@@ -12,9 +12,11 @@
             <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }} {{node.nav}}</a>
           {% endif %}{% endif %}{% endif %}{% endfor %}
     </nav>
-      {% include socials.html %}
+    {% include socials.html %}
+
 
     <p>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret.</p>
+    {% include analytics.html %}
 
   </div>
 </div>
