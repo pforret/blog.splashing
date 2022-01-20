@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Countries
+title: Cities
 ---
 
 <div class="posts">
