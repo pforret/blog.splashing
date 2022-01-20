@@ -10,6 +10,8 @@ tags:
 
 ## Unsplash
 
+These are the 3 most popular photos for 
+
 ![Afghanistan](/images/country/afghanistan.1.jpg)
 
 ![Afghanistan](/images/country/afghanistan.2.jpg)

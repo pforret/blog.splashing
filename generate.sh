@@ -180,6 +180,7 @@ do_city() {
     < "$template" \
       sed "s|{title}|$name|" \
     | sed "s|{slug}|$slug|" \
+    | sed "s|{search}|$search|" \
     | sed "s|{image1}|$image1|" \
     | sed "s|{image2}|$image2|" \
     | sed "s|{image3}|$image3|" \

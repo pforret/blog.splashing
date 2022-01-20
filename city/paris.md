@@ -10,8 +10,12 @@ tags:
 
 ## Unsplash
 
+These are the most popular photos on Unsplash for Paris.
+
 ![Paris](/images/city/paris.1.jpg)
 
 ![Paris](/images/city/paris.2.jpg)
 
 ![Paris](/images/city/paris.3.jpg)
+
+Find even more on [unsplash.com/s/photos/Paris](https://unsplash.com/s/photos/{search})
