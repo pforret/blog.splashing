@@ -1,4 +1,4 @@
-London
-Brussels
-Paris
 Amsterdam
+Brussels
+London
+Paris

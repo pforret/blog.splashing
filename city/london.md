@@ -1,15 +1,17 @@
 ---
 title: London
 layout: splash
-image: images/uploads/demo.jpg
-category: city 
+image: images/city/london.1.jpg
+category: city
 tags:
-- uk
 - london
 ---
-London
-{% include img.html
-src="/images/uploads/demo.jpg"
-description="Demo"
-%}
+# Photos for London
 
+## Unsplash
+
+![London](images/city/london.1.jpg)
+
+![London](images/city/london.2.jpg)
+
+![London](images/city/london.3.jpg)

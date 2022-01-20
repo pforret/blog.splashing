@@ -153,8 +153,39 @@ do_country() {
   }
 
 do_city() {
-  log_to_file "city"
-  # (code)
+  require_binary splashmark "basher install pforret/splashmark"
+  local name
+
+  cat "$input_file" \
+  | while read -r name ;
+  do
+    progress "$name ..."
+    local slug="$(lower_case "${name//[^a-zA-Z]/}")"
+    local search="${name// /+}"
+    local title="${name// /\n}"
+    local output_md="$output_dir/$slug.md"
+    local template="$template_dir/$action.template.md"
+
+    [[ ! -f "$template" ]] && die " Cannot find template $template"
+
+    [[ ! -d "$img_dir/$action" ]] && mkdir -p "$img_dir/$action"
+    progress "$name (photo 1)"
+    image1=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.1.jpg" 1)
+    progress "$name (photo 2)"
+    image2=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.2.jpg" 2)
+    progress "$name (photo 3)"
+    image3=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.3.jpg" 3)
+
+    progress "$name (markdown)"
+    < "$template" \
+      sed "s|{title}|$name|" \
+    | sed "s|{slug}|$slug|" \
+    | sed "s|{image1}|$image1|" \
+    | sed "s|{image2}|$image2|" \
+    | sed "s|{image3}|$image3|" \
+    > "$output_md"
+
+  done
 
 }
 
