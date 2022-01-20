@@ -15,8 +15,7 @@
     {% include socials.html %}
 
 
-    <p>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret.</p>
-    {% include analytics.html %}
-
+    <p><small>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret &bull; <code>v{% include version.html %}</code></small></p>
   </div>
 </div>
+{% include analytics.html %}
