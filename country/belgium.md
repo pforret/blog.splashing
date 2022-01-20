@@ -1,14 +1,14 @@
 ---
-title: Hello World
-layout: post
+title: Belgium
+layout: page
 image: images/uploads/demo.jpg
 categories:
-    - blog
+- country
 tags:
-    - blog
+- belgium
+- europe
 ---
-Just some text
-
+Belgium
 {% include img.html
 src="/images/uploads/demo.jpg"
 description="Demo"
