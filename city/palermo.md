@@ -1,0 +1,21 @@
+---
+title: Palermo
+layout: splash
+image: /images/city/palermo.1.jpg
+category: city
+tags:
+- palermo
+---
+# Photos for Palermo
+
+## Unsplash
+
+These are the most popular photos on [Unsplash](https://unsplash.com) for Palermo.
+
+![Palermo](/images/city/palermo.1.jpg)
+
+![Palermo](/images/city/palermo.2.jpg)
+
+![Palermo](/images/city/palermo.3.jpg)
+
+Find even more on [unsplash.com/s/photos/Palermo](https://unsplash.com/s/photos/Palermo)

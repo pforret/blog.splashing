@@ -1,28 +1,43 @@
 Aalst
+Algarve
 Amsterdam
 Antwerp
 Austin
 Baghdad
 Bangalore
 Bangkok
+Barcelona
+Beirut
 Bejing
 Berlin
 Bogota
+Bordeaux
 Boston
 Brussels
+Bucharest
 Budapest
 Buenos Aires
+Burgas
+Cagliari
 Cairo
 Calcutta
+Catania
 Chicago
 Dallas
 Delhi
 Dhaka
+Dubai
 Dublin
 Dusseldorf
+Firenze
+Formentera
+Genova
 Gent
+Gran Canaria
+Granada
 Hong Kong
 Houston
+Ibiza
 Istanbul
 Jakarta
 Johannesburg
@@ -36,31 +51,45 @@ Lima
 Lissabon
 London
 Los Angeles
+Lyon
 Madrid
+Mallorca
 Manila
+Marseille
 Melbourne
+Messina
 Mexico City
 Miami
 Moscow
 Mumbai
 Nanjing
+Napoli
 New York
 Oostende
 Osaka
 Oslo
+Palermo
 Paris
+Porto
+Rimini
 Rio de Janeiro
+Rome
 San Francisco
 Santiago
 Sao Paulo
 Seoul
+Sevilla
 Shanghai
+Sicily
 Singapore
+Sofia
 Sydney
 Taipei
 Tehran
 Tokyo
+Torino
 Toronto
+Varna
 Vienna
 Vilnius
 Washington
