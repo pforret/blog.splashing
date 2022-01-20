@@ -172,7 +172,7 @@ do_splashmark(){
   local filename="$4"
   local nb="${5:-1}"
   if [[ ! -f $"$filename" ]] ; then
-    splashmark -q -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" unsplash "$keyword" "$filename"
+    splashmark -q -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r FFFB unsplash "$keyword" "$filename"
   else
     echo "$filename"
   fi
