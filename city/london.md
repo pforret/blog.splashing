@@ -18,4 +18,4 @@ These are the most popular photos on Unsplash for London.
 
 ![London](/images/city/london.3.jpg)
 
-Find even more on [unsplash.com/s/photos/London](https://unsplash.com/s/photos/{search})
+Find even more on [unsplash.com/s/photos/London](https://unsplash.com/s/photos/London)

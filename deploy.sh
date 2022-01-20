@@ -18,7 +18,7 @@ function main() {
   git add images
 
   if [[ "$1" == "push" ]] ; then
-    setver autopatch
+    setver auto && setver new patch
   fi
 }
 

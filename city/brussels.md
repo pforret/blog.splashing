@@ -18,4 +18,4 @@ These are the most popular photos on Unsplash for Brussels.
 
 ![Brussels](/images/city/brussels.3.jpg)
 
-Find even more on [unsplash.com/s/photos/Brussels](https://unsplash.com/s/photos/{search})
+Find even more on [unsplash.com/s/photos/Brussels](https://unsplash.com/s/photos/Brussels)
