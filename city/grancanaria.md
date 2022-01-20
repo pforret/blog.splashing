@@ -7,15 +7,18 @@ tags:
 - grancanaria
 ---
 # Photos for Gran Canaria
-
-## Unsplash
-
+ 
+## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for Gran Canaria.
-
+ 
 ![Gran Canaria](/images/city/grancanaria.1.jpg)
-
+Photographer:  Quinten Braem
+ 
 ![Gran Canaria](/images/city/grancanaria.2.jpg)
-
+Photographer:  Miltiadis Fragkidis
+ 
 ![Gran Canaria](/images/city/grancanaria.3.jpg)
-
+Photographer:  Reiseuhu
+ 
 Find even more on [unsplash.com/s/photos/Gran+Canaria](https://unsplash.com/s/photos/Gran+Canaria)
+ 

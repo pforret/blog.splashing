@@ -7,15 +7,18 @@ tags:
 - palau
 ---
 # Photos for Palau
-
-## Unsplash
-
+ 
+## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for Palau.
-
+ 
 ![Palau](/images/country/palau.1.jpg)
-
+Photographer:  Kurt Cotoaga
+ 
 ![Palau](/images/country/palau.2.jpg)
-
+Photographer:  Rene Paulesich
+ 
 ![Palau](/images/country/palau.3.jpg)
-
+Photographer:  Hiroko Yoshii
+ 
 Find even more on [unsplash.com/s/photos/Palau](https://unsplash.com/s/photos/Palau)
+ 

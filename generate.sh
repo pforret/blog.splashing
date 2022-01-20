@@ -41,13 +41,13 @@ main() {
   country)
     #TIP: use «$script_prefix country» to generate country files
     #TIP:> $script_prefix country [input file] [markdown output folder]
-    do_country
+    do_loop
     ;;
 
   city)
     #TIP: use «$script_prefix city» to generate city files
     #TIP:> $script_prefix city [file] [markdown output folder]
-    do_city
+    do_loop
     ;;
 
   check | env)
@@ -114,53 +114,15 @@ main() {
 #    <input>          : [parameter] URL or search term (optional)
 #    <output>         : [parameter] output file (optional)
 
-do_country() {
 
+do_loop() {
   require_binary splashmark "basher install pforret/splashmark"
   local name
 
   cat "$input_file" \
   | while read -r name ;
   do
-    progress "Country: $name ..."
-    local slug="$(lower_case "${name//[^a-zA-Z]/}")"
-    local search="${name// /+}"
-    local title="$(echo "$name" | tr ' ' "\n" )"
-    local output_md="$output_dir/$slug.md"
-    local template="$template_dir/$action.template.md"
-
-    [[ ! -f "$template" ]] && die " Cannot find template $template"
-
-    [[ ! -d "$img_dir/$action" ]] && mkdir -p "$img_dir/$action"
-    progress "Country: $name (photo 1)"
-    image1=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.1.jpg" 1)
-    progress "Country: $name (photo 2)"
-    image2=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.2.jpg" 2)
-    progress "Country: $name (photo 3)"
-    image3=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.3.jpg" 3)
-
-    progress "Country: $name (markdown)"
-    < "$template" \
-      sed "s|{title}|$name|g" \
-    | sed "s|{slug}|$slug|g" \
-    | sed "s|{search}|$search|g" \
-    | sed "s|{image1}|$image1|g" \
-    | sed "s|{image2}|$image2|g" \
-    | sed "s|{image3}|$image3|g" \
-    > "$output_md"
-
-  done
-
-  }
-
-do_city() {
-  require_binary splashmark "basher install pforret/splashmark"
-  local name
-
-  cat "$input_file" \
-  | while read -r name ;
-  do
-    progress "$name ..."
+    progress "Start $name ..."
     local slug="$(lower_case "${name//[^a-zA-Z]/}")"
     local search="${name// /+}"
     local title="$(echo "$name" | tr ' ' "\n" )"
@@ -187,6 +149,18 @@ do_city() {
     | sed "s|{image3}|$image3|g" \
     > "$output_md"
 
+    {
+    echo " "
+    echo "## Unsplash photos"
+    echo "These are the most popular photos on [Unsplash](https://unsplash.com) for $name."
+    echo " "
+    md_photo "$name" "$image1"
+    md_photo "$name" "$image2"
+    md_photo "$name" "$image3"
+    echo "Find even more on [unsplash.com/s/photos/$search](https://unsplash.com/s/photos/$search)"
+    echo " "
+    } >> "$output_md"
+
   done
 
 }
@@ -198,10 +172,21 @@ do_splashmark(){
   local filename="$4"
   local nb="${5:-1}"
   if [[ ! -f $"$filename" ]] ; then
-    splashmark -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" unsplash "$keyword" "$filename"
+    splashmark -q -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" unsplash "$keyword" "$filename"
   else
     echo "$filename"
   fi
+
+}
+
+md_photo(){
+  local title="$1"
+  local filename="$2"
+    echo "![$title](/$filename)"
+    photographer=$(exiftool -Creator "$filename" | cut -d':' -f2)
+    echo "Photographer: $photographer"
+    echo " "
+
 }
 
 #####################################################################

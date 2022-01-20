@@ -7,15 +7,18 @@ tags:
 - cameroon
 ---
 # Photos for Cameroon
-
-## Unsplash
-
+ 
+## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for Cameroon.
-
+ 
 ![Cameroon](/images/country/cameroon.1.jpg)
-
+Photographer:  Edouard TAMBA
+ 
 ![Cameroon](/images/country/cameroon.2.jpg)
-
+Photographer:  Edouard TAMBA
+ 
 ![Cameroon](/images/country/cameroon.3.jpg)
-
+Photographer:  Edouard TAMBA
+ 
 Find even more on [unsplash.com/s/photos/Cameroon](https://unsplash.com/s/photos/Cameroon)
+ 
