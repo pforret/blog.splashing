@@ -4,15 +4,22 @@
 # Copyright 2022 pforret
 
 function main() {
-  jekyll_taxonomy generate category
-  git add category
 
-  jekyll_taxonomy generate tag
+
+#  jekyll_taxonomy generate category
+#  git add category
+
+  jekyll_taxonomy -c -p country generate tag
+#  jekyll_taxonomy -p city generate tag
   git add tag
 
-  git add _posts
+  git add country
+  git add city
   git add images
-  setver autopatch
+
+  if [[ "$1" == "push" ]] ; then
+    setver autopatch
+  fi
 }
 
 main "$@"

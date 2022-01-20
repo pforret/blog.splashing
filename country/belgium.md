@@ -1,16 +1,17 @@
 ---
 title: Belgium
-layout: post
-image: images/uploads/demo.jpg
-categories:
-- country
+layout: splash
+image: /images/country/belgium.1.jpg
+category: country
 tags:
 - belgium
-- europe
 ---
-Belgium
-{% include img.html
-src="/images/uploads/demo.jpg"
-description="Demo"
-%}
+# Photos for Belgium
 
+## Unsplash
+
+![Belgium](/images/country/belgium.1.jpg)
+
+![Belgium](/images/country/belgium.2.jpg)
+
+![Belgium](/images/country/belgium.3.jpg)

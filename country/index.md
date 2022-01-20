@@ -3,17 +3,10 @@ layout: page
 title: Countries
 ---
 
-<div class="posts">
-  {% for post in paginator.pages %}
-  <div class="post">
-    <h1 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h1>
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt }}
-    {% if post.image %}
-    <img src="{{post.image}}">
-    {% endif %}
-    <hr>
-  </div>
-  {% endfor %}
-</div>
+{% for item in site.pages %}
+{% assign categories = item.category | join: "|" %}
 
+{% if categories == "country" %}
+<div style="float:left; width: 50%"><a href="{{ item.url }}"><img src="{{ item.image }}"><br />{{ item.title }}</a></div>
+{%endif%}
+{% endfor %}

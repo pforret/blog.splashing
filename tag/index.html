@@ -2,10 +2,10 @@
 layout: page
 title: Tags
 ---
-{% assign raw_items = site.posts | map: tags  | compact %}
-{% assign raw_items = site.posts | map: tag | concat: raw_items | compact %}
-{% for items in raw_items %}
-    {% assign post_items = items | slugify | join: "|" | downcase | append: "|" %}
+{% assign raw_items = site.pages | map: tags  | compact %}
+{% assign raw_items = site.pages | map: tag | concat: raw_items | compact %}
+{% for item in raw_items %}
+    {% assign post_items = item | slugify | join: "|" | downcase | append: "|" %}
     {% assign all_items  = all_items | append: post_items %}
 {% endfor %}
 {% assign unique_items = all_items | split: "|" | sort | uniq %}
