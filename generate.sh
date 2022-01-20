@@ -50,6 +50,12 @@ main() {
     do_loop
     ;;
 
+  sport)
+    #TIP: use «$script_prefix city» to generate city files
+    #TIP:> $script_prefix city [file] [markdown output folder]
+    do_loop
+    ;;
+
   check | env)
     ## leave this default action, it will make it easier to test your script
     #TIP: use «$script_prefix check» to check if this script is ready to execute and what values the options/flags are
@@ -132,14 +138,14 @@ do_loop() {
     [[ ! -f "$template" ]] && die " Cannot find template $template"
 
     [[ ! -d "$img_dir/$action" ]] && mkdir -p "$img_dir/$action"
-    progress "$name (photo 1)"
+    debug "$name (photo 1)"
     image1=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.1.jpg" 1)
-    progress "$name (photo 2)"
+    debug "$name (photo 2)"
     image2=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.2.jpg" 2)
-    progress "$name (photo 3)"
+    debug "$name (photo 3)"
     image3=$(do_splashmark "$name" "$title" "$search" "$img_dir/$action/$slug.3.jpg" 3)
 
-    progress "$name (markdown)"
+    debug "$name (markdown 1/2)"
     < "$template" \
       sed "s|{title}|$name|g" \
     | sed "s|{slug}|$slug|g" \
@@ -149,10 +155,11 @@ do_loop() {
     | sed "s|{image3}|$image3|g" \
     > "$output_md"
 
+    debug "$name (markdown 2/2)"
     {
     echo " "
     echo "## Unsplash photos"
-    echo "These are the most popular photos on [Unsplash](https://unsplash.com) for $name."
+    echo "These are the most popular photos on [Unsplash](https://unsplash.com) for **$name**."
     echo " "
     md_photo "$name" "$image1"
     md_photo "$name" "$image2"
@@ -172,7 +179,7 @@ do_splashmark(){
   local filename="$4"
   local nb="${5:-1}"
   if [[ ! -f $"$filename" ]] ; then
-    splashmark -q -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r FFFB unsplash "$keyword" "$filename"
+    splashmark -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r FFFB unsplash "$keyword" "$filename"
   else
     echo "$filename"
   fi
@@ -182,10 +189,14 @@ do_splashmark(){
 md_photo(){
   local title="$1"
   local filename="$2"
+  local photographer
+  debug "Start md_photo: [$title] [$filename]"
+  if [[ -n "$filename" ]] ; then
     echo "![$title](/$filename)"
     photographer=$(exiftool -Creator "$filename" | cut -d':' -f2)
     echo "Photographer: $photographer"
     echo " "
+  fi
 
 }
 
