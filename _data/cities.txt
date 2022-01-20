@@ -1,7 +1,14 @@
 Aalst
+Abu Dhabi
+Aleppo
 Algarve
 Amsterdam
+Ankara
+Antalya
 Antwerp
+Athens
+Atlanta
+Auckland
 Austin
 Baghdad
 Bangalore
@@ -10,71 +17,121 @@ Barcelona
 Beirut
 Bejing
 Berlin
+Bodrum
+Bogota
 Bogota
 Bordeaux
 Boston
+Brugge
 Brussels
 Bucharest
 Budapest
 Buenos Aires
 Burgas
+Bursa
 Cagliari
 Cairo
+Cairo
 Calcutta
+Cancun
+Cancún
+Cape Town
+Casablanca
 Catania
+Chennai
 Chicago
+Da Nang
+Dakar
 Dallas
 Delhi
+Detroit
 Dhaka
 Dubai
 Dublin
 Dusseldorf
+Dusseldorf
+Edinburgh
 Firenze
 Formentera
+Frankfurt
+Geneva
 Genova
 Gent
 Gran Canaria
 Granada
+Hamburg
+Hanoi
+Hasselt
+Heraklion
+Ho Chi Minh City
 Hong Kong
+Honolulu
 Houston
 Ibiza
 Istanbul
+Jaipur
 Jakarta
+Jerusalem
 Johannesburg
 Karachi
 Kinshasa
 Kopenhagen
 Kuala Lumpur
+Kyoto
 Lagos
 Lahore
+Las Vegas
+Leuven
 Lima
+Lima
+Lisbon
 Lissabon
 London
 Los Angeles
 Lyon
+Macau
 Madrid
 Mallorca
 Manila
+Manila
+Marrakesh
 Marseille
+Mecca
+Mechelen
+Medina
 Melbourne
 Messina
 Mexico City
 Miami
+Milan
+Montreal
 Moscow
 Mumbai
+Munich
+Nairobi
 Nanjing
 Napoli
 New York
+Nice
 Oostende
+Orlando
 Osaka
 Oslo
 Palermo
 Paris
+Pattaya
+Philadelphia
+Phoenix
+Phuket
 Porto
+Prague
+Rhodos
 Rimini
 Rio de Janeiro
 Rome
+Saint Petersburg
 San Francisco
+San Jose
 Santiago
 Sao Paulo
 Seoul
@@ -83,15 +140,23 @@ Shanghai
 Sicily
 Singapore
 Sofia
+Split
+Stockholm
 Sydney
 Taipei
 Tehran
+Tel Aviv
 Tokyo
 Torino
 Toronto
+Vancouver
 Varna
+Venice
 Vienna
 Vilnius
+Warsaw
 Washington
+Washington D.C.
 Wuhan
 Zagreb
+Zurich
