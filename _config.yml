@@ -1,7 +1,7 @@
-title: New Jekyll site
+title: Splashing Photos
 email: peter@forret.com
 description: Because it's static, baby
-baseurl: "/"
+baseurl: ""
 url: ""
 twitter_username: pforret
 github_username:  pforret
@@ -24,3 +24,5 @@ plugins:
 exclude:
   - hyde
   - .idea/
+  - doc
+  - scripts

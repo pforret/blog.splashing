@@ -1,2 +1,2 @@
-# pforret/jekyll_template
+# Splashing Photos
 
