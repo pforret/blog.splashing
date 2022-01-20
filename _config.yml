@@ -1,7 +1,7 @@
 title: Splashing Photos
 email: peter@forret.com
 description: Because it's static, baby
-baseurl: "https://splashing.forret.com"
+baseurl: "/"
 url: ""
 twitter_username: pforret
 github_username:  pforret
@@ -25,4 +25,3 @@ exclude:
   - hyde
   - .idea/
   - _doc
-  - _scripts
