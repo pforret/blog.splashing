@@ -1,15 +1,16 @@
 ---
 layout: page
-title: tags
+title: Tags
 ---
-{% assign raw_items = site.posts | map: tags  | compact %}
-{% assign raw_items = site.posts | map: tag | concat: raw_items | compact %}
-{% for items in raw_items %}
-    {% assign post_items = items | slugify | join: "|" | downcase | append: "|" %}
-    {% assign all_items  = all_items | append: post_items %}
-{% endfor %}
-{% assign unique_items = all_items | split: "|" | sort | uniq %}
 
-{% for item in unique_items %}
-<li><a id="{{item}}" href="/tag/{{item}}">{{ item }}</a></li>
+{% assign rawtags = "" %}
+{% for post in site.pages %}
+{% assign ttags = post.tags | join:'|' | append:'|' %}
+{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+{% for tag in rawtags %}
+{% if tag != "" %}
+<li><a id="{{ tag }}" href="/tag/{{ tag }}">{{ tag }}</a></li>
+{% endif %}
 {% endfor %}
