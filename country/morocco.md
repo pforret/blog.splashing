@@ -5,6 +5,7 @@ image: /images/country/morocco.1.jpg
 category: country
 tags:
 - morocco
+
 ---
 # Photos for Morocco
  

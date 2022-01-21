@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/vancouver.1.jpg
 category: city
 tags:
-- vancouver
+- canada
+
 ---
 # Photos for Vancouver
  

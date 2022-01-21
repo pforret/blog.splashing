@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/yerevan.1.jpg
 category: city
 tags:
-- yerevan
+
 ---
 # Photos for Yerevan
  

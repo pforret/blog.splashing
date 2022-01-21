@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/algarve.1.jpg
 category: city
 tags:
-- algarve
+- portugal
+
 ---
 # Photos for Algarve
  

@@ -5,6 +5,7 @@ image: /images/country/romania.1.jpg
 category: country
 tags:
 - romania
+
 ---
 # Photos for Romania
  

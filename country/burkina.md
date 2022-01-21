@@ -5,6 +5,7 @@ image: /images/country/burkina.1.jpg
 category: country
 tags:
 - burkina
+
 ---
 # Photos for Burkina
  

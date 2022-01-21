@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/barcelona.1.jpg
 category: city
 tags:
-- barcelona
+- spain
+
 ---
 # Photos for Barcelona
  

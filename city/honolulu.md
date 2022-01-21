@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/honolulu.1.jpg
 category: city
 tags:
-- honolulu
+
 ---
 # Photos for Honolulu
  

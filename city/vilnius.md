@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/vilnius.1.jpg
 category: city
 tags:
-- vilnius
+- lithuania
+
 ---
 # Photos for Vilnius
  

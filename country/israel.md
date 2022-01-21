@@ -5,6 +5,7 @@ image: /images/country/israel.1.jpg
 category: country
 tags:
 - israel
+
 ---
 # Photos for Israel
  

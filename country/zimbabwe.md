@@ -5,6 +5,7 @@ image: /images/country/zimbabwe.1.jpg
 category: country
 tags:
 - zimbabwe
+
 ---
 # Photos for Zimbabwe
  

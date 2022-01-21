@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/icehockey.1.jpg
 category: sport
 tags:
-- icehockey
+
 ---
 # Photos for ice hockey
  

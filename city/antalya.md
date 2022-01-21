@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/antalya.1.jpg
 category: city
 tags:
-- antalya
+- turkey
+
 ---
 # Photos for Antalya
  

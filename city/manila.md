@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/manila.1.jpg
 category: city
 tags:
-- manila
+- philippines
+
 ---
 # Photos for Manila
  

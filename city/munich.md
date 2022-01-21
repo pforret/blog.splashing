@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/munich.1.jpg
 category: city
 tags:
-- munich
+- germany
+
 ---
 # Photos for Munich
  

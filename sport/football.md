@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/football.1.jpg
 category: sport
 tags:
-- football
+
 ---
 # Photos for football
  

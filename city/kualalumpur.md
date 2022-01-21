@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/kualalumpur.1.jpg
 category: city
 tags:
-- kualalumpur
+
 ---
 # Photos for Kuala Lumpur
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/brasilia.1.jpg
 category: city
 tags:
-- brasilia
+- brazil
+
 ---
 # Photos for Brasilia
  

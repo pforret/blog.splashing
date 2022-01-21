@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/rugby.1.jpg
 category: sport
 tags:
-- rugby
+
 ---
 # Photos for rugby
  

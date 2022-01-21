@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/helsinki.1.jpg
 category: city
 tags:
-- helsinki
+- finland
+
 ---
 # Photos for Helsinki
  

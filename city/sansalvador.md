@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/sansalvador.1.jpg
 category: city
 tags:
-- sansalvador
+
 ---
 # Photos for San Salvador
  

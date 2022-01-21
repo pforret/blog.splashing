@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/formentera.1.jpg
 category: city
 tags:
-- formentera
+- spain
+
 ---
 # Photos for Formentera
  

@@ -5,6 +5,7 @@ image: /images/country/zambia.1.jpg
 category: country
 tags:
 - zambia
+
 ---
 # Photos for Zambia
  

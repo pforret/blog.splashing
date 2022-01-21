@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/telaviv.1.jpg
 category: city
 tags:
-- telaviv
+- israel
+
 ---
 # Photos for Tel Aviv
  

@@ -5,6 +5,8 @@ image: /images/country/chile.1.jpg
 category: country
 tags:
 - chile
+- south-america
+
 ---
 # Photos for Chile
  

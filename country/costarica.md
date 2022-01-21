@@ -5,6 +5,7 @@ image: /images/country/costarica.1.jpg
 category: country
 tags:
 - costarica
+
 ---
 # Photos for Costa Rica
  

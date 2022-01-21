@@ -5,6 +5,7 @@ image: /images/country/nauru.1.jpg
 category: country
 tags:
 - nauru
+
 ---
 # Photos for Nauru
  

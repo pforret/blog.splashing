@@ -5,6 +5,7 @@ image: /images/country/sweden.1.jpg
 category: country
 tags:
 - sweden
+
 ---
 # Photos for Sweden
  

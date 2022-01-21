@@ -5,6 +5,7 @@ image: /images/country/tanzania.1.jpg
 category: country
 tags:
 - tanzania
+
 ---
 # Photos for Tanzania
  

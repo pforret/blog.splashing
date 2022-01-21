@@ -5,6 +5,7 @@ image: /images/country/guatemala.1.jpg
 category: country
 tags:
 - guatemala
+
 ---
 # Photos for Guatemala
  

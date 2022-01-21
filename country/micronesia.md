@@ -5,6 +5,7 @@ image: /images/country/micronesia.1.jpg
 category: country
 tags:
 - micronesia
+
 ---
 # Photos for Micronesia
  

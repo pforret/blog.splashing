@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/sarajevo.1.jpg
 category: city
 tags:
-- sarajevo
+
 ---
 # Photos for Sarajevo
  

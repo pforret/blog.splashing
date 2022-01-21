@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/shanghai.1.jpg
 category: city
 tags:
-- shanghai
+
 ---
 # Photos for Shanghai
  

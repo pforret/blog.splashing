@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/palermo.1.jpg
 category: city
 tags:
-- palermo
+- italy
+- sicily
+
 ---
 # Photos for Palermo
  

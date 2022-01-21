@@ -5,6 +5,9 @@ image: /images/country/france.1.jpg
 category: country
 tags:
 - france
+- europe
+- eu
+
 ---
 # Photos for France
  

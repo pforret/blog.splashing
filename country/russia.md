@@ -5,6 +5,7 @@ image: /images/country/russia.1.jpg
 category: country
 tags:
 - russia
+
 ---
 # Photos for Russia
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/tennis.1.jpg
 category: sport
 tags:
-- tennis
+
 ---
 # Photos for tennis
  

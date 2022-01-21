@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/london.1.jpg
 category: city
 tags:
-- london
+- uk
+
 ---
 # Photos for London
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/golf.1.jpg
 category: sport
 tags:
-- golf
+
 ---
 # Photos for golf
  

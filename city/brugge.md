@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/brugge.1.jpg
 category: city
 tags:
-- brugge
+- belgium
+
 ---
 # Photos for Brugge
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/archery.1.jpg
 category: sport
 tags:
-- archery
+
 ---
 # Photos for archery
  

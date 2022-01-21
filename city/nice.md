@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/nice.1.jpg
 category: city
 tags:
-- nice
+- france
+
 ---
 # Photos for Nice
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/sport/judo.1.jpg
 category: sport
 tags:
-- judo
+- martial arts
+
 ---
 # Photos for judo
  

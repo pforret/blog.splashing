@@ -5,6 +5,7 @@ image: /images/country/algeria.1.jpg
 category: country
 tags:
 - algeria
+
 ---
 # Photos for Algeria
  

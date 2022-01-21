@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/saintpetersburg.1.jpg
 category: city
 tags:
-- saintpetersburg
+- russia
+
 ---
 # Photos for Saint Petersburg
  

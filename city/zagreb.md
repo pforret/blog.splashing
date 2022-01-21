@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/zagreb.1.jpg
 category: city
 tags:
-- zagreb
+- croatia
+
 ---
 # Photos for Zagreb
  

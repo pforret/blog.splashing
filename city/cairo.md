@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/cairo.1.jpg
 category: city
 tags:
-- cairo
+- egypt
+
 ---
 # Photos for Cairo
  

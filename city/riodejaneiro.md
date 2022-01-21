@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/riodejaneiro.1.jpg
 category: city
 tags:
-- riodejaneiro
+- brasil
+
 ---
 # Photos for Rio de Janeiro
  

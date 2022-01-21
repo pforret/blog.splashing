@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/fencing.1.jpg
 category: sport
 tags:
-- fencing
+
 ---
 # Photos for fencing
  

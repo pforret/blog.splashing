@@ -5,6 +5,7 @@ image: /images/country/poland.1.jpg
 category: country
 tags:
 - poland
+
 ---
 # Photos for Poland
  

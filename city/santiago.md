@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/santiago.1.jpg
 category: city
 tags:
-- santiago
+- chile
+
 ---
 # Photos for Santiago
  

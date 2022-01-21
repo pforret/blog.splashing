@@ -5,6 +5,7 @@ image: /images/country/thailand.1.jpg
 category: country
 tags:
 - thailand
+
 ---
 # Photos for Thailand
  

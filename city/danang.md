@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/danang.1.jpg
 category: city
 tags:
-- danang
+
 ---
 # Photos for Da Nang
  

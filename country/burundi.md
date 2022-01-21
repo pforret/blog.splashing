@@ -5,6 +5,7 @@ image: /images/country/burundi.1.jpg
 category: country
 tags:
 - burundi
+
 ---
 # Photos for Burundi
  

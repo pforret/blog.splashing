@@ -5,6 +5,7 @@ image: /images/country/uruguay.1.jpg
 category: country
 tags:
 - uruguay
+
 ---
 # Photos for Uruguay
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/rowing.1.jpg
 category: sport
 tags:
-- rowing
+
 ---
 # Photos for rowing
  

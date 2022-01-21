@@ -5,6 +5,7 @@ image: /images/country/nicaragua.1.jpg
 category: country
 tags:
 - nicaragua
+
 ---
 # Photos for Nicaragua
  

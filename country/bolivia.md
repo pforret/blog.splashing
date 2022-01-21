@@ -5,6 +5,7 @@ image: /images/country/bolivia.1.jpg
 category: country
 tags:
 - bolivia
+
 ---
 # Photos for Bolivia
  

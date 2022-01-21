@@ -5,6 +5,7 @@ image: /images/country/namibia.1.jpg
 category: country
 tags:
 - namibia
+
 ---
 # Photos for Namibia
  

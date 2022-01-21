@@ -5,6 +5,7 @@ image: /images/country/gambia.1.jpg
 category: country
 tags:
 - gambia
+
 ---
 # Photos for Gambia
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/marseille.1.jpg
 category: city
 tags:
-- marseille
+- france
+
 ---
 # Photos for Marseille
  

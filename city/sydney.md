@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/sydney.1.jpg
 category: city
 tags:
-- sydney
+- australia
+
 ---
 # Photos for Sydney
  

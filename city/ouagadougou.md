@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/ouagadougou.1.jpg
 category: city
 tags:
-- ouagadougou
+
 ---
 # Photos for Ouagadougou
  

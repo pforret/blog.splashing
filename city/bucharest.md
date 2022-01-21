@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/bucharest.1.jpg
 category: city
 tags:
-- bucharest
+- romania
+
 ---
 # Photos for Bucharest
  

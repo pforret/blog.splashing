@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/calcutta.1.jpg
 category: city
 tags:
-- calcutta
+- india
+
 ---
 # Photos for Calcutta
  

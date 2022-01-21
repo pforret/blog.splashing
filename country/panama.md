@@ -5,6 +5,7 @@ image: /images/country/panama.1.jpg
 category: country
 tags:
 - panama
+
 ---
 # Photos for Panama
  

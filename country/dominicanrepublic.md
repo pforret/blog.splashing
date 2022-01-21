@@ -5,6 +5,7 @@ image: /images/country/dominicanrepublic.1.jpg
 category: country
 tags:
 - dominicanrepublic
+
 ---
 # Photos for Dominican Republic
  

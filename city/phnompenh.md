@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/phnompenh.1.jpg
 category: city
 tags:
-- phnompenh
+
 ---
 # Photos for Phnom Penh
  

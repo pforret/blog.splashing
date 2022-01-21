@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/kayak.1.jpg
 category: sport
 tags:
-- kayak
+
 ---
 # Photos for kayak
  

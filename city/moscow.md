@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/moscow.1.jpg
 category: city
 tags:
-- moscow
+- russia
+
 ---
 # Photos for Moscow
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/nanjing.1.jpg
 category: city
 tags:
-- nanjing
+
 ---
 # Photos for Nanjing
  

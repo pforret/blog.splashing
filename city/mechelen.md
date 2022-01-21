@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/mechelen.1.jpg
 category: city
 tags:
-- mechelen
+- belgium
+
 ---
 # Photos for Mechelen
  

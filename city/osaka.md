@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/osaka.1.jpg
 category: city
 tags:
-- osaka
+- japan
+
 ---
 # Photos for Osaka
  

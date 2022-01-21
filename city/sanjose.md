@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/sanjose.1.jpg
 category: city
 tags:
-- sanjose
+- california
+- usa
+
 ---
 # Photos for San Jose
  

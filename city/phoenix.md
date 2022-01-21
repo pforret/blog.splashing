@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/phoenix.1.jpg
 category: city
 tags:
-- phoenix
+
 ---
 # Photos for Phoenix
  

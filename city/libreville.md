@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/libreville.1.jpg
 category: city
 tags:
-- libreville
+
 ---
 # Photos for Libreville
  

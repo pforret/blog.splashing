@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/brazzaville.1.jpg
 category: city
 tags:
-- brazzaville
+
 ---
 # Photos for Brazzaville
  

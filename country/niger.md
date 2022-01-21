@@ -5,6 +5,7 @@ image: /images/country/niger.1.jpg
 category: country
 tags:
 - niger
+
 ---
 # Photos for Niger
  

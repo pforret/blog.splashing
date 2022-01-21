@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/sicily.1.jpg
 category: city
 tags:
-- sicily
+- italy
+
 ---
 # Photos for Sicily
  

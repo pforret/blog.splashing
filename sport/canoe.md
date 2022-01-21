@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/canoe.1.jpg
 category: sport
 tags:
-- canoe
+
 ---
 # Photos for canoe
  

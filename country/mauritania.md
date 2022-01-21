@@ -5,6 +5,7 @@ image: /images/country/mauritania.1.jpg
 category: country
 tags:
 - mauritania
+
 ---
 # Photos for Mauritania
  

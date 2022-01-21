@@ -5,6 +5,8 @@ image: /images/country/congo.1.jpg
 category: country
 tags:
 - congo
+- africa
+
 ---
 # Photos for Congo
  

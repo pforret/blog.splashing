@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/aleppo.1.jpg
 category: city
 tags:
-- aleppo
+
 ---
 # Photos for Aleppo
  

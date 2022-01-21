@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/jerusalem.1.jpg
 category: city
 tags:
-- jerusalem
+- israel
+
 ---
 # Photos for Jerusalem
  

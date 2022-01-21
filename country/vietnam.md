@@ -5,6 +5,7 @@ image: /images/country/vietnam.1.jpg
 category: country
 tags:
 - vietnam
+
 ---
 # Photos for Vietnam
  

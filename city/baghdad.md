@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/baghdad.1.jpg
 category: city
 tags:
-- baghdad
+- iraq
+
 ---
 # Photos for Baghdad
  

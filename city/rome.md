@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/rome.1.jpg
 category: city
 tags:
-- rome
+- italy
+
 ---
 # Photos for Rome
  

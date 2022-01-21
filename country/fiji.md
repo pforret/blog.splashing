@@ -5,6 +5,7 @@ image: /images/country/fiji.1.jpg
 category: country
 tags:
 - fiji
+
 ---
 # Photos for Fiji
  

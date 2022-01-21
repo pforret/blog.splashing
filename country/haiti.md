@@ -5,6 +5,7 @@ image: /images/country/haiti.1.jpg
 category: country
 tags:
 - haiti
+
 ---
 # Photos for Haiti
  

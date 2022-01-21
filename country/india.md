@@ -5,6 +5,8 @@ image: /images/country/india.1.jpg
 category: country
 tags:
 - india
+- asia
+
 ---
 # Photos for India
  

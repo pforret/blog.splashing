@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/skateboarding.1.jpg
 category: sport
 tags:
-- skateboarding
+
 ---
 # Photos for skateboarding
  

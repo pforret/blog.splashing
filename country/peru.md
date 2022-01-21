@@ -5,6 +5,7 @@ image: /images/country/peru.1.jpg
 category: country
 tags:
 - peru
+
 ---
 # Photos for Peru
  

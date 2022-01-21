@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/tabletennis.1.jpg
 category: sport
 tags:
-- tabletennis
+
 ---
 # Photos for table tennis
  

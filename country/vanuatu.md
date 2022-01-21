@@ -5,6 +5,7 @@ image: /images/country/vanuatu.1.jpg
 category: country
 tags:
 - vanuatu
+
 ---
 # Photos for Vanuatu
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/seoul.1.jpg
 category: city
 tags:
-- seoul
+- south korea
+
 ---
 # Photos for Seoul
  

@@ -5,6 +5,7 @@ image: /images/country/austria.1.jpg
 category: country
 tags:
 - austria
+
 ---
 # Photos for Austria
  

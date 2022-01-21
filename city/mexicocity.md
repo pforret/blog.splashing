@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/mexicocity.1.jpg
 category: city
 tags:
-- mexicocity
+- mexico
+
 ---
 # Photos for Mexico City
  

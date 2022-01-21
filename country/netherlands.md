@@ -5,6 +5,9 @@ image: /images/country/netherlands.1.jpg
 category: country
 tags:
 - netherlands
+- europe
+- eu
+
 ---
 # Photos for Netherlands
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/frankfurt.1.jpg
 category: city
 tags:
-- frankfurt
+- germany
+
 ---
 # Photos for Frankfurt
  

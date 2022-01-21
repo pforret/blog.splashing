@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/nassau.1.jpg
 category: city
 tags:
-- nassau
+
 ---
 # Photos for Nassau
  

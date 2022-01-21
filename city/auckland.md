@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/auckland.1.jpg
 category: city
 tags:
-- auckland
+
 ---
 # Photos for Auckland
  

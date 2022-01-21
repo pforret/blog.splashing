@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/istanbul.1.jpg
 category: city
 tags:
-- istanbul
+- turkey
+
 ---
 # Photos for Istanbul
  

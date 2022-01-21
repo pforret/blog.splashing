@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/curling.1.jpg
 category: sport
 tags:
-- curling
+
 ---
 # Photos for curling
  

@@ -5,6 +5,7 @@ image: /images/country/bahrain.1.jpg
 category: country
 tags:
 - bahrain
+
 ---
 # Photos for Bahrain
  

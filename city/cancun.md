@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/cancun.1.jpg
 category: city
 tags:
-- cancun
+- mexico
+
 ---
 # Photos for Cancun
  

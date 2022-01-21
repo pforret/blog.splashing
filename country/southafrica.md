@@ -5,6 +5,7 @@ image: /images/country/southafrica.1.jpg
 category: country
 tags:
 - southafrica
+
 ---
 # Photos for South Africa
  

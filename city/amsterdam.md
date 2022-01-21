@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/amsterdam.1.jpg
 category: city
 tags:
-- amsterdam
+- netherlands
+
 ---
 # Photos for Amsterdam
  

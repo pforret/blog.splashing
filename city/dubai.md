@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/dubai.1.jpg
 category: city
 tags:
-- dubai
+- uae
+
 ---
 # Photos for Dubai
  

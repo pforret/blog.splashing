@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/pattaya.1.jpg
 category: city
 tags:
-- pattaya
+
 ---
 # Photos for Pattaya
  

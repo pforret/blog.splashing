@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/triathlon.1.jpg
 category: sport
 tags:
-- triathlon
+
 ---
 # Photos for triathlon
  

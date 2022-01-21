@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/belfast.1.jpg
 category: city
 tags:
-- belfast
+- uk
+- northern-ireland
+
 ---
 # Photos for Belfast
  

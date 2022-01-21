@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/oslo.1.jpg
 category: city
 tags:
-- oslo
+- norway
+
 ---
 # Photos for Oslo
  

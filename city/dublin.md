@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/dublin.1.jpg
 category: city
 tags:
-- dublin
+- ireland
+
 ---
 # Photos for Dublin
  

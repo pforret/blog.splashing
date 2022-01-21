@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/canberra.1.jpg
 category: city
 tags:
-- canberra
+- australia
+
 ---
 # Photos for Canberra
  

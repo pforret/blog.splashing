@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/prague.1.jpg
 category: city
 tags:
-- prague
+- czech republic
+
 ---
 # Photos for Prague
  

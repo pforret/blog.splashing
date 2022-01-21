@@ -5,6 +5,10 @@ image: /images/country/denmark.1.jpg
 category: country
 tags:
 - denmark
+- europe
+- eu
+- scandinavia
+
 ---
 # Photos for Denmark
  

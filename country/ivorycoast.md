@@ -5,6 +5,7 @@ image: /images/country/ivorycoast.1.jpg
 category: country
 tags:
 - ivorycoast
+
 ---
 # Photos for Ivory Coast
  

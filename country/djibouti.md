@@ -5,6 +5,7 @@ image: /images/country/djibouti.1.jpg
 category: country
 tags:
 - djibouti
+
 ---
 # Photos for Djibouti
  

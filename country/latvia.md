@@ -5,6 +5,7 @@ image: /images/country/latvia.1.jpg
 category: country
 tags:
 - latvia
+
 ---
 # Photos for Latvia
  

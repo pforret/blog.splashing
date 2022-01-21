@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/tallinn.1.jpg
 category: city
 tags:
-- tallinn
+
 ---
 # Photos for Tallinn
  

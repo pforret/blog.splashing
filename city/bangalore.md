@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/bangalore.1.jpg
 category: city
 tags:
-- bangalore
+
 ---
 # Photos for Bangalore
  

@@ -5,6 +5,7 @@ image: /images/country/laos.1.jpg
 category: country
 tags:
 - laos
+
 ---
 # Photos for Laos
  

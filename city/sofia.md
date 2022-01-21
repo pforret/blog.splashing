@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/sofia.1.jpg
 category: city
 tags:
-- sofia
+- bulgaria
+
 ---
 # Photos for Sofia
  

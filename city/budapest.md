@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/budapest.1.jpg
 category: city
 tags:
-- budapest
+- hungary
+
 ---
 # Photos for Budapest
  

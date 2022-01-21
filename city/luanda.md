@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/luanda.1.jpg
 category: city
 tags:
-- luanda
+
 ---
 # Photos for Luanda
  

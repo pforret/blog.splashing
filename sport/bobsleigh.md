@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/bobsleigh.1.jpg
 category: sport
 tags:
-- bobsleigh
+
 ---
 # Photos for bobsleigh
  

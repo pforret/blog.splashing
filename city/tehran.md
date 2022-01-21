@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/tehran.1.jpg
 category: city
 tags:
-- tehran
+- iran
+
 ---
 # Photos for Tehran
  

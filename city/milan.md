@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/milan.1.jpg
 category: city
 tags:
-- milan
+- italy
+
 ---
 # Photos for Milan
  

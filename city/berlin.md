@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/berlin.1.jpg
 category: city
 tags:
-- berlin
+
 ---
 # Photos for Berlin
  

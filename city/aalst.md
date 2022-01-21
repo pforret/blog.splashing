@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/aalst.1.jpg
 category: city
 tags:
-- aalst
+- belgium
+
 ---
 # Photos for Aalst
  

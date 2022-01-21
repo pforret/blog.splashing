@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/bejing.1.jpg
 category: city
 tags:
-- bejing
+- chian
+
 ---
 # Photos for Bejing
  

@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/chicago.1.jpg
 category: city
 tags:
-- chicago
+- illinois
+- usa
+
 ---
 # Photos for Chicago
  

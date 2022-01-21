@@ -5,6 +5,7 @@ image: /images/country/singapore.1.jpg
 category: country
 tags:
 - singapore
+
 ---
 # Photos for Singapore
  

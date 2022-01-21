@@ -5,6 +5,7 @@ image: /images/country/botswana.1.jpg
 category: country
 tags:
 - botswana
+
 ---
 # Photos for Botswana
  

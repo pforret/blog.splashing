@@ -5,6 +5,7 @@ image: /images/country/indonesia.1.jpg
 category: country
 tags:
 - indonesia
+
 ---
 # Photos for Indonesia
  

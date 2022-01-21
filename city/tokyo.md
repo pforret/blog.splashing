@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/tokyo.1.jpg
 category: city
 tags:
-- tokyo
+- japan
+
 ---
 # Photos for Tokyo
  

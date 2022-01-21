@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/montreal.1.jpg
 category: city
 tags:
-- montreal
+
 ---
 # Photos for Montreal
  

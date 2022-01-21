@@ -5,6 +5,7 @@ image: /images/country/guineabissau.1.jpg
 category: country
 tags:
 - guineabissau
+
 ---
 # Photos for Guinea-Bissau
  

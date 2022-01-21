@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/oostende.1.jpg
 category: city
 tags:
-- oostende
+- belgium
+
 ---
 # Photos for Oostende
  

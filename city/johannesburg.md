@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/johannesburg.1.jpg
 category: city
 tags:
-- johannesburg
+- south-africa
+
 ---
 # Photos for Johannesburg
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/pristina.1.jpg
 category: city
 tags:
-- pristina
+
 ---
 # Photos for Pristina
  

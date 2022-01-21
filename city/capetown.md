@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/capetown.1.jpg
 category: city
 tags:
-- capetown
+- south-africa
+
 ---
 # Photos for Cape Town
  

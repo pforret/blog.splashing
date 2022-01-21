@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/burgas.1.jpg
 category: city
 tags:
-- burgas
+- bulgaria
+
 ---
 # Photos for Burgas
  

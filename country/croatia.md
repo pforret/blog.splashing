@@ -5,6 +5,8 @@ image: /images/country/croatia.1.jpg
 category: country
 tags:
 - croatia
+- europe
+
 ---
 # Photos for Croatia
  

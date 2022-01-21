@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/hasselt.1.jpg
 category: city
 tags:
-- hasselt
+- belgium
+
 ---
 # Photos for Hasselt
  

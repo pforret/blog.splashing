@@ -5,6 +5,7 @@ image: /images/country/newzealand.1.jpg
 category: country
 tags:
 - newzealand
+
 ---
 # Photos for New Zealand
  

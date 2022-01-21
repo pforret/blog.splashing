@@ -5,6 +5,7 @@ image: /images/country/seychelles.1.jpg
 category: country
 tags:
 - seychelles
+
 ---
 # Photos for Seychelles
  

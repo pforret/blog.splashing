@@ -5,6 +5,7 @@ image: /images/country/angola.1.jpg
 category: country
 tags:
 - angola
+
 ---
 # Photos for Angola
  

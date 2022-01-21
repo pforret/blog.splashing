@@ -5,6 +5,7 @@ image: /images/country/myanmar.1.jpg
 category: country
 tags:
 - myanmar
+
 ---
 # Photos for Myanmar
  

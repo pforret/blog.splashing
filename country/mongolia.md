@@ -5,6 +5,7 @@ image: /images/country/mongolia.1.jpg
 category: country
 tags:
 - mongolia
+
 ---
 # Photos for Mongolia
  

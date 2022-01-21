@@ -5,6 +5,10 @@ image: /images/country/finland.1.jpg
 category: country
 tags:
 - finland
+- europe
+- eu
+- scandinavia
+
 ---
 # Photos for Finland
  

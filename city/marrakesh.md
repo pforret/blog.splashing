@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/marrakesh.1.jpg
 category: city
 tags:
-- marrakesh
+- morocco
+
 ---
 # Photos for Marrakesh
  

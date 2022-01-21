@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/rimini.1.jpg
 category: city
 tags:
-- rimini
+
 ---
 # Photos for Rimini
  

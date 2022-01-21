@@ -5,6 +5,7 @@ image: /images/country/kiribati.1.jpg
 category: country
 tags:
 - kiribati
+
 ---
 # Photos for Kiribati
  

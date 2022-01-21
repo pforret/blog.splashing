@@ -5,6 +5,8 @@ image: /images/country/chad.1.jpg
 category: country
 tags:
 - chad
+- africa
+
 ---
 # Photos for Chad
  

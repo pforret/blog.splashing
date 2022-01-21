@@ -5,6 +5,7 @@ image: /images/country/turkey.1.jpg
 category: country
 tags:
 - turkey
+
 ---
 # Photos for Turkey
  

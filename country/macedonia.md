@@ -5,6 +5,8 @@ image: /images/country/macedonia.1.jpg
 category: country
 tags:
 - macedonia
+- europe
+
 ---
 # Photos for Macedonia
  

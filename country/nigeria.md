@@ -5,6 +5,7 @@ image: /images/country/nigeria.1.jpg
 category: country
 tags:
 - nigeria
+
 ---
 # Photos for Nigeria
  

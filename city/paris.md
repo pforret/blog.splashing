@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/paris.1.jpg
 category: city
 tags:
-- paris
+- france
+
 ---
 # Photos for Paris
  

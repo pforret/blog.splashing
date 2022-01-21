@@ -5,6 +5,7 @@ image: /images/country/serbia.1.jpg
 category: country
 tags:
 - serbia
+
 ---
 # Photos for Serbia
  

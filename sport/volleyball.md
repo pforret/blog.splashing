@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/volleyball.1.jpg
 category: sport
 tags:
-- volleyball
+
 ---
 # Photos for volleyball
  

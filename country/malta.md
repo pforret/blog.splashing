@@ -5,6 +5,7 @@ image: /images/country/malta.1.jpg
 category: country
 tags:
 - malta
+
 ---
 # Photos for Malta
  

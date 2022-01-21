@@ -5,6 +5,9 @@ image: /images/country/hungary.1.jpg
 category: country
 tags:
 - hungary
+- europe
+- eu
+
 ---
 # Photos for Hungary
  

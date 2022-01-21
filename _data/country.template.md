@@ -1,9 +1,10 @@
 ---
 title: {title}
 layout: splash
-image: /{image1}
-category: country
+image: {image}
+category: {topic}
 tags:
 - {slug}
+{tags}
 ---
 # Photos for {title}

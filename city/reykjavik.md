@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/reykjavik.1.jpg
 category: city
 tags:
-- reykjavik
+- iceland
+
 ---
 # Photos for Reykjavik
  

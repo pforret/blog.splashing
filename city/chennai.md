@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/chennai.1.jpg
 category: city
 tags:
-- chennai
+
 ---
 # Photos for Chennai
  

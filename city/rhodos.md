@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/rhodos.1.jpg
 category: city
 tags:
-- rhodos
+- greec
+
 ---
 # Photos for Rhodos
  

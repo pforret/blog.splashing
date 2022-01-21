@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/wrestling.1.jpg
 category: sport
 tags:
-- wrestling
+
 ---
 # Photos for wrestling
  

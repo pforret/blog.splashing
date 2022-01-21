@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/bmx.1.jpg
 category: sport
 tags:
-- bmx
+
 ---
 # Photos for bmx
  

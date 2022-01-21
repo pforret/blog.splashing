@@ -5,6 +5,7 @@ image: /images/country/canada.1.jpg
 category: country
 tags:
 - canada
+
 ---
 # Photos for Canada
  

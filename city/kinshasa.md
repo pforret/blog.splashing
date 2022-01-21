@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/kinshasa.1.jpg
 category: city
 tags:
-- kinshasa
+- congo
+
 ---
 # Photos for Kinshasa
  

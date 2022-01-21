@@ -5,6 +5,7 @@ image: /images/country/malawi.1.jpg
 category: country
 tags:
 - malawi
+
 ---
 # Photos for Malawi
  

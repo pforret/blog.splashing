@@ -5,6 +5,9 @@ image: /images/country/bulgaria.1.jpg
 category: country
 tags:
 - bulgaria
+- europe
+- eu
+
 ---
 # Photos for Bulgaria
  

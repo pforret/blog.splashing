@@ -5,6 +5,7 @@ image: /images/country/ghana.1.jpg
 category: country
 tags:
 - ghana
+
 ---
 # Photos for Ghana
  

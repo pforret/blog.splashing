@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/hochiminhcity.1.jpg
 category: city
 tags:
-- hochiminhcity
+
 ---
 # Photos for Ho Chi Minh City
  

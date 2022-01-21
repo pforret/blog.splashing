@@ -5,6 +5,7 @@ image: /images/country/kazakhstan.1.jpg
 category: country
 tags:
 - kazakhstan
+
 ---
 # Photos for Kazakhstan
  

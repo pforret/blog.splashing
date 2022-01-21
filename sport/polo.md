@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/polo.1.jpg
 category: sport
 tags:
-- polo
+
 ---
 # Photos for polo
  

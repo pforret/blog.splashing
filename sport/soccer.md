@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/soccer.1.jpg
 category: sport
 tags:
-- soccer
+
 ---
 # Photos for soccer
  

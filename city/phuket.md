@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/phuket.1.jpg
 category: city
 tags:
-- phuket
+
 ---
 # Photos for Phuket
  

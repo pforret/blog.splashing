@@ -5,6 +5,7 @@ image: /images/country/vaticancity.1.jpg
 category: country
 tags:
 - vaticancity
+
 ---
 # Photos for Vatican City
  

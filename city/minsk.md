@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/minsk.1.jpg
 category: city
 tags:
-- minsk
+
 ---
 # Photos for Minsk
  

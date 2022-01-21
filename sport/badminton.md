@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/badminton.1.jpg
 category: sport
 tags:
-- badminton
+
 ---
 # Photos for badminton
  

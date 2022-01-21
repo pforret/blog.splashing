@@ -5,6 +5,8 @@ image: /images/country/ethiopia.1.jpg
 category: country
 tags:
 - ethiopia
+- africa
+
 ---
 # Photos for Ethiopia
  

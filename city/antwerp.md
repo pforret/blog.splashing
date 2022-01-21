@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/antwerp.1.jpg
 category: city
 tags:
-- antwerp
+- belgium
+
 ---
 # Photos for Antwerp
  

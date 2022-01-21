@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/surfing.1.jpg
 category: sport
 tags:
-- surfing
+
 ---
 # Photos for surfing
  

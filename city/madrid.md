@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/madrid.1.jpg
 category: city
 tags:
-- madrid
+- spain
+
 ---
 # Photos for Madrid
  

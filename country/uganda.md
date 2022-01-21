@@ -5,6 +5,7 @@ image: /images/country/uganda.1.jpg
 category: country
 tags:
 - uganda
+
 ---
 # Photos for Uganda
  

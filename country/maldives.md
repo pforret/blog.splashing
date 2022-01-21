@@ -5,6 +5,7 @@ image: /images/country/maldives.1.jpg
 category: country
 tags:
 - maldives
+
 ---
 # Photos for Maldives
  

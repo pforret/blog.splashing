@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/mumbai.1.jpg
 category: city
 tags:
-- mumbai
+- india
+
 ---
 # Photos for Mumbai
  

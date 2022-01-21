@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/washington.1.jpg
 category: city
 tags:
-- washington
+
 ---
 # Photos for Washington
  

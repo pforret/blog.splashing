@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/climbing.1.jpg
 category: sport
 tags:
-- climbing
+
 ---
 # Photos for climbing
  

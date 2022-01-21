@@ -5,6 +5,7 @@ image: /images/country/rwanda.1.jpg
 category: country
 tags:
 - rwanda
+
 ---
 # Photos for Rwanda
  

@@ -5,6 +5,7 @@ image: /images/country/mexico.1.jpg
 category: country
 tags:
 - mexico
+
 ---
 # Photos for Mexico
  

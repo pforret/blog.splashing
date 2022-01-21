@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/panamacity.1.jpg
 category: city
 tags:
-- panamacity
+
 ---
 # Photos for Panama City
  

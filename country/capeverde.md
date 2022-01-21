@@ -5,6 +5,7 @@ image: /images/country/capeverde.1.jpg
 category: country
 tags:
 - capeverde
+
 ---
 # Photos for Cape Verde
  

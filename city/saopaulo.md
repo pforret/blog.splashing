@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/saopaulo.1.jpg
 category: city
 tags:
-- saopaulo
+- brasil
+
 ---
 # Photos for Sao Paulo
  

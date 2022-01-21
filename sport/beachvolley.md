@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/beachvolley.1.jpg
 category: sport
 tags:
-- beachvolley
+
 ---
 # Photos for beach-volley
  

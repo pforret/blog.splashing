@@ -5,6 +5,9 @@ image: /images/country/belgium.1.jpg
 category: country
 tags:
 - belgium
+- europe
+- eu
+
 ---
 # Photos for Belgium
  

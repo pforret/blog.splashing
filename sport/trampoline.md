@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/trampoline.1.jpg
 category: sport
 tags:
-- trampoline
+
 ---
 # Photos for trampoline
  

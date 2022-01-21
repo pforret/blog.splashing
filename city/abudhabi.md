@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/abudhabi.1.jpg
 category: city
 tags:
-- abudhabi
+
 ---
 # Photos for Abu Dhabi
  

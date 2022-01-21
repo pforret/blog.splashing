@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/padel.1.jpg
 category: sport
 tags:
-- padel
+
 ---
 # Photos for padel
  

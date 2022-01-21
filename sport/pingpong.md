@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/pingpong.1.jpg
 category: sport
 tags:
-- pingpong
+
 ---
 # Photos for ping-pong
  

@@ -5,6 +5,7 @@ image: /images/country/eritrea.1.jpg
 category: country
 tags:
 - eritrea
+
 ---
 # Photos for Eritrea
  

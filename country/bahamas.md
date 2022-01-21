@@ -5,6 +5,7 @@ image: /images/country/bahamas.1.jpg
 category: country
 tags:
 - bahamas
+
 ---
 # Photos for Bahamas
  

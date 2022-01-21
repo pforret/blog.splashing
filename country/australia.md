@@ -5,6 +5,7 @@ image: /images/country/australia.1.jpg
 category: country
 tags:
 - australia
+
 ---
 # Photos for Australia
  

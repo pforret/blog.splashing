@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/skopje.1.jpg
 category: city
 tags:
-- skopje
+
 ---
 # Photos for Skopje
  

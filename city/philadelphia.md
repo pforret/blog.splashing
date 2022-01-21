@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/philadelphia.1.jpg
 category: city
 tags:
-- philadelphia
+
 ---
 # Photos for Philadelphia
  

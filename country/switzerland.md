@@ -5,6 +5,7 @@ image: /images/country/switzerland.1.jpg
 category: country
 tags:
 - switzerland
+
 ---
 # Photos for Switzerland
  

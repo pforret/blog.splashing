@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/newyork.1.jpg
 category: city
 tags:
-- newyork
+- usa
+
 ---
 # Photos for New York
  

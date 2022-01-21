@@ -5,6 +5,7 @@ image: /images/country/mozambique.1.jpg
 category: country
 tags:
 - mozambique
+
 ---
 # Photos for Mozambique
  

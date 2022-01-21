@@ -5,6 +5,9 @@ image: /images/country/greece.1.jpg
 category: country
 tags:
 - greece
+- europe
+- eu
+
 ---
 # Photos for Greece
  

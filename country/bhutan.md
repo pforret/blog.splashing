@@ -5,6 +5,7 @@ image: /images/country/bhutan.1.jpg
 category: country
 tags:
 - bhutan
+
 ---
 # Photos for Bhutan
  

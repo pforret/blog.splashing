@@ -5,6 +5,7 @@ image: /images/country/ecuador.1.jpg
 category: country
 tags:
 - ecuador
+
 ---
 # Photos for Ecuador
  

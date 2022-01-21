@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/running.1.jpg
 category: sport
 tags:
-- running
+
 ---
 # Photos for running
  

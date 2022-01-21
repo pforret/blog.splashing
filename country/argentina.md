@@ -5,6 +5,7 @@ image: /images/country/argentina.1.jpg
 category: country
 tags:
 - argentina
+
 ---
 # Photos for Argentina
  

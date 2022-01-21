@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/karachi.1.jpg
 category: city
 tags:
-- karachi
+
 ---
 # Photos for Karachi
  

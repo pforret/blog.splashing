@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/cycling.1.jpg
 category: sport
 tags:
-- cycling
+
 ---
 # Photos for cycling
  

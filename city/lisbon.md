@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/lisbon.1.jpg
 category: city
 tags:
-- lisbon
+- portugal
+
 ---
 # Photos for Lisbon
  

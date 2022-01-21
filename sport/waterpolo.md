@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/waterpolo.1.jpg
 category: sport
 tags:
-- waterpolo
+
 ---
 # Photos for water polo
  

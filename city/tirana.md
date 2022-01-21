@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/tirana.1.jpg
 category: city
 tags:
-- tirana
+
 ---
 # Photos for Tirana
  

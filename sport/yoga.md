@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/yoga.1.jpg
 category: sport
 tags:
-- yoga
+
 ---
 # Photos for yoga
  

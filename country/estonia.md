@@ -5,6 +5,8 @@ image: /images/country/estonia.1.jpg
 category: country
 tags:
 - estonia
+- europe
+
 ---
 # Photos for Estonia
  

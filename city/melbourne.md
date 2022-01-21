@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/melbourne.1.jpg
 category: city
 tags:
-- melbourne
+- australia
+
 ---
 # Photos for Melbourne
  

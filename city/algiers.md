@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/algiers.1.jpg
 category: city
 tags:
-- algiers
+- algeria
+
 ---
 # Photos for Algiers
  

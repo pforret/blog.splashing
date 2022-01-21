@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/austin.1.jpg
 category: city
 tags:
-- austin
+- usa
+- texas
+
 ---
 # Photos for Austin
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/sardinia.1.jpg
 category: city
 tags:
-- sardinia
+- italy
+
 ---
 # Photos for Sardinia
  

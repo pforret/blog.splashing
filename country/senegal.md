@@ -5,6 +5,7 @@ image: /images/country/senegal.1.jpg
 category: country
 tags:
 - senegal
+
 ---
 # Photos for Senegal
  

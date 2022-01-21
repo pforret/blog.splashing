@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/medina.1.jpg
 category: city
 tags:
-- medina
+
 ---
 # Photos for Medina
  

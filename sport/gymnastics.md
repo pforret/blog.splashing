@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/gymnastics.1.jpg
 category: sport
 tags:
-- gymnastics
+
 ---
 # Photos for gymnastics
  

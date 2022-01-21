@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/brussels.1.jpg
 category: city
 tags:
-- brussels
+- belgium
+
 ---
 # Photos for Brussels
  

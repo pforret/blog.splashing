@@ -5,6 +5,7 @@ image: /images/country/solomonislands.1.jpg
 category: country
 tags:
 - solomonislands
+
 ---
 # Photos for Solomon Islands
  

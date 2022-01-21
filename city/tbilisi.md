@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/tbilisi.1.jpg
 category: city
 tags:
-- tbilisi
+- georgia
+
 ---
 # Photos for Tbilisi
  

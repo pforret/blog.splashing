@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/detroit.1.jpg
 category: city
 tags:
-- detroit
+- michigan
+- usa
+
 ---
 # Photos for Detroit
  

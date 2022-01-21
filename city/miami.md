@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/miami.1.jpg
 category: city
 tags:
-- miami
+- florida
+- usa
+
 ---
 # Photos for Miami
  

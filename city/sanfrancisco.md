@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/sanfrancisco.1.jpg
 category: city
 tags:
-- sanfrancisco
+- california
+- usa
+
 ---
 # Photos for San Francisco
  

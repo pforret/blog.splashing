@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/dakar.1.jpg
 category: city
 tags:
-- dakar
+
 ---
 # Photos for Dakar
  

@@ -5,6 +5,7 @@ image: /images/country/afghanistan.1.jpg
 category: country
 tags:
 - afghanistan
+
 ---
 # Photos for Afghanistan
  

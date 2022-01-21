@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/heraklion.1.jpg
 category: city
 tags:
-- heraklion
+- greece
+
 ---
 # Photos for Heraklion
  

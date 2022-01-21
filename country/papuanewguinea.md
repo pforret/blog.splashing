@@ -5,6 +5,7 @@ image: /images/country/papuanewguinea.1.jpg
 category: country
 tags:
 - papuanewguinea
+
 ---
 # Photos for Papua New Guinea
  

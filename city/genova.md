@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/genova.1.jpg
 category: city
 tags:
-- genova
+- italy
+
 ---
 # Photos for Genova
  

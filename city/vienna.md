@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/vienna.1.jpg
 category: city
 tags:
-- vienna
+- austria
+
 ---
 # Photos for Vienna
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/monrovia.1.jpg
 category: city
 tags:
-- monrovia
+
 ---
 # Photos for Monrovia
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/ibiza.1.jpg
 category: city
 tags:
-- ibiza
+- spain
+
 ---
 # Photos for Ibiza
  

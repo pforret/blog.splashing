@@ -5,6 +5,7 @@ image: /images/country/malaysia.1.jpg
 category: country
 tags:
 - malaysia
+
 ---
 # Photos for Malaysia
  

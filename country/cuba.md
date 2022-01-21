@@ -5,6 +5,7 @@ image: /images/country/cuba.1.jpg
 category: country
 tags:
 - cuba
+
 ---
 # Photos for Cuba
  

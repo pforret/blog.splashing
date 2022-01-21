@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/dallas.1.jpg
 category: city
 tags:
-- dallas
+- texas
+- usa
+
 ---
 # Photos for Dallas
  

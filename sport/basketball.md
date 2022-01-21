@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/basketball.1.jpg
 category: sport
 tags:
-- basketball
+
 ---
 # Photos for basketball
  

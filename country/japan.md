@@ -5,6 +5,7 @@ image: /images/country/japan.1.jpg
 category: country
 tags:
 - japan
+
 ---
 # Photos for Japan
  

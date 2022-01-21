@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/stockholm.1.jpg
 category: city
 tags:
-- stockholm
+- sweden
+
 ---
 # Photos for Stockholm
  

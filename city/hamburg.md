@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/hamburg.1.jpg
 category: city
 tags:
-- hamburg
+- germany
+
 ---
 # Photos for Hamburg
  

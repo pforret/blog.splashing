@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/bangkok.1.jpg
 category: city
 tags:
-- bangkok
+
 ---
 # Photos for Bangkok
  

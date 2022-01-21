@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/warsaw.1.jpg
 category: city
 tags:
-- warsaw
+- poland
+
 ---
 # Photos for Warsaw
  

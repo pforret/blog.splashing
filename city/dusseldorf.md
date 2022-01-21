@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/dusseldorf.1.jpg
 category: city
 tags:
-- dusseldorf
+- germany
+
 ---
 # Photos for Dusseldorf
  

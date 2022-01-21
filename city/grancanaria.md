@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/grancanaria.1.jpg
 category: city
 tags:
-- grancanaria
+- spain
+
 ---
 # Photos for Gran Canaria
  

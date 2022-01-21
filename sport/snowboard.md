@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/snowboard.1.jpg
 category: sport
 tags:
-- snowboard
+
 ---
 # Photos for snowboard
  

@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/catania.1.jpg
 category: city
 tags:
-- catania
+- italy
+- sicily
+
 ---
 # Photos for Catania
  

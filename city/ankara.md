@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/ankara.1.jpg
 category: city
 tags:
-- ankara
+- turkey
+
 ---
 # Photos for Ankara
  

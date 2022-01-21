@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/houston.1.jpg
 category: city
 tags:
-- houston
+- texas
+- usa
+
 ---
 # Photos for Houston
  

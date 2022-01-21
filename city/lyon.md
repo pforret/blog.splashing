@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/lyon.1.jpg
 category: city
 tags:
-- lyon
+- france
+
 ---
 # Photos for Lyon
  

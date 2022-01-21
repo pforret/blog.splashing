@@ -5,6 +5,7 @@ image: /images/country/benin.1.jpg
 category: country
 tags:
 - benin
+
 ---
 # Photos for Benin
  

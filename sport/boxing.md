@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/boxing.1.jpg
 category: sport
 tags:
-- boxing
+
 ---
 # Photos for boxing
  

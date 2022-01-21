@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/quito.1.jpg
 category: city
 tags:
-- quito
+
 ---
 # Photos for Quito
  

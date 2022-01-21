@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/geneva.1.jpg
 category: city
 tags:
-- geneva
+- switzerland
+
 ---
 # Photos for Geneva
  

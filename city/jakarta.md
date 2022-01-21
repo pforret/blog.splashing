@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/jakarta.1.jpg
 category: city
 tags:
-- jakarta
+
 ---
 # Photos for Jakarta
  

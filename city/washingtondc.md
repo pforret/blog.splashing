@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/washingtondc.1.jpg
 category: city
 tags:
-- washingtondc
+
 ---
 # Photos for Washington D.C.
  

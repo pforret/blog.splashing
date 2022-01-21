@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/skiing.1.jpg
 category: sport
 tags:
-- skiing
+
 ---
 # Photos for skiing
  

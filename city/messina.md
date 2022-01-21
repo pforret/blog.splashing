@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/messina.1.jpg
 category: city
 tags:
-- messina
+
 ---
 # Photos for Messina
  

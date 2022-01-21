@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/diving.1.jpg
 category: sport
 tags:
-- diving
+
 ---
 # Photos for diving
  

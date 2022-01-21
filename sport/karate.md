@@ -4,7 +4,8 @@ layout: splash
 image: /images/sport/karate.1.jpg
 category: sport
 tags:
-- karate
+- martial arts
+
 ---
 # Photos for karate
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/bursa.1.jpg
 category: city
 tags:
-- bursa
+- turkey
+
 ---
 # Photos for Bursa
  

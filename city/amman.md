@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/amman.1.jpg
 category: city
 tags:
-- amman
+
 ---
 # Photos for Amman
  

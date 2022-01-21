@@ -5,6 +5,7 @@ image: /images/country/portugal.1.jpg
 category: country
 tags:
 - portugal
+
 ---
 # Photos for Portugal
  

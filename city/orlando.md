@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/orlando.1.jpg
 category: city
 tags:
-- orlando
+- usa
+
 ---
 # Photos for Orlando
  

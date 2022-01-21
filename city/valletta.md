@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/valletta.1.jpg
 category: city
 tags:
-- valletta
+
 ---
 # Photos for Valletta
  

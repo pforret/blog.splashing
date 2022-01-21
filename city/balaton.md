@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/balaton.1.jpg
 category: city
 tags:
-- balaton
+- hungary
+
 ---
 # Photos for Balaton
  

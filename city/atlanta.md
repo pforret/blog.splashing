@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/atlanta.1.jpg
 category: city
 tags:
-- atlanta
+- usa
+- georgia
+
 ---
 # Photos for Atlanta
  

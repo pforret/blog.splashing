@@ -5,6 +5,8 @@ image: /images/country/china.1.jpg
 category: country
 tags:
 - china
+- asia
+
 ---
 # Photos for China
  

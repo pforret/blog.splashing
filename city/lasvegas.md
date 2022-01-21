@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/lasvegas.1.jpg
 category: city
 tags:
-- lasvegas
+- nevada
+- usa
+
 ---
 # Photos for Las Vegas
  

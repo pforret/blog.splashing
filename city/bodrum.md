@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/bodrum.1.jpg
 category: city
 tags:
-- bodrum
+- turkey
+
 ---
 # Photos for Bodrum
  

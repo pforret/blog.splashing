@@ -5,6 +5,7 @@ image: /images/country/mauritius.1.jpg
 category: country
 tags:
 - mauritius
+
 ---
 # Photos for Mauritius
  

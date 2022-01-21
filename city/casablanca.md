@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/casablanca.1.jpg
 category: city
 tags:
-- casablanca
+- morocco
+
 ---
 # Photos for Casablanca
  

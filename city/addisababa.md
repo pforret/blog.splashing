@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/addisababa.1.jpg
 category: city
 tags:
-- addisababa
+
 ---
 # Photos for Addis Ababa
  

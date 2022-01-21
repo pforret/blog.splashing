@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/mecca.1.jpg
 category: city
 tags:
-- mecca
+
 ---
 # Photos for Mecca
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/sevilla.1.jpg
 category: city
 tags:
-- sevilla
+- spain
+
 ---
 # Photos for Sevilla
  

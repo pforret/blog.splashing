@@ -5,6 +5,7 @@ image: /images/country/jamaica.1.jpg
 category: country
 tags:
 - jamaica
+
 ---
 # Photos for Jamaica
  

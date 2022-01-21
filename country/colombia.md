@@ -5,6 +5,8 @@ image: /images/country/colombia.1.jpg
 category: country
 tags:
 - colombia
+- south-america
+
 ---
 # Photos for Colombia
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/kabul.1.jpg
 category: city
 tags:
-- kabul
+
 ---
 # Photos for Kabul
  

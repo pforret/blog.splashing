@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/zurich.1.jpg
 category: city
 tags:
-- zurich
+- switzerland
+
 ---
 # Photos for Zurich
  

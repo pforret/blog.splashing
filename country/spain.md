@@ -5,6 +5,7 @@ image: /images/country/spain.1.jpg
 category: country
 tags:
 - spain
+
 ---
 # Photos for Spain
  

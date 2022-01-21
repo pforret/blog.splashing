@@ -5,6 +5,7 @@ image: /images/country/philippines.1.jpg
 category: country
 tags:
 - philippines
+
 ---
 # Photos for Philippines
  

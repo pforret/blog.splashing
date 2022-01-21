@@ -5,6 +5,7 @@ image: /images/country/madagascar.1.jpg
 category: country
 tags:
 - madagascar
+
 ---
 # Photos for Madagascar
  

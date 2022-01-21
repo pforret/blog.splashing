@@ -5,6 +5,9 @@ image: /images/country/ireland.1.jpg
 category: country
 tags:
 - ireland
+- europe
+- eu
+
 ---
 # Photos for Ireland
  

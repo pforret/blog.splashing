@@ -5,6 +5,9 @@ image: /images/country/germany.1.jpg
 category: country
 tags:
 - germany
+- europe
+- eu
+
 ---
 # Photos for Germany
  

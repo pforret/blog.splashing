@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/napoli.1.jpg
 category: city
 tags:
-- napoli
+- italy
+
 ---
 # Photos for Napoli
  

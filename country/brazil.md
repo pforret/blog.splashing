@@ -5,6 +5,7 @@ image: /images/country/brazil.1.jpg
 category: country
 tags:
 - brazil
+
 ---
 # Photos for Brazil
  

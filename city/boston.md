@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/boston.1.jpg
 category: city
 tags:
-- boston
+- usa
+- massachusetts
+
 ---
 # Photos for Boston
  

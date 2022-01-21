@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/leuven.1.jpg
 category: city
 tags:
-- leuven
+
 ---
 # Photos for Leuven
  

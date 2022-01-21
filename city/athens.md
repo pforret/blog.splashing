@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/athens.1.jpg
 category: city
 tags:
-- athens
+- greece
+
 ---
 # Photos for Athens
  

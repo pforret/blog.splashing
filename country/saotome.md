@@ -5,6 +5,7 @@ image: /images/country/saotome.1.jpg
 category: country
 tags:
 - saotome
+
 ---
 # Photos for Sao Tome
  

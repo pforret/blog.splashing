@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/beirut.1.jpg
 category: city
 tags:
-- beirut
+- lebanon
+
 ---
 # Photos for Beirut
  

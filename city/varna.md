@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/varna.1.jpg
 category: city
 tags:
-- varna
+- bulgaria
+
 ---
 # Photos for Varna
  

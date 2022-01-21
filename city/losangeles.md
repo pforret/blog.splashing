@@ -4,7 +4,9 @@ layout: splash
 image: /images/city/losangeles.1.jpg
 category: city
 tags:
-- losangeles
+- california
+- usa
+
 ---
 # Photos for Los Angeles
  

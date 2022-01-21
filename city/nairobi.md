@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/nairobi.1.jpg
 category: city
 tags:
-- nairobi
+
 ---
 # Photos for Nairobi
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/mallorca.1.jpg
 category: city
 tags:
-- mallorca
+- spain
+
 ---
 # Photos for Mallorca
  

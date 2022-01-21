@@ -5,6 +5,7 @@ image: /images/country/kyrgyzstan.1.jpg
 category: country
 tags:
 - kyrgyzstan
+
 ---
 # Photos for Kyrgyzstan
  

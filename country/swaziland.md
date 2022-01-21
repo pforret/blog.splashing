@@ -5,6 +5,7 @@ image: /images/country/swaziland.1.jpg
 category: country
 tags:
 - swaziland
+
 ---
 # Photos for Swaziland
  

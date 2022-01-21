@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/pilates.1.jpg
 category: sport
 tags:
-- pilates
+
 ---
 # Photos for pilates
  

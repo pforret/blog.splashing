@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/bordeaux.1.jpg
 category: city
 tags:
-- bordeaux
+- france
+
 ---
 # Photos for Bordeaux
  

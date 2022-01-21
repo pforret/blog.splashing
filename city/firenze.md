@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/firenze.1.jpg
 category: city
 tags:
-- firenze
+- italy
+
 ---
 # Photos for Firenze
  

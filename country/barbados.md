@@ -5,6 +5,7 @@ image: /images/country/barbados.1.jpg
 category: country
 tags:
 - barbados
+
 ---
 # Photos for Barbados
  

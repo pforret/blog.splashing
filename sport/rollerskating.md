@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/rollerskating.1.jpg
 category: sport
 tags:
-- rollerskating
+
 ---
 # Photos for rollerskating
  

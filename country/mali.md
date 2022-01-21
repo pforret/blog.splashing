@@ -5,6 +5,7 @@ image: /images/country/mali.1.jpg
 category: country
 tags:
 - mali
+
 ---
 # Photos for Mali
  

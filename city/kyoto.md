@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/kyoto.1.jpg
 category: city
 tags:
-- kyoto
+- japan
+
 ---
 # Photos for Kyoto
  

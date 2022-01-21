@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/mountainbike.1.jpg
 category: sport
 tags:
-- mountainbike
+
 ---
 # Photos for mountain bike
  

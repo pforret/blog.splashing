@@ -5,6 +5,7 @@ image: /images/country/georgia.1.jpg
 category: country
 tags:
 - georgia
+
 ---
 # Photos for Georgia
  

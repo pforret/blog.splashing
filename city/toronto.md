@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/toronto.1.jpg
 category: city
 tags:
-- toronto
+- canada
+
 ---
 # Photos for Toronto
  

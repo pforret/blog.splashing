@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/lima.1.jpg
 category: city
 tags:
-- lima
+
 ---
 # Photos for Lima
  

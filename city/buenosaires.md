@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/buenosaires.1.jpg
 category: city
 tags:
-- buenosaires
+- argentina
+
 ---
 # Photos for Buenos Aires
  

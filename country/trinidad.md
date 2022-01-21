@@ -5,6 +5,7 @@ image: /images/country/trinidad.1.jpg
 category: country
 tags:
 - trinidad
+
 ---
 # Photos for Trinidad
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/macau.1.jpg
 category: city
 tags:
-- macau
+
 ---
 # Photos for Macau
  

@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/gent.1.jpg
 category: city
 tags:
-- gent
+- belgium
+
 ---
 # Photos for Gent
  

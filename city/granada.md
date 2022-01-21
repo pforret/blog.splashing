@@ -4,7 +4,8 @@ layout: splash
 image: /images/city/granada.1.jpg
 category: city
 tags:
-- granada
+- spain
+
 ---
 # Photos for Granada
  

@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/skijumping.1.jpg
 category: sport
 tags:
-- skijumping
+
 ---
 # Photos for ski jumping
  

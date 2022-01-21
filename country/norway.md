@@ -5,6 +5,7 @@ image: /images/country/norway.1.jpg
 category: country
 tags:
 - norway
+
 ---
 # Photos for Norway
  

@@ -5,6 +5,7 @@ image: /images/country/kenya.1.jpg
 category: country
 tags:
 - kenya
+
 ---
 # Photos for Kenya
  

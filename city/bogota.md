@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/bogota.1.jpg
 category: city
 tags:
-- bogota
+
 ---
 # Photos for Bogota
  

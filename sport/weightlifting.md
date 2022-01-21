@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/weightlifting.1.jpg
 category: sport
 tags:
-- weightlifting
+
 ---
 # Photos for weightlifting
  

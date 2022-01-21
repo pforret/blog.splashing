@@ -5,6 +5,7 @@ image: /images/country/belize.1.jpg
 category: country
 tags:
 - belize
+
 ---
 # Photos for Belize
  

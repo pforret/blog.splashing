@@ -4,7 +4,7 @@ layout: splash
 image: /images/city/wuhan.1.jpg
 category: city
 tags:
-- wuhan
+
 ---
 # Photos for Wuhan
  

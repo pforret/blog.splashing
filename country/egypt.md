@@ -5,6 +5,7 @@ image: /images/country/egypt.1.jpg
 category: country
 tags:
 - egypt
+
 ---
 # Photos for Egypt
  

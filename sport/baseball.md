@@ -4,7 +4,7 @@ layout: splash
 image: /images/sport/baseball.1.jpg
 category: sport
 tags:
-- baseball
+
 ---
 # Photos for baseball
  
