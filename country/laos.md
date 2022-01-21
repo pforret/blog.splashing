@@ -9,7 +9,7 @@ tags:
 # Photos for Laos
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Laos.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Laos**.
  
 ![Laos](/images/country/laos.1.jpg)
 Photographer:  Anna Hoch-Kenney

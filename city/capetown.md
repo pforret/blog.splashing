@@ -20,5 +20,5 @@ Photographer:  kylefromthenorth
 ![Cape Town](/images/city/capetown.3.jpg)
 Photographer:  kylefromthenorth
  
-Find even more on [unsplash.com/s/photos/Cape+Town](https://unsplash.com/s/photos/Cape+Town)
+Find even more on [unsplash.com/s/photos/Cape-Town](https://unsplash.com/s/photos/Cape-Town)
  

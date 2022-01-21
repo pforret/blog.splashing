@@ -9,7 +9,7 @@ tags:
 # Photos for Malaysia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Malaysia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Malaysia**.
  
 ![Malaysia](/images/country/malaysia.1.jpg)
 Photographer:  Izuddin Helmi Adnan

@@ -20,5 +20,5 @@ Photographer:  Leonardo Marinho
 ![Rio de Janeiro](/images/city/riodejaneiro.3.jpg)
 Photographer:  Raphael Nogueira
  
-Find even more on [unsplash.com/s/photos/Rio+de+Janeiro](https://unsplash.com/s/photos/Rio+de+Janeiro)
+Find even more on [unsplash.com/s/photos/Rio-de-Janeiro](https://unsplash.com/s/photos/Rio-de-Janeiro)
  

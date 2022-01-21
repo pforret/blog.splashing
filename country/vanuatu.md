@@ -9,7 +9,7 @@ tags:
 # Photos for Vanuatu
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Vanuatu.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Vanuatu**.
  
 ![Vanuatu](/images/country/vanuatu.1.jpg)
 Photographer:  Monika MG

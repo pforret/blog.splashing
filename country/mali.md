@@ -9,7 +9,7 @@ tags:
 # Photos for Mali
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mali.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mali**.
  
 ![Mali](/images/country/mali.1.jpg)
 Photographer:  Jordan McGee

@@ -9,7 +9,7 @@ tags:
 # Photos for Congo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Congo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Congo**.
  
 ![Congo](/images/country/congo.1.jpg)
 Photographer:  Kaysha

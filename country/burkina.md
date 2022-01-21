@@ -9,7 +9,7 @@ tags:
 # Photos for Burkina
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Burkina.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Burkina**.
  
 ![Burkina](/images/country/burkina.1.jpg)
 Photographer:  YODA Adaman

@@ -9,7 +9,7 @@ tags:
 # Photos for Tanzania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Tanzania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Tanzania**.
  
 ![Tanzania](/images/country/tanzania.1.jpg)
 Photographer:  Hu Chen

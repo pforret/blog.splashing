@@ -9,7 +9,7 @@ tags:
 # Photos for Nicaragua
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Nicaragua.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Nicaragua**.
  
 ![Nicaragua](/images/country/nicaragua.1.jpg)
 Photographer:  Tobias Tullius

@@ -20,5 +20,5 @@ Photographer:  Wonderlane
 ![Washington D.C.](/images/city/washingtondc.3.jpg)
 Photographer:  Robert Linder
  
-Find even more on [unsplash.com/s/photos/Washington+D.C.](https://unsplash.com/s/photos/Washington+D.C.)
+Find even more on [unsplash.com/s/photos/Washington-D.C.](https://unsplash.com/s/photos/Washington-D.C.)
  

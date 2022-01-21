@@ -20,5 +20,5 @@ Photographer:  Miltiadis Fragkidis
 ![Gran Canaria](/images/city/grancanaria.3.jpg)
 Photographer:  Reiseuhu
  
-Find even more on [unsplash.com/s/photos/Gran+Canaria](https://unsplash.com/s/photos/Gran+Canaria)
+Find even more on [unsplash.com/s/photos/Gran-Canaria](https://unsplash.com/s/photos/Gran-Canaria)
  

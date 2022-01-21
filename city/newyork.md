@@ -20,5 +20,5 @@ Photographer:  Luca Bravo
 ![New York](/images/city/newyork.3.jpg)
 Photographer:  Michael Discenza
  
-Find even more on [unsplash.com/s/photos/New+York](https://unsplash.com/s/photos/New+York)
+Find even more on [unsplash.com/s/photos/New-York](https://unsplash.com/s/photos/New-York)
  

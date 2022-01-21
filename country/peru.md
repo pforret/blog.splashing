@@ -9,7 +9,7 @@ tags:
 # Photos for Peru
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Peru.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Peru**.
  
 ![Peru](/images/country/peru.1.jpg)
 Photographer:  Willian Justen de Vasconcellos

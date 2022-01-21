@@ -9,7 +9,7 @@ tags:
 # Photos for Belgium
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Belgium.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Belgium**.
  
 ![Belgium](/images/country/belgium.1.jpg)
 Photographer:  Alex Vasey

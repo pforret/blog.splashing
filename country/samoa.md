@@ -9,7 +9,7 @@ tags:
 # Photos for Samoa
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Samoa.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Samoa**.
  
 ![Samoa](/images/country/samoa.1.jpg)
 Photographer:  Ethan Elisara

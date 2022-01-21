@@ -20,5 +20,5 @@ Photographer:  Sébastien Goldberg
 ![Hong Kong](/images/city/hongkong.3.jpg)
 Photographer:  Ryan Mac
  
-Find even more on [unsplash.com/s/photos/Hong+Kong](https://unsplash.com/s/photos/Hong+Kong)
+Find even more on [unsplash.com/s/photos/Hong-Kong](https://unsplash.com/s/photos/Hong-Kong)
  

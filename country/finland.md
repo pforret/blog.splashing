@@ -9,7 +9,7 @@ tags:
 # Photos for Finland
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Finland.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Finland**.
  
 ![Finland](/images/country/finland.1.jpg)
 Photographer:  Tapio Haaja

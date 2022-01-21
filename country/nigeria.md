@@ -9,7 +9,7 @@ tags:
 # Photos for Nigeria
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Nigeria.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Nigeria**.
  
 ![Nigeria](/images/country/nigeria.1.jpg)
 Photographer:  Nupo Deyon Daniel

@@ -20,5 +20,5 @@ Photographer:  Bianca Monteiro
 ![Sao Paulo](/images/city/saopaulo.3.jpg)
 Photographer:  Joao Tzanno
  
-Find even more on [unsplash.com/s/photos/Sao+Paulo](https://unsplash.com/s/photos/Sao+Paulo)
+Find even more on [unsplash.com/s/photos/Sao-Paulo](https://unsplash.com/s/photos/Sao-Paulo)
  

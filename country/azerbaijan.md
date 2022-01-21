@@ -9,7 +9,7 @@ tags:
 # Photos for Azerbaijan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Azerbaijan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Azerbaijan**.
  
 ![Azerbaijan](/images/country/azerbaijan.1.jpg)
 Photographer:  Lloyd Alozie

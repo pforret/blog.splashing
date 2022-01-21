@@ -9,7 +9,7 @@ tags:
 # Photos for Iceland
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Iceland.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Iceland**.
  
 ![Iceland](/images/country/iceland.1.jpg)
 Photographer:  Jonny Auh

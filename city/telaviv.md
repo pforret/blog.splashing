@@ -20,5 +20,5 @@ Photographer:  Adam Jang
 ![Tel Aviv](/images/city/telaviv.3.jpg)
 Photographer:  Shai Pal
  
-Find even more on [unsplash.com/s/photos/Tel+Aviv](https://unsplash.com/s/photos/Tel+Aviv)
+Find even more on [unsplash.com/s/photos/Tel-Aviv](https://unsplash.com/s/photos/Tel-Aviv)
  

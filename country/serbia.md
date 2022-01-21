@@ -9,7 +9,7 @@ tags:
 # Photos for Serbia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Serbia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Serbia**.
  
 ![Serbia](/images/country/serbia.1.jpg)
 Photographer:  Ljubomir Žarković

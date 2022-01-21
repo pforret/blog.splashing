@@ -9,7 +9,7 @@ tags:
 # Photos for Kiribati
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kiribati.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kiribati**.
  
 ![Kiribati](/images/country/kiribati.1.jpg)
 Photographer:  Anna Claire Schellenberg

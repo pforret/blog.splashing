@@ -9,7 +9,7 @@ tags:
 # Photos for Syria
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Syria.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Syria**.
  
 ![Syria](/images/country/syria.1.jpg)
 Photographer:  abd sarakbi

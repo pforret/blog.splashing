@@ -9,7 +9,7 @@ tags:
 # Photos for Canada
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Canada.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Canada**.
  
 ![Canada](/images/country/canada.1.jpg)
 Photographer:  mwangi gatheca

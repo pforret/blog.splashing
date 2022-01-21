@@ -9,7 +9,7 @@ tags:
 # Photos for El Salvador
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for El Salvador.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **El Salvador**.
  
 ![El Salvador](/images/country/elsalvador.1.jpg)
 Photographer:  Oswaldo Martinez
@@ -17,8 +17,8 @@ Photographer:  Oswaldo Martinez
 ![El Salvador](/images/country/elsalvador.2.jpg)
 Photographer:  Mauricio Cuéllar
  
-![El Salvador](/)
-Photographer: 
+![El Salvador](/images/country/elsalvador.3.jpg)
+Photographer:  L'odyssée Belle
  
-Find even more on [unsplash.com/s/photos/El+Salvador](https://unsplash.com/s/photos/El+Salvador)
+Find even more on [unsplash.com/s/photos/El-Salvador](https://unsplash.com/s/photos/El-Salvador)
  

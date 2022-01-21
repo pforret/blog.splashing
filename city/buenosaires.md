@@ -20,5 +20,5 @@ Photographer:  Nicolás Flor
 ![Buenos Aires](/images/city/buenosaires.3.jpg)
 Photographer:  Barbara Zandoval
  
-Find even more on [unsplash.com/s/photos/Buenos+Aires](https://unsplash.com/s/photos/Buenos+Aires)
+Find even more on [unsplash.com/s/photos/Buenos-Aires](https://unsplash.com/s/photos/Buenos-Aires)
  

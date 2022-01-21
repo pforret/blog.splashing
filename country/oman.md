@@ -9,7 +9,7 @@ tags:
 # Photos for Oman
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Oman.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Oman**.
  
 ![Oman](/images/country/oman.1.jpg)
 Photographer:  Anfal Shamsudeen

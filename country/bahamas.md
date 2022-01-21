@@ -9,7 +9,7 @@ tags:
 # Photos for Bahamas
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bahamas.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bahamas**.
  
 ![Bahamas](/images/country/bahamas.1.jpg)
 Photographer:  Cristofer Maximilian

@@ -9,7 +9,7 @@ tags:
 # Photos for Saint Vincent
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Saint Vincent.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Saint Vincent**.
  
 ![Saint Vincent](/images/country/saintvincent.1.jpg)
 Photographer:  Trenton Jones
@@ -20,5 +20,5 @@ Photographer:  Corentin Bruneau
 ![Saint Vincent](/images/country/saintvincent.3.jpg)
 Photographer:  JACQUES BARBARY
  
-Find even more on [unsplash.com/s/photos/Saint+Vincent](https://unsplash.com/s/photos/Saint+Vincent)
+Find even more on [unsplash.com/s/photos/Saint-Vincent](https://unsplash.com/s/photos/Saint-Vincent)
  

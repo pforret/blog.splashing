@@ -9,7 +9,7 @@ tags:
 # Photos for Slovakia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Slovakia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Slovakia**.
  
 ![Slovakia](/images/country/slovakia.1.jpg)
 Photographer:  Martin Katler

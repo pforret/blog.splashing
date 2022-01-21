@@ -9,7 +9,7 @@ tags:
 # Photos for India
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for India.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **India**.
  
 ![India](/images/country/india.1.jpg)
 Photographer:  Julian Yu

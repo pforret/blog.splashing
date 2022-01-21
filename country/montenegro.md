@@ -9,7 +9,7 @@ tags:
 # Photos for Montenegro
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Montenegro.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Montenegro**.
  
 ![Montenegro](/images/country/montenegro.1.jpg)
 Photographer:  Radik Sitdikov

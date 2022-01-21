@@ -9,7 +9,7 @@ tags:
 # Photos for Chad
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Chad.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Chad**.
  
 ![Chad](/images/country/chad.1.jpg)
 Photographer:  USGS

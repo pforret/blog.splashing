@@ -9,7 +9,7 @@ tags:
 # Photos for Lesotho
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lesotho.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lesotho**.
  
 ![Lesotho](/images/country/lesotho.1.jpg)
 Photographer:  Mark Potterton

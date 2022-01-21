@@ -9,7 +9,7 @@ tags:
 # Photos for Pakistan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Pakistan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Pakistan**.
  
 ![Pakistan](/images/country/pakistan.1.jpg)
 Photographer:  Syed Bilal Javaid

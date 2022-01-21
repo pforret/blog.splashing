@@ -9,7 +9,7 @@ tags:
 # Photos for Afghanistan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Afghanistan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Afghanistan**.
  
 ![Afghanistan](/images/country/afghanistan.1.jpg)
 Photographer:  Mohammad Rahmani

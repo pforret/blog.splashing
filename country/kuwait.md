@@ -9,7 +9,7 @@ tags:
 # Photos for Kuwait
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kuwait.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kuwait**.
  
 ![Kuwait](/images/country/kuwait.1.jpg)
 Photographer:  Masrur Rahman

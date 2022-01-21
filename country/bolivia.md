@@ -9,7 +9,7 @@ tags:
 # Photos for Bolivia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bolivia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bolivia**.
  
 ![Bolivia](/images/country/bolivia.1.jpg)
 Photographer:  Alain Bonnardeaux

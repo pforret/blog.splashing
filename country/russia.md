@@ -9,7 +9,7 @@ tags:
 # Photos for Russia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Russia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Russia**.
  
 ![Russia](/images/country/russia.1.jpg)
 Photographer:  Nikolay Vorobyev

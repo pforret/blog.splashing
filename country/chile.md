@@ -9,7 +9,7 @@ tags:
 # Photos for Chile
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Chile.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Chile**.
  
 ![Chile](/images/country/chile.1.jpg)
 Photographer:  Olga Stalska

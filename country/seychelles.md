@@ -9,7 +9,7 @@ tags:
 # Photos for Seychelles
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Seychelles.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Seychelles**.
  
 ![Seychelles](/images/country/seychelles.1.jpg)
 Photographer:  Christian Cacciamani

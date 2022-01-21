@@ -9,7 +9,7 @@ tags:
 # Photos for Kyrgyzstan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kyrgyzstan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kyrgyzstan**.
  
 ![Kyrgyzstan](/images/country/kyrgyzstan.1.jpg)
 Photographer:  Mick Truyts

@@ -9,7 +9,7 @@ tags:
 # Photos for Haiti
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Haiti.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Haiti**.
  
 ![Haiti](/images/country/haiti.1.jpg)
 Photographer:  Claudia Altamimi

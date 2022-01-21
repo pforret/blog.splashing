@@ -9,7 +9,7 @@ tags:
 # Photos for East Timor
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for East Timor.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **East Timor**.
  
 ![East Timor](/images/country/easttimor.1.jpg)
 Photographer:  James Tay
@@ -20,5 +20,5 @@ Photographer:  Trevar Skillicorn-Chilver
 ![East Timor](/images/country/easttimor.3.jpg)
 Photographer:  Randall Meng
  
-Find even more on [unsplash.com/s/photos/East+Timor](https://unsplash.com/s/photos/East+Timor)
+Find even more on [unsplash.com/s/photos/East-Timor](https://unsplash.com/s/photos/East-Timor)
  

@@ -9,7 +9,7 @@ tags:
 # Photos for Armenia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Armenia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Armenia**.
  
 ![Armenia](/images/country/armenia.1.jpg)
 Photographer:  Levon Vardanyan

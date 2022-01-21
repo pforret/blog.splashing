@@ -9,7 +9,7 @@ tags:
 # Photos for Lithuania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lithuania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lithuania**.
  
 ![Lithuania](/images/country/lithuania.1.jpg)
 Photographer:  Igor Gubaidulin

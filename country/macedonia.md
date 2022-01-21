@@ -9,7 +9,7 @@ tags:
 # Photos for Macedonia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Macedonia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Macedonia**.
  
 ![Macedonia](/images/country/macedonia.1.jpg)
 Photographer:  Milana Jovanov

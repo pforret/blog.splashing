@@ -9,7 +9,7 @@ tags:
 # Photos for Croatia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Croatia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Croatia**.
  
 ![Croatia](/images/country/croatia.1.jpg)
 Photographer:  Morgan

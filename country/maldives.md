@@ -9,7 +9,7 @@ tags:
 # Photos for Maldives
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Maldives.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Maldives**.
  
 ![Maldives](/images/country/maldives.1.jpg)
 Photographer:  Ishan @seefromthesky

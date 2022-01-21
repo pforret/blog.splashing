@@ -9,7 +9,7 @@ tags:
 # Photos for Czech Republic
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Czech Republic.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Czech Republic**.
  
 ![Czech Republic](/images/country/czechrepublic.1.jpg)
 Photographer:  Rodrigo Ardilha
@@ -20,5 +20,5 @@ Photographer:  Ouael Ben Salah
 ![Czech Republic](/images/country/czechrepublic.3.jpg)
 Photographer:  Jaromír Kavan
  
-Find even more on [unsplash.com/s/photos/Czech+Republic](https://unsplash.com/s/photos/Czech+Republic)
+Find even more on [unsplash.com/s/photos/Czech-Republic](https://unsplash.com/s/photos/Czech-Republic)
  

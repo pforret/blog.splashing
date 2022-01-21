@@ -9,7 +9,7 @@ tags:
 # Photos for Denmark
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Denmark.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Denmark**.
  
 ![Denmark](/images/country/denmark.1.jpg)
 Photographer:  Nick Karvounis

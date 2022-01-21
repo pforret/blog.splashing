@@ -9,7 +9,7 @@ tags:
 # Photos for Brazil
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Brazil.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Brazil**.
  
 ![Brazil](/images/country/brazil.1.jpg)
 Photographer:  Agustin Diaz Gargiulo

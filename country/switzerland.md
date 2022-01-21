@@ -9,7 +9,7 @@ tags:
 # Photos for Switzerland
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Switzerland.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Switzerland**.
  
 ![Switzerland](/images/country/switzerland.1.jpg)
 Photographer:  Tim Trad

@@ -9,7 +9,7 @@ tags:
 # Photos for Barbados
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Barbados.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Barbados**.
  
 ![Barbados](/images/country/barbados.1.jpg)
 Photographer:  David Cain

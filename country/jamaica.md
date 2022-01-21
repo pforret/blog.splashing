@@ -9,7 +9,7 @@ tags:
 # Photos for Jamaica
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Jamaica.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jamaica**.
  
 ![Jamaica](/images/country/jamaica.1.jpg)
 Photographer:  Yves Alarie

@@ -9,7 +9,7 @@ tags:
 # Photos for Bulgaria
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bulgaria.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bulgaria**.
  
 ![Bulgaria](/images/country/bulgaria.1.jpg)
 Photographer:  Deniz Fuchidzhiev

@@ -9,7 +9,7 @@ tags:
 # Photos for Sudan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Sudan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Sudan**.
  
 ![Sudan](/images/country/sudan.1.jpg)
 Photographer:  Abdulaziz Mohammed

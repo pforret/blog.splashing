@@ -9,7 +9,7 @@ tags:
 # Photos for Mozambique
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mozambique.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mozambique**.
  
 ![Mozambique](/images/country/mozambique.1.jpg)
 Photographer:  Rohan Reddy

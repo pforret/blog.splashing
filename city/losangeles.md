@@ -20,5 +20,5 @@ Photographer:  Sterling Davis
 ![Los Angeles](/images/city/losangeles.3.jpg)
 Photographer:  Jake Blucker
  
-Find even more on [unsplash.com/s/photos/Los+Angeles](https://unsplash.com/s/photos/Los+Angeles)
+Find even more on [unsplash.com/s/photos/Los-Angeles](https://unsplash.com/s/photos/Los-Angeles)
  

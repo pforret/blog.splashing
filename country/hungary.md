@@ -9,7 +9,7 @@ tags:
 # Photos for Hungary
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Hungary.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Hungary**.
  
 ![Hungary](/images/country/hungary.1.jpg)
 Photographer:  Keszthelyi Timi

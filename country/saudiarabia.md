@@ -9,7 +9,7 @@ tags:
 # Photos for Saudi Arabia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Saudi Arabia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Saudi Arabia**.
  
 ![Saudi Arabia](/images/country/saudiarabia.1.jpg)
 Photographer:  Haidan
@@ -20,5 +20,5 @@ Photographer:  ekrem osmanoglu
 ![Saudi Arabia](/images/country/saudiarabia.3.jpg)
 Photographer:  ekrem osmanoglu
  
-Find even more on [unsplash.com/s/photos/Saudi+Arabia](https://unsplash.com/s/photos/Saudi+Arabia)
+Find even more on [unsplash.com/s/photos/Saudi-Arabia](https://unsplash.com/s/photos/Saudi-Arabia)
  

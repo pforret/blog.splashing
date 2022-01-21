@@ -9,7 +9,7 @@ tags:
 # Photos for Luxembourg
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Luxembourg.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Luxembourg**.
  
 ![Luxembourg](/images/country/luxembourg.1.jpg)
 Photographer:  Cedric Letsch

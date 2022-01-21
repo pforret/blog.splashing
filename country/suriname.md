@@ -9,7 +9,7 @@ tags:
 # Photos for Suriname
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Suriname.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Suriname**.
  
 ![Suriname](/images/country/suriname.1.jpg)
 Photographer:  Vincent van Zalinge

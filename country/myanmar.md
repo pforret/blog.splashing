@@ -9,7 +9,7 @@ tags:
 # Photos for Myanmar
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Myanmar.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Myanmar**.
  
 ![Myanmar](/images/country/myanmar.1.jpg)
 Photographer:  Mg Cthu

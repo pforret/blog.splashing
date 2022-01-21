@@ -9,7 +9,7 @@ tags:
 # Photos for Uganda
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Uganda.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Uganda**.
  
 ![Uganda](/images/country/uganda.1.jpg)
 Photographer:  Keith Kasaija

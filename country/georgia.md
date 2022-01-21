@@ -9,7 +9,7 @@ tags:
 # Photos for Georgia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Georgia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Georgia**.
  
 ![Georgia](/images/country/georgia.1.jpg)
 Photographer:  Iman Gozal

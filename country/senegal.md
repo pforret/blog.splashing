@@ -9,7 +9,7 @@ tags:
 # Photos for Senegal
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Senegal.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Senegal**.
  
 ![Senegal](/images/country/senegal.1.jpg)
 Photographer:  Curioso Photography

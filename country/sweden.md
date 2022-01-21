@@ -9,7 +9,7 @@ tags:
 # Photos for Sweden
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Sweden.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Sweden**.
  
 ![Sweden](/images/country/sweden.1.jpg)
 Photographer:  David Becker

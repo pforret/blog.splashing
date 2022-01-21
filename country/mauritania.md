@@ -9,7 +9,7 @@ tags:
 # Photos for Mauritania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mauritania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mauritania**.
  
 ![Mauritania](/images/country/mauritania.1.jpg)
 Photographer:  Daniel Born

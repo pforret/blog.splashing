@@ -9,7 +9,7 @@ tags:
 # Photos for Vatican City
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Vatican City.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Vatican City**.
  
 ![Vatican City](/images/country/vaticancity.1.jpg)
 Photographer:  Caleb Miller
@@ -20,5 +20,5 @@ Photographer:  Alberico Bartoccini
 ![Vatican City](/images/country/vaticancity.3.jpg)
 Photographer:  Jae Park
  
-Find even more on [unsplash.com/s/photos/Vatican+City](https://unsplash.com/s/photos/Vatican+City)
+Find even more on [unsplash.com/s/photos/Vatican-City](https://unsplash.com/s/photos/Vatican-City)
  

@@ -9,7 +9,7 @@ tags:
 # Photos for Uzbekistan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Uzbekistan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Uzbekistan**.
  
 ![Uzbekistan](/images/country/uzbekistan.1.jpg)
 Photographer:  Zuyet Awarmatik

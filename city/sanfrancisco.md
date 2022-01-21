@@ -20,5 +20,5 @@ Photographer:  Joonyeop Baek
 ![San Francisco](/images/city/sanfrancisco.3.jpg)
 Photographer:  Tim Foster
  
-Find even more on [unsplash.com/s/photos/San+Francisco](https://unsplash.com/s/photos/San+Francisco)
+Find even more on [unsplash.com/s/photos/San-Francisco](https://unsplash.com/s/photos/San-Francisco)
  

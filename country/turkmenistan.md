@@ -9,7 +9,7 @@ tags:
 # Photos for Turkmenistan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Turkmenistan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Turkmenistan**.
  
 ![Turkmenistan](/images/country/turkmenistan.1.jpg)
 Photographer:  Ybrayym Esenov

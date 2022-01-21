@@ -20,5 +20,5 @@ Photographer:  carlos aranda
 ![Mexico City](/images/city/mexicocity.3.jpg)
 Photographer:  Carlos Aguilar
  
-Find even more on [unsplash.com/s/photos/Mexico+City](https://unsplash.com/s/photos/Mexico+City)
+Find even more on [unsplash.com/s/photos/Mexico-City](https://unsplash.com/s/photos/Mexico-City)
  

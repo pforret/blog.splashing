@@ -20,5 +20,5 @@ Photographer:  Andrea De Santis
 ![Da Nang](/images/city/danang.3.jpg)
 Photographer:  James Cheung
  
-Find even more on [unsplash.com/s/photos/Da+Nang](https://unsplash.com/s/photos/Da+Nang)
+Find even more on [unsplash.com/s/photos/Da-Nang](https://unsplash.com/s/photos/Da-Nang)
  

@@ -9,7 +9,7 @@ tags:
 # Photos for Solomon Islands
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Solomon Islands.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Solomon Islands**.
  
 ![Solomon Islands](/images/country/solomonislands.1.jpg)
 Photographer:  Gilly Tanabose
@@ -20,5 +20,5 @@ Photographer:  Sahil
 ![Solomon Islands](/images/country/solomonislands.3.jpg)
 Photographer:  Adli Wahid
  
-Find even more on [unsplash.com/s/photos/Solomon+Islands](https://unsplash.com/s/photos/Solomon+Islands)
+Find even more on [unsplash.com/s/photos/Solomon-Islands](https://unsplash.com/s/photos/Solomon-Islands)
  

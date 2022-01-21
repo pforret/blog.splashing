@@ -9,7 +9,7 @@ tags:
 # Photos for Latvia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Latvia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Latvia**.
  
 ![Latvia](/images/country/latvia.1.jpg)
 Photographer:  Ivars Utināns

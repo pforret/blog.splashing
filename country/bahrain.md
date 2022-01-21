@@ -9,7 +9,7 @@ tags:
 # Photos for Bahrain
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bahrain.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bahrain**.
  
 ![Bahrain](/images/country/bahrain.1.jpg)
 Photographer:  Ajmal Shams

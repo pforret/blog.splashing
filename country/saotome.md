@@ -9,7 +9,7 @@ tags:
 # Photos for Sao Tome
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Sao Tome.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Sao Tome**.
  
 ![Sao Tome](/images/country/saotome.1.jpg)
 Photographer:  Felipe Dias
@@ -20,5 +20,5 @@ Photographer:  Eden Constantino
 ![Sao Tome](/images/country/saotome.3.jpg)
 Photographer:  Nha Le
  
-Find even more on [unsplash.com/s/photos/Sao+Tome](https://unsplash.com/s/photos/Sao+Tome)
+Find even more on [unsplash.com/s/photos/Sao-Tome](https://unsplash.com/s/photos/Sao-Tome)
  

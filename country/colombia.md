@@ -9,7 +9,7 @@ tags:
 # Photos for Colombia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Colombia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Colombia**.
  
 ![Colombia](/images/country/colombia.1.jpg)
 Photographer:  Flavia Carpio

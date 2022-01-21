@@ -9,7 +9,7 @@ tags:
 # Photos for Comoros
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Comoros.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Comoros**.
  
 ![Comoros](/images/country/comoros.1.jpg)
 Photographer:  Catherine Malofei

@@ -9,7 +9,7 @@ tags:
 # Photos for Ecuador
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Ecuador.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Ecuador**.
  
 ![Ecuador](/images/country/ecuador.1.jpg)
 Photographer:  Andrés Medina

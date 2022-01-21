@@ -9,7 +9,7 @@ tags:
 # Photos for Thailand
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Thailand.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Thailand**.
  
 ![Thailand](/images/country/thailand.1.jpg)
 Photographer:  Mathew Schwartz

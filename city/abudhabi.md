@@ -20,5 +20,5 @@ Photographer:  David Rodrigo
 ![Abu Dhabi](/images/city/abudhabi.3.jpg)
 Photographer:  Kamil Rogalinski
  
-Find even more on [unsplash.com/s/photos/Abu+Dhabi](https://unsplash.com/s/photos/Abu+Dhabi)
+Find even more on [unsplash.com/s/photos/Abu-Dhabi](https://unsplash.com/s/photos/Abu-Dhabi)
  

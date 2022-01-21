@@ -9,7 +9,7 @@ tags:
 # Photos for Belize
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Belize.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Belize**.
  
 ![Belize](/images/country/belize.1.jpg)
 Photographer:  Meritt Thomas

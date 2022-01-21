@@ -9,7 +9,7 @@ tags:
 # Photos for Kazakhstan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kazakhstan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kazakhstan**.
  
 ![Kazakhstan](/images/country/kazakhstan.1.jpg)
 Photographer:  J B

@@ -9,7 +9,7 @@ tags:
 # Photos for Albania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Albania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Albania**.
  
 ![Albania](/images/country/albania.1.jpg)
 Photographer:  Mark de Jong

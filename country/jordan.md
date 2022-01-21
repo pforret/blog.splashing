@@ -9,7 +9,7 @@ tags:
 # Photos for Jordan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Jordan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jordan**.
  
 ![Jordan](/images/country/jordan.1.jpg)
 Photographer:  Spencer Davis

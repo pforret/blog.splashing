@@ -9,7 +9,7 @@ tags:
 # Photos for Djibouti
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Djibouti.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Djibouti**.
  
 ![Djibouti](/images/country/djibouti.1.jpg)
 Photographer:  Lesly Derksen

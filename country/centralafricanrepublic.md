@@ -9,7 +9,7 @@ tags:
 # Photos for Central African Republic
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Central African Republic.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Central African Republic**.
  
 ![Central African Republic](/images/country/centralafricanrepublic.1.jpg)
 Photographer:  Bayu Syaits
@@ -20,5 +20,5 @@ Photographer:  Mufid Majnun
 ![Central African Republic](/images/country/centralafricanrepublic.3.jpg)
 Photographer:  Emiliano Bar
  
-Find even more on [unsplash.com/s/photos/Central+African+Republic](https://unsplash.com/s/photos/Central+African+Republic)
+Find even more on [unsplash.com/s/photos/Central-African-Republic](https://unsplash.com/s/photos/Central-African-Republic)
  

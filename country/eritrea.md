@@ -9,7 +9,7 @@ tags:
 # Photos for Eritrea
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Eritrea.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Eritrea**.
  
 ![Eritrea](/images/country/eritrea.1.jpg)
 Photographer:  mulugeta wolde

@@ -9,7 +9,7 @@ tags:
 # Photos for Honduras
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Honduras.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Honduras**.
  
 ![Honduras](/images/country/honduras.1.jpg)
 Photographer:  Carlos Zacapa

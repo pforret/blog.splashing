@@ -20,5 +20,5 @@ Photographer:  Hu Chen
 ![Saint Petersburg](/images/city/saintpetersburg.3.jpg)
 Photographer:  Serj Sakharovskiy
  
-Find even more on [unsplash.com/s/photos/Saint+Petersburg](https://unsplash.com/s/photos/Saint+Petersburg)
+Find even more on [unsplash.com/s/photos/Saint-Petersburg](https://unsplash.com/s/photos/Saint-Petersburg)
  

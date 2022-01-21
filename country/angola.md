@@ -9,7 +9,7 @@ tags:
 # Photos for Angola
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Angola.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Angola**.
  
 ![Angola](/images/country/angola.1.jpg)
 Photographer:  Jorge Sá

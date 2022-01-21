@@ -9,7 +9,7 @@ tags:
 # Photos for Uruguay
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Uruguay.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Uruguay**.
  
 ![Uruguay](/images/country/uruguay.1.jpg)
 Photographer:  Ernesto Velázquez

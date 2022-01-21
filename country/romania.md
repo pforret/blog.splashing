@@ -9,7 +9,7 @@ tags:
 # Photos for Romania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Romania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Romania**.
  
 ![Romania](/images/country/romania.1.jpg)
 Photographer:  Majkl Velner

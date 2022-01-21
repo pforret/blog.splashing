@@ -9,7 +9,7 @@ tags:
 # Photos for Kenya
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kenya.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kenya**.
  
 ![Kenya](/images/country/kenya.1.jpg)
 Photographer:  Sergey Pesterev

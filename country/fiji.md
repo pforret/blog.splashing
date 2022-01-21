@@ -9,7 +9,7 @@ tags:
 # Photos for Fiji
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Fiji.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Fiji**.
  
 ![Fiji](/images/country/fiji.1.jpg)
 Photographer:  Jeremy Bezanger

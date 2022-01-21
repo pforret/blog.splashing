@@ -9,7 +9,7 @@ tags:
 # Photos for Marshall Islands
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Marshall Islands.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Marshall Islands**.
  
 ![Marshall Islands](/images/country/marshallislands.1.jpg)
 Photographer:  Kurt Cotoaga
@@ -20,5 +20,5 @@ Photographer:  Kurt Cotoaga
 ![Marshall Islands](/images/country/marshallislands.3.jpg)
 Photographer:  Vance Berisford
  
-Find even more on [unsplash.com/s/photos/Marshall+Islands](https://unsplash.com/s/photos/Marshall+Islands)
+Find even more on [unsplash.com/s/photos/Marshall-Islands](https://unsplash.com/s/photos/Marshall-Islands)
  

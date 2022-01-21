@@ -20,5 +20,5 @@ Photographer:  Andrii Ganzevych
 ![San Jose](/images/city/sanjose.3.jpg)
 Photographer:  Jose Rago
  
-Find even more on [unsplash.com/s/photos/San+Jose](https://unsplash.com/s/photos/San+Jose)
+Find even more on [unsplash.com/s/photos/San-Jose](https://unsplash.com/s/photos/San-Jose)
  

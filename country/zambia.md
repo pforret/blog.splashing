@@ -9,7 +9,7 @@ tags:
 # Photos for Zambia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Zambia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Zambia**.
  
 ![Zambia](/images/country/zambia.1.jpg)
 Photographer:  paul milley

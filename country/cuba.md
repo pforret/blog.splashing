@@ -9,7 +9,7 @@ tags:
 # Photos for Cuba
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Cuba.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cuba**.
  
 ![Cuba](/images/country/cuba.1.jpg)
 Photographer:  Spencer Everett

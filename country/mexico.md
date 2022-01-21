@@ -9,7 +9,7 @@ tags:
 # Photos for Mexico
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mexico.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mexico**.
  
 ![Mexico](/images/country/mexico.1.jpg)
 Photographer:  Jezael Melgoza

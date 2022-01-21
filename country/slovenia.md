@@ -9,7 +9,7 @@ tags:
 # Photos for Slovenia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Slovenia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Slovenia**.
  
 ![Slovenia](/images/country/slovenia.1.jpg)
 Photographer:  Mikita Karasiou

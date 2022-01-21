@@ -9,7 +9,7 @@ tags:
 # Photos for Trinidad
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Trinidad.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Trinidad**.
  
 ![Trinidad](/images/country/trinidad.1.jpg)
 Photographer:  Daniel Seßler

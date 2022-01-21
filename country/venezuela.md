@@ -9,7 +9,7 @@ tags:
 # Photos for Venezuela
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Venezuela.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Venezuela**.
  
 ![Venezuela](/images/country/venezuela.1.jpg)
 Photographer:  Ronal Labrador

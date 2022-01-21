@@ -9,7 +9,7 @@ tags:
 # Photos for Egypt
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Egypt.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Egypt**.
  
 ![Egypt](/images/country/egypt.1.jpg)
 Photographer:  Simon Berger

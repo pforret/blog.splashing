@@ -9,7 +9,7 @@ tags:
 # Photos for Malawi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Malawi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Malawi**.
  
 ![Malawi](/images/country/malawi.1.jpg)
 Photographer:  Maria Zardoya

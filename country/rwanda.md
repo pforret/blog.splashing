@@ -9,7 +9,7 @@ tags:
 # Photos for Rwanda
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Rwanda.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Rwanda**.
  
 ![Rwanda](/images/country/rwanda.1.jpg)
 Photographer:  maxime niyomwungeri

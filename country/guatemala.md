@@ -9,7 +9,7 @@ tags:
 # Photos for Guatemala
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Guatemala.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Guatemala**.
  
 ![Guatemala](/images/country/guatemala.1.jpg)
 Photographer:  Mathijs Beks

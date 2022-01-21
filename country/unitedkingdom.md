@@ -9,7 +9,7 @@ tags:
 # Photos for United Kingdom
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for United Kingdom.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **United Kingdom**.
  
 ![United Kingdom](/images/country/unitedkingdom.1.jpg)
 Photographer:  Marcin Nowak
@@ -20,5 +20,5 @@ Photographer:  Sabrina Mazzeo
 ![United Kingdom](/images/country/unitedkingdom.3.jpg)
 Photographer:  Susan Q Yin
  
-Find even more on [unsplash.com/s/photos/United+Kingdom](https://unsplash.com/s/photos/United+Kingdom)
+Find even more on [unsplash.com/s/photos/United-Kingdom](https://unsplash.com/s/photos/United-Kingdom)
  

@@ -9,7 +9,7 @@ tags:
 # Photos for Micronesia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Micronesia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Micronesia**.
  
 ![Micronesia](/images/country/micronesia.1.jpg)
 Photographer:  Marek Okon

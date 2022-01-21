@@ -9,7 +9,7 @@ tags:
 # Photos for Swaziland
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Swaziland.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Swaziland**.
  
 ![Swaziland](/images/country/swaziland.1.jpg)
 Photographer:  Bas de Korte

@@ -9,7 +9,7 @@ tags:
 # Photos for South Sudan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for South Sudan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **South Sudan**.
  
 ![South Sudan](/images/country/southsudan.1.jpg)
 Photographer:  Randy Fath
@@ -20,5 +20,5 @@ Photographer:  chetan sharma
 ![South Sudan](/images/country/southsudan.3.jpg)
 Photographer:  bert b
  
-Find even more on [unsplash.com/s/photos/South+Sudan](https://unsplash.com/s/photos/South+Sudan)
+Find even more on [unsplash.com/s/photos/South-Sudan](https://unsplash.com/s/photos/South-Sudan)
  

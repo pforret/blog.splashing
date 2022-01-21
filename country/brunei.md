@@ -9,7 +9,7 @@ tags:
 # Photos for Brunei
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Brunei.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Brunei**.
  
 ![Brunei](/images/country/brunei.1.jpg)
 Photographer:  Sangga Rima Roman Selia

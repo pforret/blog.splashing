@@ -9,7 +9,7 @@ tags:
 # Photos for Panama
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Panama.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Panama**.
  
 ![Panama](/images/country/panama.1.jpg)
 Photographer:  Angel Silva

@@ -9,7 +9,7 @@ tags:
 # Photos for Namibia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Namibia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Namibia**.
  
 ![Namibia](/images/country/namibia.1.jpg)
 Photographer:  Sergi Ferrete

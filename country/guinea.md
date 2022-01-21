@@ -9,7 +9,7 @@ tags:
 # Photos for Guinea
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Guinea.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Guinea**.
  
 ![Guinea](/images/country/guinea.1.jpg)
 Photographer:  Tim Oun

@@ -9,7 +9,7 @@ tags:
 # Photos for Lebanon
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lebanon.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lebanon**.
  
 ![Lebanon](/images/country/lebanon.1.jpg)
 Photographer:  Piotr Chrobot

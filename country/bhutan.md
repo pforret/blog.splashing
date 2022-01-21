@@ -9,7 +9,7 @@ tags:
 # Photos for Bhutan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bhutan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bhutan**.
  
 ![Bhutan](/images/country/bhutan.1.jpg)
 Photographer:  Adli Wahid

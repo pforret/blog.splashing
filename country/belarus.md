@@ -9,7 +9,7 @@ tags:
 # Photos for Belarus
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Belarus.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Belarus**.
  
 ![Belarus](/images/country/belarus.1.jpg)
 Photographer:  Ang Bob

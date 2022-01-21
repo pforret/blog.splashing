@@ -9,7 +9,7 @@ tags:
 # Photos for Guyana
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Guyana.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Guyana**.
  
 ![Guyana](/images/country/guyana.1.jpg)
 Photographer:  Joshua Gobin

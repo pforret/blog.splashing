@@ -9,7 +9,7 @@ tags:
 # Photos for Tobago
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Tobago.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Tobago**.
  
 ![Tobago](/images/country/tobago.1.jpg)
 Photographer:  Alina Doodnath

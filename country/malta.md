@@ -9,7 +9,7 @@ tags:
 # Photos for Malta
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Malta.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Malta**.
  
 ![Malta](/images/country/malta.1.jpg)
 Photographer:  Micaela Parente

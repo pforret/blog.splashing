@@ -9,7 +9,7 @@ tags:
 # Photos for Gabon
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Gabon.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Gabon**.
  
 ![Gabon](/images/country/gabon.1.jpg)
 Photographer:  Ralph Messi

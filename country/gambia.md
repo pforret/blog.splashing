@@ -9,7 +9,7 @@ tags:
 # Photos for Gambia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Gambia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Gambia**.
  
 ![Gambia](/images/country/gambia.1.jpg)
 Photographer:  Wim van 't Einde

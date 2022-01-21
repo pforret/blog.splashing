@@ -64,6 +64,7 @@ Germany
 Ghana
 Greece
 Grenada
+Grenadines
 Guatemala
 Guinea
 Guinea-Bissau
@@ -86,8 +87,6 @@ Jordan
 Kazakhstan
 Kenya
 Kiribati
-North Korea
-South Korea
 Kosovo
 Kuwait
 Kyrgyzstan
@@ -127,6 +126,7 @@ New Zealand
 Nicaragua
 Niger
 Nigeria
+North Korea
 Norway
 Oman
 Pakistan
@@ -142,10 +142,7 @@ Qatar
 Romania
 Russia
 Rwanda
-St Kitts
-St Lucia
 Saint Vincent
-Grenadines
 Samoa
 San Marino
 Sao Tome
@@ -160,9 +157,12 @@ Slovenia
 Solomon Islands
 Somalia
 South Africa
+South Korea
 South Sudan
 Spain
 Sri Lanka
+St Kitts
+St Lucia
 Sudan
 Suriname
 Swaziland
@@ -173,10 +173,10 @@ Taiwan
 Tajikistan
 Tanzania
 Thailand
+Tobago
 Togo
 Tonga
 Trinidad
-Tobago
 Tunisia
 Turkey
 Turkmenistan

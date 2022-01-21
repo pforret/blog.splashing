@@ -9,7 +9,7 @@ tags:
 # Photos for Palau
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Palau.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Palau**.
  
 ![Palau](/images/country/palau.1.jpg)
 Photographer:  Kurt Cotoaga

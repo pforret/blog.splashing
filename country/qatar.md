@@ -9,7 +9,7 @@ tags:
 # Photos for Qatar
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Qatar.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Qatar**.
  
 ![Qatar](/images/country/qatar.1.jpg)
 Photographer:  Masarath Alkhaili

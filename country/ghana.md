@@ -9,7 +9,7 @@ tags:
 # Photos for Ghana
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Ghana.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Ghana**.
  
 ![Ghana](/images/country/ghana.1.jpg)
 Photographer:  Yoel Winkler

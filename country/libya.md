@@ -9,7 +9,7 @@ tags:
 # Photos for Libya
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Libya.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Libya**.
  
 ![Libya](/images/country/libya.1.jpg)
 Photographer:  Ahmed Almakhzanji

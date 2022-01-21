@@ -9,7 +9,7 @@ tags:
 # Photos for Nepal
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Nepal.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Nepal**.
  
 ![Nepal](/images/country/nepal.1.jpg)
 Photographer:  Bikalpa Pokhrel

@@ -9,7 +9,7 @@ tags:
 # Photos for North Korea
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for North Korea.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **North Korea**.
  
 ![North Korea](/images/country/northkorea.1.jpg)
 Photographer:  Thomas Evans
@@ -20,5 +20,5 @@ Photographer:  Steve Barker
 ![North Korea](/images/country/northkorea.3.jpg)
 Photographer:  Micha Brändli
  
-Find even more on [unsplash.com/s/photos/North+Korea](https://unsplash.com/s/photos/North+Korea)
+Find even more on [unsplash.com/s/photos/North-Korea](https://unsplash.com/s/photos/North-Korea)
  

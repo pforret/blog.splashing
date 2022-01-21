@@ -9,7 +9,7 @@ tags:
 # Photos for Benin
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Benin.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Benin**.
  
 ![Benin](/images/country/benin.1.jpg)
 Photographer:  Yanick Folly

@@ -20,5 +20,5 @@ Photographer:  Esmonde Yong
 ![Kuala Lumpur](/images/city/kualalumpur.3.jpg)
 Photographer:  Izuddin Helmi Adnan
  
-Find even more on [unsplash.com/s/photos/Kuala+Lumpur](https://unsplash.com/s/photos/Kuala+Lumpur)
+Find even more on [unsplash.com/s/photos/Kuala-Lumpur](https://unsplash.com/s/photos/Kuala-Lumpur)
  

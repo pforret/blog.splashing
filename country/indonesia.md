@@ -9,7 +9,7 @@ tags:
 # Photos for Indonesia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Indonesia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Indonesia**.
  
 ![Indonesia](/images/country/indonesia.1.jpg)
 Photographer:  Dikaseva

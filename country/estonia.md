@@ -9,7 +9,7 @@ tags:
 # Photos for Estonia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Estonia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Estonia**.
  
 ![Estonia](/images/country/estonia.1.jpg)
 Photographer:  Ilya Orehov

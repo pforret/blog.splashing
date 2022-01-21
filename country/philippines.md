@@ -9,7 +9,7 @@ tags:
 # Photos for Philippines
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Philippines.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Philippines**.
  
 ![Philippines](/images/country/philippines.1.jpg)
 Photographer:  Eibner Saliba

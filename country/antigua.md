@@ -9,7 +9,7 @@ tags:
 # Photos for Antigua
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Antigua.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Antigua**.
  
 ![Antigua](/images/country/antigua.1.jpg)
 Photographer:  Rick Jamison

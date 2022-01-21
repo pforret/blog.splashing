@@ -9,7 +9,7 @@ tags:
 # Photos for Poland
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Poland.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Poland**.
  
 ![Poland](/images/country/poland.1.jpg)
 Photographer:  Maksym Harbar

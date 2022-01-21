@@ -9,7 +9,7 @@ tags:
 # Photos for Tuvalu
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Tuvalu.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Tuvalu**.
  
 ![Tuvalu](/images/country/tuvalu.1.jpg)
 Photographer:  Sangga Rima Roman Selia

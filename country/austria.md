@@ -9,7 +9,7 @@ tags:
 # Photos for Austria
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Austria.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Austria**.
  
 ![Austria](/images/country/austria.1.jpg)
 Photographer:  Joss Woodhead

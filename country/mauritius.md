@@ -9,7 +9,7 @@ tags:
 # Photos for Mauritius
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mauritius.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mauritius**.
  
 ![Mauritius](/images/country/mauritius.1.jpg)
 Photographer:  Xavier  Coiffic

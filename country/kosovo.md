@@ -9,7 +9,7 @@ tags:
 # Photos for Kosovo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kosovo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kosovo**.
  
 ![Kosovo](/images/country/kosovo.1.jpg)
 Photographer:  Besart Ademi

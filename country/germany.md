@@ -9,7 +9,7 @@ tags:
 # Photos for Germany
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Germany.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Germany**.
  
 ![Germany](/images/country/germany.1.jpg)
 Photographer:  Roman Kraft
