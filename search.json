@@ -15,7 +15,7 @@ layout: none
 ,
 {% for page in site.pages %}
 {
-{% if page.title != nil %}
+{% if page.title != nil and page.category != nil %}
 "title"    : "Page: {{ page.title | escape }}",
 "category" : "{{ page.categories | join: ', '  }}",
 "tags"     : "{{ page.tags | join: ', ' }}",
