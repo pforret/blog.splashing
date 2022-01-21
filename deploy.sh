@@ -24,7 +24,9 @@ function main() {
   git add country
   git add city
   git add sport
+  git add animal
   git add images
+  git add _data
 
   if [[ "$1" == "push" ]] ; then
     setver auto && setver new patch
