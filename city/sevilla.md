@@ -9,7 +9,7 @@ tags:
 # Photos for Sevilla
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Sevilla.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Sevilla**.
  
 ![Sevilla](/images/city/sevilla.1.jpg)
 Photographer:  V2F

@@ -9,7 +9,7 @@ tags:
 # Photos for Gent
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Gent.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Gent**.
  
 ![Gent](/images/city/gent.1.jpg)
 Photographer:  Christian Lue

@@ -9,7 +9,7 @@ tags:
 # Photos for London
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for London.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **London**.
  
 ![London](/images/city/london.1.jpg)
 Photographer:  Benjamin Davies

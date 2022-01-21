@@ -9,7 +9,7 @@ tags:
 # Photos for Boston
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Boston.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Boston**.
  
 ![Boston](/images/city/boston.1.jpg)
 Photographer:  Osman Rana

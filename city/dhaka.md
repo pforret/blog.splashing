@@ -9,7 +9,7 @@ tags:
 # Photos for Dhaka
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dhaka.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dhaka**.
  
 ![Dhaka](/images/city/dhaka.1.jpg)
 Photographer:  Masba Molla

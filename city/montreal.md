@@ -9,7 +9,7 @@ tags:
 # Photos for Montreal
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Montreal.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Montreal**.
  
 ![Montreal](/images/city/montreal.1.jpg)
 Photographer:  Marc-Olivier Jodoin

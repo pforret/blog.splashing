@@ -9,7 +9,7 @@ tags:
 # Photos for Lima
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lima.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lima**.
  
 ![Lima](/images/city/lima.1.jpg)
 Photographer:  Aarom Ore

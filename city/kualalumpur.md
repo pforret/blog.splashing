@@ -9,7 +9,7 @@ tags:
 # Photos for Kuala Lumpur
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kuala Lumpur.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kuala Lumpur**.
  
 ![Kuala Lumpur](/images/city/kualalumpur.1.jpg)
 Photographer:  Meriç Dağlı

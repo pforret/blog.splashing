@@ -9,7 +9,7 @@ tags:
 # Photos for Formentera
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Formentera.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Formentera**.
  
 ![Formentera](/images/city/formentera.1.jpg)
 Photographer:  Jannes Jacobs

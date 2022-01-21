@@ -9,7 +9,7 @@ tags:
 # Photos for Granada
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Granada.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Granada**.
  
 ![Granada](/images/city/granada.1.jpg)
 Photographer:  Dimitry B

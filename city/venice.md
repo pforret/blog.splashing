@@ -9,7 +9,7 @@ tags:
 # Photos for Venice
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Venice.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Venice**.
  
 ![Venice](/images/city/venice.1.jpg)
 Photographer:  Kit Suman

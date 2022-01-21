@@ -9,7 +9,7 @@ tags:
 # Photos for Cancun
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Cancun.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cancun**.
  
 ![Cancun](/images/city/cancun.1.jpg)
 Photographer:  Gerson Repreza

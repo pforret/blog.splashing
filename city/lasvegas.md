@@ -9,7 +9,7 @@ tags:
 # Photos for Las Vegas
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Las Vegas.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Las Vegas**.
  
 ![Las Vegas](/images/city/lasvegas.1.jpg)
 Photographer:  Julian Paefgen

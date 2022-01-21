@@ -9,7 +9,7 @@ tags:
 # Photos for Sydney
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Sydney.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Sydney**.
  
 ![Sydney](/images/city/sydney.1.jpg)
 Photographer:  Dan Freeman

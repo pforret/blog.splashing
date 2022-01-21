@@ -9,7 +9,7 @@ tags:
 # Photos for Dubai
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dubai.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dubai**.
  
 ![Dubai](/images/city/dubai.1.jpg)
 Photographer:  David Rodrigo

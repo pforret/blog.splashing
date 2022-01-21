@@ -9,7 +9,7 @@ tags:
 # Photos for Rome
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Rome.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Rome**.
  
 ![Rome](/images/city/rome.1.jpg)
 Photographer:  David Köhler

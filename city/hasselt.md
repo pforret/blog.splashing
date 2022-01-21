@@ -9,7 +9,7 @@ tags:
 # Photos for Hasselt
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Hasselt.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Hasselt**.
  
 ![Hasselt](/images/city/hasselt.1.jpg)
 Photographer:  kevin liebens

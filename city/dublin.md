@@ -9,7 +9,7 @@ tags:
 # Photos for Dublin
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dublin.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dublin**.
  
 ![Dublin](/images/city/dublin.1.jpg)
 Photographer:  Diogo Palhais

@@ -9,7 +9,7 @@ tags:
 # Photos for Cairo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Cairo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cairo**.
  
 ![Cairo](/images/city/cairo.1.jpg)
 Photographer:  Omar Elsharawy

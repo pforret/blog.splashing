@@ -9,7 +9,7 @@ tags:
 # Photos for Washington
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Washington.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Washington**.
  
 ![Washington](/images/city/washington.1.jpg)
 Photographer:  Andy Feliciotti

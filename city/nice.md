@@ -9,7 +9,7 @@ tags:
 # Photos for Nice
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Nice.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Nice**.
  
 ![Nice](/images/city/nice.1.jpg)
 Photographer:  John Jason

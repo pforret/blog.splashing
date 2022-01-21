@@ -9,7 +9,7 @@ tags:
 # Photos for Rimini
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Rimini.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Rimini**.
  
 ![Rimini](/images/city/rimini.1.jpg)
 Photographer:  Alessandro Moresco

@@ -9,7 +9,7 @@ tags:
 # Photos for Delhi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Delhi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Delhi**.
  
 ![Delhi](/images/city/delhi.1.jpg)
 Photographer:  Mohd Aram

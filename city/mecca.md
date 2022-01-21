@@ -9,7 +9,7 @@ tags:
 # Photos for Mecca
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mecca.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mecca**.
  
 ![Mecca](/images/city/mecca.1.jpg)
 Photographer:  Ishan @seefromthesky

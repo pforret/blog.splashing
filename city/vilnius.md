@@ -9,7 +9,7 @@ tags:
 # Photos for Vilnius
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Vilnius.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Vilnius**.
  
 ![Vilnius](/images/city/vilnius.1.jpg)
 Photographer:  Gantas Vaičiulėnas

@@ -9,7 +9,7 @@ tags:
 # Photos for Burgas
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Burgas.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Burgas**.
  
 ![Burgas](/images/city/burgas.1.jpg)
 Photographer:  Ivan Nedelchev

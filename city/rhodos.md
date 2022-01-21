@@ -9,7 +9,7 @@ tags:
 # Photos for Rhodos
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Rhodos.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Rhodos**.
  
 ![Rhodos](/images/city/rhodos.1.jpg)
 Photographer:  Jonas Spott

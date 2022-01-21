@@ -9,7 +9,7 @@ tags:
 # Photos for Nairobi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Nairobi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Nairobi**.
  
 ![Nairobi](/images/city/nairobi.1.jpg)
 Photographer:  Mustafa Omar

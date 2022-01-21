@@ -9,7 +9,7 @@ tags:
 # Photos for Warsaw
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Warsaw.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Warsaw**.
  
 ![Warsaw](/images/city/warsaw.1.jpg)
 Photographer:  Kamil Gliwiński

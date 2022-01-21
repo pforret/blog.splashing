@@ -9,7 +9,7 @@ tags:
 # Photos for San Francisco
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for San Francisco.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **San Francisco**.
  
 ![San Francisco](/images/city/sanfrancisco.1.jpg)
 Photographer:  Maarten van den Heuvel

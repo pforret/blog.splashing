@@ -9,7 +9,7 @@ tags:
 # Photos for Kopenhagen
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kopenhagen.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kopenhagen**.
  
 ![Kopenhagen](/images/city/kopenhagen.1.jpg)
 Photographer:  Ugur Peker

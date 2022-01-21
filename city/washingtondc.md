@@ -9,7 +9,7 @@ tags:
 # Photos for Washington D.C.
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Washington D.C..
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Washington D.C.**.
  
 ![Washington D.C.](/images/city/washingtondc.1.jpg)
 Photographer:  Library of Congress

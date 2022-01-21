@@ -9,7 +9,7 @@ tags:
 # Photos for Jaipur
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Jaipur.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jaipur**.
  
 ![Jaipur](/images/city/jaipur.1.jpg)
 Photographer:  Aditya Siva

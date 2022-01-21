@@ -9,7 +9,7 @@ tags:
 # Photos for Dakar
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dakar.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dakar**.
  
 ![Dakar](/images/city/dakar.1.jpg)
 Photographer:  Eyelit Studio

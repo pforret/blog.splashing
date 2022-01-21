@@ -9,7 +9,7 @@ tags:
 # Photos for Firenze
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Firenze.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Firenze**.
  
 ![Firenze](/images/city/firenze.1.jpg)
 Photographer:  Massimiliano Morosinotto

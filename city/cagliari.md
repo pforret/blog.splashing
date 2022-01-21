@@ -9,7 +9,7 @@ tags:
 # Photos for Cagliari
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Cagliari.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cagliari**.
  
 ![Cagliari](/images/city/cagliari.1.jpg)
 Photographer:  Chloe Frost-Smith

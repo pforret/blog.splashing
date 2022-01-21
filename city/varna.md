@@ -9,7 +9,7 @@ tags:
 # Photos for Varna
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Varna.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Varna**.
  
 ![Varna](/images/city/varna.1.jpg)
 Photographer:  Presentsquare

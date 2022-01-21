@@ -9,7 +9,7 @@ tags:
 # Photos for Barcelona
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Barcelona.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Barcelona**.
  
 ![Barcelona](/images/city/barcelona.1.jpg)
 Photographer:  Logan Armstrong

@@ -9,7 +9,7 @@ tags:
 # Photos for Palermo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Palermo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Palermo**.
  
 ![Palermo](/images/city/palermo.1.jpg)
 Photographer:  Michele Bitetto

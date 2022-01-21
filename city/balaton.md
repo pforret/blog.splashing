@@ -9,7 +9,7 @@ tags:
 # Photos for Balaton
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Balaton.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Balaton**.
  
 ![Balaton](/images/city/balaton.1.jpg)
 Photographer:  Dope Masters

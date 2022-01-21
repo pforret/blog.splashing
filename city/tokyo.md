@@ -9,7 +9,7 @@ tags:
 # Photos for Tokyo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Tokyo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Tokyo**.
  
 ![Tokyo](/images/city/tokyo.1.jpg)
 Photographer:  Erik Eastman

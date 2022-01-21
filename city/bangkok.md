@@ -9,7 +9,7 @@ tags:
 # Photos for Bangkok
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bangkok.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bangkok**.
  
 ![Bangkok](/images/city/bangkok.1.jpg)
 Photographer:  Florian Wehde

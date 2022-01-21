@@ -9,7 +9,7 @@ tags:
 # Photos for Beirut
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Beirut.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Beirut**.
  
 ![Beirut](/images/city/beirut.1.jpg)
 Photographer:  Etienne Boulanger

@@ -9,7 +9,7 @@ tags:
 # Photos for Santiago
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Santiago.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Santiago**.
  
 ![Santiago](/images/city/santiago.1.jpg)
 Photographer:  Francisco Kemeny

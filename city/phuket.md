@@ -9,7 +9,7 @@ tags:
 # Photos for Phuket
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Phuket.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Phuket**.
  
 ![Phuket](/images/city/phuket.1.jpg)
 Photographer:  Bradley Prentice

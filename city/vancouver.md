@@ -9,7 +9,7 @@ tags:
 # Photos for Vancouver
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Vancouver.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Vancouver**.
  
 ![Vancouver](/images/city/vancouver.1.jpg)
 Photographer:  Brayden Law

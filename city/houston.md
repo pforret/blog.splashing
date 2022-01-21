@@ -9,7 +9,7 @@ tags:
 # Photos for Houston
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Houston.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Houston**.
  
 ![Houston](/images/city/houston.1.jpg)
 Photographer:  Kevin Hernandez

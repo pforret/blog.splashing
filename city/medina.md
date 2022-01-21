@@ -9,7 +9,7 @@ tags:
 # Photos for Medina
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Medina.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Medina**.
  
 ![Medina](/images/city/medina.1.jpg)
 Photographer:  Adli Wahid

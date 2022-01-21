@@ -9,7 +9,7 @@ tags:
 # Photos for Austin
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Austin.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Austin**.
  
 ![Austin](/images/city/austin.1.jpg)
 Photographer:  Tomek Baginski

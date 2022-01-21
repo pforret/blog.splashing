@@ -9,7 +9,7 @@ tags:
 # Photos for Paris
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Paris.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Paris**.
  
 ![Paris](/images/city/paris.1.jpg)
 Photographer:  Earth

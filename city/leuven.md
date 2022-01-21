@@ -9,7 +9,7 @@ tags:
 # Photos for Leuven
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Leuven.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Leuven**.
  
 ![Leuven](/images/city/leuven.1.jpg)
 Photographer:  Tobias Cornille

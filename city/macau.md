@@ -9,7 +9,7 @@ tags:
 # Photos for Macau
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Macau.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Macau**.
  
 ![Macau](/images/city/macau.1.jpg)
 Photographer:  Elina Sitnikova

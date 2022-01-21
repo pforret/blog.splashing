@@ -9,7 +9,7 @@ tags:
 # Photos for Zagreb
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Zagreb.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Zagreb**.
  
 ![Zagreb](/images/city/zagreb.1.jpg)
 Photographer:  Domagoj

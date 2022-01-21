@@ -9,7 +9,7 @@ tags:
 # Photos for Mechelen
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mechelen.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mechelen**.
  
 ![Mechelen](/images/city/mechelen.1.jpg)
 Photographer:  Remco Mariën

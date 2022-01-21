@@ -9,7 +9,7 @@ tags:
 # Photos for Kinshasa
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kinshasa.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kinshasa**.
  
 ![Kinshasa](/images/city/kinshasa.1.jpg)
 Photographer:  Kaysha

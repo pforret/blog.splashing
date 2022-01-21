@@ -9,7 +9,7 @@ tags:
 # Photos for Pattaya
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Pattaya.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Pattaya**.
  
 ![Pattaya](/images/city/pattaya.1.jpg)
 Photographer:  Ryutaro Uozumi

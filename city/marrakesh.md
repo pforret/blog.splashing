@@ -9,7 +9,7 @@ tags:
 # Photos for Marrakesh
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Marrakesh.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Marrakesh**.
  
 ![Marrakesh](/images/city/marrakesh.1.jpg)
 Photographer:  Paul Macallan

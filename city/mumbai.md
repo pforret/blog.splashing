@@ -9,7 +9,7 @@ tags:
 # Photos for Mumbai
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mumbai.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mumbai**.
  
 ![Mumbai](/images/city/mumbai.1.jpg)
 Photographer:  Satyajeet Mazumdar

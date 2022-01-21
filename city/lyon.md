@@ -9,7 +9,7 @@ tags:
 # Photos for Lyon
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lyon.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lyon**.
  
 ![Lyon](/images/city/lyon.1.jpg)
 Photographer:  Nguyen Dang Hoang Nhu

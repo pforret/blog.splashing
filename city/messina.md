@@ -9,7 +9,7 @@ tags:
 # Photos for Messina
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Messina.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Messina**.
  
 ![Messina](/images/city/messina.1.jpg)
 Photographer:  Luca N

@@ -9,7 +9,7 @@ tags:
 # Photos for Philadelphia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Philadelphia.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Philadelphia**.
  
 ![Philadelphia](/images/city/philadelphia.1.jpg)
 Photographer:  ActionVance

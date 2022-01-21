@@ -9,7 +9,7 @@ tags:
 # Photos for Hamburg
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Hamburg.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Hamburg**.
  
 ![Hamburg](/images/city/hamburg.1.jpg)
 Photographer:  Patrick Rosenkranz

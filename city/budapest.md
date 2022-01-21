@@ -9,7 +9,7 @@ tags:
 # Photos for Budapest
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Budapest.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Budapest**.
  
 ![Budapest](/images/city/budapest.1.jpg)
 Photographer:  Florian van Duyn

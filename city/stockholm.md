@@ -9,7 +9,7 @@ tags:
 # Photos for Stockholm
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Stockholm.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Stockholm**.
  
 ![Stockholm](/images/city/stockholm.1.jpg)
 Photographer:  Ana Bórquez

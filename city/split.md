@@ -9,7 +9,7 @@ tags:
 # Photos for Split
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Split.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Split**.
  
 ![Split](/images/city/split.1.jpg)
 Photographer:  Spencer Davis

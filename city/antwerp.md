@@ -9,7 +9,7 @@ tags:
 # Photos for Antwerp
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Antwerp.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Antwerp**.
  
 ![Antwerp](/images/city/antwerp.1.jpg)
 Photographer:  Daniels Joffe

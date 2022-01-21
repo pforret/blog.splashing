@@ -9,7 +9,7 @@ tags:
 # Photos for Geneva
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Geneva.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Geneva**.
  
 ![Geneva](/images/city/geneva.1.jpg)
 Photographer:  Lukas Blaskevicius

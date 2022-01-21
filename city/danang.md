@@ -9,7 +9,7 @@ tags:
 # Photos for Da Nang
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Da Nang.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Da Nang**.
  
 ![Da Nang](/images/city/danang.1.jpg)
 Photographer:  jet dela cruz

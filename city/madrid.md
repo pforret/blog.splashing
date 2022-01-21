@@ -9,7 +9,7 @@ tags:
 # Photos for Madrid
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Madrid.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Madrid**.
  
 ![Madrid](/images/city/madrid.1.jpg)
 Photographer:  Florian Wehde

@@ -9,7 +9,7 @@ tags:
 # Photos for Cape Town
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Cape Town.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cape Town**.
  
 ![Cape Town](/images/city/capetown.1.jpg)
 Photographer:  Tobias Reich

@@ -9,7 +9,7 @@ tags:
 # Photos for Osaka
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Osaka.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Osaka**.
  
 ![Osaka](/images/city/osaka.1.jpg)
 Photographer:  Kit Ko

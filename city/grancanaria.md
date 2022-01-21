@@ -9,7 +9,7 @@ tags:
 # Photos for Gran Canaria
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Gran Canaria.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Gran Canaria**.
  
 ![Gran Canaria](/images/city/grancanaria.1.jpg)
 Photographer:  Quinten Braem

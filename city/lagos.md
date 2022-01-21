@@ -9,7 +9,7 @@ tags:
 # Photos for Lagos
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lagos.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lagos**.
  
 ![Lagos](/images/city/lagos.1.jpg)
 Photographer:  Nupo Deyon Daniel

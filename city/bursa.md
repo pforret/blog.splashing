@@ -9,7 +9,7 @@ tags:
 # Photos for Bursa
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bursa.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bursa**.
  
 ![Bursa](/images/city/bursa.1.jpg)
 Photographer:  ALI KASMOU

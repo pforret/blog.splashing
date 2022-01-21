@@ -9,7 +9,7 @@ tags:
 # Photos for Karachi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Karachi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Karachi**.
  
 ![Karachi](/images/city/karachi.1.jpg)
 Photographer:  Muhammad Jawaid Shamshad

@@ -9,7 +9,7 @@ tags:
 # Photos for Oslo
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Oslo.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Oslo**.
  
 ![Oslo](/images/city/oslo.1.jpg)
 Photographer:  Christoffer Engström

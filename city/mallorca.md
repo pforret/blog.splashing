@@ -9,7 +9,7 @@ tags:
 # Photos for Mallorca
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Mallorca.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mallorca**.
  
 ![Mallorca](/images/city/mallorca.1.jpg)
 Photographer:  Tom Podmore

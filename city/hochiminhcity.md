@@ -9,7 +9,7 @@ tags:
 # Photos for Ho Chi Minh City
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Ho Chi Minh City.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Ho Chi Minh City**.
  
 ![Ho Chi Minh City](/images/city/hochiminhcity.1.jpg)
 Photographer:  Tron Le

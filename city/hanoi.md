@@ -9,7 +9,7 @@ tags:
 # Photos for Hanoi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Hanoi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Hanoi**.
  
 ![Hanoi](/images/city/hanoi.1.jpg)
 Photographer:  Minh Luu (Minhluu.com & AA+Photography)

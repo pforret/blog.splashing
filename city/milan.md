@@ -9,7 +9,7 @@ tags:
 # Photos for Milan
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Milan.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Milan**.
  
 ![Milan](/images/city/milan.1.jpg)
 Photographer:  Ouael Ben Salah

@@ -9,7 +9,7 @@ tags:
 # Photos for Kyoto
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Kyoto.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Kyoto**.
  
 ![Kyoto](/images/city/kyoto.1.jpg)
 Photographer:  Sorasak

@@ -9,7 +9,7 @@ tags:
 # Photos for Lahore
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Lahore.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lahore**.
  
 ![Lahore](/images/city/lahore.1.jpg)
 Photographer:  Syed Bilal Javaid

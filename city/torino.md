@@ -9,7 +9,7 @@ tags:
 # Photos for Torino
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Torino.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Torino**.
  
 ![Torino](/images/city/torino.1.jpg)
 Photographer:  cristiano caligaris

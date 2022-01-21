@@ -9,7 +9,7 @@ tags:
 # Photos for Dallas
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dallas.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dallas**.
  
 ![Dallas](/images/city/dallas.1.jpg)
 Photographer:  Gabriel Tovar

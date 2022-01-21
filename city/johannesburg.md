@@ -9,7 +9,7 @@ tags:
 # Photos for Johannesburg
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Johannesburg.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Johannesburg**.
  
 ![Johannesburg](/images/city/johannesburg.1.jpg)
 Photographer:  tebogo losaba

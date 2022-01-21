@@ -9,7 +9,7 @@ tags:
 # Photos for Jakarta
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Jakarta.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jakarta**.
  
 ![Jakarta](/images/city/jakarta.1.jpg)
 Photographer:  Sulthan Auliya

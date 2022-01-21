@@ -9,7 +9,7 @@ tags:
 # Photos for Hong Kong
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Hong Kong.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Hong Kong**.
  
 ![Hong Kong](/images/city/hongkong.1.jpg)
 Photographer:  Ruslan Bardash

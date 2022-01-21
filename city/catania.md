@@ -9,7 +9,7 @@ tags:
 # Photos for Catania
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Catania.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Catania**.
  
 ![Catania](/images/city/catania.1.jpg)
 Photographer:  Samir Kharrat

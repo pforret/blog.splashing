@@ -9,7 +9,7 @@ tags:
 # Photos for Bucharest
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bucharest.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bucharest**.
  
 ![Bucharest](/images/city/bucharest.1.jpg)
 Photographer:  Saru Robert

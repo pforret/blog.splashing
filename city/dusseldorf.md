@@ -9,7 +9,7 @@ tags:
 # Photos for Dusseldorf
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Dusseldorf.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dusseldorf**.
  
 ![Dusseldorf](/images/city/dusseldorf.1.jpg)
 Photographer:  Deniz Fuchidzhiev

@@ -9,7 +9,7 @@ tags:
 # Photos for Bogota
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bogota.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bogota**.
  
 ![Bogota](/images/city/bogota.1.jpg)
 Photographer:  Random Institute

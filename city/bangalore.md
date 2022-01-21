@@ -9,7 +9,7 @@ tags:
 # Photos for Bangalore
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Bangalore.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bangalore**.
  
 ![Bangalore](/images/city/bangalore.1.jpg)
 Photographer:  satyaprakash kumawat

@@ -9,7 +9,7 @@ tags:
 # Photos for Seoul
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Seoul.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Seoul**.
  
 ![Seoul](/images/city/seoul.1.jpg)
 Photographer:  Stéphan Valentin

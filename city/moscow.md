@@ -9,7 +9,7 @@ tags:
 # Photos for Moscow
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Moscow.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Moscow**.
  
 ![Moscow](/images/city/moscow.1.jpg)
 Photographer:  Nikita Karimov

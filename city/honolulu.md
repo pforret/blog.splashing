@@ -9,7 +9,7 @@ tags:
 # Photos for Honolulu
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Honolulu.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Honolulu**.
  
 ![Honolulu](/images/city/honolulu.1.jpg)
 Photographer:  Cosmin Serban

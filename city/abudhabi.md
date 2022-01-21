@@ -9,7 +9,7 @@ tags:
 # Photos for Abu Dhabi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Abu Dhabi.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Abu Dhabi**.
  
 ![Abu Dhabi](/images/city/abudhabi.1.jpg)
 Photographer:  Kamil Rogalinski

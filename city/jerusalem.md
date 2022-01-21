@@ -9,7 +9,7 @@ tags:
 # Photos for Jerusalem
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Jerusalem.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jerusalem**.
  
 ![Jerusalem](/images/city/jerusalem.1.jpg)
 Photographer:  Toa Heftiba

@@ -9,7 +9,7 @@ tags:
 # Photos for Toronto
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Toronto.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Toronto**.
  
 ![Toronto](/images/city/toronto.1.jpg)
 Photographer:  mwangi gatheca

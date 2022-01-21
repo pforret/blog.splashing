@@ -9,7 +9,7 @@ tags:
 # Photos for Antalya
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Antalya.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Antalya**.
  
 ![Antalya](/images/city/antalya.1.jpg)
 Photographer:  Vitaliy Zamedyanskiy

@@ -9,7 +9,7 @@ tags:
 # Photos for Chennai
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Chennai.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Chennai**.
  
 ![Chennai](/images/city/chennai.1.jpg)
 Photographer:  SIBY

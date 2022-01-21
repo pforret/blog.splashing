@@ -9,7 +9,7 @@ tags:
 # Photos for Casablanca
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Casablanca.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Casablanca**.
  
 ![Casablanca](/images/city/casablanca.1.jpg)
 Photographer:  Hans-Jürgen Weinhardt

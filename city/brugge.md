@@ -9,7 +9,7 @@ tags:
 # Photos for Brugge
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Brugge.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Brugge**.
  
 ![Brugge](/images/city/brugge.1.jpg)
 Photographer:  Elijah G

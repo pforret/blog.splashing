@@ -9,7 +9,7 @@ tags:
 # Photos for Calcutta
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Calcutta.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Calcutta**.
  
 ![Calcutta](/images/city/calcutta.1.jpg)
 Photographer:  Shahbaz Khan

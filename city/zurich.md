@@ -9,7 +9,7 @@ tags:
 # Photos for Zurich
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Zurich.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Zurich**.
  
 ![Zurich](/images/city/zurich.1.jpg)
 Photographer:  Rico Reutimann

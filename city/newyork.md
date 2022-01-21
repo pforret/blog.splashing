@@ -9,7 +9,7 @@ tags:
 # Photos for New York
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for New York.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **New York**.
  
 ![New York](/images/city/newyork.1.jpg)
 Photographer:  Robert Bye

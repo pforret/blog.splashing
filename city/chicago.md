@@ -9,7 +9,7 @@ tags:
 # Photos for Chicago
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for Chicago.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Chicago**.
  
 ![Chicago](/images/city/chicago.1.jpg)
 Photographer:  Pedro Lastra
