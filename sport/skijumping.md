@@ -15,10 +15,10 @@ These are the most popular photos on [Unsplash](https://unsplash.com) for **ski 
 Photographer:  Matthieu Pétiard
  
 ![ski jumping](/images/sport/skijumping.2.jpg)
-Photographer:  Mathias Elle
+Photographer:  Robson Hatsukami Morgan
  
 ![ski jumping](/images/sport/skijumping.3.jpg)
-Photographer:  Todd Trapani
+Photographer:  Max Kramer
  
 Find even more on [unsplash.com/s/photos/ski-jumping](https://unsplash.com/s/photos/ski-jumping)
  
