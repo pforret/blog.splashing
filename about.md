@@ -5,7 +5,7 @@ layout: page
 
 # About this site
 
-A pet project, cobining my iterest in photography, bash script and Jekyll SSG.
+A pet project, combining my interests in photography, bash scripting and Jekyll SSG.
 
 # This site uses
 
