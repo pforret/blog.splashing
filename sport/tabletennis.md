@@ -20,5 +20,5 @@ Photographer:  Lisa Keffer
 ![table tennis](/images/sport/tabletennis.3.jpg)
 Photographer:  Lisa Keffer
  
-Find even more on [unsplash.com/s/photos/table+tennis](https://unsplash.com/s/photos/table+tennis)
+Find even more on [unsplash.com/s/photos/table-tennis](https://unsplash.com/s/photos/table-tennis)
  

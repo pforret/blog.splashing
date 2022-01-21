@@ -20,5 +20,5 @@ Photographer:  Mathias Elle
 ![ski jumping](/images/sport/skijumping.3.jpg)
 Photographer:  Todd Trapani
  
-Find even more on [unsplash.com/s/photos/ski+jumping](https://unsplash.com/s/photos/ski+jumping)
+Find even more on [unsplash.com/s/photos/ski-jumping](https://unsplash.com/s/photos/ski-jumping)
  

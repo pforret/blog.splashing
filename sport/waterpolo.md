@@ -20,5 +20,5 @@ Photographer:  Weston Eichner
 ![water polo](/images/sport/waterpolo.3.jpg)
 Photographer:  CHUTTERSNAP
  
-Find even more on [unsplash.com/s/photos/water+polo](https://unsplash.com/s/photos/water+polo)
+Find even more on [unsplash.com/s/photos/water-polo](https://unsplash.com/s/photos/water-polo)
  

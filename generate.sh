@@ -130,7 +130,7 @@ do_loop() {
   do
     progress "Start $name ..."
     local slug="$(lower_case "${name//[^a-zA-Z]/}")"
-    local search="${name// /+}"
+    local search="${name// /-}"
     local title="$(echo "$name" | tr ' ' "\n" )"
     local output_md="$output_dir/$slug.md"
     local template="$template_dir/$action.template.md"

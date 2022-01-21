@@ -20,5 +20,5 @@ Photographer:  Greg Bulla
 ![mountain bike](/images/sport/mountainbike.3.jpg)
 Photographer:  Ardi Evans
  
-Find even more on [unsplash.com/s/photos/mountain+bike](https://unsplash.com/s/photos/mountain+bike)
+Find even more on [unsplash.com/s/photos/mountain-bike](https://unsplash.com/s/photos/mountain-bike)
  

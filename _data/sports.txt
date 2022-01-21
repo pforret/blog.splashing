@@ -2,7 +2,7 @@ archery
 badminton
 baseball
 basketball
-beach volley
+beach-volley
 bmx
 bobsleigh
 boxing
