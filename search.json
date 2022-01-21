@@ -10,5 +10,14 @@ layout: none
 "url"      : "{{ page.url }}",
 "image"    : "{{ page.image }}",
 "date"     : "{{ page.date }}"
-} {% unless forloop.last %},{% endunless %}{% endif %}{% endfor %}
+} , {% endif %}{% endfor %}
+{
+"title"    : " ",
+"category" : " ",
+"tags"     : " ",
+"url"      : " ",
+"image"    : " ",
+"date"     : " "
+}
+
 ]
