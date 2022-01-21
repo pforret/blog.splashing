@@ -5,18 +5,15 @@ title: Home
 
 <h1>Splashing Photos</h1>
 
-<h2>Countries</h2>
-{% for item in site.pages %}
-{% assign categories = item.category | join: "|" %}
-{% if categories == "country" %}
-<b><a href="{{ item.url }}">{{ item.title }}</a></b> &bull;
-{%endif%}
+<p>
+  Here are some examples of photos from e.g. Unsplash for any given country or city.
+</p>
+{% assign pages = site.pages | sample: 12 %}
+{% for page in pages %}
+{% if page.category == "country" or page.category == "city" %}
+<div style="float: left; width: 50%; padding: 4px" ><a href="{{ page.url }}">
+  <h3>{{ page.category }}: {{ page.title }}</h3>
+  <img src="{{ page.image }}"></a>
+</div>
+{% endif %}
 {% endfor %}
-
-<h2>Cities</h2>
-{% for item in site.pages %}
-{% assign categories = item.category | join: "|" %}
-{% if categories == "city" %}
-<b><a href="{{ item.url }}">{{ item.title }}</a> &bull;
-  {%endif%}
-  {% endfor %}
