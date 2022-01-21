@@ -19,6 +19,7 @@ function main() {
   jekyll_taxonomy -c -p country generate tag
   jekyll_taxonomy -p city generate tag
   jekyll_taxonomy -p sport generate tag
+  jekyll_taxonomy -p animal generate tag
   git add tag
 
   git add country
