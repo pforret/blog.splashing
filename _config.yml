@@ -1,8 +1,9 @@
 title: Splashing Photos
 email: peter@forret.com
 description: Photos from over the world
-baseurl: "/"
-url: ""
+baseurl: ""
+url: "https://splashing.forret.com"
+
 twitter_username: pforret
 github_username:  pforret
 
