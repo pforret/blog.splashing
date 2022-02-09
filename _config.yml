@@ -18,7 +18,7 @@ author:
 # Build settings
 plugins:
   - jekyll-paginate
-  - jekyll-redirect-from
+  - jekyll-sitemap
 
 exclude:
   - hyde
