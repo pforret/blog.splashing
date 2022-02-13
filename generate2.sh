@@ -36,7 +36,7 @@ main() {
 
   action=$(lower_case "$action")
   case $action in
-  "country" | "city" | "sport" | "animal")
+  "country" | "city" | "sport" | "animal" | "cars")
     #TIP: use «$script_prefix country» to generate country files
     #TIP:> $script_prefix country [input file] [markdown output folder]
     do_loop
