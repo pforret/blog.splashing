@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cities
+title: City
 ---
 
 {% for item in site.pages %}

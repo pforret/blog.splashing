@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Countries
+title: Country
 ---
 
 {% for item in site.pages %}

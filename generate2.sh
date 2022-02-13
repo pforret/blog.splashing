@@ -19,11 +19,12 @@ flag|h|help|show usage
 flag|q|quiet|no output
 flag|v|verbose|output more
 flag|f|force|do not ask for confirmation (always yes)
+flag|c|clean|cleanup output dir first
 option|l|log_dir|folder for log files |$HOME/log/$script_prefix
 option|t|tmp_dir|folder for temp files|/tmp/$script_prefix
 option|i|img_dir|folder for image files|images
 option|m|template_dir|folder for templates|_data
-param|1|action|action to perform: country/city/sport/animal
+param|1|action|action to perform: country/city/sport/animal/cars
 " | grep -v '^#' | grep -v '^\s*$'
 }
 
@@ -36,12 +37,6 @@ main() {
 
   action=$(lower_case "$action")
   case $action in
-  "country" | "city" | "sport" | "animal" | "cars")
-    #TIP: use «$script_prefix country» to generate country files
-    #TIP:> $script_prefix country [input file] [markdown output folder]
-    do_loop
-    ;;
-
   check | env)
     ## leave this default action, it will make it easier to test your script
     #TIP: use «$script_prefix check» to check if this script is ready to execute and what values the options/flags are
@@ -59,7 +54,13 @@ main() {
     ;;
 
   *)
-    die "action [$action] not recognized"
+    #TIP: use «$script_prefix country» to generate country files
+    #TIP:> $script_prefix country [input file] [markdown output folder]
+    if [[ -f "./$template_dir/$action.csv" ]] ; then
+      do_loop
+    else
+      die "Folder [[$action]] not found"
+    fi
     ;;
   esac
   log_to_file "[$script_basename] ended after $SECONDS secs"
@@ -70,42 +71,6 @@ main() {
 #####################################################################
 ## Put your helper scripts here
 #####################################################################
-
-#Program: splashmark 3.1.1 by peter@forret.com
-#Updated: Aug  7 21:15:24 2021
-#Description: package_description
-#Usage: splashmark [-h] [-q] [-v] [-l <log_dir>] [-t <tmp_dir>] [-w <width>] [-c <crop>] [-1 <northwest>] [-2 <northeast>] [-3 <southwest>] [-4 <southeast>] [-d <randomize>] [-e <effect>] [-g <gravity>] [-i <title>] [-z <titlesize>] [-k <subtitle>] [-j <subtitlesize>] [-m <margin>] [-o <fontsize>] [-p <fonttype>] [-r <fontcolor>] [-x <photographer>] [-u <url>] [-P <PIXABAY_ACCESSKEY>] [-U <UNSPLASH_ACCESSKEY>] <action> <input?> <output?>
-#Flags, options and parameters:
-#    -h|--help        : [flag] show usage [default: off]
-#    -q|--quiet       : [flag] no output [default: off]
-#    -v|--verbose     : [flag] output more [default: off]
-#    -l|--log_dir <?> : [option] folder for log files   [default: /Users/pforret/log/splashmark]
-#    -t|--tmp_dir <?> : [option] folder for temp files  [default: /tmp/splashmark]
-#    -w|--width <?>   : [option] image width for resizing  [default: 1200]
-#    -c|--crop <?>    : [option] image height for cropping  [default: 0]
-#    -1|--northwest <?>: [option] text to put in left top
-#    -2|--northeast <?>: [option] text to put in right top  [default: {url}]
-#    -3|--southwest <?>: [option] text to put in left bottom  [default: Created with pforret/splashmark]
-#    -4|--southeast <?>: [option] text to put in right bottom  [default: {copyright2}]
-#    -d|--randomize <?>: [option] take a random picture in the first N results  [default: 1]
-#    -e|--effect <?>  : [option] use effect chain on image: bw/blur/dark/grain/light/median/paint/pixel
-#    -g|--gravity <?> : [option] title alignment left/center/right  [default: center]
-#    -i|--title <?>   : [option] big text to put in center
-#    -z|--titlesize <?>: [option] font size for title  [default: 80]
-#    -k|--subtitle <?>: [option] big text to put in center
-#    -j|--subtitlesize <?>: [option] font size for subtitle  [default: 50]
-#    -m|--margin <?>  : [option] margin for watermarks  [default: 30]
-#    -o|--fontsize <?>: [option] font size for watermarks  [default: 15]
-#    -p|--fonttype <?>: [option] font type family to use  [default: FiraSansExtraCondensed-Bold.ttf]
-#    -r|--fontcolor <?>: [option] font color to use  [default: FFFFFF]
-#    -x|--photographer <?>: [option] photographer name (empty: use name from API)
-#    -u|--url <?>     : [option] photo URL override (empty: use URL from API)
-#    -P|--PIXABAY_ACCESSKEY <?>: [option] Pixabay access key
-#    -U|--UNSPLASH_ACCESSKEY <?>: [option] Unsplash access key
-#    <action>         : [parameter] action to perform: unsplash/file/url
-#    <input>          : [parameter] URL or search term (optional)
-#    <output>         : [parameter] output file (optional)
-
 
 do_loop() {
   require_binary splashmark "basher install pforret/splashmark"
@@ -126,6 +91,22 @@ do_loop() {
   local image_dir="$img_dir/$action"
   [[ ! -d "$image_dir" ]] && mkdir -p "$image_dir"
   debug "Image dir: [$image_dir]"
+  if (( clean )) ; then
+    debug "Cleanup [[$output_dir]] first"
+    rm "$output_dir"/*.md
+    local template_index="$template_dir/index.md"
+    local output_index="$output_dir/index.md"
+    < "$template_index" awk -v topic="$action" '
+    BEGIN {
+      Topic = toupper(substr(topic,1,1)) tolower(substr(topic,2));
+    }
+    {
+      gsub("{topic}",topic);
+      gsub("{Topic}",Topic);
+      print;
+    }
+    ' > "$output_index"
+  fi
   local slug
   local tags
   local title

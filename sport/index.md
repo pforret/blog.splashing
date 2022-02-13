@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sports
+title: Sport
 ---
 
 {% for item in site.pages %}

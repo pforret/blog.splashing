@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Animals
+title: Animal
 ---
 
 {% for item in site.pages %}
