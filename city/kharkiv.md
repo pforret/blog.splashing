@@ -4,6 +4,7 @@ layout: splash
 image: /images/city/kharkiv.1.jpg
 category: city
 tags:
+- ukraine
 
 ---
 # Photos for Kharkiv
