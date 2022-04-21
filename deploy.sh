@@ -9,30 +9,35 @@ function main() {
 #  jekyll_taxonomy generate category
 #  git add category
 
-  if [[ "$1" == "generate" ]] ; then
-    ./generate2.sh -c -f country
-    ./generate2.sh -c -f city
-    ./generate2.sh -c -f sport
+  if [[ "$1" == "1" ]] ; then
     ./generate2.sh -c -f animal
+    ./generate2.sh -c -f city
+    ./generate2.sh -c -f country
+    ./generate2.sh -c -f number
+    ./generate2.sh -c -f sport
     ./generate2.sh -c -f tourism
   fi
 
-  jekyll_taxonomy -c -p country generate tag
-  jekyll_taxonomy -p city generate tag
-  jekyll_taxonomy -p sport generate tag
-  jekyll_taxonomy -p animal generate tag
-  git add tag
+  if [[ "$1" == "2" ]] ; then
+    jekyll_taxonomy -c -p country generate tag
+    jekyll_taxonomy -p animal generate tag
+    jekyll_taxonomy -p city generate tag
+    jekyll_taxonomy -p number generate tag
+    jekyll_taxonomy -p sport generate tag
+    jekyll_taxonomy -p tourism generate tag
+    git add tag
+  fi
 
-  git add country
-  git add city
-  git add sport
-  git add animal
-  git add images
-  git add _data
-
-  if [[ "$1" == "push" ]] ; then
+  if [[ "$1" == "3" ]] ; then
+    git add country
+    git add city
+    git add sport
+    git add animal
+    git add images
+    git add _data
     setver auto && setver new patch
   fi
+
 }
 
 main "$@"

@@ -1,8 +1,8 @@
 ---
 title: Gran Canaria
 layout: splash
-image: /images/city/grancanaria.1.jpg
-category: city
+image: /images/tourism/grancanaria.1.jpg
+category: tourism
 tags:
 - spain
 
@@ -12,14 +12,14 @@ tags:
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Gran Canaria**.
  
-![Gran Canaria](/images/city/grancanaria.1.jpg)
-Photographer:  Quinten Braem
+![Gran Canaria](/images/tourism/grancanaria.1.jpg)
+Photographer:  Joel Rohland
  
-![Gran Canaria](/images/city/grancanaria.2.jpg)
-Photographer:  Miltiadis Fragkidis
- 
-![Gran Canaria](/images/city/grancanaria.3.jpg)
+![Gran Canaria](/images/tourism/grancanaria.2.jpg)
 Photographer:  Reiseuhu
+ 
+![Gran Canaria](/images/tourism/grancanaria.3.jpg)
+Photographer:  Ryan Faulkner-Hogg
  
 Find even more on [unsplash.com/s/photos/Gran-Canaria](https://unsplash.com/s/photos/Gran-Canaria)
  

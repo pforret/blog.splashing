@@ -1,8 +1,8 @@
 ---
 title: Mallorca
 layout: splash
-image: /images/city/mallorca.1.jpg
-category: city
+image: /images/tourism/mallorca.1.jpg
+category: tourism
 tags:
 - spain
 
@@ -12,14 +12,14 @@ tags:
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Mallorca**.
  
-![Mallorca](/images/city/mallorca.1.jpg)
-Photographer:  Tom Podmore
+![Mallorca](/images/tourism/mallorca.1.jpg)
+Photographer:  Jacob Meissner
  
-![Mallorca](/images/city/mallorca.2.jpg)
-Photographer:  Reiseuhu
+![Mallorca](/images/tourism/mallorca.2.jpg)
+Photographer:  Vlad Stawizki
  
-![Mallorca](/images/city/mallorca.3.jpg)
-Photographer:  Eugene Zhyvchik
+![Mallorca](/images/tourism/mallorca.3.jpg)
+Photographer:  Stock Birken
  
 Find even more on [unsplash.com/s/photos/Mallorca](https://unsplash.com/s/photos/Mallorca)
  
