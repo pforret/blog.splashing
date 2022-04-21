@@ -29,12 +29,14 @@ function main() {
   fi
 
   if [[ "$1" == "3" ]] ; then
-    git add country
-    git add city
-    git add sport
-    git add animal
-    git add images
     git add _data
+    git add animal
+    git add city
+    git add country
+    git add images
+    git add number
+    git add sport
+    git add tourism
     setver auto && setver new patch
   fi
 
