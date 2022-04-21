@@ -22,7 +22,7 @@ function main() {
     jekyll_taxonomy -c -p country generate tag
     jekyll_taxonomy -p animal generate tag
     jekyll_taxonomy -p city generate tag
-    jekyll_taxonomy -p number generate tag
+    #jekyll_taxonomy -p number generate tag
     jekyll_taxonomy -p sport generate tag
     jekyll_taxonomy -p tourism generate tag
     git add tag
