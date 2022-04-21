@@ -4,6 +4,7 @@ layout: splash
 image: /images/city/delhi.1.jpg
 category: city
 tags:
+- india
 
 ---
 # Photos for Delhi
