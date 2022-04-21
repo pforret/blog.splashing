@@ -10,10 +10,11 @@ function main() {
 #  git add category
 
   if [[ "$1" == "generate" ]] ; then
-    ./generate2.sh -f country
-    ./generate2.sh -f city
-    ./generate2.sh -f sport
-    ./generate2.sh -f animal
+    ./generate2.sh -c -f country
+    ./generate2.sh -c -f city
+    ./generate2.sh -c -f sport
+    ./generate2.sh -c -f animal
+    ./generate2.sh -c -f tourism
   fi
 
   jekyll_taxonomy -c -p country generate tag
