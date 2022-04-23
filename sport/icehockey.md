@@ -18,7 +18,3 @@ Photographer:  Damir Kopezhanov
 Photographer:  Matthew Fournier
  
 ![ice hockey](/images/sport/icehockey.3.jpg)
-Photographer:  Chris Liverani
- 
-Find even more on [unsplash.com/s/photos/ice-hockey](https://unsplash.com/s/photos/ice-hockey)
- 

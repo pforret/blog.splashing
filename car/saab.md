@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/saab.1.jpg
 category: car
 tags:
+- sweden
 
 ---
 # Photos for saab

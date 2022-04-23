@@ -5,38 +5,32 @@
 
 function main() {
 
-
+topics=$(find _data -type f -name "*.csv" | sort | while read -r file ; do basename "$file" .csv ; done)
 #  jekyll_taxonomy generate category
 #  git add category
 
   if [[ "$1" == "1" ]] ; then
-    ./generate2.sh -c -f animal
-    ./generate2.sh -c -f city
-    ./generate2.sh -c -f country
-    ./generate2.sh -c -f number
-    ./generate2.sh -c -f sport
-    ./generate2.sh -c -f tourism
+    for topic in $topics ; do
+      echo "## GENERATE $topic pages"
+      ./generate2.sh -c -f "$topic"
+    done
   fi
 
   if [[ "$1" == "2" ]] ; then
-    jekyll_taxonomy -c -p country generate tag
-    jekyll_taxonomy -p animal generate tag
-    jekyll_taxonomy -p city generate tag
-    #jekyll_taxonomy -p number generate tag
-    jekyll_taxonomy -p sport generate tag
-    jekyll_taxonomy -p tourism generate tag
+    for topic in $topics ; do
+      echo "## GENERATE $topic tags"
+      jekyll_taxonomy -c -p "$topic" generate tag
+    done
     git add tag
   fi
 
   if [[ "$1" == "3" ]] ; then
     git add _data
-    git add animal
-    git add city
-    git add country
     git add images
-    git add number
-    git add sport
-    git add tourism
+    for topic in $topics ; do
+      echo "## GIT ADD $topic"
+      git add "$topic"
+    done
     setver auto && setver new patch
   fi
 

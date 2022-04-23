@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/mercedes.1.jpg
 category: car
 tags:
+- germany
 
 ---
 # Photos for mercedes

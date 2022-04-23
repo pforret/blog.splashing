@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/seat.1.jpg
 category: car
 tags:
+- spain
 
 ---
 # Photos for seat
