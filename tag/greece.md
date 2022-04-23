@@ -2,5 +2,5 @@
 layout: with_tag
 title: Greece
 keyword: greece
-count: 8
+count: 2
 ---
