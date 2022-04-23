@@ -11,8 +11,9 @@ topics=$(find _data -type f -name "*.csv" | sort | while read -r file ; do basen
 
   if [[ "$1" == "1" ]] ; then
     for topic in $topics ; do
-      echo "## GENERATE $topic pages"
+      echo "## GENERATE $topic pages                         "
       ./generate2.sh -c -f "$topic"
+      echo "-- Done @ $SECONDS secs                             "
     done
   fi
 
