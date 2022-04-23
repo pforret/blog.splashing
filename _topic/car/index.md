@@ -2,8 +2,9 @@
 layout: page
 title: Car
 ---
+These are the most popular _car_ photos, found on Unsplash.
 
-{% for item in site.pages %}
+{% for item in site.topic %}
 {% assign categories = item.category | join: "|" %}
 
 {% if categories == "car" %}

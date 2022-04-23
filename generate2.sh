@@ -23,6 +23,7 @@ flag|c|clean|cleanup output dir first
 option|l|log_dir|folder for log files |$HOME/log/$script_prefix
 option|t|tmp_dir|folder for temp files|/tmp/$script_prefix
 option|i|img_dir|folder for image files|images
+option|o|out_dir|folder root for output|_topic
 option|m|template_dir|folder for templates|_data
 param|1|action|action to perform: country/city/sport/animal/cars
 " | grep -v '^#' | grep -v '^\s*$'
@@ -85,7 +86,7 @@ do_loop() {
   debug "Template: [$template]"
 
   local name
-  local output_dir="$action"
+  local output_dir="$out_dir/$action"
   [[ ! -d "$output_dir" ]] && mkdir -p "$output_dir"
   debug "Output dir: [$output_dir]"
   local image_dir="$img_dir/$action"

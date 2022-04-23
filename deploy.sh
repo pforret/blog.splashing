@@ -21,7 +21,7 @@ topics=$(find _data -type f -name "*.csv" | sort | while read -r file ; do basen
     find tag -type f -name "*.md" -exec rm -fr {} \;
     for topic in $topics ; do
       echo "## GENERATE $topic tags"
-      jekyll_taxonomy -p "$topic" generate tag
+      jekyll_taxonomy -p "_topic/$topic" generate tag
     done
     git add tag
   fi

@@ -25,3 +25,8 @@ exclude:
   - hyde
   - .idea/
   - _doc
+  - _data
+
+collections:
+  topic:
+    output: true
