@@ -9,6 +9,7 @@
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
       <a class="sidebar-nav-item" href="/about">About this site</a>
       <a class="sidebar-nav-item" href="/tag">Tags</a>
+      <a class="sidebar-nav-item" href="/search">Search</a>
       {% for node in site.topic %}{% if node.title != null %}{% if node.layout == "page" %}{% if node.nav != false %}
             <a class="xxsidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }} {{node.nav}}</a> &bull;
           {% endif %}{% endif %}{% endif %}{% endfor %}
