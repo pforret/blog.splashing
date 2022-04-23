@@ -29,9 +29,10 @@ topics=$(find _data -type f -name "*.csv" | sort | while read -r file ; do basen
   if [[ "$1" == "3" ]] ; then
     git add _data
     git add images
+    git add public
     for topic in $topics ; do
       echo "## GIT ADD $topic"
-      git add "$topic"
+      git add "_topic/$topic"
     done
     setver auto && setver new patch
   fi
