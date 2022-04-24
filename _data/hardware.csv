@@ -11,13 +11,13 @@ Huawei
 Intel
 Lenovo
 MSI
-Mac Pro
-Mac Studio
-Macbook
-Macbook air
-Macbook pro
+Mac Pro|Apple
+Mac Studio|Apple
+Macbook|Apple
+Macbook air|Apple
+Macbook pro|Apple
 Medion
-Nest
+Nest|Google
 Nvidia
 PC
 Playstation
@@ -37,9 +37,9 @@ gaming PC
 gpu
 hard disk
 headphones
-imac
-ipad
-iphone
+imac|Apple
+ipad|Apple
+iphone|Apple
 keyboard
 laptop
 lens
@@ -49,6 +49,6 @@ screen
 smartphone
 thunderbolt|cable
 trackpad
-usb|usb
-wifi router
+usb|cable
+wifi router|network
 workstation

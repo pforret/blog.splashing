@@ -4,7 +4,7 @@ layout: splash
 image: /images/hardware/usb.1.jpg
 category: hardware
 tags:
-- usb
+- cable
 
 ---
 # Photos for usb

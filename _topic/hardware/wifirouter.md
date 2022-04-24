@@ -4,6 +4,7 @@ layout: splash
 image: /images/hardware/wifirouter.1.jpg
 category: hardware
 tags:
+- network
 
 ---
 # Photos for wifi router

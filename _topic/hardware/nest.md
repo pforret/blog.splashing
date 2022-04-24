@@ -4,6 +4,7 @@ layout: splash
 image: /images/hardware/nest.1.jpg
 category: hardware
 tags:
+- google
 
 ---
 # Photos for Nest

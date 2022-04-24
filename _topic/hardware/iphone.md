@@ -4,6 +4,7 @@ layout: splash
 image: /images/hardware/iphone.1.jpg
 category: hardware
 tags:
+- apple
 
 ---
 # Photos for iphone

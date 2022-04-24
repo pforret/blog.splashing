@@ -4,6 +4,7 @@ layout: splash
 image: /images/hardware/ipad.1.jpg
 category: hardware
 tags:
+- apple
 
 ---
 # Photos for ipad
