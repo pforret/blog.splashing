@@ -1,24 +1,24 @@
 ---
-title: airpod
+title: Airpod
 layout: splash
 image: /images/hardware/airpod.1.jpg
 category: hardware
 tags:
 
 ---
-# Photos for airpod
+# Photos for Airpod
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **airpod**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Airpod**.
  
-![airpod](/images/hardware/airpod.1.jpg)
+![Airpod](/images/hardware/airpod.1.jpg)
 Photographer:  Omid Armin
  
-![airpod](/images/hardware/airpod.2.jpg)
+![Airpod](/images/hardware/airpod.2.jpg)
 Photographer:  insung yoon
  
-![airpod](/images/hardware/airpod.3.jpg)
+![Airpod](/images/hardware/airpod.3.jpg)
 Photographer:  Hostaphoto
  
-Find even more on [unsplash.com/s/photos/airpod](https://unsplash.com/s/photos/airpod)
+Find even more on [unsplash.com/s/photos/Airpod](https://unsplash.com/s/photos/Airpod)
  

@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Mazda**.
  
 ![Mazda](/images/car/mazda.1.jpg)
-Photographer:  Wassim Chouak
+Photographer:  Ivan Jevtic
  
 ![Mazda](/images/car/mazda.2.jpg)
-Photographer:  Samuele Errico Piccarini
+Photographer:  Obi - @pixel6propix
  
 ![Mazda](/images/car/mazda.3.jpg)
-Photographer:  Philip Kock
+Photographer:  Obi - @pixel6propix
  
 Find even more on [unsplash.com/s/photos/Mazda](https://unsplash.com/s/photos/Mazda)
  

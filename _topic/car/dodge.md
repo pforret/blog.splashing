@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Dodge**.
  
 ![Dodge](/images/car/dodge.1.jpg)
-Photographer:  Haidong Liang
+Photographer:  Dave Hoefler
  
 ![Dodge](/images/car/dodge.2.jpg)
-Photographer:  Martin Katler
+Photographer:  Dave Hoefler
  
 ![Dodge](/images/car/dodge.3.jpg)
-Photographer:  Haidong Liang
+Photographer:  Dave Hoefler
  
 Find even more on [unsplash.com/s/photos/Dodge](https://unsplash.com/s/photos/Dodge)
  

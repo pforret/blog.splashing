@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Beats**.
  
 ![Beats](/images/hardware/beats.1.jpg)
-Photographer:  Safarulla Kasmi
+Photographer:  William Bayreuther
  
 ![Beats](/images/hardware/beats.2.jpg)
-Photographer:  Adam Birkett
+Photographer:  Mpumelelo Macu
  
 ![Beats](/images/hardware/beats.3.jpg)
-Photographer:  James Yarema
+Photographer:  Mike Cyr
  
 Find even more on [unsplash.com/s/photos/Beats](https://unsplash.com/s/photos/Beats)
  

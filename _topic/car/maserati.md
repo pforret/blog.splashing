@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Maserati**.
  
 ![Maserati](/images/car/maserati.1.jpg)
-Photographer:  Rachael 🪐
+Photographer:  Jannis Lucas
  
 ![Maserati](/images/car/maserati.2.jpg)
-Photographer:  Talia
+Photographer:  Gab
  
 ![Maserati](/images/car/maserati.3.jpg)
-Photographer:  Talia
+Photographer:  Chris Lehr
  
 Find even more on [unsplash.com/s/photos/Maserati](https://unsplash.com/s/photos/Maserati)
  

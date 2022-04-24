@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/ford.1.jpg
 category: car
 tags:
+- usa
 
 ---
 # Photos for Ford
@@ -12,13 +13,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Ford**.
  
 ![Ford](/images/car/ford.1.jpg)
-Photographer:  Dan Dennis
+Photographer:  Library of Congress
  
 ![Ford](/images/car/ford.2.jpg)
-Photographer:  FourFour
+Photographer:  Ray Harrington
  
 ![Ford](/images/car/ford.3.jpg)
-Photographer:  Caleb White
+Photographer:  Vinayak Sharma
  
 Find even more on [unsplash.com/s/photos/Ford](https://unsplash.com/s/photos/Ford)
  

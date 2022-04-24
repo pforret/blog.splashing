@@ -12,10 +12,10 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Isuzu**.
  
 ![Isuzu](/images/car/isuzu.1.jpg)
-Photographer:  Filip Bunkens
+Photographer:  Tony Sebastian
  
 ![Isuzu](/images/car/isuzu.2.jpg)
-Photographer:  Filip Bunkens
+Photographer:  Ryno Marais
  
 ![Isuzu](/images/car/isuzu.3.jpg)
 Photographer:  Ryno Marais

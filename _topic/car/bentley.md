@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Bentley**.
  
 ![Bentley](/images/car/bentley.1.jpg)
-Photographer:  Krish Parmar
+Photographer:  Andrea De Santis
  
 ![Bentley](/images/car/bentley.2.jpg)
-Photographer:  C B
+Photographer:  Nandini Khandelwal
  
 ![Bentley](/images/car/bentley.3.jpg)
-Photographer:  Tim Krisztian
+Photographer:  Marquise de Photographie
  
 Find even more on [unsplash.com/s/photos/Bentley](https://unsplash.com/s/photos/Bentley)
  

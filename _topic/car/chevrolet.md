@@ -12,13 +12,13 @@ tags:
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Chevrolet**.
  
 ![Chevrolet](/images/car/chevrolet.1.jpg)
-Photographer:  Yuvraj Singh
+Photographer:  Dave Pullis
  
 ![Chevrolet](/images/car/chevrolet.2.jpg)
-Photographer:  Giorgio Trovato
+Photographer:  Nathan Dumlao
  
 ![Chevrolet](/images/car/chevrolet.3.jpg)
-Photographer:  Ethan Currier
+Photographer:  Nathan Dumlao
  
 Find even more on [unsplash.com/s/photos/Chevrolet](https://unsplash.com/s/photos/Chevrolet)
  
