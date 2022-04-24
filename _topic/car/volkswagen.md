@@ -1,5 +1,5 @@
 ---
-title: volkswagen
+title: Volkswagen
 layout: splash
 image: /images/car/volkswagen.1.jpg
 category: car
@@ -7,19 +7,19 @@ tags:
 - germany
 
 ---
-# Photos for volkswagen
+# Photos for Volkswagen
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **volkswagen**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Volkswagen**.
  
-![volkswagen](/images/car/volkswagen.1.jpg)
+![Volkswagen](/images/car/volkswagen.1.jpg)
 Photographer:  Martin Katler
  
-![volkswagen](/images/car/volkswagen.2.jpg)
+![Volkswagen](/images/car/volkswagen.2.jpg)
 Photographer:  Julian Hochgesang
  
-![volkswagen](/images/car/volkswagen.3.jpg)
+![Volkswagen](/images/car/volkswagen.3.jpg)
 Photographer:  Malusi Msomi
  
-Find even more on [unsplash.com/s/photos/volkswagen](https://unsplash.com/s/photos/volkswagen)
+Find even more on [unsplash.com/s/photos/Volkswagen](https://unsplash.com/s/photos/Volkswagen)
  

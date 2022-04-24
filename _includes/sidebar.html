@@ -11,10 +11,10 @@
       {% endif %}{% endif %}{% endif %}{% endfor %}
       <hr>
       <a class="xxsidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a> &bull;
-      <a class="xxsidebar-nav-item" href="/topic/index/"><b>Topics</b></a> &bull;
+      <a class="xxsidebar-nav-item" href="/topic/index/">Topics</a> &bull;
       <a class="xxsidebar-nav-item" href="/tag">Tags</a> &bull;
       <a class="xxsidebar-nav-item" href="/search">Search</a>
-      <a class="sidebar-nav-item" href="/about">About this site</a>
+      <a class="sidebar-nav-item" href="/about"><small>About this site</small></a>
     </nav>
     {% include socials.html %}
     <p><small>&copy; 2004-{{ site.time | date: '%Y' }} by Peter Forret</small></p>

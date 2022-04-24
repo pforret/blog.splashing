@@ -1,24 +1,24 @@
 ---
-title: beats
+title: Beats
 layout: splash
 image: /images/hardware/beats.1.jpg
 category: hardware
 tags:
 
 ---
-# Photos for beats
+# Photos for Beats
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **beats**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Beats**.
  
-![beats](/images/hardware/beats.1.jpg)
+![Beats](/images/hardware/beats.1.jpg)
 Photographer:  Safarulla Kasmi
  
-![beats](/images/hardware/beats.2.jpg)
+![Beats](/images/hardware/beats.2.jpg)
 Photographer:  Adam Birkett
  
-![beats](/images/hardware/beats.3.jpg)
+![Beats](/images/hardware/beats.3.jpg)
 Photographer:  James Yarema
  
-Find even more on [unsplash.com/s/photos/beats](https://unsplash.com/s/photos/beats)
+Find even more on [unsplash.com/s/photos/Beats](https://unsplash.com/s/photos/Beats)
  

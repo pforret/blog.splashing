@@ -1,24 +1,24 @@
 ---
-title: dacia
+title: Dacia
 layout: splash
 image: /images/car/dacia.1.jpg
 category: car
 tags:
 
 ---
-# Photos for dacia
+# Photos for Dacia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **dacia**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Dacia**.
  
-![dacia](/images/car/dacia.1.jpg)
+![Dacia](/images/car/dacia.1.jpg)
 Photographer:  Jesse Huisman
  
-![dacia](/images/car/dacia.2.jpg)
+![Dacia](/images/car/dacia.2.jpg)
 Photographer:  Adrien Delforge
  
-![dacia](/images/car/dacia.3.jpg)
+![Dacia](/images/car/dacia.3.jpg)
 Photographer:  Bereczki Domokos
  
-Find even more on [unsplash.com/s/photos/dacia](https://unsplash.com/s/photos/dacia)
+Find even more on [unsplash.com/s/photos/Dacia](https://unsplash.com/s/photos/Dacia)
  

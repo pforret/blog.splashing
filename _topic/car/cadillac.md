@@ -1,24 +1,24 @@
 ---
-title: cadillac
+title: Cadillac
 layout: splash
 image: /images/car/cadillac.1.jpg
 category: car
 tags:
 
 ---
-# Photos for cadillac
+# Photos for Cadillac
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **cadillac**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Cadillac**.
  
-![cadillac](/images/car/cadillac.1.jpg)
+![Cadillac](/images/car/cadillac.1.jpg)
 Photographer:  Talia
  
-![cadillac](/images/car/cadillac.2.jpg)
+![Cadillac](/images/car/cadillac.2.jpg)
 Photographer:  Aleks Marinkovic
  
-![cadillac](/images/car/cadillac.3.jpg)
+![Cadillac](/images/car/cadillac.3.jpg)
 Photographer:  Talia
  
-Find even more on [unsplash.com/s/photos/cadillac](https://unsplash.com/s/photos/cadillac)
+Find even more on [unsplash.com/s/photos/Cadillac](https://unsplash.com/s/photos/Cadillac)
  

@@ -1,24 +1,24 @@
 ---
-title: mitsubishi
+title: Mitsubishi
 layout: splash
 image: /images/car/mitsubishi.1.jpg
 category: car
 tags:
 
 ---
-# Photos for mitsubishi
+# Photos for Mitsubishi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **mitsubishi**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mitsubishi**.
  
-![mitsubishi](/images/car/mitsubishi.1.jpg)
+![Mitsubishi](/images/car/mitsubishi.1.jpg)
 Photographer:  Komarov Egor
  
-![mitsubishi](/images/car/mitsubishi.2.jpg)
+![Mitsubishi](/images/car/mitsubishi.2.jpg)
 Photographer:  BezeVision
  
-![mitsubishi](/images/car/mitsubishi.3.jpg)
+![Mitsubishi](/images/car/mitsubishi.3.jpg)
 Photographer:  Matteo Balzanelli
  
-Find even more on [unsplash.com/s/photos/mitsubishi](https://unsplash.com/s/photos/mitsubishi)
+Find even more on [unsplash.com/s/photos/Mitsubishi](https://unsplash.com/s/photos/Mitsubishi)
  

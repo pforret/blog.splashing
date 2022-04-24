@@ -1,24 +1,24 @@
 ---
-title: lancia
+title: Lancia
 layout: splash
 image: /images/car/lancia.1.jpg
 category: car
 tags:
 
 ---
-# Photos for lancia
+# Photos for Lancia
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **lancia**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lancia**.
  
-![lancia](/images/car/lancia.1.jpg)
+![Lancia](/images/car/lancia.1.jpg)
 Photographer:  Wassim Chouak
  
-![lancia](/images/car/lancia.2.jpg)
+![Lancia](/images/car/lancia.2.jpg)
 Photographer:  Julian Hochgesang
  
-![lancia](/images/car/lancia.3.jpg)
+![Lancia](/images/car/lancia.3.jpg)
 Photographer:  Alessio Zaccaria
  
-Find even more on [unsplash.com/s/photos/lancia](https://unsplash.com/s/photos/lancia)
+Find even more on [unsplash.com/s/photos/Lancia](https://unsplash.com/s/photos/Lancia)
  

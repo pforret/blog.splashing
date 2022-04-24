@@ -1,5 +1,5 @@
 ---
-title: citroen
+title: Citroen
 layout: splash
 image: /images/car/citroen.1.jpg
 category: car
@@ -7,19 +7,19 @@ tags:
 - france
 
 ---
-# Photos for citroen
+# Photos for Citroen
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **citroen**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Citroen**.
  
-![citroen](/images/car/citroen.1.jpg)
+![Citroen](/images/car/citroen.1.jpg)
 Photographer:  Chiara Polo
  
-![citroen](/images/car/citroen.2.jpg)
+![Citroen](/images/car/citroen.2.jpg)
 Photographer:  Vinícius Henrique Photography
  
-![citroen](/images/car/citroen.3.jpg)
+![Citroen](/images/car/citroen.3.jpg)
 Photographer:  Andy Willis
  
-Find even more on [unsplash.com/s/photos/citroen](https://unsplash.com/s/photos/citroen)
+Find even more on [unsplash.com/s/photos/Citroen](https://unsplash.com/s/photos/Citroen)
  

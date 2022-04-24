@@ -1,24 +1,24 @@
 ---
-title: maserati
+title: Maserati
 layout: splash
 image: /images/car/maserati.1.jpg
 category: car
 tags:
 
 ---
-# Photos for maserati
+# Photos for Maserati
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **maserati**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Maserati**.
  
-![maserati](/images/car/maserati.1.jpg)
+![Maserati](/images/car/maserati.1.jpg)
 Photographer:  Rachael 🪐
  
-![maserati](/images/car/maserati.2.jpg)
+![Maserati](/images/car/maserati.2.jpg)
 Photographer:  Talia
  
-![maserati](/images/car/maserati.3.jpg)
+![Maserati](/images/car/maserati.3.jpg)
 Photographer:  Talia
  
-Find even more on [unsplash.com/s/photos/maserati](https://unsplash.com/s/photos/maserati)
+Find even more on [unsplash.com/s/photos/Maserati](https://unsplash.com/s/photos/Maserati)
  

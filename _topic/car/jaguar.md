@@ -1,24 +1,25 @@
 ---
-title: jaguar
+title: Jaguar
 layout: splash
 image: /images/car/jaguar.1.jpg
 category: car
 tags:
+- uk
 
 ---
-# Photos for jaguar
+# Photos for Jaguar
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **jaguar**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Jaguar**.
  
-![jaguar](/images/car/jaguar.1.jpg)
+![Jaguar](/images/car/jaguar.1.jpg)
 Photographer:  Dustin Humes
  
-![jaguar](/images/car/jaguar.2.jpg)
+![Jaguar](/images/car/jaguar.2.jpg)
 Photographer:  Uriel Soberanes
  
-![jaguar](/images/car/jaguar.3.jpg)
+![Jaguar](/images/car/jaguar.3.jpg)
 Photographer:  CHUTTERSNAP
  
-Find even more on [unsplash.com/s/photos/jaguar](https://unsplash.com/s/photos/jaguar)
+Find even more on [unsplash.com/s/photos/Jaguar](https://unsplash.com/s/photos/Jaguar)
  

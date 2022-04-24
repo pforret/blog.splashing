@@ -1,24 +1,24 @@
 ---
-title: mini
+title: Mini
 layout: splash
 image: /images/car/mini.1.jpg
 category: car
 tags:
 
 ---
-# Photos for mini
+# Photos for Mini
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **mini**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Mini**.
  
-![mini](/images/car/mini.1.jpg)
+![Mini](/images/car/mini.1.jpg)
 Photographer:  Devon Janse van Rensburg
  
-![mini](/images/car/mini.2.jpg)
+![Mini](/images/car/mini.2.jpg)
 Photographer:  Martin Katler
  
-![mini](/images/car/mini.3.jpg)
+![Mini](/images/car/mini.3.jpg)
 Photographer:  Devon Janse van Rensburg
  
-Find even more on [unsplash.com/s/photos/mini](https://unsplash.com/s/photos/mini)
+Find even more on [unsplash.com/s/photos/Mini](https://unsplash.com/s/photos/Mini)
  

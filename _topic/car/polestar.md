@@ -1,5 +1,5 @@
 ---
-title: polestar
+title: Polestar
 layout: splash
 image: /images/car/polestar.1.jpg
 category: car
@@ -7,19 +7,19 @@ tags:
 - sweden
 
 ---
-# Photos for polestar
+# Photos for Polestar
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **polestar**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Polestar**.
  
-![polestar](/images/car/polestar.1.jpg)
+![Polestar](/images/car/polestar.1.jpg)
 Photographer:  redcharlie
  
-![polestar](/images/car/polestar.2.jpg)
+![Polestar](/images/car/polestar.2.jpg)
 Photographer:  redcharlie
  
-![polestar](/images/car/polestar.3.jpg)
+![Polestar](/images/car/polestar.3.jpg)
 Photographer:  Julian
  
-Find even more on [unsplash.com/s/photos/polestar](https://unsplash.com/s/photos/polestar)
+Find even more on [unsplash.com/s/photos/Polestar](https://unsplash.com/s/photos/Polestar)
  

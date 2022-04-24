@@ -1,24 +1,24 @@
 ---
-title: isuzu
+title: Isuzu
 layout: splash
 image: /images/car/isuzu.1.jpg
 category: car
 tags:
 
 ---
-# Photos for isuzu
+# Photos for Isuzu
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **isuzu**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Isuzu**.
  
-![isuzu](/images/car/isuzu.1.jpg)
+![Isuzu](/images/car/isuzu.1.jpg)
 Photographer:  Filip Bunkens
  
-![isuzu](/images/car/isuzu.2.jpg)
+![Isuzu](/images/car/isuzu.2.jpg)
 Photographer:  Filip Bunkens
  
-![isuzu](/images/car/isuzu.3.jpg)
+![Isuzu](/images/car/isuzu.3.jpg)
 Photographer:  Ryno Marais
  
-Find even more on [unsplash.com/s/photos/isuzu](https://unsplash.com/s/photos/isuzu)
+Find even more on [unsplash.com/s/photos/Isuzu](https://unsplash.com/s/photos/Isuzu)
  

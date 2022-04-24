@@ -1,5 +1,5 @@
 ---
-title: tesla
+title: Tesla
 layout: splash
 image: /images/car/tesla.1.jpg
 category: car
@@ -7,19 +7,19 @@ tags:
 - usa
 
 ---
-# Photos for tesla
+# Photos for Tesla
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **tesla**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Tesla**.
  
-![tesla](/images/car/tesla.1.jpg)
+![Tesla](/images/car/tesla.1.jpg)
 Photographer:  Dmitry Novikov
  
-![tesla](/images/car/tesla.2.jpg)
+![Tesla](/images/car/tesla.2.jpg)
 Photographer:  Milan Csizmadia
  
-![tesla](/images/car/tesla.3.jpg)
+![Tesla](/images/car/tesla.3.jpg)
 Photographer:  Austin Ramsey
  
-Find even more on [unsplash.com/s/photos/tesla](https://unsplash.com/s/photos/tesla)
+Find even more on [unsplash.com/s/photos/Tesla](https://unsplash.com/s/photos/Tesla)
  

@@ -1,5 +1,5 @@
 ---
-title: audi
+title: Audi
 layout: splash
 image: /images/car/audi.1.jpg
 category: car
@@ -7,19 +7,19 @@ tags:
 - germany
 
 ---
-# Photos for audi
+# Photos for Audi
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **audi**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Audi**.
  
-![audi](/images/car/audi.1.jpg)
+![Audi](/images/car/audi.1.jpg)
 Photographer:  Mattia Righetti
  
-![audi](/images/car/audi.2.jpg)
+![Audi](/images/car/audi.2.jpg)
 Photographer:  Jannis Lucas
  
-![audi](/images/car/audi.3.jpg)
+![Audi](/images/car/audi.3.jpg)
 Photographer:  Roberto Nickson
  
-Find even more on [unsplash.com/s/photos/audi](https://unsplash.com/s/photos/audi)
+Find even more on [unsplash.com/s/photos/Audi](https://unsplash.com/s/photos/Audi)
  

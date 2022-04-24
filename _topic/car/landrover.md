@@ -1,24 +1,24 @@
 ---
-title: landrover
+title: Landrover
 layout: splash
 image: /images/car/landrover.1.jpg
 category: car
 tags:
 
 ---
-# Photos for landrover
+# Photos for Landrover
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **landrover**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Landrover**.
  
-![landrover](/images/car/landrover.1.jpg)
+![Landrover](/images/car/landrover.1.jpg)
 Photographer:  Dillon Shook
  
-![landrover](/images/car/landrover.2.jpg)
+![Landrover](/images/car/landrover.2.jpg)
 Photographer:  ardito ryan Harrisna
  
-![landrover](/images/car/landrover.3.jpg)
+![Landrover](/images/car/landrover.3.jpg)
 Photographer:  Rod Long
  
-Find even more on [unsplash.com/s/photos/landrover](https://unsplash.com/s/photos/landrover)
+Find even more on [unsplash.com/s/photos/Landrover](https://unsplash.com/s/photos/Landrover)
  

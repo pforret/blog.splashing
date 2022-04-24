@@ -1,24 +1,24 @@
 ---
-title: subaru
+title: Subaru
 layout: splash
 image: /images/car/subaru.1.jpg
 category: car
 tags:
 
 ---
-# Photos for subaru
+# Photos for Subaru
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **subaru**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Subaru**.
  
-![subaru](/images/car/subaru.1.jpg)
+![Subaru](/images/car/subaru.1.jpg)
 Photographer:  nick Kaufman
  
-![subaru](/images/car/subaru.2.jpg)
+![Subaru](/images/car/subaru.2.jpg)
 Photographer:  Kevin Solbrig
  
-![subaru](/images/car/subaru.3.jpg)
+![Subaru](/images/car/subaru.3.jpg)
 Photographer:  Jakob Rosen
  
-Find even more on [unsplash.com/s/photos/subaru](https://unsplash.com/s/photos/subaru)
+Find even more on [unsplash.com/s/photos/Subaru](https://unsplash.com/s/photos/Subaru)
  

@@ -1,24 +1,24 @@
 ---
-title: bentley
+title: Bentley
 layout: splash
 image: /images/car/bentley.1.jpg
 category: car
 tags:
 
 ---
-# Photos for bentley
+# Photos for Bentley
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **bentley**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Bentley**.
  
-![bentley](/images/car/bentley.1.jpg)
+![Bentley](/images/car/bentley.1.jpg)
 Photographer:  Krish Parmar
  
-![bentley](/images/car/bentley.2.jpg)
+![Bentley](/images/car/bentley.2.jpg)
 Photographer:  C B
  
-![bentley](/images/car/bentley.3.jpg)
+![Bentley](/images/car/bentley.3.jpg)
 Photographer:  Tim Krisztian
  
-Find even more on [unsplash.com/s/photos/bentley](https://unsplash.com/s/photos/bentley)
+Find even more on [unsplash.com/s/photos/Bentley](https://unsplash.com/s/photos/Bentley)
  

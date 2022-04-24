@@ -1,24 +1,24 @@
 ---
-title: lada
+title: Lada
 layout: splash
 image: /images/car/lada.1.jpg
 category: car
 tags:
 
 ---
-# Photos for lada
+# Photos for Lada
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **lada**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lada**.
  
-![lada](/images/car/lada.1.jpg)
+![Lada](/images/car/lada.1.jpg)
 Photographer:  The Nigmatic
  
-![lada](/images/car/lada.2.jpg)
+![Lada](/images/car/lada.2.jpg)
 Photographer:  John-Mark Smith
  
-![lada](/images/car/lada.3.jpg)
+![Lada](/images/car/lada.3.jpg)
 Photographer:  Aleksey Malinovski
  
-Find even more on [unsplash.com/s/photos/lada](https://unsplash.com/s/photos/lada)
+Find even more on [unsplash.com/s/photos/Lada](https://unsplash.com/s/photos/Lada)
  

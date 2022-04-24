@@ -1,24 +1,24 @@
 ---
-title: lincoln
+title: Lincoln
 layout: splash
 image: /images/car/lincoln.1.jpg
 category: car
 tags:
 
 ---
-# Photos for lincoln
+# Photos for Lincoln
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **lincoln**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Lincoln**.
  
-![lincoln](/images/car/lincoln.1.jpg)
+![Lincoln](/images/car/lincoln.1.jpg)
 Photographer:  matthew Feeney
  
-![lincoln](/images/car/lincoln.2.jpg)
+![Lincoln](/images/car/lincoln.2.jpg)
 Photographer:  matthew Feeney
  
-![lincoln](/images/car/lincoln.3.jpg)
+![Lincoln](/images/car/lincoln.3.jpg)
 Photographer:  matthew Feeney
  
-Find even more on [unsplash.com/s/photos/lincoln](https://unsplash.com/s/photos/lincoln)
+Find even more on [unsplash.com/s/photos/Lincoln](https://unsplash.com/s/photos/Lincoln)
  
