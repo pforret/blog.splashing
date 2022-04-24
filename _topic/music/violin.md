@@ -4,6 +4,7 @@ layout: splash
 image: /images/music/violin.1.jpg
 category: music
 tags:
+- strings
 
 ---
 # Photos for violin

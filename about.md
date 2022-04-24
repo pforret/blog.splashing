@@ -1,9 +1,7 @@
 ---
-title: About ...
+title: About this site
 layout: page
 ---
-
-# About this site
 
 A pet project, combining my interests in photography, bash scripting and Jekyll SSG.
 
