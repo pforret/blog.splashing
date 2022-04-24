@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/keyboard.1.jpg
 category: hardware
 tags:
+- keyboard
 
 ---
-# Photos for keyboard
+# keyboard
+
+Keyboard may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **keyboard**.

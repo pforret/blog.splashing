@@ -4,9 +4,13 @@ layout: splash
 image: /images/tourism/cancun.1.jpg
 category: tourism
 tags:
+- cancun
 
 ---
-# Photos for Cancun
+# Destination: Cancun
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Cancun**.

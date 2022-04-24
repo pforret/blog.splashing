@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/kingston.1.jpg
 category: city
 tags:
+- kingston
 
 ---
-# Photos for Kingston
+# Kingston
+
+Kingston may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Kingston**.

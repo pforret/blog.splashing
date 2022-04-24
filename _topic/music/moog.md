@@ -1,25 +1,29 @@
 ---
-title: moog
+title: Moog
 layout: splash
 image: /images/music/moog.1.jpg
 category: music
 tags:
+- moog
 - brand
 
 ---
-# Photos for moog
+# Moog
+
+Moog may refer to:
+
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **moog**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Moog**.
  
-![moog](/images/music/moog.1.jpg)
+![Moog](/images/music/moog.1.jpg)
 Photographer:  Anton Shuvalov
  
-![moog](/images/music/moog.2.jpg)
+![Moog](/images/music/moog.2.jpg)
 Photographer:  Steve Harvey
  
-![moog](/images/music/moog.3.jpg)
+![Moog](/images/music/moog.3.jpg)
 Photographer:  Steve Harvey
  
-Find even more on [unsplash.com/s/photos/moog](https://unsplash.com/s/photos/moog)
+Find even more on [unsplash.com/s/photos/Moog](https://unsplash.com/s/photos/Moog)
  

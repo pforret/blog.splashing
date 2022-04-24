@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/acer.1.jpg
 category: hardware
 tags:
+- acer
 
 ---
-# Photos for Acer
+# Acer
+
+Acer may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Acer**.

@@ -4,9 +4,21 @@ layout: splash
 image: /images/city/rimini.1.jpg
 category: city
 tags:
+- rimini
 
 ---
-# Photos for Rimini
+# Rimini
+
+Rimini  is a city in the Emilia-Romagna region of northern Italy and capital city of the Province 
+of Rimini.
+It sprawls along the Adriatic Sea, on the coast between the rivers Marecchia  and Ausa .
+It is one of the most notable seaside resorts in Europe with revenue from both internal and 
+international tourism forming a significant portion of the city's economy.
+It is also near San Marino, a small nation within Italy.
+The first bathing establishment opened in 1843.
+Rimini is an art city with ancient Roman and Renaissance monuments, and is also the birthplace of 
+the film director Federico Fellini.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Rimini**.

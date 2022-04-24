@@ -7,7 +7,15 @@ tags:
 - eritrea
 
 ---
-# Photos for Eritrea
+# Eritrea
+
+Eritrea, officially the State of Eritrea, is a country in the Horn of Africa region of Eastern 
+Africa, with its capital  at Asmara.
+It is bordered by Ethiopia in the south, Sudan in the west, and Djibouti in the southeast.
+The northeastern and eastern parts of Eritrea have an extensive coastline along the Red Sea.
+The nation has a total area of approximately 117,600 km2, and includes the Dahlak Archipelago and 
+several of the Hanish Islands.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Eritrea**.

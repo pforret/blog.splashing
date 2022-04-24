@@ -7,7 +7,14 @@ tags:
 - tobago
 
 ---
-# Photos for Tobago
+# Tobago
+
+Tobago ( is an island and ward within the Republic of Trinidad and Tobago.
+It is located 35 kilometres  northeast of the larger island of Trinidad and about 160 kilometres  
+off the northeastern coast of Venezuela.
+It also lies to the southeast of Grenada.
+The official bird of Tobago is the cocrico.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Tobago**.

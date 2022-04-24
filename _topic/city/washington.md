@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/washington.1.jpg
 category: city
 tags:
+- washington
 
 ---
-# Photos for Washington
+# Washington
+
+Washington commonly refers to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Washington**.

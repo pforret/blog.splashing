@@ -4,10 +4,14 @@ layout: splash
 image: /images/hardware/macbookpro.1.jpg
 category: hardware
 tags:
+- macbookpro
 - apple
 
 ---
-# Photos for Macbook pro
+# Macbook pro
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Macbook pro**.

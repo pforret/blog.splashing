@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/msi.1.jpg
 category: hardware
 tags:
+- msi
 
 ---
-# Photos for MSI
+# MSI
+
+MSI may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **MSI**.

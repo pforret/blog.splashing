@@ -4,9 +4,17 @@ layout: splash
 image: /images/sport/archery.1.jpg
 category: sport
 tags:
+- archery
 
 ---
-# Photos for archery
+# Sport: archery
+
+Archery is the sport, practice, or skill of using a bow to shoot arrows.
+The word comes from the Latin arcus, meaning bow.
+Historically, archery has been used for hunting and combat.
+In modern times, it is mainly a competitive sport and recreational activity.
+A person who practices archery is typically called an archer, bowman or toxophilite.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **archery**.

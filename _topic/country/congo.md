@@ -8,7 +8,10 @@ tags:
 - africa
 
 ---
-# Photos for Congo
+# Congo
+
+Congo may refer to either of two countries that border the Congo River in central Africa:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Congo**.

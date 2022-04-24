@@ -4,9 +4,16 @@ layout: splash
 image: /images/music/glockenspiel.1.jpg
 category: music
 tags:
+- glockenspiel
 
 ---
-# Photos for glockenspiel
+# glockenspiel
+
+The glockenspiel  or bells is a percussion instrument.
+It consists of pitched aluminum or steel bars arranged in a keyboard layout.
+This makes the glockenspiel a type of metallophone, similar to the vibraphone.
+ 
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **glockenspiel**.

@@ -4,9 +4,23 @@ layout: splash
 image: /images/city/berlin.1.jpg
 category: city
 tags:
+- berlin
 
 ---
-# Photos for Berlin
+# Berlin
+
+Berlin  is the capital and largest city of Germany by both area and population.
+Its 3.7 million inhabitants make it the European Union's most populous city, according to 
+population within city limits.
+One of Germany's sixteen constituent states, Berlin is surrounded by the State of Brandenburg and 
+contiguous with Potsdam, Brandenburg's capital.
+Berlin's urban area, which has a population of around 4.5 million, is the second most populous 
+urban area in Germany after the Ruhr.
+The Berlin-Brandenburg capital region has around 6.2 million inhabitants and is Germany's 
+third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.
+There has been an unsuccessful attempt to unify both states in 1996 and the states cooperate on 
+many matters to this day.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Berlin**.

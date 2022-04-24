@@ -7,7 +7,19 @@ tags:
 - venezuela
 
 ---
-# Photos for Venezuela
+# Venezuela
+
+Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of 
+South America, consisting of a continental landmass and many islands and islets in the Caribbean 
+Sea.
+It has a territorial extension of 916,445 km2, and its population was estimated at 28 million in 
+2019.
+The capital and largest urban agglomeration is the city of Caracas.
+
+The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on 
+the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east and on the east by 
+Guyana.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Venezuela**.

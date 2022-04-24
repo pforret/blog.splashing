@@ -4,10 +4,22 @@ layout: splash
 image: /images/city/kyoto.1.jpg
 category: city
 tags:
+- kyoto
 - japan
 
 ---
-# Photos for Kyoto
+# Kyoto
+
+Kyoto, officially Kyoto City, is the capital city of Kyoto Prefecture in Japan.
+Located in the Kansai region on the island of Honshu, Kyoto forms a part of the Keihanshin 
+metropolitan area along with Osaka and Kobe.
+As of 2021, the city has a population of 1.45 million.
+The city is the cultural anchor of a substantially larger metropolitan area known as Greater Kyoto, 
+a metropolitan statistical area  home to a census-estimated 3.8 million people.
+
+Kyoto is one of the oldest municipalities in Japan, having been chosen in 794 as the new seat of 
+Japan's imperial court by Emperor Kanmu.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Kyoto**.

@@ -4,9 +4,22 @@ layout: splash
 image: /images/hardware/raspberrypi.1.jpg
 category: hardware
 tags:
+- raspberrypi
 
 ---
-# Photos for Raspberry Pi
+# Raspberry Pi
+
+Raspberry Pi ( is a series of small single-board computers  developed in the United Kingdom by the 
+Raspberry Pi Foundation in association with Broadcom.
+The Raspberry Pi project originally leaned towards the promotion of teaching basic computer science 
+in schools and in developing countries.
+The original model became more popular than anticipated, selling outside its target market for uses 
+such as robotics.
+It is widely used in many areas, such as for weather monitoring, because of its low cost, 
+modularity, and open design.
+It is typically used by computer and electronic hobbyists, due to its adoption of HDMI and USB 
+devices.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Raspberry Pi**.

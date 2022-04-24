@@ -4,10 +4,20 @@ layout: splash
 image: /images/music/tambourine.1.jpg
 category: music
 tags:
+- tambourine
 - percussion
 
 ---
-# Photos for tambourine
+# tambourine
+
+The tambourine is a musical instrument in the percussion family consisting of a frame, often of 
+wood or plastic, with pairs of small metal jingles, called zills.
+Classically the term tambourine denotes an instrument with a drumhead, though some variants may not 
+have a head.
+Tambourines are often used with regular percussion sets.
+They can be mounted, for example on a stand as part of a drum kit, or they can be held in the hand 
+and played by tapping or hitting the instrument.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **tambourine**.

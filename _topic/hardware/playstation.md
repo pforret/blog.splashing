@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/playstation.1.jpg
 category: hardware
 tags:
+- playstation
 
 ---
-# Photos for Playstation
+# Playstation
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Playstation**.

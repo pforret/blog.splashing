@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/screen.1.jpg
 category: hardware
 tags:
+- screen
 
 ---
-# Photos for screen
+# screen
+
+Screen or Screens may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **screen**.

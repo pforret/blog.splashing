@@ -4,9 +4,18 @@ layout: splash
 image: /images/music/piccolo.1.jpg
 category: music
 tags:
+- piccolo
 
 ---
-# Photos for piccolo
+# piccolo
+
+The piccolo   is a half-size flute, and a member of the woodwind family of musical instruments.
+The modern piccolo has most of the same fingerings as its larger sibling, the standard transverse 
+flute, but the sound it produces is an octave higher than written.
+This has given rise to the name ottavino, by which the instrument is called in the scores of 
+Italian composers.
+It is also called flauto piccolo or flautino.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **piccolo**.

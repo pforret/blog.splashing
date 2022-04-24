@@ -4,10 +4,14 @@ layout: splash
 image: /images/hardware/imac.1.jpg
 category: hardware
 tags:
+- imac
 - apple
 
 ---
-# Photos for imac
+# imac
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **imac**.

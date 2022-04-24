@@ -4,9 +4,14 @@ layout: splash
 image: /images/profession/plumber.1.jpg
 category: profession
 tags:
+- plumber
 
 ---
-# Photos for plumber
+# Profession: plumber
+
+A plumber is a tradesperson who specializes in installing and maintaining systems used for potable  
+water, and for sewage and drainage in plumbing systems.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **plumber**.

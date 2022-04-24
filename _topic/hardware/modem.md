@@ -4,9 +4,19 @@ layout: splash
 image: /images/hardware/modem.1.jpg
 category: hardware
 tags:
+- modem
 
 ---
-# Photos for modem
+# modem
+
+A modulator-demodulator or modem is a computer hardware device that converts data from a digital 
+format into a format suitable for an analog transmission medium such as telephone or radio.
+A modem transmits data by modulating one or more carrier wave signals to encode digital 
+information, while the receiver demodulates the signal to recreate the original digital information.
+The goal is to produce a signal that can be transmitted easily and decoded reliably.
+Modems can be used with almost any means of transmitting analog signals, from light-emitting diodes 
+to radio.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **modem**.

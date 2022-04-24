@@ -7,7 +7,16 @@ tags:
 - cyprus
 
 ---
-# Photos for Cyprus
+# Cyprus
+
+Cyprus, officially the Republic of Cyprus, is an island country in the eastern Mediterranean Sea 
+south of the Anatolian Peninsula.
+It is the third-largest and third-most populous island in the Mediterranean, and is south of Turkey 
+and west of Syria.
+Its capital and largest city is Nicosia.
+
+The earliest known human activity on the island dates to around the 10th millennium BC.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Cyprus**.

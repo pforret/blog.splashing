@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/manager.1.jpg
 category: profession
 tags:
+- manager
 
 ---
-# Photos for manager
+# Profession: manager
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **manager**.

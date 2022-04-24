@@ -4,9 +4,18 @@ layout: splash
 image: /images/hardware/mouse.1.jpg
 category: hardware
 tags:
+- mouse
 
 ---
-# Photos for mouse
+# mouse
+
+A mouse  is a small mammal.
+Characteristically, mice are known to have a pointed snout, small rounded ears, a body-length scaly 
+tail, and a high breeding rate.
+The best known mouse species is the common house mouse .
+Mice are also popular as pets.
+In some places, certain kinds of field mice are locally common.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **mouse**.

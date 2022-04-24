@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/phuket.1.jpg
 category: city
 tags:
+- phuket
 
 ---
-# Photos for Phuket
+# Phuket
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Phuket**.

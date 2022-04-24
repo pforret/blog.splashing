@@ -4,9 +4,22 @@ layout: splash
 image: /images/city/newdelhi.1.jpg
 category: city
 tags:
+- newdelhi
 
 ---
-# Photos for New Delhi
+# New Delhi
+
+New Delhi  is the capital of India and a part of the National Capital Territory of Delhi .
+New Delhi is the seat of all three branches of the government of India, hosting the Rashtrapati 
+Bhavan, Parliament House, and the Supreme Court of India.
+New Delhi is a municipality within the NCT, administrated by the NDMC, which covers mostly Lutyens' 
+Delhi and a few adjacent areas.
+The municipal area is part of a larger administrative district, the New Delhi district.
+
+Although colloquially Delhi and New Delhi are used interchangeably to refer to the National Capital 
+Territory of Delhi, these are distinct entities, with both the municipality and the New Delhi 
+district forming a relatively small part of the megacity of Delhi.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **New Delhi**.

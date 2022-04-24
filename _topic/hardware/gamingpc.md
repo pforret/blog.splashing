@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/gamingpc.1.jpg
 category: hardware
 tags:
+- gamingpc
 
 ---
-# Photos for gaming PC
+# gaming PC
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **gaming PC**.

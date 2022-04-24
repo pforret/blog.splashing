@@ -2,5 +2,5 @@
 layout: with_tag
 title: Brand
 keyword: brand
-count: 5
+count: 8
 ---

@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/rugby.1.jpg
 category: sport
 tags:
+- rugby
 
 ---
-# Photos for rugby
+# Sport: rugby
+
+Rugby may refer to: 
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **rugby**.

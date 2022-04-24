@@ -4,10 +4,14 @@ layout: splash
 image: /images/tourism/costadorada.1.jpg
 category: tourism
 tags:
+- costadorada
 - spain
 
 ---
-# Photos for Costa Dorada
+# Destination: Costa Dorada
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Costa Dorada**.

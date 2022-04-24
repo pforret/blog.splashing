@@ -4,10 +4,14 @@ layout: splash
 image: /images/hardware/macbookair.1.jpg
 category: hardware
 tags:
+- macbookair
 - apple
 
 ---
-# Photos for Macbook air
+# Macbook air
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Macbook air**.

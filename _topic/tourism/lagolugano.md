@@ -4,10 +4,14 @@ layout: splash
 image: /images/tourism/lagolugano.1.jpg
 category: tourism
 tags:
+- lagolugano
 - italy
 
 ---
-# Photos for Lago Lugano
+# Destination: Lago Lugano
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Lago Lugano**.

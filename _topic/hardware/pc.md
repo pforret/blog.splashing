@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/pc.1.jpg
 category: hardware
 tags:
+- pc
 
 ---
-# Photos for PC
+# PC
+
+PC or pc may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **PC**.

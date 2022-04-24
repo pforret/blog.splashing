@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/georgetown.1.jpg
 category: city
 tags:
+- georgetown
 
 ---
-# Photos for Georgetown
+# Georgetown
+
+Georgetown or George Town may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Georgetown**.

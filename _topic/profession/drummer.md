@@ -4,9 +4,18 @@ layout: splash
 image: /images/profession/drummer.1.jpg
 category: profession
 tags:
+- drummer
 
 ---
-# Photos for drummer
+# Profession: drummer
+
+A drummer is a percussionist who creates music using drums.
+
+Most contemporary western bands that play rock, pop, jazz, or R{wikipedia}B music include a drummer for 
+purposes including timekeeping and embellishing the musical timbre.
+The drummer's equipment includes a drum kit, which includes various drums, cymbals and an 
+assortment of accessory hardware such as pedals, standing support mechanisms, and drum sticks.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **drummer**.

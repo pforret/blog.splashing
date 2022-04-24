@@ -4,10 +4,14 @@ layout: splash
 image: /images/hardware/wifirouter.1.jpg
 category: hardware
 tags:
+- wifirouter
 - network
 
 ---
-# Photos for wifi router
+# wifi router
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **wifi router**.

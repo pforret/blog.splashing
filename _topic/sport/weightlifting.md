@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/weightlifting.1.jpg
 category: sport
 tags:
+- weightlifting
 
 ---
-# Photos for weightlifting
+# Sport: weightlifting
+
+Weightlifting may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **weightlifting**.

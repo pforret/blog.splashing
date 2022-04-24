@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/calcutta.1.jpg
 category: city
 tags:
+- calcutta
 - india
 
 ---
-# Photos for Calcutta
+# Calcutta
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Calcutta**.

@@ -7,7 +7,18 @@ tags:
 - romania
 
 ---
-# Photos for Romania
+# Romania
+
+Romania  is a country located at the crossroads of Central, Eastern, and Southeastern Europe.
+It borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the 
+southwest, Moldova to the east, and the Black Sea to the southeast.
+It has a predominantly temperate-continental climate, and an area of 238,397 km2, with a population 
+of around 19 million.
+Romania is the twelfth-largest country in Europe and the sixth-most populous member state of the 
+European Union.
+Its capital and largest city is Bucharest, and other major urban areas include Iași, Cluj-Napoca, 
+Timișoara, Constanța, Craiova, Brașov, and Galați.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Romania**.

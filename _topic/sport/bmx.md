@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/bmx.1.jpg
 category: sport
 tags:
+- bmx
 
 ---
-# Photos for bmx
+# Sport: bmx
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **bmx**.

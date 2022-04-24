@@ -4,10 +4,15 @@ layout: splash
 image: /images/tourism/positano.1.jpg
 category: tourism
 tags:
+- positano
 - italy
 
 ---
-# Photos for Positano
+# Destination: Positano
+
+Positano  is a village and comune on the Amalfi Coast, in Campania, Italy, mainly in an enclave in 
+the hills leading down to the coast.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Positano**.

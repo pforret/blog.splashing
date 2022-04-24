@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/developer.1.jpg
 category: profession
 tags:
+- developer
 
 ---
-# Photos for developer
+# Profession: developer
+
+Developer may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **developer**.

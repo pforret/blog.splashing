@@ -1,9 +1,18 @@
-DAW
+Akai|brand
+Epiphone|brand
+Fender|brand
+Ibanez|brand
+Korg|brand
+Moog|brand
+Pioneer|brand
+Roland|brand
 accordion
+acoustic guitar
 banjo
 bass guitar
 bassoon
 bongo|percussion
+cassette tape
 cello|strings
 clarinet|wind
 conga|percussion
@@ -11,31 +20,28 @@ contrabass|strings
 cornet
 cymbal|percussion
 didgeridoo
+double bass
 drums|percussion
-fender|brand
+electric guitar
 fiddle
 flamenco guitar
 flute
 french horn
-gibson|brand
 glockenspiel
 gong
 guitar
 harp
 harpsichord
 kalimba
-korg|brand
 lute
 mandolin
 marimba
 melodica
-moog|brand
 oboe
 ocarina
 piano
 piccolo
 recorder
-roland|brand
 sampler
 saxophone
 sitar
@@ -46,6 +52,7 @@ trombone
 trumpet
 tuba
 ukelele|strings
+vinyl
 viola|strings
 violin|strings
 xylophone

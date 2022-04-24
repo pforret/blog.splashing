@@ -4,10 +4,14 @@ layout: splash
 image: /images/tourism/vatican.1.jpg
 category: tourism
 tags:
+- vatican
 - italy
 
 ---
-# Photos for Vatican
+# Destination: Vatican
+
+Vatican may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Vatican**.

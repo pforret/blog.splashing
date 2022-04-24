@@ -84,6 +84,10 @@ do_loop() {
   [[ ! -f "$template" ]] && die " Cannot find template $template"
   [[ -f "$template_dir/$action.template.md" ]] && template="$template_dir/$action.template.md"
   debug "Template: [$template]"
+  local use_wikipedia=0
+  if grep wikipedia "$template" > /dev/null ; then
+    use_wikipedia=1
+  fi
 
   local name
   local output_dir="$out_dir/$action"
@@ -133,14 +137,33 @@ do_loop() {
         progress "===-- $name (photo 3)"
         image3=$(do_splashmark "$name" "$title" "$search" "$image_dir/$slug.3.jpg" 3)
 
+        wikipedia=""
+        if [[ $use_wikipedia -gt 0 ]] ; then
+          require_binary shwiki "basher install pforret/shwiki"
+          debug "Lookup up [$name] in Wikipedia ..."
+          local term=${name// /+}
+          wikipedia=$(shwiki -c -p 2 -s 5 search "$term")
+        fi
+
         progress "====- $name (markdown 1/2)"
-        < "$template" \
-          sed "s|{title}|$name|g" \
-        | sed "s|{image}|/$image1|g" \
-        | sed "s|{topic}|$action|g" \
-        | sed "s|{slug}|$slug|g" \
-        | sed "s|{tags}|$taglist|g" \
-        > "$output_md"
+        debug "$name / $slug / $taglist"
+        #debug "Wikipedia: [$wikipedia]"
+        < "$template" awk \
+          -v title="$name" \
+          -v image="/$image1" \
+          -v topic="$action" \
+          -v slug="$slug" \
+          -v tags="$taglist" \
+          -v wikipedia="$wikipedia" \
+          '{
+            gsub(/{title}/,title);
+            gsub(/{image}/,image);
+            gsub(/{topic}/,topic);
+            gsub(/{slug}/,slug);
+            gsub(/{tags}/,tags);
+            gsub(/{wikipedia}/,wikipedia);
+            print;
+          }' > "$output_md"
 
         progress "===== $name (markdown 2/2)"
         {

@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/athletics.1.jpg
 category: sport
 tags:
+- athletics
 
 ---
-# Photos for athletics
+# Sport: athletics
+
+Athletics may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **athletics**.

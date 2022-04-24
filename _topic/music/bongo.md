@@ -4,10 +4,14 @@ layout: splash
 image: /images/music/bongo.1.jpg
 category: music
 tags:
+- bongo
 - percussion
 
 ---
-# Photos for bongo
+# bongo
+
+Bongo may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **bongo**.

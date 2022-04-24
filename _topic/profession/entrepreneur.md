@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/entrepreneur.1.jpg
 category: profession
 tags:
+- entrepreneur
 
 ---
-# Photos for entrepreneur
+# Profession: entrepreneur
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **entrepreneur**.

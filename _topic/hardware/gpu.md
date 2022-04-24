@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/gpu.1.jpg
 category: hardware
 tags:
+- gpu
 
 ---
-# Photos for gpu
+# gpu
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **gpu**.

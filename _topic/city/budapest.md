@@ -4,10 +4,24 @@ layout: splash
 image: /images/city/budapest.1.jpg
 category: city
 tags:
+- budapest
 - hungary
 
 ---
-# Photos for Budapest
+# Budapest
+
+Budapest  is the capital and most populous city of Hungary.
+It is the ninth-largest city in the European Union by population within city limits; the city has 
+an estimated population of 1,752,286 over a land area of about 525 square kilometres .
+Budapest, which is both a city and county, forms the centre of the Budapest metropolitan area, 
+which has an area of 7,626 square kilometres  and a population of 3,303,786, comprising 33% of the 
+population of Hungary.The history of Budapest began when an early Celtic settlement transformed 
+into the Roman town of Aquincum, the capital of Lower Pannonia.
+The Hungarians arrived in the territory in the late 9th century, but the area was pillaged by the 
+Mongols in 1241–42.
+Re-established Buda became one of the centres of Renaissance humanist culture by the 15th century.
+The Battle of Mohács, in 1526, was followed by nearly 150 years of Ottoman rule.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Budapest**.

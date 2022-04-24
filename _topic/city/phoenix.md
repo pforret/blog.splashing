@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/phoenix.1.jpg
 category: city
 tags:
+- phoenix
 
 ---
-# Photos for Phoenix
+# Phoenix
+
+Phoenix most often refers to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Phoenix**.

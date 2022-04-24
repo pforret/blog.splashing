@@ -7,7 +7,15 @@ tags:
 - qatar
 
 ---
-# Photos for Qatar
+# Qatar
+
+Qatar, officially the State of Qatar, is a country in Western Asia.
+It occupies the small Qatar Peninsula on the northeastern coast of the Arabian Peninsula, and 
+shares its sole land border with neighbouring Gulf Cooperation Council monarchy Saudi Arabia to the 
+south, with the rest of its territory surrounded by the Persian Gulf.
+The Gulf of Bahrain, an inlet of the Persian Gulf, separates Qatar from nearby Bahrain.
+The capital is Doha, home to over 80% of the nation's population.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Qatar**.

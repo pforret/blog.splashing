@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/padel.1.jpg
 category: sport
 tags:
+- padel
 
 ---
-# Photos for padel
+# Sport: padel
+
+Padel can refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **padel**.

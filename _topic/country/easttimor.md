@@ -7,7 +7,16 @@ tags:
 - easttimor
 
 ---
-# Photos for East Timor
+# East Timor
+
+East Timor, also known as Timor-Leste, officially the Democratic Republic of Timor-Leste, is an 
+island country in Southeast Asia.
+It comprises the eastern half of the island of Timor, the nearby islands of Atauro and Jaco, and 
+Oecusse, an exclave on the northwestern side of the island surrounded by Indonesian West Timor.
+Australia is the country's southern neighbour, separated by the Timor Sea.
+The country's size is 15,007 square kilometres .
+Dili is its capital.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **East Timor**.

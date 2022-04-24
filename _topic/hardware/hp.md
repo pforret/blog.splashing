@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/hp.1.jpg
 category: hardware
 tags:
+- hp
 
 ---
-# Photos for HP
+# HP
+
+HP may refer to: 
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **HP**.

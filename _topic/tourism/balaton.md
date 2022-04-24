@@ -4,10 +4,16 @@ layout: splash
 image: /images/tourism/balaton.1.jpg
 category: tourism
 tags:
+- balaton
 - hungary
 
 ---
-# Photos for Balaton
+# Destination: Balaton
+
+Lake Balaton is a lake in Hungary, the largest lake in central Europe
+
+Balaton may also refer to: 
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Balaton**.

@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/bogota.1.jpg
 category: city
 tags:
+- bogota
 
 ---
-# Photos for Bogota
+# Bogota
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Bogota**.

@@ -4,10 +4,16 @@ layout: splash
 image: /images/tourism/etna.1.jpg
 category: tourism
 tags:
+- etna
 - italy
 
 ---
-# Photos for Etna
+# Destination: Etna
+
+Mount Etna is an active volcano on the east coast of Sicily.
+
+Etna or ETNA may also refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Etna**.

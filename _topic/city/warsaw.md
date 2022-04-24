@@ -4,10 +4,22 @@ layout: splash
 image: /images/city/warsaw.1.jpg
 category: city
 tags:
+- warsaw
 - poland
 
 ---
-# Photos for Warsaw
+# Warsaw
+
+Warsaw, officially the Capital City of Warsaw, is the capital and largest city of Poland.
+The metropolis stands on the River Vistula in east-central Poland and its population is officially 
+estimated at 1.8 million residents within a greater metropolitan area of 3.1 million residents, 
+which makes Warsaw the 7th most-populous capital city in the European Union.
+The city area measures 517 km2  and comprises 18 boroughs, while the metropolitan area covers 6,100 
+km2 .
+Warsaw is an alpha- global city, a major cultural, political and economic hub, and the country's 
+seat of government.
+Its historical Old Town was designated a UNESCO World Heritage Site.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Warsaw**.

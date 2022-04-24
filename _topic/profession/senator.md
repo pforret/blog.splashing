@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/senator.1.jpg
 category: profession
 tags:
+- senator
 
 ---
-# Photos for senator
+# Profession: senator
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **senator**.

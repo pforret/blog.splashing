@@ -4,10 +4,14 @@ layout: splash
 image: /images/tourism/puglia.1.jpg
 category: tourism
 tags:
+- puglia
 - italy
 
 ---
-# Photos for Puglia
+# Destination: Puglia
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Puglia**.

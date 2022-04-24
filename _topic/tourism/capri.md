@@ -4,10 +4,22 @@ layout: splash
 image: /images/tourism/capri.1.jpg
 category: tourism
 tags:
+- capri
 - italy
 
 ---
-# Photos for Capri
+# Destination: Capri
+
+Capri  is an island located in the Tyrrhenian Sea off the Sorrento Peninsula, on the south side of 
+the Gulf of Naples in the Campania region of Italy.
+The main town Capri that is located on the island shares the name.
+It has been a resort since the time of the Roman Republic.
+
+Some of the main features of the island include the Marina Piccola, the Belvedere of Tragara, the 
+limestone crags called sea stacks that project above the sea, the town of Anacapri, the Blue 
+Grotto, the ruins of the Imperial Roman villas, and the vistas of various towns surrounding the 
+Island of Capri including Positano, Amalfi, Ravello, Sorrento, Nerano, and Naples.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Capri**.

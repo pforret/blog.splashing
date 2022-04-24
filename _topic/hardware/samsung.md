@@ -4,9 +4,22 @@ layout: splash
 image: /images/hardware/samsung.1.jpg
 category: hardware
 tags:
+- samsung
 
 ---
-# Photos for Samsung
+# Samsung
+
+The Samsung Group   is a South Korean multinational manufacturing conglomerate headquartered in 
+Samsung Town, Seoul, South Korea.
+It comprises numerous affiliated businesses, most of them united under the Samsung brand, and is 
+the largest South Korean chaebol .
+As of 2020, Samsung has the 8th highest global brand value.Samsung was founded by Lee Byung-chul in 
+1938 as a trading company.
+Over the next three decades, the group diversified into areas including food processing, textiles, 
+insurance, securities, and retail.
+Samsung entered the electronics industry in the late 1960s and the construction and shipbuilding 
+industries in the mid-1970s; these areas would drive its subsequent growth.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Samsung**.

@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/cancun.1.jpg
 category: city
 tags:
+- cancun
 - mexico
 
 ---
-# Photos for Cancun
+# Cancun
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Cancun**.

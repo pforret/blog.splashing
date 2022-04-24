@@ -7,7 +7,17 @@ tags:
 - vanuatu
 
 ---
-# Photos for Vanuatu
+# Vanuatu
+
+Vanuatu, officially the Republic of Vanuatu, is an island country located in the South Pacific 
+Ocean.
+The archipelago, which is of volcanic origin, is 1,750 km  east of northern Australia, 540 km  
+northeast of New Caledonia, east of New Guinea, southeast of the Solomon Islands, and west of Fiji.
+
+Vanuatu was first inhabited by Melanesian people.
+The first Europeans to visit the islands were a Spanish expedition led by Portuguese navigator 
+Fernandes de Queirós, who arrived on the largest island, Espíritu Santo, in 1606.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Vanuatu**.

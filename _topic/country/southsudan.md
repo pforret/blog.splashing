@@ -7,7 +7,18 @@ tags:
 - southsudan
 
 ---
-# Photos for South Sudan
+# South Sudan
+
+South Sudan (, officially known as the Republic of South Sudan, is a landlocked country on the 
+crossroads of Northeast and Central Africa.
+It is bordered by Ethiopia, Sudan, Central African Republic, Democratic Republic of the Congo, 
+Uganda and Kenya.
+Its population was estimated as 12,778,250 in 2019.
+ Juba is the capital and largest city.
+The nation is sometimes informally referred to as the Nilotic Republic .It gained independence from 
+Sudan in 2011, making it the most recent sovereign state or country with widespread recognition as 
+of 2022.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **South Sudan**.

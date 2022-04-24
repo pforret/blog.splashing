@@ -4,9 +4,13 @@ layout: splash
 image: /images/music/kalimba.1.jpg
 category: music
 tags:
+- kalimba
 
 ---
-# Photos for kalimba
+# kalimba
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **kalimba**.

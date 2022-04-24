@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/saopaulo.1.jpg
 category: city
 tags:
+- saopaulo
 - brasil
 
 ---
-# Photos for Sao Paulo
+# Sao Paulo
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Sao Paulo**.

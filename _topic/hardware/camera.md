@@ -4,9 +4,18 @@ layout: splash
 image: /images/hardware/camera.1.jpg
 category: hardware
 tags:
+- camera
 
 ---
-# Photos for camera
+# camera
+
+A camera is an optical instrument that captures a visual image.
+At a basic level, cameras consist of sealed boxes, with a small hole  that allows light through to 
+capture an image on a light-sensitive surface .
+Cameras have various mechanisms to control how the light falls onto the light-sensitive surface.
+Lenses focus the light entering the camera.
+The aperture can be narrowed or widened.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **camera**.

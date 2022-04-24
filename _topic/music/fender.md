@@ -1,25 +1,29 @@
 ---
-title: fender
+title: Fender
 layout: splash
 image: /images/music/fender.1.jpg
 category: music
 tags:
+- fender
 - brand
 
 ---
-# Photos for fender
+# Fender
+
+Fender may refer to:
+
  
 ## Unsplash photos
-These are the most popular photos on [Unsplash](https://unsplash.com) for **fender**.
+These are the most popular photos on [Unsplash](https://unsplash.com) for **Fender**.
  
-![fender](/images/music/fender.1.jpg)
-Photographer:  Simon Weisser
+![Fender](/images/music/fender.1.jpg)
+Photographer:  Jacek Dylag
  
-![fender](/images/music/fender.2.jpg)
-Photographer:  戸山 神奈
+![Fender](/images/music/fender.2.jpg)
+Photographer:  Markus Spiske
  
-![fender](/images/music/fender.3.jpg)
-Photographer:  Luana Azevedo
+![Fender](/images/music/fender.3.jpg)
+Photographer:  Nancy O'Connor
  
-Find even more on [unsplash.com/s/photos/fender](https://unsplash.com/s/photos/fender)
+Find even more on [unsplash.com/s/photos/Fender](https://unsplash.com/s/photos/Fender)
  

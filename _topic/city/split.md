@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/split.1.jpg
 category: city
 tags:
+- split
 
 ---
-# Photos for Split
+# Split
+
+Split or The Split may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Split**.

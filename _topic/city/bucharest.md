@@ -4,10 +4,21 @@ layout: splash
 image: /images/city/bucharest.1.jpg
 category: city
 tags:
+- bucharest
 - romania
 
 ---
-# Photos for Bucharest
+# Bucharest
+
+Bucharest  is the capital and largest city of Romania, as well as its cultural, industrial, and 
+financial centre.
+It is located in the southeast of the country, on the banks of the Dâmbovița River, less than 60 km 
+ north of the Danube River and the Bulgarian border.
+
+Bucharest was first mentioned in documents in 1459.
+It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art.
+Its architecture is a mix of historical, interbellum, communist era and modern.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Bucharest**.

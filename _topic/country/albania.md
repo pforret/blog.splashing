@@ -7,7 +7,17 @@ tags:
 - albania
 
 ---
-# Photos for Albania
+# Albania
+
+Albania, officially the Republic of Albania, is a country in Southeastern Europe.
+It is located on the Adriatic and Ionian Seas within the Mediterranean Sea and shares land borders 
+with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece 
+to the south.
+Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
+
+Albania displays varied climatic, geological, hydrological, and morphological conditions, defined 
+in an area of 28,748 km2 .
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Albania**.

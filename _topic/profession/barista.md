@@ -4,9 +4,14 @@ layout: splash
 image: /images/profession/barista.1.jpg
 category: profession
 tags:
+- barista
 
 ---
-# Photos for barista
+# Profession: barista
+
+A barista  is a person, usually a coffeehouse employee, who prepares and serves espresso-based 
+coffee drinks.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **barista**.

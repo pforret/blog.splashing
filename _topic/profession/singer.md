@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/singer.1.jpg
 category: profession
 tags:
+- singer
 
 ---
-# Photos for singer
+# Profession: singer
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **singer**.

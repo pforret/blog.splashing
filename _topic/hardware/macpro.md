@@ -4,10 +4,20 @@ layout: splash
 image: /images/hardware/macpro.1.jpg
 category: hardware
 tags:
+- macpro
 - apple
 
 ---
-# Photos for Mac Pro
+# Mac Pro
+
+Mac Pro is a series of workstations and servers for professionals that are designed, developed and 
+marketed by Apple Inc.
+since 2006.
+
+The Mac Pro, by some performance benchmarks, is the most powerful computer that Apple offers.
+It is one of four desktop computers in the current Macintosh lineup, sitting above the Mac Mini and 
+iMac and Mac Studio.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Mac Pro**.

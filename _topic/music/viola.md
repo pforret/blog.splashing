@@ -4,10 +4,18 @@ layout: splash
 image: /images/music/viola.1.jpg
 category: music
 tags:
+- viola
 - strings
 
 ---
-# Photos for viola
+# viola
+
+The viola  is a string instrument that is bowed, plucked, or played with varying techniques.
+Slightly larger than a violin, it has a lower and deeper sound.
+Since the 18th century, it has been the middle or alto voice of the violin family, between the 
+violin  and the cello .
+The strings from low to high are typically tuned to C3, G3, D4, and A4.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **viola**.

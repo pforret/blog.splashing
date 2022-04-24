@@ -4,9 +4,17 @@ layout: splash
 image: /images/hardware/medion.1.jpg
 category: hardware
 tags:
+- medion
 
 ---
-# Photos for Medion
+# Medion
+
+Medion AG is a German consumer electronics company, and a subsidiary of Chinese multinational 
+technology company Lenovo.
+The company operates in Europe, the United States, and the Asia-Pacific region.
+The company's main products are computers and notebooks, but also smartphones, tablet computers, 
+digital cameras, TVs, refrigerators, toasters, and fitness equipment.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Medion**.

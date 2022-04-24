@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/newyork.1.jpg
 category: city
 tags:
+- newyork
 - usa
 
 ---
-# Photos for New York
+# New York
+
+New York most commonly refers to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **New York**.

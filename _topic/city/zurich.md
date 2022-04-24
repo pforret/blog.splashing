@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/zurich.1.jpg
 category: city
 tags:
+- zurich
 - switzerland
 
 ---
-# Photos for Zurich
+# Zurich
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Zurich**.

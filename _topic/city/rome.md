@@ -4,10 +4,23 @@ layout: splash
 image: /images/city/rome.1.jpg
 category: city
 tags:
+- rome
 - italy
 
 ---
-# Photos for Rome
+# Rome
+
+Rome  is the capital city of Italy.
+ It is also the capital of the Lazio region, the centre of the Metropolitan City of Rome, and a 
+special comune named Comune di Roma Capitale.
+With 2,860,009 residents in 1,285 km2, Rome is the country's most populated comune and the third 
+most populous city in the European Union by population within city limits.
+The Metropolitan City of Rome, with a population of 4,355,725 residents, is the most populous 
+metropolitan city in Italy.
+Its metropolitan area is the third-most populous within Italy.
+Rome is located in the central-western portion of the Italian Peninsula, within Lazio, along the 
+shores of the Tiber.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Rome**.

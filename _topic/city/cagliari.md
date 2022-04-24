@@ -4,11 +4,21 @@ layout: splash
 image: /images/city/cagliari.1.jpg
 category: city
 tags:
+- cagliari
 - italy
 - sardinia
 
 ---
-# Photos for Cagliari
+# Cagliari
+
+Cagliari  is an Italian municipality and the capital of the island of Sardinia, an autonomous 
+region of Italy.
+Cagliari's Sardinian name Casteddu means castle.
+It has about 155,000 inhabitants, while its metropolitan city  has more than 431,000 inhabitants.
+According to Eurostat, the population of the Functional urban area, the commuting zone of Cagliari, 
+rises to 476,975.
+Cagliari is the 26th largest city in Italy and the largest city on the island of Sardinia.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Cagliari**.

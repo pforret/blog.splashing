@@ -4,9 +4,13 @@ layout: splash
 image: /images/city/kopenhagen.1.jpg
 category: city
 tags:
+- kopenhagen
 
 ---
-# Photos for Kopenhagen
+# Kopenhagen
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Kopenhagen**.

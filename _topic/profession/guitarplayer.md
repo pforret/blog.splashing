@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/guitarplayer.1.jpg
 category: profession
 tags:
+- guitarplayer
 
 ---
-# Photos for guitar player
+# Profession: guitar player
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **guitar player**.

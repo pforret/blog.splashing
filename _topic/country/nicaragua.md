@@ -7,7 +7,18 @@ tags:
 - nicaragua
 
 ---
-# Photos for Nicaragua
+# Nicaragua
+
+Nicaragua, officially the Republic of Nicaragua, is the largest country in the Central American 
+isthmus, bordered by Honduras to the northwest, the Caribbean to the east, Costa Rica to the south, 
+and the Pacific Ocean to the southwest.
+Managua is the country's capital and largest city and is also the third-largest city in Central 
+America, behind Tegucigalpa and Guatemala City.
+The multi-ethnic population of six million includes people of indigenous, European, African, and 
+Asian heritage.
+The main language is Spanish.
+Indigenous tribes on the Mosquito Coast speak their own languages and English.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Nicaragua**.

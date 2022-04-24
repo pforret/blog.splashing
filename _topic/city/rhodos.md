@@ -4,10 +4,15 @@ layout: splash
 image: /images/city/rhodos.1.jpg
 category: city
 tags:
+- rhodos
 - greec
 
 ---
-# Photos for Rhodos
+# Rhodos
+
+In Greek mythology, Rhodos/Rhodus  or Rhode, was the goddess and personification of the island of 
+Rhodes and a wife of the sun god Helios.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Rhodos**.

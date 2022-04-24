@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/aalst.1.jpg
 category: city
 tags:
+- aalst
 - belgium
 
 ---
-# Photos for Aalst
+# Aalst
+
+Aalst may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Aalst**.

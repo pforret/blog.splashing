@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/bejing.1.jpg
 category: city
 tags:
+- bejing
 - chian
 
 ---
-# Photos for Bejing
+# Bejing
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Bejing**.

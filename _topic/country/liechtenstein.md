@@ -7,7 +7,16 @@ tags:
 - liechtenstein
 
 ---
-# Photos for Liechtenstein
+# Liechtenstein
+
+Liechtenstein, officially the Principality of Liechtenstein, is a German-speaking microstate 
+located in the Alps between Austria and Switzerland.
+Liechtenstein is a constitutional monarchy headed by the Prince of Liechtenstein.
+
+Liechtenstein is bordered by Switzerland to the west and south and Austria to the east and north.
+It's Europe's fourth-smallest country, with an area of just over 160 square kilometres  and a 
+population of 38,749 .
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Liechtenstein**.

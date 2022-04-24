@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/seamstress.1.jpg
 category: profession
 tags:
+- seamstress
 
 ---
-# Photos for seamstress
+# Profession: seamstress
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **seamstress**.

@@ -4,9 +4,17 @@ layout: splash
 image: /images/sport/skiing.1.jpg
 category: sport
 tags:
+- skiing
 
 ---
-# Photos for skiing
+# Sport: skiing
+
+Skiing is the use of skis to glide on snow.
+Variations of purpose include basic transport, a recreational activity, or a competitive winter 
+sport.
+Many types of competitive skiing events are recognized by the International Olympic Committee, and 
+the International Ski Federation .
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **skiing**.

@@ -7,7 +7,16 @@ tags:
 - nigeria
 
 ---
-# Photos for Nigeria
+# Nigeria
+
+Nigeria, officially the Federal Republic of Nigeria, is a country in West Africa.
+It is the most populous country in Africa.
+It is geographically situated between the Sahel to the north and the Gulf of Guinea to the south in 
+the Atlantic Ocean.
+It covers an area of 923,769 square kilometres, with a population of over 211 million.
+Nigeria borders Niger in the north, Chad in the northeast, Cameroon in the east, and Benin in the 
+west.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Nigeria**.

@@ -4,9 +4,14 @@ layout: splash
 image: /images/profession/king.1.jpg
 category: profession
 tags:
+- king
 
 ---
-# Photos for king
+# Profession: king
+
+King is the title given to a male monarch in a variety of contexts.
+The female equivalent is queen, which title is also given to the consort of a king.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **king**.

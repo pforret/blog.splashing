@@ -7,7 +7,18 @@ tags:
 - guyana
 
 ---
-# Photos for Guyana
+# Guyana
+
+Guyana, officially the Co‑operative Republic of Guyana, is a country on the northern mainland of 
+South America.
+The capital city is Georgetown.
+Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela 
+to the west, and Suriname to the east.
+With 215,000 square kilometres, Guyana is the third-smallest sovereign state by area in mainland 
+South America after Uruguay and Suriname, and is the second-least populous sovereign state in South 
+America after Suriname; it is also one of the least densely populated countries on Earth.
+It has a wide variety of natural habitats and very high biodiversity.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Guyana**.

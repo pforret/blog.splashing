@@ -4,9 +4,13 @@ layout: splash
 image: /images/tourism/bahamas.1.jpg
 category: tourism
 tags:
+- bahamas
 
 ---
-# Photos for Bahamas
+# Destination: Bahamas
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Bahamas**.

@@ -7,7 +7,17 @@ tags:
 - yemen
 
 ---
-# Photos for Yemen
+# Yemen
+
+Yemen, officially the Republic of Yemen, is a country in Western Asia, on the southern end of the 
+Arabian Peninsula.
+It borders Saudi Arabia to the north and Oman to the northeast and shares maritime borders with 
+Eritrea, Djibouti, Somaliland and Somalia.
+It is the second-largest Arab sovereign state in the peninsula, occupying 555,000 square kilometres 
+.
+The coastline stretches for about 2,000 kilometres .
+Yemen's constitutionally stated capital, and largest city, is the city of Sanaa.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Yemen**.

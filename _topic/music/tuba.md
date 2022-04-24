@@ -4,9 +4,19 @@ layout: splash
 image: /images/music/tuba.1.jpg
 category: music
 tags:
+- tuba
 
 ---
-# Photos for tuba
+# tuba
+
+The tuba  is the lowest-pitched musical instrument in the brass family.
+As with all brass instruments, the sound is produced by lip vibration – a buzz – into a mouthpiece.
+It first appeared in the mid-19th century, making it one of the newer instruments in the modern 
+orchestra and concert band.
+The tuba largely replaced the ophicleide.
+Tuba is Latin for trumpet.A person who plays the tuba is called a tubaist, a tubist, or simply a 
+tuba player.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **tuba**.

@@ -9,7 +9,19 @@ tags:
 - eu
 
 ---
-# Photos for Germany
+# Germany
+
+Germany, officially the Federal Republic of Germany, is a country in Central Europe.
+It is the second most populous country in Europe after Russia, and the most populous member state 
+of the European Union.
+Germany is situated between the Baltic and North seas to the north, and the Alps to the south; it 
+covers an area of 357,022 square kilometres, with a population of over 83 million within its 16 
+constituent states.
+Germany borders Denmark to the north, Poland and the Czech Republic to the east, Austria and 
+Switzerland to the south, and France, Luxembourg, Belgium, and the Netherlands to the west.
+The nation's capital and largest city is Berlin, and its financial centre is Frankfurt; the largest 
+urban area is the Ruhr.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Germany**.

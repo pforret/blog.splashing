@@ -4,9 +4,14 @@ layout: splash
 image: /images/sport/skating.1.jpg
 category: sport
 tags:
+- skating
 
 ---
-# Photos for skating
+# Sport: skating
+
+Skating involves any sports or recreational activity which consists of traveling on surfaces or on 
+ice using skates, and may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **skating**.

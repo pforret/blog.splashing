@@ -4,10 +4,22 @@ layout: splash
 image: /images/city/istanbul.1.jpg
 category: city
 tags:
+- istanbul
 - turkey
 
 ---
-# Photos for Istanbul
+# Istanbul
+
+Istanbul, formerly known as Constantinople, is the largest city in Turkey, serving as the country's 
+economic, cultural and historic hub.
+The city straddles the Bosporus strait, lying in both Europe and Asia, and has a population of over 
+15 million residents, comprising 19% of the population of Turkey.
+Istanbul is the most populous European city, and the world's 15th-largest city.
+
+The city was founded as Byzantium  in the 7th century BCE by Greek settlers from Megara.
+In 330 CE, the Roman emperor Constantine the Great made it his imperial capital, renaming it first 
+as New Rome  and then as Constantinople  after himself.
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Istanbul**.

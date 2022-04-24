@@ -4,9 +4,16 @@ layout: splash
 image: /images/profession/teacher.1.jpg
 category: profession
 tags:
+- teacher
 
 ---
-# Photos for teacher
+# Profession: teacher
+
+A teacher, also called a schoolteacher or formally an educator, is a person who helps students to 
+acquire knowledge, competence or virtue.
+
+Informally the role of teacher may be taken on by anyone .
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **teacher**.

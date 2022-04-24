@@ -4,10 +4,20 @@ layout: splash
 image: /images/tourism/mallorca.1.jpg
 category: tourism
 tags:
+- mallorca
 - spain
 
 ---
-# Photos for Mallorca
+# Destination: Mallorca
+
+Mallorca, or Majorca, is the largest island in the Balearic Islands, which are part of Spain and 
+located in the Mediterranean.
+
+The capital of the island, Palma, is also the capital of the autonomous community of the Balearic 
+Islands.
+The Balearic Islands have been an autonomous region of Spain since 1983.
+There are two small islands off the coast of Mallorca: Cabrera  and Dragonera .
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Mallorca**.

@@ -4,10 +4,14 @@ layout: splash
 image: /images/city/oostende.1.jpg
 category: city
 tags:
+- oostende
 - belgium
 
 ---
-# Photos for Oostende
+# Oostende
+
+Oostende can mean:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Oostende**.

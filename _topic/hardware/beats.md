@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/beats.1.jpg
 category: hardware
 tags:
+- beats
 
 ---
-# Photos for Beats
+# Beats
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Beats**.

@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/airpod.1.jpg
 category: hardware
 tags:
+- airpod
 
 ---
-# Photos for Airpod
+# Airpod
+
+Airpod may refer to:
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **Airpod**.

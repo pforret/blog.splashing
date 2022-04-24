@@ -4,9 +4,13 @@ layout: splash
 image: /images/profession/makeupartist.1.jpg
 category: profession
 tags:
+- makeupartist
 
 ---
-# Photos for makeup artist
+# Profession: makeup artist
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **makeup artist**.

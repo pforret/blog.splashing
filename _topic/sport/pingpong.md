@@ -4,9 +4,13 @@ layout: splash
 image: /images/sport/pingpong.1.jpg
 category: sport
 tags:
+- pingpong
 
 ---
-# Photos for ping-pong
+# Sport: ping-pong
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **ping-pong**.

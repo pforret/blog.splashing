@@ -4,9 +4,13 @@ layout: splash
 image: /images/hardware/cpu.1.jpg
 category: hardware
 tags:
+- cpu
 
 ---
-# Photos for cpu
+# cpu
+
+
+
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **cpu**.
