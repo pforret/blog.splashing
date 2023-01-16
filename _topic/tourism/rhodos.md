@@ -10,8 +10,7 @@ tags:
 ---
 # Destination: Rhodos
 
-In Greek mythology, Rhodos/Rhodus  or Rhode, was the goddess and personification of the island of 
-Rhodes and a wife of the sun god Helios.
+In Greek mythology, Rhodos/Rhodus  or Rhode, was the goddess and personification of the island of  Rhodes and a wife of the sun god Helios.    
 
  
 ## Unsplash photos

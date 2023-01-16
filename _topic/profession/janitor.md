@@ -9,15 +9,7 @@ tags:
 ---
 # Profession: janitor
 
-A janitor, also known as a janny, custodian, porter, cleanser, cleaner or caretaker is a person who 
-cleans and maintains buildings.
-Janitors typically earn an average wage of $15 per hour in the United States.
-That translates to an annual salary of around $35,000 for states that pay janitors the most, such 
-as New York, Massachusetts, and Connecticut.
-In some cases, they will also carry out maintenance and security duties.
-A similar position, but usually with more managerial duties and not including cleaning, is occupied 
-by building superintendents in the United States and  Canada and by site managers in schools in the 
-United Kingdom.
+A janitor (American English, also known as a custodian, porter, cleanser, cleaner or caretaker, is  a person who cleans and maintains buildings. In some cases, they will also carry out maintenance and security duties. A similar position, but usually with more managerial duties and not including cleaning, is occupied  by building superintendents in the United States and Canada and by site managers in schools in the  United Kingdom. Cleaning is one of the most commonly outsourced services.  
 
  
 ## Unsplash photos

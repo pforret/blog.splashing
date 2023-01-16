@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: promoter
 
-Promoter or Promotor may refer to:
+Promoter or Promotor may refer to:    
 
  
 ## Unsplash photos

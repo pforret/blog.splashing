@@ -9,14 +9,7 @@ tags:
 ---
 # Comoros
 
-The Comoros, officially the Union of the Comoros, is an archipelagic country in the Indian Ocean, 
-at the northern end of the Mozambique Channel off the eastern coast of Africa.
-It shares maritime borders with Madagascar and Mayotte to the southeast, Tanzania to the northwest, 
-Mozambique to the west, and the Seychelles to the northeast.
-Its capital and largest city is Moroni.
-The religion of the majority of the population, and the official state religion, is Sunni Islam.
-As a member of the Arab League, it is the only country in the Arab world which is entirely in the 
-Southern Hemisphere.
+The Comoros, officially the Union of the Comoros, is an independent country made up of three  islands in southeastern Africa, located at the northern end of the Mozambique Channel in the Indian  Ocean. Its capital and largest city is Moroni. The religion of the majority of the population, and the official state religion, is Sunni Islam. As a member of the Arab League, it is the only country in the Arab world which is entirely in the  Southern Hemisphere. Comoros proclaimed their independence on July 6, 1975. 
 
  
 ## Unsplash photos

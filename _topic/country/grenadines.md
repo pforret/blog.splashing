@@ -9,14 +9,7 @@ tags:
 ---
 # Grenadines
 
-The Grenadines are a chain of small islands that lie on a line between the larger islands of Saint 
-Vincent and Grenada in the Lesser Antilles.
-Nine are inhabited and open to the public : Bequia, Mustique, Canouan, Union Island, Petit St 
-Vincent, Palm Island and Mayreau, all in Saint Vincent and the Grenadines, plus Petite Martinique 
-and Carriacou in Grenada.
-Several additional privately owned islands such as Calivigny are also inhabited.
-Notable uninhabited islands of the Grenadines include Petit Nevis, used by whalers, and Petit 
-Mustique, which was the centre of a prominent real estate scam in the early 2000s.
+The Grenadines is a chain of small islands that lie on a line between the larger islands of Saint  Vincent and Grenada in the Lesser Antilles. Nine are inhabited and open to the public : Bequia, Mustique, Canouan, Union Island, Petit St  Vincent, Palm Island and Mayreau, all in Saint Vincent and the Grenadines, plus Petite Martinique  and Carriacou in Grenada. Several additional privately owned islands such as Calivigny are also inhabited. Notable uninhabited islands of the Grenadines include Petit Nevis, used by whalers, and Petit  Mustique, which was the centre of a prominent real estate scam in the early 2000s.  
 
  
 ## Unsplash photos

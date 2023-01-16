@@ -9,13 +9,7 @@ tags:
 ---
 # Sport: handball
 
-Handball  is a team sport in which two teams of seven players each  pass a ball using their hands 
-with the aim of throwing it into the goal of the other team.
-A standard match consists of two periods of 30 minutes, and the team that scores more goals wins.
-
-Modern handball is played on a court of 40 by 20 metres, with a goal in the middle of each end.
-The goals are surrounded by a 6-metre  zone where only the defending goalkeeper is allowed; goals 
-must be scored by throwing the ball from outside the zone or while diving into it.
+Handball  is a team sport in which two teams of seven players each  pass a ball using their hands  with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins.  Modern handball is played on a court of 40 by 20 metres, with a goal in the middle of each end. The goals are surrounded by a 6-metre  zone where only the defending goalkeeper is allowed; goals  must be scored by throwing the ball from outside the zone or while diving into it. 
 
  
 ## Unsplash photos

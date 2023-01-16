@@ -9,15 +9,7 @@ tags:
 ---
 # Benin
 
-Benin, officially the Republic of Benin  and formerly known as Dahomey, is a country in West Africa.
-It is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the north-west, and Niger 
-to the north-east.
-The majority of its population lives on the small southern coastline of the Bight of Benin, part of 
-the Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean.
-The capital of Benin is Porto-Novo, but the seat of government is in Cotonou, the country's largest 
-city and economic capital.
-Benin covers an area of 114,763 square kilometres  and its population in 2018 was estimated to be 
-approximately 11.49 million.
+Benin, officially the Republic of Benin, and formerly Dahomey, is a country in West Africa. It is bordered by Togo to the west, Nigeria to the east, Burkina Faso to the north-west, and Niger  to the north-east. The majority of its population lives on the southern coastline of the Bight of Benin, part of the  Gulf of Guinea in the northernmost tropical portion of the Atlantic Ocean. The capital is Porto-Novo, and the seat of government is in Cotonou, the most populous city and  economic capital. Benin covers an area of 114,763 square kilometres  and its population in 2021 was estimated to be  approximately 13 million. 
 
  
 ## Unsplash photos

@@ -10,23 +10,7 @@ tags:
 ---
 # Paris
 
-Paris  is the capital and most populous city of France, with an estimated population of 2,165,423 
-residents in 2019 in an area of more than 105 km², making it the 34th most densely populated city 
-in the world in 2020.
-Since the 17th century, Paris has been one of the world's major centres of finance, diplomacy, 
-commerce, fashion, gastronomy, science, and arts, and has sometimes been referred to as the capital 
-of the world.
-The City of Paris is the centre and seat of government of the region and province of Île-de-France, 
-or Paris Region, with an estimated population of 12,997,058 in 2020, or about 18% of the population 
-of France, making it in 2020 the second largest metropolitan area in the OECD, and 14th largest in 
-the world in 2015.
-The Paris Region had a GDP of €709 billion  in 2017.
-According to the Economist Intelligence Unit Worldwide Cost of Living Survey, in 2021 Paris was the 
-city with the second-highest cost of living in the world, tied with Singapore, and after Tel 
-Aviv.Paris is a major railway, highway, and air-transport hub served by two international airports: 
-Paris–Charles de Gaulle  and Paris–Orly.
-Opened in 1900, the city's subway system, the Paris Métro, serves 5.23 million passengers daily; it 
-is the second-busiest metro system in Europe after the Moscow Metro.
+Paris  is the capital and most populous city of France, with an estimated population of 2,165,423  residents in 2019 in an area of more than 105 km², making it the 30th most densely populated city  in the world in 2020. Since the 17th century, Paris has been one of the world's major centres of finance, diplomacy,  commerce, fashion, gastronomy, and science. For its leading role in the arts and sciences, as well as its very early system of street lighting,  in the 19th century it became known as the City of Light. Like London, prior to the Second World War, it was also sometimes called the capital of the world.  
 
  
 ## Unsplash photos

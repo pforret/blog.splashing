@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: president
 
-President most commonly refers to:
+President most commonly refers to:    
 
  
 ## Unsplash photos

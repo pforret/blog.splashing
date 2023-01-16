@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: diving
 
-Diving most often refers to:
+Diving most often refers to:    
 
  
 ## Unsplash photos

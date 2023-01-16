@@ -9,13 +9,7 @@ tags:
 ---
 # Solomon Islands
 
-Solomon Islands  is a sovereign country consisting of six major islands and over 900 smaller 
-islands in Oceania, to the east of Papua New Guinea and northwest of Vanuatu.
-It has a land area of 28,400 square kilometres, and a population of 652,858.
-Its capital, Honiara, is located on the largest island, Guadalcanal.
-The country takes its name from the Solomon Islands archipelago, which is a collection of 
-Melanesian islands that also includes the North Solomon Islands, but excludes outlying islands, 
-such as the Santa Cruz Islands and Rennell and Bellona.
+Solomon Islands is an island country consisting of six major islands and over 900 smaller islands  in Oceania, to the east of Papua New Guinea and north-west of Vanuatu. It has a land area of 28,400 square kilometres, and a population of approx. 700,000. Its capital, Honiara, is located on the largest island, Guadalcanal. The country takes its name from the wider area of the Solomon Islands, which is a collection of  Melanesian islands that also includes the Autonomous Region of Bougainville, but excludes the Santa  Cruz Islands. 
 
  
 ## Unsplash photos

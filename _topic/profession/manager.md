@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: manager
 
-
+  
 
  
 ## Unsplash photos

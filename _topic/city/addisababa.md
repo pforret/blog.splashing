@@ -9,16 +9,7 @@ tags:
 ---
 # Addis Ababa
 
-Addis Ababa, also known by its unofficial name Finfinne, is the capital and largest city of 
-Ethiopia.
-It also serves as the regional capital of Oromia.
-In the 2007 census, the city's population was estimated to be 2,739,551 inhabitants.
-Addis Ababa is a highly developed and important cultural, artistic, and financial centre of 
-Ethiopia.Addis Ababa was depicted as a fortified place called Barara in the 15th century.
-Barara was immediately plundered by Adalite general Ahmad ibn Ibrahim al-Ghazi  following his army 
-entrapment in 1529 amidst a war against the Ethiopian medieval army.
-Founding history of Addis Ababa dates back in late 19th-century by Menelik II, Negus of Shewa, in 
-1886 after finding Mount Entoto unpleasant two years prior.
+Addis Ababa, is the capital and largest city of Ethiopia. It is also serves as the capital of the Oromia Region. In the 2007 census, the city's population was estimated to be 2,739,551 inhabitants. Addis Ababa is a highly developed and important cultural, artistic, financial and administrative  centre of Ethiopia.Addis Ababa was portrayed in the 15th century as a fortified location called  Barara that housed the emperors of Ethiopia at the time. Prior to Emperor Dawit II, Barara was completely destroyed during the Ethiopian–Adal War and Oromo  expansions. 
 
  
 ## Unsplash photos

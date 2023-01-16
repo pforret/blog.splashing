@@ -10,7 +10,7 @@ tags:
 ---
 # Varna
 
-Varna may refer to:
+Varna may refer to:    
 
  
 ## Unsplash photos

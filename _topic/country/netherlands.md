@@ -11,14 +11,7 @@ tags:
 ---
 # Netherlands
 
-The Netherlands, informally Holland, is a country located in Northwestern Europe with overseas 
-territories in the Caribbean.
-It is the largest of four constituent countries of the Kingdom of the Netherlands .
-In Europe, the Netherlands consists of twelve provinces, and borders Germany to the east, Belgium 
-to the south, with a North Sea coast-line to the north and west.
-It also shares maritime borders with both countries and with the United Kingdom in the North Sea.
-The Caribbean overseas territories—Bonaire, Sint Eustatius and Saba—became special municipalities 
-of the country of the Netherlands in 2010.
+The Netherlands, informally Holland, is a country located in Northwestern Europe with overseas  territories in the Caribbean. It is the largest of four constituent countries of the Kingdom of the Netherlands. The Netherlands consists of twelve provinces; it borders Germany to the east, and Belgium to the  south, with a North Sea coastline to the north and west. It shares maritime borders with the United Kingdom, Germany and Belgium in the North Sea. The country's official language is Dutch, with West Frisian as a secondary official language in the  province of Friesland. 
 
  
 ## Unsplash photos

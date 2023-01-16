@@ -9,19 +9,7 @@ tags:
 ---
 # Yerevan
 
-Yerevan  is the capital and largest city of Armenia and one of the world's oldest continuously 
-inhabited cities.
-Situated along the Hrazdan River, Yerevan is the administrative, cultural, and industrial center of 
-the country.
-It has been the capital since 1918, the fourteenth in the history of Armenia and the seventh 
-located in or around the Ararat Plain.
-The city also serves as the seat of the Araratian Pontifical Diocese; the largest diocese of the 
-Armenian Apostolic Church and one of the oldest dioceses in the world.The history of Yerevan dates 
-back to the 8th century BCE, with the founding of the fortress of Erebuni in 782 BCE by King 
-Argishti I at the western extreme of the Ararat plain.
-Erebuni was designed as a great administrative and religious centre, a fully royal capital.
-By the late ancient Armenian Kingdom, new capital cities were established and Yerevan declined in 
-importance.
+Yerevan  is the capital and largest city of Armenia and one of the world's oldest continuously  inhabited cities. Situated along the Hrazdan River, Yerevan is the administrative, cultural, and industrial center of  the country, as its primate city. It has been the capital since 1918, the fourteenth in the history of Armenia and the seventh  located in or around the Ararat Plain. The city also serves as the seat of the Araratian Pontifical Diocese, which is the largest diocese  of the Armenian Apostolic Church and one of the oldest dioceses in the world.The history of Yerevan  dates back to the 8th century BCE, with the founding of the fortress of Erebuni in 782 BCE by King  Argishti I of Urartu at the western extreme of the Ararat Plain. Erebuni was designed as a great administrative and religious centre, a fully royal capital. 
 
  
 ## Unsplash photos

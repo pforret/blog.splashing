@@ -9,14 +9,7 @@ tags:
 ---
 # Uzbekistan
 
-Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country in Central Asia.
-It is surrounded by five landlocked countries: Kazakhstan to the north; Kyrgyzstan to the 
-northeast; Tajikistan to the southeast; Afghanistan to the south; and Turkmenistan to the 
-south-west.
-Its capital and largest city is Tashkent.
-Uzbekistan is part of the Turkic languages world, as well as a member of the Organization of Turkic 
-States.
-Uzbek language is the majority-spoken language in Uzbekistan.
+Uzbekistan, officially the Republic of Uzbekistan, is a doubly landlocked country located in  Central Asia. It is surrounded by five landlocked countries: Kazakhstan to the north; Kyrgyzstan to the  northeast; Tajikistan to the southeast; Afghanistan to the south; and Turkmenistan to the southwest. Its capital and largest city is Tashkent. Uzbekistan is part of the Turkic world, as well as a member of the Organization of Turkic States. The Uzbek language is the majority-spoken language in Uzbekistan, while Russian is widely spoken  and understood throughout the country. 
 
  
 ## Unsplash photos

@@ -9,12 +9,7 @@ tags:
 ---
 # Monrovia
 
-Monrovia  is the capital city of the West African country of Liberia.
-Founded in 1822, it is located on Cape Mesurado on the Atlantic coast, and is the country's most 
-populous city.
-As of the 2008 census, with 1,010,970 residents, it was home to 29% of Liberia’s total population.
-Monrovia is also the country’s economic, financial and cultural center.
-Its economy is primarily centered on its harbor and its role as the seat of Liberia's government.
+Monrovia ( is the capital city of the West African country of Liberia. Founded in 1822, it is located on Cape Mesurado on the Atlantic coast and as of the 2008 census had  1,010,970 residents, home to 29% of Liberia’s total population. As the nation's primate city, Monrovia is the country's economic, financial and cultural center;  its economy is primarily centered on its harbor and its role as the seat of Liberian government.   
 
  
 ## Unsplash photos

@@ -9,15 +9,7 @@ tags:
 ---
 # Sport: polo
 
-Polo is a horseback ball game, a traditional field sport and one of the world's oldest known team 
-sports.
-The game is played by two opposing teams with the objective of scoring using a long-handled wooden 
-mallet to hit a small hard ball through the opposing team's goal.
-Each team has four mounted riders, and the game usually lasts one to two hours, divided into 
-periods called chukkas or chukkers.
-
-Polo has been called the sport of kings, and has become a spectator sport for equestrians and high 
-society, often supported by sponsorship.
+Polo is a ball game played on horseback, a traditional field sport and one of the world's oldest  known team sports. The game is played by two opposing teams with the objective of scoring using a long-handled wooden  mallet to hit a small hard ball through the opposing team's goal. Each team has four mounted riders, and the game usually lasts one to two hours, divided into  periods called chukkas or chukkers.  Polo has been called the sport of kings, and has become a spectator sport for equestrians and high  society, often supported by sponsorship. 
 
  
 ## Unsplash photos

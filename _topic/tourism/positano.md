@@ -10,8 +10,7 @@ tags:
 ---
 # Destination: Positano
 
-Positano  is a village and comune on the Amalfi Coast, in Campania, Italy, mainly in an enclave in 
-the hills leading down to the coast.
+Positano  is a village and comune on the Amalfi Coast, in Campania, Italy, mainly in an enclave in  the hills leading down to the coast.    
 
  
 ## Unsplash photos

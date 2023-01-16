@@ -10,14 +10,7 @@ tags:
 ---
 # Destination: Elba
 
-Elba  is a Mediterranean island in Tuscany, Italy, 10 km  from the coastal town of Piombino on the 
-Italian mainland, and the largest island of the Tuscan Archipelago.
-It is also part of the Arcipelago Toscano National Park, and the third largest island in Italy, 
-after Sicily and Sardinia.
-It is located in the Tyrrhenian Sea about 50 km  east of the French island of Corsica.
-
-The island is part of the province of Livorno and is divided into seven municipalities, with a 
-total population of about 30,000 inhabitants which increases considerably during the summer.
+Elba  is a Mediterranean island in Tuscany, Italy, 10 km  from the coastal town of Piombino on the  Italian mainland, and the largest island of the Tuscan Archipelago. It is also part of the Arcipelago Toscano National Park, and the third largest island in Italy,  after Sicily and Sardinia. It is located in the Tyrrhenian Sea about 50 km  east of the French island of Corsica.  The island is part of the province of Livorno and is divided into seven municipalities, with a  total population of about 30,000 inhabitants which increases considerably during the summer. 
 
  
 ## Unsplash photos

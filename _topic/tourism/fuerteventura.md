@@ -10,13 +10,7 @@ tags:
 ---
 # Destination: Fuerteventura
 
-Fuerteventura  is one of the Canary Islands, in the Atlantic Ocean, part of the North Africa 
-region, and politically part of Spain.
-It is located 97 km from the northwest African coast.
-The island was declared a biosphere reserve by UNESCO in 2009.
-
-Fuerteventura belongs to Province of Las Palmas, one of the two provinces that form the autonomous 
-community of the Canary Islands.
+Fuerteventura  is one of the Canary Islands, in the Atlantic Ocean, part of the North Africa  region, and politically part of Spain. It is located 97 km  away from the northwestern coast of Africa. The island was declared a biosphere reserve by UNESCO in 2009.  Fuerteventura belongs to Province of Las Palmas, one of the two provinces that form the autonomous  community of the Canary Islands. 
 
  
 ## Unsplash photos

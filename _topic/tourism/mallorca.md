@@ -10,13 +10,7 @@ tags:
 ---
 # Destination: Mallorca
 
-Mallorca, or Majorca, is the largest island in the Balearic Islands, which are part of Spain and 
-located in the Mediterranean.
-
-The capital of the island, Palma, is also the capital of the autonomous community of the Balearic 
-Islands.
-The Balearic Islands have been an autonomous region of Spain since 1983.
-There are two small islands off the coast of Mallorca: Cabrera  and Dragonera .
+Mallorca, or Majorca, is the largest island in the Balearic Islands, which are part of Spain, and  the seventh largest island in the Mediterranean Sea.  The capital of the island, Palma, is also the capital of the autonomous community of the Balearic  Islands. The Balearic Islands have been an autonomous region of Spain since 1983. There are two small islands off the coast of Mallorca: Cabrera  and Dragonera . 
 
  
 ## Unsplash photos

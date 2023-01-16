@@ -9,7 +9,7 @@ tags:
 ---
 # PC
 
-PC or pc may refer to:
+PC or pc may refer to:    
 
  
 ## Unsplash photos

@@ -10,10 +10,7 @@ tags:
 ---
 # Mac Studio
 
-Mac Studio is a small form factor workstation designed, manufactured, and sold by Apple Inc.
-It is one of four desktop computers in the Macintosh lineup, sitting above the consumer range Mac 
-Mini and iMac, and positioned below the Mac Pro.
-It is configurable with either the M1 Max or M1 Ultra system on a chip.
+Mac Studio is a small-form-factor workstation designed, manufactured, and sold by Apple Inc. It is one of four desktop computers in the Mac lineup, sitting above the consumer-range Mac Mini  and iMac, and positioned below the Mac Pro. It is configurable with either the M1 Max or M1 Ultra system on a chip.   
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # New York
 
-New York most commonly refers to:
+New York most commonly refers to:    
 
  
 ## Unsplash photos

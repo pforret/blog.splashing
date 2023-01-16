@@ -9,15 +9,7 @@ tags:
 ---
 # Nicaragua
 
-Nicaragua, officially the Republic of Nicaragua, is the largest country in the Central American 
-isthmus, bordered by Honduras to the northwest, the Caribbean to the east, Costa Rica to the south, 
-and the Pacific Ocean to the southwest.
-Managua is the country's capital and largest city and is also the third-largest city in Central 
-America, behind Tegucigalpa and Guatemala City.
-The multi-ethnic population of six million includes people of indigenous, European, African, and 
-Asian heritage.
-The main language is Spanish.
-Indigenous tribes on the Mosquito Coast speak their own languages and English.
+Nicaragua, officially the Republic of Nicaragua, is the largest country in Central America,  bordered by Honduras to the north, the Caribbean to the east, Costa Rica to the south, and the  Pacific Ocean to the west. Managua is the country's capital and largest city. As of 2015, it was estimated to be the second largest city in Central America. Nicaragua's multiethnic population of six million includes people of mestizo, indigenous, European  and African heritage. The main language is Spanish. 
 
  
 ## Unsplash photos

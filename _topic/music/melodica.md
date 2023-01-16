@@ -9,12 +9,7 @@ tags:
 ---
 # melodica
 
-The melodica is a free-reed instrument similar to the pump organ and harmonica.
-It has a musical keyboard on top, and is played by blowing air through a mouthpiece that fits into 
-a hole in the side of the instrument.
-Pressing a key opens a hole, allowing air to flow through a reed.
-The keyboard usually covers two or three octaves.
-Melodicas are small, light, and portable.
+The melodica is a handheld free-reed instrument similar to a pump organ or harmonica. It features a musical keyboard on top, and is played by blowing air through a mouthpiece that fits  into a hole in the side of the instrument. The keyboard usually covers two or three octaves. Melodicas are small, lightweight, and portable, and many are designed for children to play. They are popular in music education programs, especially in Asia. 
 
  
 ## Unsplash photos

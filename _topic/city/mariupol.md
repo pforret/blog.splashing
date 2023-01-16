@@ -9,19 +9,7 @@ tags:
 ---
 # Mariupol
 
-Mariupol  is a city in Ukraine, on the north coast of the Sea of Azov at the mouth of the Kalmius 
-river, in the Pryazovia region currently under Russian control.
-As of a 2021 census estimate, it was the tenth-largest city in Ukraine and the second-largest in 
-Donetsk Oblast, with an estimated population of 431,859.
-Mariupol was founded on the site of a former Cossack encampment known as Kalmius, and granted city 
-rights in 1778.
-Mariupol played a key role in the industrialization of Ukraine, and was a centre for the grain 
-trade, metallurgy, and heavy engineering, including the Illich Steel {wikipedia} Iron Works and Azovstal.
-Not only was Mariupol a centre for trade and manufacturing, it also played a key role in the 
-development of higher education and various other businesses.
-From 1948 to 1989, the city was named Zhdanov, after the Soviet functionary Andrei Zhdanov, as part 
-of the practice of renaming cities after Communist leaders.In 2014, Mariupol was threatened by 
-separatists during the War in Donbas, but was secured by Ukrainian troops.
+Mariupol  is a city in Donetsk Oblast, Ukraine. It is situated on the northern coast  of the Sea of Azov, at the mouth of the Kalmius River. Prior to the 2022 Russian invasion of Ukraine, it was the tenth-largest city in the country and the  second-largest city in Donetsk Oblast, with an estimated population of 425,681 people in January  2022. However, Mariupol has been militarily controlled by Russia since May 2022, and the city's residents  are now estimated to number around 100,000, according to Ukrainian authorities.Historically, the  city of Mariupol was a centre for trade and manufacturing, and played a key role in the development  of higher education and many businesses while also serving as a coastal resort on the Black Sea. From 1948 to 1989, the city was known as Zhdanov, named after Andrei Zhdanov, a high-ranking  official of the Communist Party of the Soviet Union; the name was part of a larger effort to rename  cities after high-ranking political figures in the Soviet Union. 
 
  
 ## Unsplash photos

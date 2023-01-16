@@ -9,12 +9,7 @@ tags:
 ---
 # Sport: water polo
 
-Water polo is a competitive team sport played in water between two teams of seven players each.
-The game consists of four quarters in which the two teams attempt to score goals by throwing the 
-ball into the opposing team's goal.
-The team with the most goals at the end of the game wins the match.
-Each team is made up of six field players and one goalkeeper.
-Excluding the goalkeeper, players participate in both offensive and defensive roles.
+Water polo is a competitive team sport played in water between two teams of seven players each. The game consists of four quarters in which the teams attempt to score goals by throwing the ball  into the opposing team's goal. The team with the most goals at the end of the game wins the match. Each team is made up of six field players and one goalkeeper. Excluding the goalkeeper, players participate in both offensive and defensive roles. 
 
  
 ## Unsplash photos

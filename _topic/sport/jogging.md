@@ -9,10 +9,7 @@ tags:
 ---
 # Sport: jogging
 
-Jogging is a form of trotting or running at a slow or leisurely pace.
-The main intention is to increase physical fitness with less stress on the body than from faster 
-running but more than walking, or to maintain a steady speed for longer periods of time.
-Performed over long distances, it is a form of aerobic endurance training.
+Jogging is a form of trotting or running at a slow or leisurely pace. The main intention is to increase physical fitness with less stress on the body than from faster  running but more than walking, or to maintain a steady speed for longer periods of time. Performed over long distances, it is a form of aerobic endurance training.   
 
  
 ## Unsplash photos

@@ -9,14 +9,7 @@ tags:
 ---
 # Profession: musician
 
-A musician is a person who composes, conducts, or performs music.
-According to the United States Employment Service, musician is a general term used to designate one 
-who follows music as a profession.
-Musicians include songwriters who write both music and lyrics for songs, conductors who direct a 
-musical performance, or performers who perform for an audience.
-A music performer is generally either a singer who provides vocals or an instrumentalist who plays 
-a musical instrument.
-Musicians may perform on their own or as part of a group, band or orchestra.
+A musician is a person who composes, conducts, or performs music. According to the United States Employment Service, musician is a general term used to designate one  who follows music as a profession. Musicians include songwriters who write both music and lyrics for songs, conductors who direct a  musical performance, or performers who perform for an audience. A music performer is generally either a singer who provides vocals or an instrumentalist who plays  a musical instrument. Musicians may perform on their own or as part of a group, band or orchestra. 
 
  
 ## Unsplash photos

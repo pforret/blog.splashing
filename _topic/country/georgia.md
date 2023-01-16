@@ -9,7 +9,7 @@ tags:
 ---
 # Georgia
 
-Georgia most commonly refers to:
+Georgia most commonly refers to:    
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: rugby
 
-Rugby may refer to: 
+Rugby may refer to:     
 
  
 ## Unsplash photos

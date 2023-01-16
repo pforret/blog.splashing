@@ -9,7 +9,7 @@ tags:
 ---
 # AMD
 
-
+Advanced Micro Devices, Inc.  is an American multinational semiconductor company based in Santa Clara, California, that develops  computer processors and related technologies for business and consumer markets.  The company was founded in 1969 by Jerry Sanders and a group of other technology professionals. AMD's early products were primarily memory chips and other components for computers. 
 
  
 ## Unsplash photos

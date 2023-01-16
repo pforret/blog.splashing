@@ -9,14 +9,7 @@ tags:
 ---
 # Hanoi
 
-Hanoi  is the capital city of Vietnam.
-It covers an area of 3,358.6 km2 .
-The second largest city in Vietnam, it consists of 12 urban districts, 1 district-leveled town and 
-17 rural districts.
-Located within the Red River Delta, Hanoi is the cultural and political centre of Vietnam.
-
-Hanoi traced its history back to the third century BCE, when a portion of the modern-day city 
-served as the capital of the historic Vietnamese nation of Âu Lạc.
+Hanoi or Ha Noi  is the capital and second-largest city of Vietnam. It covers an area of 3,359.82 km2 . It consists of 12 urban districts, one district-leveled town and 17 rural districts. Located within the Red River Delta of Northern Vietnam, Hanoi is after Saigon  the second cultural  and political centre of Vietnam.Hanoi can trace its history back to the third century BCE, when a  portion of the modern-day city served as the capital of the historic Vietnamese nation of Âu Lạc. Following the collapse of Âu Lạc, the city was part of Han China. 
 
  
 ## Unsplash photos

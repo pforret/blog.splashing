@@ -9,18 +9,7 @@ tags:
 ---
 # Toshiba
 
-Toshiba Corporation  is a Japanese multinational conglomerate headquartered in Minato, Tokyo.
-Its diversified products and services include power, industrial and social infrastructure systems, 
-elevators and escalators, electronic components, semiconductors, hard disk drives, printers, 
-batteries, lighting, as well as IT solutions such as quantum cryptography which has been in 
-development at Cambridge Research Laboratory, Toshiba Europe, located in the United Kingdom, now 
-being commercialised.
-It was one of the biggest manufacturers of personal computers, consumer electronics, home 
-appliances, and medical equipment.
-As a semiconductor company and the inventor of flash memory, Toshiba had been one of the top 10 in 
-the chip industry until its flash memory unit was spun off as Toshiba Memory, later Kioxia, in the 
-late 2010s.The Toshiba name is derived from its former name, Tokyo Shibaura Denki K.K.
- which in turn was a 1939 merger between Shibaura Seisaku-sho  and Tokyo Denki .
+Toshiba Corporation, commonly known as Toshiba and stylized as TOSHIBA, is a Japanese multinational  conglomerate corporation headquartered in Minato, Tokyo, Japan. Its diversified products and services include power, industrial and social infrastructure systems,  elevators and escalators, electronic components, semiconductors, hard disk drives, printers,  batteries, lighting, as well as IT solutions such as quantum cryptography which has been in  development at Cambridge Research Laboratory, Toshiba Europe, located in the United Kingdom, now  being commercialised. It was one of the biggest manufacturers of personal computers, consumer electronics, home  appliances, and medical equipment. As a semiconductor company and the inventor of flash memory, Toshiba had been one of the top 10 in  the chip industry until its flash memory unit was spun off as Toshiba Memory, later Kioxia, in the  late 2010s.The Toshiba name is derived from its former name, Tokyo Shibaura Denki K.K.  which in turn was a 1939 merger between Shibaura Seisaku-sho  and Tokyo Denki . 
 
  
 ## Unsplash photos

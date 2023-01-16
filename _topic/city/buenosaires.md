@@ -10,18 +10,7 @@ tags:
 ---
 # Buenos Aires
 
-Buenos Aires, officially the Autonomous City of Buenos Aires, is the capital and largest city of 
-Argentina.
-The city is located on the western shore of the Río de la Plata, on South America's southeastern 
-coast.
-Buenos Aires can be translated as fair winds or good airs, but the former was the meaning intended 
-by the founders in the 16th century, by the use of the original name Real de Nuestra Señora Santa 
-María del Buen Ayre, named after the Madonna of Bonaria in Sardinia, Italy.
-
-The city of Buenos Aires is neither part of Buenos Aires Province nor the Province's capital; 
-rather, it is an autonomous district.
-In 1880, after decades of political infighting, Buenos Aires was federalized and removed from 
-Buenos Aires Province.
+Buenos Aires, officially the Autonomous City of Buenos Aires, is the capital and primate city of  Argentina. The city is located on the western shore of the Río de la Plata, on South America's southeastern  coast. Buenos Aires can be translated as fair winds or good airs, but the former was the meaning intended  by the founders in the 16th century, by the use of the original name Real de Nuestra Señora Santa  María del Buen Ayre, named after the Madonna of Bonaria in Sardinia, Italy. Buenos Aires is classified as an alpha global city, according to the Globalization and World Cities  Research Network  2020 ranking.The city of Buenos Aires is neither part of Buenos Aires Province  nor the Province's capital; rather, it is an autonomous district. In 1880, after decades of political infighting, Buenos Aires was federalized and removed from  Buenos Aires Province. 
 
  
 ## Unsplash photos

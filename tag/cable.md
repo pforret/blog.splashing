@@ -2,5 +2,5 @@
 layout: with_tag
 title: Cable
 keyword: cable
-count: 2
+count: 1
 ---

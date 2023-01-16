@@ -142,12 +142,12 @@ do_loop() {
           require_binary shwiki "basher install pforret/shwiki"
           debug "Lookup up [$name] in Wikipedia ..."
           local term=${name// /+}
-          wikipedia=$(shwiki -c -p 2 -s 5 search "$term")
+          wikipedia=$(shwiki -c -p 2 -s 5 search "$term" | tr "\n" " ")
         fi
 
         progress "====- $name (markdown 1/2)"
         debug "$name / $slug / $taglist"
-        #debug "Wikipedia: [$wikipedia]"
+        debug "Wikipedia: [$wikipedia]"
         < "$template" awk \
           -v title="$name" \
           -v image="/$image1" \

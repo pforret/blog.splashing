@@ -10,17 +10,7 @@ tags:
 ---
 # Ethiopia
 
-Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the 
-Horn of Africa.
-It shares borders with Eritrea and Djibouti to the north, Somalia to the east and northeast, Kenya 
-to the south, South Sudan to the west, and Sudan to the northwest.
-Ethiopia has a total area of 1,100,000 square kilometres .
-It is home to 117 million inhabitants and is the 12th-most populous country in the world and the 
-2nd-most populous in Africa after Nigeria.
-The national capital and largest city, Addis Ababa, lies several kilometres west of the East 
-African Rift that splits the country into the African and Somali tectonic plates.Anatomically 
-modern humans emerged from modern-day Ethiopia and set out to the Near East and elsewhere in the 
-Middle Paleolithic period.
+Ethiopia, officially the Federal Democratic Republic of Ethiopia, is a landlocked country in the  Horn of Africa. It shares borders with Eritrea to the north, Djibouti to the northeast, Somalia to the east and  northeast, Kenya to the south, South Sudan to the west, and Sudan to the northwest. Ethiopia has a total area of 1,100,000 square kilometres . As of 2022, it is home to around 113.5 million inhabitants, making it the 13th-most populous  country in the world and the 2nd-most populous in Africa after Nigeria. The national capital and largest city, Addis Ababa, lies several kilometres west of the East  African Rift that splits the country into the African and Somali tectonic plates.Anatomically  modern humans emerged from modern-day Ethiopia and set out to the Near East and elsewhere in the  Middle Paleolithic period. 
 
  
 ## Unsplash photos

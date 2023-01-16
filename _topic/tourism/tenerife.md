@@ -10,13 +10,7 @@ tags:
 ---
 # Destination: Tenerife
 
-Tenerife  is the largest and most populous island of the Canary Islands.
-It is home to 43% of the total population of the archipelago.
-With a land area of 2,034 square kilometres  and a population of  966,354 inhabitants at the end of 
-2020, it is also the most populous island of Spain and of Macaronesia.Approximately five million 
-tourists visit Tenerife each year; it is the most visited island in the archipelago.
-It is one of the most important tourist destinations in Spain and the world, hosting one of the 
-world's largest carnivals, the Carnival of Santa Cruz de Tenerife.
+Tenerife  is the largest and most populous island of the Canary Islands. It is home to 43% of the total population of the archipelago. With a land area of 2,034 square kilometres  and a population of 978,100 inhabitants as of January  2022, it is also the most populous island of Spain and of Macaronesia.Approximately five million  tourists visit Tenerife each year; it is the most visited island in the archipelago. It is one of the most important tourist destinations in Spain and the world, hosting one of the  world's largest carnivals, the Carnival of Santa Cruz de Tenerife.  
 
  
 ## Unsplash photos

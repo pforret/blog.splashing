@@ -10,7 +10,7 @@ tags:
 ---
 # Congo
 
-Congo may refer to either of two countries that border the Congo River in central Africa:
+Congo or The Congo may refer to either of two countries that border the Congo River in central  Africa:    
 
  
 ## Unsplash photos

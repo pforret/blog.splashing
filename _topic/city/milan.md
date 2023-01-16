@@ -10,22 +10,7 @@ tags:
 ---
 # Milan
 
-Milan  is a city in northern Italy, capital of Lombardy, and the second-most populous city proper 
-in Italy after Rome.
-The city proper has a population of about 1.4 million, while its metropolitan city has 3.26 million 
-inhabitants.
-Its continuously built-up urban area, that stretches well beyond the boundaries of the 
-administrative metropolitan city and into Switzerland, is the fourth largest in the EU with 5.27 
-million inhabitants.
-According to national sources, the population within the wider Milan metropolitan area, is 
-estimated between 8.2 million and 12.5 million making it by far the largest metropolitan area in 
-Italy and one of the largest in the EU.Milan is considered a leading alpha global city, with 
-strengths in the fields of art, commerce, design, education, entertainment, fashion, finance, 
-healthcare, media, services, research and tourism.
-Its business district hosts Italy's stock exchange, and the headquarters of national and 
-international banks and companies.
-In terms of GDP, Milan is the wealthiest city in Italy, has the third-largest economy among EU 
-cities after Paris and Madrid, and is the wealthiest among EU non-capital cities.
+Milan  is a city in northern Italy, capital of Lombardy, and the second-most populous city proper  in Italy after Rome. The city proper has a population of about 1.4 million, while its metropolitan city has 3.26 million  inhabitants. Its continuously built-up urban area  is the fourth largest in the EU with 5.27 million inhabitants. According to national sources, the population within the wider Milan metropolitan area, is  estimated between 8.2 million and 12.5 million making it by far the largest metropolitan area in  Italy and one of the largest in the EU.Milan is considered a leading alpha global city, with  strengths in the fields of art, chemicals, commerce, design, education, entertainment, fashion,  finance, healthcare, media, services, research and tourism. Its business district hosts Italy's stock exchange, and the headquarters of national and  international banks and companies. 
 
  
 ## Unsplash photos

@@ -9,11 +9,7 @@ tags:
 ---
 # Sport: skiing
 
-Skiing is the use of skis to glide on snow.
-Variations of purpose include basic transport, a recreational activity, or a competitive winter 
-sport.
-Many types of competitive skiing events are recognized by the International Olympic Committee, and 
-the International Ski Federation .
+Skiing is the use of skis to glide on snow. Variations of purpose include basic transport, a recreational activity, or a competitive winter  sport. Many types of competitive skiing events are recognized by the International Olympic Committee, and  the International Ski Federation .   
 
  
 ## Unsplash photos

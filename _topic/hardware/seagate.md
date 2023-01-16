@@ -9,7 +9,7 @@ tags:
 ---
 # Seagate
 
-Seagate or Sea Gate may refer to:
+Seagate or Sea Gate may refer to:    
 
  
 ## Unsplash photos

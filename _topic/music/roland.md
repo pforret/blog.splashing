@@ -10,15 +10,7 @@ tags:
 ---
 # Roland
 
-Roland  was a Frankish military leader under Charlemagne who became one of the principal figures in 
-the literary cycle known as the Matter of France.
-The historical Roland was military governor of the Breton March, responsible for defending 
-Francia's frontier against the Bretons.
-His only historical attestation is in Einhard's Vita Karoli Magni, which notes he was part of the 
-Frankish rearguard killed in retribution by the  Basques in Iberia at the Battle of Roncevaux Pass.
-
-The story of Roland's death at Roncevaux Pass was embellished in later medieval and Renaissance 
-literature.
+Roland  was a Frankish military leader under Charlemagne who became one of the principal figures in  the literary cycle known as the Matter of France. The historical Roland was military governor of the Breton March, responsible for defending  Francia's frontier against the Bretons. His only historical attestation is in Einhard's Vita Karoli Magni, which notes he was part of the  Frankish rearguard killed in retribution by the  Basques in Iberia at the Battle of Roncevaux Pass.  The story of Roland's death at Roncevaux Pass was embellished in later medieval and Renaissance  literature. 
 
  
 ## Unsplash photos

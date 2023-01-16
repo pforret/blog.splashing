@@ -9,16 +9,7 @@ tags:
 ---
 # United Kingdom
 
-The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom  or 
-Britain, is a sovereign country in north-western Europe, off the north-­western coast of the 
-European mainland.
-The United Kingdom includes the island of Great Britain, the north-­eastern part of the island of 
-Ireland, and many smaller islands within the British Isles.
-Northern Ireland shares a land border with the Republic of Ireland.
-Otherwise, the United Kingdom is surrounded by the Atlantic Ocean, with the North Sea to the east, 
-the English Channel to the south and the Celtic Sea to the south-west, giving it the 12th-longest 
-coastline in the world.
-The Irish Sea separates Great Britain and Ireland.
+The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom  or  Britain, is a country in Europe, off the north-western coast of the continental mainland. It comprises England, Scotland, Wales, and Northern Ireland. The United Kingdom includes the island of Great Britain, the north-eastern part of the island of  Ireland, and many smaller islands within the British Isles. Northern Ireland shares a land border with the Republic of Ireland; otherwise, the United Kingdom  is surrounded by the Atlantic Ocean, the North Sea, the English Channel, the Celtic Sea and the  Irish Sea. The total area of the United Kingdom is 242,495 square kilometres, with an estimated 2020  population of more than 67 million people.The United Kingdom has evolved from a series of  annexations, unions and separations of constituent countries over several hundred years. 
 
  
 ## Unsplash photos

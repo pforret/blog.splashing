@@ -9,12 +9,7 @@ tags:
 ---
 # piccolo
 
-The piccolo   is a half-size flute, and a member of the woodwind family of musical instruments.
-The modern piccolo has most of the same fingerings as its larger sibling, the standard transverse 
-flute, but the sound it produces is an octave higher than written.
-This has given rise to the name ottavino, by which the instrument is called in the scores of 
-Italian composers.
-It is also called flauto piccolo or flautino.
+The piccolo  is a half-size flute and a member of the woodwind family of musical instruments. Sometimes referred to as a baby flute the modern piccolo has similar fingerings as the standard  transverse flute, but the sound it produces is an octave higher. This has given rise to the name ottavino, by which the instrument is called in Italian and thus  also in scores of Italian composers.   
 
  
 ## Unsplash photos

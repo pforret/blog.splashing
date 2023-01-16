@@ -9,11 +9,7 @@ tags:
 ---
 # Mali
 
-Mali, officially the Republic of Mali, is a landlocked country in West Africa.
-Mali is the eighth-largest country in Africa, with an area of over 1,240,000 square kilometres .
-The population of Mali is 19.1 million.
-67% of its population was estimated to be under the age of 25 in 2017.
-Its capital and largest city is Bamako.
+Mali, officially the Republic of Mali, is a landlocked country in West Africa. Mali is the eighth-largest country in Africa, with an area of over 1,240,000 square kilometres . The population of Mali is 21.9 million. 67% of its population was estimated to be under the age of 25 in 2017. Its capital and largest city is Bamako. 
 
  
 ## Unsplash photos

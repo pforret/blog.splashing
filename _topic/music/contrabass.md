@@ -10,15 +10,7 @@ tags:
 ---
 # contrabass
 
-Contrabass  refers to several musical instruments of very low pitch—generally one octave below bass 
-register instruments.
-While the term most commonly refers to the double bass, many other instruments in the contrabass 
-register exist.
-
-The term contrabass is relative, usually denoting a very low-pitched instrument of its type, rather 
-than one in a particular range.
-For example, the contrabass flute's lowest note is approximately an octave higher than that of the 
-contrabass clarinet.
+Contrabass  refers to several musical instruments of very low pitch—generally one octave below bass  register instruments. While the term most commonly refers to the double bass, many other instruments in the contrabass  register exist.  The term contrabass is relative, usually denoting a very low-pitched instrument of its type, rather  than one in a particular range. For example, the contrabass flute's lowest note is approximately an octave higher than that of the  contrabass clarinet. 
 
  
 ## Unsplash photos

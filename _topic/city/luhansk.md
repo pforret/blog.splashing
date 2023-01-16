@@ -9,12 +9,7 @@ tags:
 ---
 # Luhansk
 
-Luhansk, also known as Lugansk, is a city in eastern Ukraine.
-
-The city and its surrounding areas have been one of the main sites of fighting in the Donbas War.
-Until its capture by the Luhansk People's Republic in 2014, Luhansk was the capital and 
-administrative center of Luhansk Oblast.
-The current population is estimated to be 399,559 .
+Luhansk, also known as Lugansk, is a city in what is internationally recognised as Ukraine,  although it is administered by Russia as capital of the Luhansk People's Republic . As of 2022, the population was estimated to be 397,677, making Luhansk the most populous city in  the region and the 12th largest in Ukraine. In 2001, nearly half of the population was ethnically Ukrainian, and 47% was ethnically Russian.  Luhansk has been the capital and administrative center of Luhansk Oblast, although the Ukrainian  administration was relocated to Sievierodonetsk when the War in Donbas broke out following the  establishment of LPR. 
 
  
 ## Unsplash photos

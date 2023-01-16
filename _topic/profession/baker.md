@@ -9,9 +9,7 @@ tags:
 ---
 # Profession: baker
 
-A baker is a tradesperson who bakes and sometimes sells breads and other products made of flour by 
-using an oven or other concentrated heat source.
-The place where a baker works is called a bakery.
+A baker is a tradesperson who bakes and sometimes sells breads and other products made of flour by  using an oven or other concentrated heat source. The place where a baker works is called a bakery.    
 
  
 ## Unsplash photos

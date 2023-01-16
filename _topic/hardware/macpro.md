@@ -10,13 +10,7 @@ tags:
 ---
 # Mac Pro
 
-Mac Pro is a series of workstations and servers for professionals that are designed, developed and 
-marketed by Apple Inc.
-since 2006.
-
-The Mac Pro, by some performance benchmarks, is the most powerful computer that Apple offers.
-It is one of four desktop computers in the current Macintosh lineup, sitting above the Mac Mini and 
-iMac and Mac Studio.
+Mac Pro is a series of workstations and servers for professionals that are designed, developed and  marketed by Apple Inc. since 2006. The Mac Pro, by some performance benchmarks, is the most powerful computer that Apple offers. It is one of four desktop computers in the current Mac lineup, sitting above the Mac Mini, iMac and  Mac Studio.  
 
  
 ## Unsplash photos

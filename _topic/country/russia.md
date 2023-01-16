@@ -9,15 +9,7 @@ tags:
 ---
 # Russia
 
-Russia, or the Russian Federation, is a transcontinental country spanning Eastern Europe and 
-Northern Asia.
-It is the largest country in the world by area, covering over 17,125,191 square kilometres, and 
-encompassing one-eighth of Earth's inhabitable landmass.
-Russia extends across eleven time zones and borders sixteen sovereign nations, the most of any 
-country in the world.
-It is the ninth-most populous country and the most populous country in Europe, with a population of 
-145.5 million.
-The country's capital and largest city is Moscow, the largest city entirely within Europe.
+Russia, or the Russian Federation, is a transcontinental country spanning Eastern Europe and  Northern Asia. It is the largest country in the world, with its internationally recognised territory covering  17,098,246 square kilometres, and encompassing one-eighth of Earth's inhabitable landmass. Russia extends across eleven time zones and shares land boundaries with fourteen countries. It is the world's ninth-most populous country and Europe's most populous country, with a population  of 146 million people. The country's capital and largest city is Moscow. 
 
  
 ## Unsplash photos

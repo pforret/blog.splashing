@@ -9,16 +9,7 @@ tags:
 ---
 # Argentina
 
-Argentina, officially the Argentine Republic,  is a country in the southern half of South America.
-Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the 
-world by area.
-It is the second-largest country in South America after Brazil, the fourth-largest country in the 
-Americas, and the eighth-largest country in the world.
-It shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and 
-Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east, 
-and the Drake Passage to the south.
-Argentina is a federal state subdivided into twenty-three provinces, and one autonomous city, which 
-is the federal capital and largest city of the nation, Buenos Aires.
+Argentina, officially the Argentine Republic,  is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the second-largest country in South America  after Brazil, the fourth-largest country in the Americas, and the eighth-largest country in the  world. It shares the bulk of the Southern Cone with Chile to the west, and is also bordered by Bolivia and  Paraguay to the north, Brazil to the northeast, Uruguay and the South Atlantic Ocean to the east,  and the Drake Passage to the south. Argentina is a federal state subdivided into twenty-three provinces, and one autonomous city, which  is the federal capital and largest city of the nation, Buenos Aires. The provinces and the capital have their own constitutions, but exist under a federal system. 
 
  
 ## Unsplash photos

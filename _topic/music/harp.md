@@ -9,11 +9,7 @@ tags:
 ---
 # harp
 
-The harp is a stringed musical instrument that has a number of individual strings running at an 
-angle to its soundboard; the strings are plucked with the fingers.
-Harps can be made and played in various ways, standing or sitting and in orchestras or concerts.
- Its most common form is triangular in shape and made of wood.
- Some have multiple rows of strings and pedal attachments.
+The harp is a stringed musical instrument that has a number of individual strings running at an  angle to its soundboard; the strings are plucked with the fingers. Harps can be made and played in various ways, standing or sitting, and in orchestras or concerts.  Its most common form is triangular in shape and made of wood.  Some have multiple rows of strings and pedal attachments.  
 
  
 ## Unsplash photos

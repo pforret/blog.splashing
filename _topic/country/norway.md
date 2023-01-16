@@ -9,12 +9,7 @@ tags:
 ---
 # Norway
 
-Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe, the mainland 
-territory of which comprises the western and northernmost portion of the Scandinavian Peninsula.
-The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of Norway.
-Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the 
-Antarctic territories of Peter I Island and Queen Maud Land.
-The capital and largest city in Norway is Oslo.
+Norway, officially the Kingdom of Norway, is a Nordic country in Northern Europe, the mainland  territory of which comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of Norway. Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the  Antarctic territories of Peter I Island and Queen Maud Land. The capital and largest city in Norway is Oslo.  
 
  
 ## Unsplash photos

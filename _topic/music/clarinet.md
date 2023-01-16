@@ -10,11 +10,7 @@ tags:
 ---
 # clarinet
 
-The clarinet is a type of single-reed woodwind instrument.
-Like many wind instruments, clarinets are made in several different sizes, each having its own 
-range of pitches.
-All have a nearly-cylindrical bore and a flared bell, and utilize a mouthpiece with a single reed.
-A person who plays a clarinet is called a clarinetist .
+The clarinet is a musical instrument in the woodwind family. The instrument has a nearly cylindrical bore and a flared bell, and uses a single reed to produce  sound.  Clarinets comprise a family of instruments of differing sizes and pitches. The clarinet family is the largest such woodwind family, with more than a dozen types, ranging from  the BB♭ contrabass to the E♭ soprano. 
 
  
 ## Unsplash photos

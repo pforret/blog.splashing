@@ -9,15 +9,7 @@ tags:
 ---
 # Guinea-Bissau
 
-Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa that covers 
-36,125 square kilometres  with an estimated population of 1,726,000.
-It borders Senegal to the north and Guinea to the south-east.Guinea-Bissau was once part of the 
-kingdom of Kaabu, as well as part of the Mali Empire.
-Parts of this kingdom persisted until the 18th century, while a few others were under some rule by 
-the Portuguese Empire since the 16th century.
-In the 19th century, it was colonised as Portuguese Guinea.
-Upon independence, declared in 1973 and recognised in 1974, the name of its capital, Bissau, was 
-added to the country's name to prevent confusion with Guinea .
+Guinea-Bissau, officially the Republic of Guinea-Bissau, is a country in West Africa that covers  36,125 square kilometres  with an estimated population of 1,726,000. It borders Senegal to the north and Guinea to the south-east.Guinea-Bissau was once part of the  kingdom of Kaabu, as well as part of the Mali Empire. Parts of this kingdom persisted until the 18th century, while a few others were under some rule by  the Portuguese Empire since the 16th century. In the 19th century, it was colonised as Portuguese Guinea. Portuguese control was restricted and weak until the early 20th century with the pacification  campaigns, these campaigns solidified Portuguese sovereignty in the area. 
 
  
 ## Unsplash photos

@@ -9,11 +9,7 @@ tags:
 ---
 # piano
 
-The piano is a stringed keyboard instrument in which the strings are struck by wooden hammers that 
-are coated with a softer material .
-It is played using a keyboard, which is a row of keys  that the performer presses down or strikes 
-with the fingers and thumbs of both hands to cause the hammers to strike the strings.
-It was invented in Italy by Bartolomeo Cristofori around the year 1700.
+The piano is a stringed keyboard instrument in which the strings are struck by wooden hammers that  are coated with a softer material . It is played using a keyboard, which is a row of keys  that the performer presses down or strikes  with the fingers and thumbs of both hands to cause the hammers to strike the strings. It was invented in Italy by Bartolomeo Cristofori around the year 1700.   
 
  
 ## Unsplash photos

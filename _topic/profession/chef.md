@@ -9,14 +9,7 @@ tags:
 ---
 # Profession: chef
 
-A chef is a trained professional cook and tradesman who is proficient in all aspects of food 
-preparation, often focusing on a particular cuisine.
-The word chef is derived from the term chef de cuisine, the director or head of a kitchen.
-Chefs can receive formal training from an institution, as well as by apprenticing with an 
-experienced chef.
-
-There are different terms that use the word chef in their titles, and deal with specific areas of 
-food preparation.
+A chef is a trained professional cook and tradesman who is proficient in all aspects of food  preparation, often focusing on a particular cuisine. The word chef is derived from the term chef de cuisine, the director or head of a kitchen. Chefs can receive formal training from an institution, as well as by apprenticing with an  experienced chef.  There are different terms that use the word chef in their titles, and deal with specific areas of  food preparation. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: guitar player
 
-
+  
 
  
 ## Unsplash photos

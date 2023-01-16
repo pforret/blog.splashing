@@ -11,14 +11,7 @@ tags:
 ---
 # Belfast
 
-Belfast  is the capital and largest city of Northern Ireland, standing on the banks of the River 
-Lagan on the east coast.
-It is the 12th-largest city in the United Kingdom and the second-largest on the island of Ireland.
-It had a population of 343,542 in 2019.
-Belfast suffered greatly during the violence that accompanied the partition of Ireland, and 
-especially during the more recent conflict known as the Troubles.
-
-By the early 19th century, Belfast was a major port.
+Belfast  is the capital and largest city of Northern Ireland, standing on the banks of the River  Lagan on the east coast. It is the 12th-largest city in the United Kingdom and the second-largest in Ireland. It had a population of 345,418 in 2021.By the early 19th century, Belfast was a major port. It played an important role in the Industrial Revolution in Ireland, briefly becoming the biggest  linen-producer in the world, earning it the nickname Linenopolis. By the time it was granted city status in 1888, it was a major centre of Irish linen production,  tobacco-processing and rope-making. 
 
  
 ## Unsplash photos

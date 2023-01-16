@@ -9,13 +9,7 @@ tags:
 ---
 # Ukraine
 
-Ukraine  is a country in Eastern Europe.
-It is the second largest country in Europe after Russia, which borders it to the east and 
-north-east.
-Ukraine also shares borders with Belarus to the north; Poland, Slovakia, and Hungary to the west; 
-Romania and Moldova to the south; and has a coastline along the Sea of Azov and the Black Sea.
-It covers about 600,000 km2, with a population of about 40 million.
-The nation's capital and largest city is Kyiv .
+Ukraine  is a country in Eastern Europe. It is the second-largest European country after Russia, which it borders to the east and northeast. Ukraine covers approximately 600,000 square kilometres . Prior to the ongoing Russian invasion, it was the eighth-most populous country in Europe, with a  population of around 41 million people. It is also bordered by Belarus to the north; by Poland, Slovakia, and Hungary to the west; and by  Romania and Moldova to the southwest; with a coastline along the Black Sea and the Sea of Azov to  the south and southeast. 
 
  
 ## Unsplash photos

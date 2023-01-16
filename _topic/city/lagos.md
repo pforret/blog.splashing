@@ -9,18 +9,7 @@ tags:
 ---
 # Lagos
 
-Lagos  is the largest city in Nigeria and the most populous city in Africa, with a population of 
-15.3 million as of 2015 within the city proper.
-The Lagos metropolitan area has a total population of roughly 23.5 million as of 2018, making it 
-the largest metropolitan area in Africa.
-Lagos is a major African financial centre and is the economic hub of Lagos State and Nigeria at 
-large.
-The city has been described as the cultural, financial, and entertainment capital of Africa, and is 
-a significant influence on commerce, entertainment, technology, education, politics, tourism, art, 
-fashion.
-Lagos is also among the top ten of the world's fastest-growing cities and urban areas.
-The megacity has the fourth-highest GDP in Africa and houses one of the largest and busiest 
-seaports on the continent.
+Lagos  is the largest city in Nigeria and the second most populous city in Africa, with a  population of 15.4 million as of 2015 within the city proper. Lagos was the national capital of Nigeria until December 1991 following the government's decision  to move their capital to Abuja in the center of the country. The Lagos metropolitan area has a total population of roughly 23.5 million as of 2018, making it  the largest metropolitan area in Africa. Lagos is a major African financial center and is the economic hub of Lagos State and Nigeria at  large. The city has been described as the cultural, financial, and entertainment capital of Africa, and is  a significant influence on commerce, entertainment, technology, education, politics, tourism, art,  and fashion. 
 
  
 ## Unsplash photos

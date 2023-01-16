@@ -9,7 +9,7 @@ tags:
 ---
 # Kingston
 
-Kingston may refer to:
+Kingston may refer to:    
 
  
 ## Unsplash photos

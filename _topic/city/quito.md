@@ -9,16 +9,7 @@ tags:
 ---
 # Quito
 
-Quito  is the capital of Ecuador, the closest capital city to the equator, and at an elevation of 
-2,850 m  above sea level, the second-highest official capital city in the world.
-It is located in the Guayllabamba river basin, on the eastern slopes of Pichincha, an active 
-stratovolcano in the Andes Mountains.
-
-In 2008, the city was designated as the headquarters of the Union of South American Nations.The 
-historic center of Quito is one of the largest, least-altered, and best-preserved in the Americas.
-Quito and Kraków, Poland, were the first World Cultural Heritage Sites declared by UNESCO, in 1978.
-The central square of Quito is located about 25 km  south of the equator; the city itself extends 
-to within about 1 km  of zero latitude.
+Quito, formally San Francisco de Quito, is the capital and largest city of Ecuador, with an  estimated population of 2.8 million in its urban area. It is also the capital of the province of Pichincha. Quito is located in a valley on the eastern slopes of Pichincha, an active stratovolcano in the  Andes, at an elevation of 2,850 m, making it the second-highest capital city in the world.Quito is  the political and cultural center of Ecuador as the country's major governmental, administrative,  and cultural institutions are located within the city. The majority of transnational companies with a presence in Ecuador are headquartered there. It is also one of the country's two major industrial centers—the port city of Guayaquil being the  other one. 
 
  
 ## Unsplash photos

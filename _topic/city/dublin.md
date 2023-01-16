@@ -10,17 +10,7 @@ tags:
 ---
 # Dublin
 
-Dublin  is the capital and largest city of Ireland.
-Situated on a bay on the east coast, at the mouth of the River Liffey, it is in the province of 
-Leinster and the Eastern and Midland Region.
-It is bordered on the south by the Dublin Mountains, a part of the Wicklow Mountains range.
-At the 2016 census, it had an urban area population of 1,173,179, while the population of the 
-traditional County Dublin as a whole was 1,347,359.
-The population of the Greater Dublin Area was 1,904,806.There is archaeological debate regarding 
-precisely where and when Dublin originated, with a settlement established by the Gaels during or 
-before the 7th century CE, and a second, Viking, settlement, following.
-As the small Kingdom of Dublin, the city grew, and it became Ireland's principal settlement 
-following the Norman invasion.
+Dublin  is the capital and largest city of Ireland. On a bay at the mouth of the River Liffey, it is in the province of Leinster, bordered on the south  by the Dublin Mountains, a part of the Wicklow Mountains range. At the 2016 census it had a population of 1,173,179, while the preliminary results of the 2022  census recorded that County Dublin as a whole had a population of 1,450,701, and that the  population of the Greater Dublin Area was over 2 million, or roughly 40% of the Republic of  Ireland's total population.A settlement was established in the area by the Gaels during or before  the 7th century, followed by the Vikings. As the Kingdom of Dublin grew, it became Ireland's principal settlement by the 12th century  Anglo-Norman invasion of Ireland. The city expanded rapidly from the 17th century and was briefly the second largest in the British  Empire and sixth largest in Western Europe after the Acts of Union in 1800. 
 
  
 ## Unsplash photos

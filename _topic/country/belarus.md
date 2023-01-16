@@ -9,13 +9,7 @@ tags:
 ---
 # Belarus
 
-Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe.
-It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and 
-Lithuania and Latvia to the northwest.
-Covering an area of 207,600 square kilometres  and with a population of 9.3 million, Belarus is the 
-13th-largest and the 20th-most populous country in Europe.
-The country is administratively divided into seven regions.
-Minsk is the capital and largest city.
+Belarus, officially the Republic of Belarus, is a landlocked country in Eastern Europe. It is bordered by Russia to the east and northeast, Ukraine to the south, Poland to the west, and  Lithuania and Latvia to the northwest. Covering an area of 207,600 square kilometres  and with a population of 9.2 million, Belarus is the  13th-largest and the 20th-most populous country in Europe. The country has a hemiboreal climate and is administratively divided into seven regions. Minsk is the capital and largest city. 
 
  
 ## Unsplash photos

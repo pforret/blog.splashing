@@ -9,14 +9,7 @@ tags:
 ---
 # Mauritius
 
-Mauritius, officially the Republic of Mauritius, is an island nation in the Indian Ocean about 
-2,000 kilometres  off the southeast coast of the African continent, east of Madagascar.
-It includes the main island, as well as Rodrigues, Agaléga and St.
-Brandon.
-The islands of Mauritius and Rodrigues, along with nearby Réunion, are part of the Mascarene 
-Islands.
-The capital and largest city, Port Louis, is located in Mauritius, where most of the population is 
-concentrated.
+Mauritius, officially the Republic of Mauritius, is an island nation in the Indian Ocean about  2,000 kilometres  off the southeast coast of the African continent, east of Madagascar. It includes the main island, as well as Rodrigues, Agaléga and St. Brandon. The islands of Mauritius and Rodrigues, along with nearby Réunion, are part of the Mascarene  Islands. The main island of Mauritius, where most of the population is concentrated, hosts the capital and  largest city, Port Louis. 
 
  
 ## Unsplash photos

@@ -9,10 +9,7 @@ tags:
 ---
 # Profession: guitarist
 
-A guitarist  is a person who plays the guitar.
-Guitarists may play a variety of guitar family instruments such as classical guitars, acoustic 
-guitars, electric guitars, and bass guitars.
-Some guitarists accompany themselves on the guitar by singing or playing the harmonica, or both.
+A guitarist  is a person who plays the guitar. Guitarists may play a variety of guitar family instruments such as classical guitars, acoustic  guitars, electric guitars, and bass guitars. Some guitarists accompany themselves on the guitar by singing or playing the harmonica, or both.   
 
  
 ## Unsplash photos

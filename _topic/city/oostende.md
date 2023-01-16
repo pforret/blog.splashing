@@ -10,7 +10,7 @@ tags:
 ---
 # Oostende
 
-Oostende can mean:
+Oostende can mean:    
 
  
 ## Unsplash photos

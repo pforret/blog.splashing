@@ -10,20 +10,7 @@ tags:
 ---
 # Moscow
 
-Moscow  is the capital and largest city of Russia.
-The city stands on the Moskva River in Central Russia, with a population estimated at 12.4 million 
-residents within the city limits, over 17 million residents in the urban area, and over 20 million 
-residents in the metropolitan area.
-The city covers an area of 2,511 square kilometers, while the urban area covers 5,891 square 
-kilometers, and the metropolitan area covers over 26,000 square kilometers .
-Moscow is among the world's largest cities; being the most populous city entirely in Europe, the 
-largest urban and metropolitan area in Europe, and the largest city by land area on the European 
-continent.First documented in 1147, Moscow grew to become a prosperous and powerful city that 
-served as the capital of the Grand Duchy that bears its name.
-When the Grand Duchy of Moscow evolved into the Tsardom of Russia, Moscow still remained as the 
-political and economic center for most of the Tsardom's history.
-When the Tsardom was reformed into the Russian Empire, the capital was moved from Moscow to Saint 
-Petersburg diminishing the influence of the city.
+Moscow  is the capital and largest city of Russia. The city stands on the Moskva River in Central Russia, with a population estimated at 13.0 million  residents within the city limits, over 17 million residents in the urban area, and over 21.5  million residents in the metropolitan area. The city covers an area of 2,511 square kilometers, while the urban area covers 5,891 square  kilometers, and the metropolitan area covers over 26,000 square kilometers . Moscow is among the world's largest cities; being the most populous city entirely in Europe, the  largest urban and metropolitan area in Europe, and the largest city by land area on the European  continent.First documented in 1147, Moscow grew to become a prosperous and powerful city that  served as the capital of the Grand Duchy that bears its name. When the Grand Duchy of Moscow evolved into the Tsardom of Russia, Moscow remained the political  and economic center for most of the Tsardom's history. 
 
  
 ## Unsplash photos

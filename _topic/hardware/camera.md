@@ -9,12 +9,7 @@ tags:
 ---
 # camera
 
-A camera is an optical instrument that captures a visual image.
-At a basic level, cameras consist of sealed boxes, with a small hole  that allows light through to 
-capture an image on a light-sensitive surface .
-Cameras have various mechanisms to control how the light falls onto the light-sensitive surface.
-Lenses focus the light entering the camera.
-The aperture can be narrowed or widened.
+A camera is an optical instrument that captures images. Most cameras can capture 2D images, while some more advanced models can capture 3D images. At a basic level, most cameras consist of a sealed box, with a small hole  that allows light to  pass through and capture an image on a light-sensitive surface . Cameras have various mechanisms to control how light falls onto the light-sensitive surface,  including lenses that focus the light and a shutter that determines the amount of time the  photosensitive surface is exposed to the light.  
 
  
 ## Unsplash photos

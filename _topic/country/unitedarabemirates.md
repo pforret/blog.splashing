@@ -9,13 +9,7 @@ tags:
 ---
 # United Arab Emirates
 
-The United Arab Emirates, or simply the Emirates, is a country in Western Asia.
-It is located at the eastern end of the Arabian Peninsula, and shares borders with Oman and Saudi 
-Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran.
-Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub.
-
-The United Arab Emirates is an elective monarchy formed from a federation of seven emirates, 
-consisting of Abu Dhabi, Ajman, Dubai, Fujairah, Ras Al Khaimah, Sharjah and Umm Al Quwain.
+The United Arab Emirates, or simply the Emirates, is a country in Western Asia . It is located at the eastern end of the Arabian Peninsula and shares borders with Oman and Saudi  Arabia, while having maritime borders in the Persian Gulf with Qatar and Iran. Abu Dhabi is the nation's capital, while Dubai, the most populous city, is an international hub.  The United Arab Emirates is an elective monarchy formed from a federation of seven emirates,  consisting of Abu Dhabi, Ajman, Dubai, Fujairah, Ras Al Khaimah, Sharjah and Umm Al Quwain. 
 
  
 ## Unsplash photos

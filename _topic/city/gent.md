@@ -10,8 +10,7 @@ tags:
 ---
 # Gent
 
-Gent is a shortened form of the word gentleman.
-It may also refer to:
+Gent is a shortened form of the word gentleman. It may also refer to:    
 
  
 ## Unsplash photos

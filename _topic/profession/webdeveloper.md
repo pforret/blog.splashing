@@ -9,12 +9,7 @@ tags:
 ---
 # Profession: web developer
 
-A web developer is a programmer or a coder who specializes in, or is specifically engaged in, the 
-development of World Wide Web applications using a client–server model.
-The applications typically use HTML, CSS and JavaScript in the client, PHP, ASP.NET, Python, 
-Node.js, Go or Java in the server, and http for communications between client and server.
-A web developer may specialize in client-side applications, server-side applications, or both .
-A web content management system may be used to develop and maintain web applications.
+A web developer is a programmer who develops World Wide Web applications using a client–server  model. The applications typically use HTML, CSS, and JavaScript in the client, and any general-purpose  programming language in the server. HTTP is used for communications between client and server. A web developer may specialize in client-side applications, server-side applications, or both .  
 
  
 ## Unsplash photos

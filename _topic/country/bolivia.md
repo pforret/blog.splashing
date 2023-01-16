@@ -9,13 +9,7 @@ tags:
 ---
 # Bolivia
 
-Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in 
-western-central South America.
-The constitutional capital is Sucre, while the seat of government and executive capital is La Paz.
-The largest city and principal industrial center is Santa Cruz de la Sierra, located on the Llanos 
-Orientales, a mostly flat region in the east of the country.
-
-The sovereign state of Bolivia is a constitutionally unitary state, divided into nine departments.
+Bolivia, officially the Plurinational State of Bolivia, is a landlocked country located in  western-central South America. It is bordered by Brazil to the north and east, Paraguay to the southeast, Argentina to the south,  Chile to the southwest and Peru to the west. The seat of government and executive capital is La Paz, while the constitutional capital is Sucre. The largest city and principal industrial center is Santa Cruz de la Sierra, located on the Llanos  Orientales, a mostly flat region in the east of the country.  
 
  
 ## Unsplash photos

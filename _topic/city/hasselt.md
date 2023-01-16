@@ -10,16 +10,7 @@ tags:
 ---
 # Hasselt
 
-Hasselt  is a Belgian city and municipality, and capital and largest city of the province of 
-Limburg in the Flemish Region of Belgium.
-The Hasselt municipality includes the original city of Hasselt, plus the old communes of 
-Sint-Lambrechts-Herk, Wimmertingen, Kermt, Spalbeek, Kuringen, Stokrooie, Stevoort and Runkst, as 
-well as the hamlets and parishes of Kiewit, Godsheide and Rapertingen.
-
-On 31 December 2007 Hasselt had a total population of 71,520 .
-Both the Demer river and the Albert Canal run through the municipality.
-Hasselt is located in between the Campine region, north of the Demer river, and the Hesbaye region, 
-to the south.
+Hasselt  is a Belgian city and municipality, and capital and largest city of the province of  Limburg in the Flemish Region of Belgium. It is known for its former branding as the city of taste, as well as its local distelleries of  Hasselt jenever, the Hasselt Jenever Festivities, Limburgish pie and the Hasselt speculaas. The municipality includes the original city of Hasselt, plus the boroughs of Sint-Lambrechts-Herk,  Wimmertingen, Kermt, Spalbeek, Kuringen, Stokrooie, Stevoort and Runkst, as well as the hamlets and  parishes of Kiewit, Godsheide and Rapertingen.  On 01 July 2022 Hasselt had a total population of 80,260 . 
 
  
 ## Unsplash photos

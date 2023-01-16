@@ -9,12 +9,7 @@ tags:
 ---
 # Lithuania
 
-Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe.
-It is one of three Baltic states and lies on the eastern shore of the Baltic Sea.
-Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to 
-the south, and Kaliningrad Oblast of Russia to the southwest.
-It has a maritime border with Sweden to the west on the Baltic Sea.
-Lithuania covers an area of 65,300 km2, with a population of 2.8 million.
+Lithuania, officially the Republic of Lithuania, is a country in the Baltic region of Europe. It is one of three Baltic states and lies on the eastern shore of the Baltic Sea. Lithuania shares land borders with Latvia to the north, Belarus to the east and south, Poland to  the south, and Russia to the southwest. It has a maritime border with Sweden to the west on the Baltic Sea. Lithuania covers an area of 65,300 km2, with a population of 2.8 million. 
 
  
 ## Unsplash photos

@@ -9,15 +9,7 @@ tags:
 ---
 # Sport: fencing
 
-Fencing is a group of three related combat sports.
-The three disciplines in modern fencing are the  foil, the épée, and the sabre ; winning points are 
-made through the weapon's contact with an opponent.
-A fourth discipline, singlestick, appeared in the 1904 Olympics but was dropped after that, and is 
-not a part of modern fencing.
-Fencing was one of the first sports to be played in the Olympics.
-Based on the traditional skills of swordsmanship, the modern sport arose at the end of the 19th 
-century, with the Italian school having modified the historical European martial art of classical 
-fencing, and the French school later refining the Italian system.
+Fencing is a combat sport that features sword fighting. The three disciplines of modern fencing are the foil, the épée, and the sabre ; each discipline  uses a different kind of blade, which shares the same name, and employs its own rules. Most competitive fencers specialize in one discipline. The modern sport gained prominence near the end of the 19th century and is based on the traditional  skill set of swordsmanship. The Italian school altered the historical European martial art of classical fencing, and the French  school later refined that system. 
 
  
 ## Unsplash photos

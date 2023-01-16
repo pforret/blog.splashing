@@ -12,15 +12,7 @@ tags:
 ---
 # Denmark
 
-Denmark  is a Nordic country in Northern Europe.
-It is the most populous and politically central constituent of the Kingdom of Denmark, a 
-constitutionally unitary state that includes the autonomous territories of the Faroe Islands and 
-Greenland in the North Atlantic Ocean.
-European Denmark is the southernmost of the Scandinavian countries, lying southwest of Sweden, 
-south of Norway, and north of Germany.
-
-Spanning a total area of 42,943 km2, it consists of the peninsula of Jutland and an archipelago of 
-443 named islands, of which the largest are Zealand, Funen and the North Jutlandic Island.
+Denmark  is a Nordic country in Northern Europe. It is the most populous and politically central constituent of the Kingdom of Denmark, a  constitutionally unitary state that includes the autonomous territories of the Faroe Islands and  Greenland in the North Atlantic Ocean. Metropolitan Denmark is the southernmost of the Scandinavian countries, lying south-west of Sweden,  south of Norway, and north of Germany.  As of 2013, the Kingdom of Denmark, including the Faroe Islands and Greenland, has a total of 1,419  islands above 100 square metres ; 443 of which have been named and of which 78 are inhabited. 
 
  
 ## Unsplash photos

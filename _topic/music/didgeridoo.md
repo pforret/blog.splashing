@@ -9,16 +9,7 @@ tags:
 ---
 # didgeridoo
 
-The didgeridoo  is a wind instrument, played with continuously vibrating lips to produce a 
-continuous drone while using a special breathing technique called circular breathing.
-The didgeridoo was developed by Aboriginal peoples of northern Australia at least 1,500 years ago, 
-and is now in use around the world, though still most strongly associated with Indigenous 
-Australian music.
-The Yolŋu name for the instrument is the yiḏaki, or more recently by some, mandapul; in the Bininj 
-Kunwok language of West Arnhem Land it is known as mako.A didgeridoo is usually cylindrical or 
-conical, and can measure anywhere from 1 to 3 m  long.
-Most are around 1.2 m  long.
-Generally, the longer the instrument, the lower its pitch or key.
+The didgeridoo  is a wind instrument, played with vibrating lips to produce a continuous drone  while using a special breathing technique called circular breathing. The didgeridoo was developed by Aboriginal peoples of northern Australia at least 1,000 years ago,  and is now in use around the world, though still most strongly associated with Indigenous  Australian music. In the Yolŋu languages of the indigenous people of northeast Arnhem Land the name for the  instrument is the yiḏaki, or more recently by some, mandapul. In the Bininj Kunwok language of West Arnhem Land it is known as mako.A didgeridoo is usually  cylindrical or conical, and can measure anywhere from 1 to 3 m  long. Most are around 1.2 m  long. 
 
  
 ## Unsplash photos

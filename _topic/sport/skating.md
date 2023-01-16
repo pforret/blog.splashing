@@ -9,8 +9,7 @@ tags:
 ---
 # Sport: skating
 
-Skating involves any sports or recreational activity which consists of traveling on surfaces or on 
-ice using skates, and may refer to:
+Skating involves any sports or recreational activity which consists of traveling on surfaces or on  ice using skates, and may refer to:    
 
  
 ## Unsplash photos

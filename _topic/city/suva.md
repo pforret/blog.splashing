@@ -9,13 +9,7 @@ tags:
 ---
 # Suva
 
-Suva  is the capital of Fiji, and its largest metropolitan city.
-It is located on the southeast coast of the island of Viti Levu, in Rewa Province, Central Division.
-
-In 1877, it was decided to make Suva the capital of Fiji.
-At that time, the colony was being administered from what had been the main European settlement:  
-Levuka, on the Fijian island of Ovalau, in Lomaiviti Province.
-But the geography of Luvuka and its environs had proven too restrictive.
+Suva  is the capital and largest city of Fiji. It is the home of the country's largest metropolitan area and serves as its major port. The city is located on the southeast coast of the island of Viti Levu, in Rewa Province, Central  Division.  In 1877, the capital of Fiji was moved to Suva from Levuka, the main European colonial settlement  at the time, due to its restrictive geography and environs. 
 
  
 ## Unsplash photos

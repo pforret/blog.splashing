@@ -9,12 +9,7 @@ tags:
 ---
 # Lesotho
 
-Lesotho, officially the Kingdom of Lesotho, is an enclaved country surrounded by South Africa.
-It is a mountainous country situated in the Maloti Mountains, and contains the highest mountains in 
-Southern Africa.
-Lesotho has an area of just over 30,000 km2  and has a population of about 2 million.
-Its capital and largest city is Maseru.
-The official languages are Sesotho and English.
+Lesotho, officially the Kingdom of Lesotho, is a landlocked state within South Africa. It is situated in the Maloti Mountains and contains the highest mountains in Southern Africa. It has an area of over 30,000 km2  and has a population of about 2 million.  It was previously the British Crown colony of Basutoland, which declared independence from the  United Kingdom on 4 October 1966. 
 
  
 ## Unsplash photos

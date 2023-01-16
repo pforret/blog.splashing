@@ -9,10 +9,7 @@ tags:
 ---
 # glockenspiel
 
-The glockenspiel  or bells is a percussion instrument.
-It consists of pitched aluminum or steel bars arranged in a keyboard layout.
-This makes the glockenspiel a type of metallophone, similar to the vibraphone.
- 
+The glockenspiel  or bells is a percussion instrument consisting of pitched aluminum or steel bars  arranged in a keyboard layout. This makes the glockenspiel a type of metallophone, similar to the vibraphone.    The glockenspiel is played by striking the bars with mallets, often made of a hard material such as  metal or plastic. 
 
  
 ## Unsplash photos

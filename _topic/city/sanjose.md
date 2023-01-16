@@ -11,7 +11,7 @@ tags:
 ---
 # San Jose
 
-
+  
 
  
 ## Unsplash photos

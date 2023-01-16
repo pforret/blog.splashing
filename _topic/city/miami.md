@@ -11,16 +11,7 @@ tags:
 ---
 # Miami
 
-Miami (, officially the City of Miami, is a coastal metropolis located in Miami-Dade County in 
-southeastern Florida .
-With a population of 442,241 as of the 2020 census, it is the second-most populous city in Florida, 
-eleventh-most populous city in the Southeast, and 44th-most populous city in the United States.
-Miami is the core of the nation's eighth-largest metropolitan area with 6,138,333 people.
-The city has the third-largest skyline in the U.S.
-with over 300 high-rises, 58 of which exceed 491 ft .Miami is a major center and leader in finance, 
-commerce, culture, arts, and international trade.
-The metro area is by far the largest urban economy in Florida and the 12th largest in the United 
-States, with a GDP of $344.9 billion as of 2017.
+Miami, officially the City of Miami, known as the 305, The Magic City, and Gateway to the Americas,  is a major city, a coastal metropolis and the county seat of Miami-Dade County in South Florida,  United States. With a population of 442,241 at the 2020 census, it is the second-most populous city in Florida and  the eleventh-most populous city in the Southeastern United States. The Miami metropolitan area is the ninth largest in the U.S. with a population of 6.138 million in 2020. The city has the third-largest skyline in the U.S. 
 
  
 ## Unsplash photos

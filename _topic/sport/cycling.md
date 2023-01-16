@@ -9,13 +9,7 @@ tags:
 ---
 # Sport: cycling
 
-Cycling, also called bicycling or biking, is the use of bicycles for transport, recreation, 
-exercise or sport.
-People engaged in cycling are referred to as cyclists, bicyclists, or bikers.
-Apart from two-wheeled bicycles, cycling also includes the riding of unicycles, tricycles, 
-quadricycles, recumbent and similar human-powered vehicles .
-
-Bicycles were introduced in the 19th century and now number approximately one billion worldwide.
+Cycling, also, when on a two-wheeled bicycle, called bicycling or biking, is the use of cycles for  transport, recreation, exercise or sport. People engaged in cycling are referred to as cyclists, bicyclists, or bikers. Apart from two-wheeled bicycles, cycling also includes the riding of unicycles, tricycles,  quadricycles, recumbent and similar human-powered vehicles .  Bicycles were introduced in the 19th century and now number approximately one billion worldwide. 
 
  
 ## Unsplash photos

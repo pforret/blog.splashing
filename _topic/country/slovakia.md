@@ -9,12 +9,7 @@ tags:
 ---
 # Slovakia
 
-Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe.
-It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the 
-southwest, and the Czech Republic to the northwest.
-Slovakia's mostly mountainous territory spans about 49,000 square kilometres, with a population of 
-over 5.4 million.
-The capital and largest city is Bratislava, while the second largest city is Košice.
+Slovakia, officially the Slovak Republic, is a landlocked country in Central Europe. It is bordered by Poland to the north, Ukraine to the east, Hungary to the south, Austria to the  southwest, and the Czech Republic to the northwest. Slovakia's mostly mountainous territory spans about 49,000 square kilometres, with a population of  over 5.4 million. The capital and largest city is Bratislava, while the second largest city is Košice.  
 
  
 ## Unsplash photos

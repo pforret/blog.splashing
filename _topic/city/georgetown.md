@@ -9,7 +9,7 @@ tags:
 ---
 # Georgetown
 
-Georgetown or George Town may refer to:
+Georgetown or George Town may refer to:    
 
  
 ## Unsplash photos

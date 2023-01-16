@@ -10,10 +10,7 @@ tags:
 ---
 # Destination: Formentera
 
-Formentera  is the smallest and more southerly island of the Pityusic Islands group, which belongs 
-to the Balearic Islands autonomous community .
-It covers an area of 83.22 square kilometres   and had a population of 10,582 at the Census of 1 
-November 2011; the latest official estimate  was 12,111.
+Formentera  is the smallest and most southerly island of the Pityusic Islands group, which belongs  to the Balearic Islands autonomous community . It covers an area of 83.22 square kilometres   and had a population of 10,582 at the Census of 1  November 2011; the latest official estimate  was 12,111.    
 
  
 ## Unsplash photos

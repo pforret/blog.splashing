@@ -10,12 +10,7 @@ tags:
 ---
 # Destination: Corfu
 
-Corfu  or Kerkyra  is a Greek island in the Ionian Sea, of the Ionian Islands, and, including its 
-small satellite islands, forms the margin of the northwestern frontier of Greece.
-The island is part of the Corfu regional unit, and is administered by three municipalities with the 
-islands of Othonoi, Ereikoussa, and Mathraki.
-The principal city of the island  is also named Corfu.
-Corfu is home to the Ionian University.
+Corfu  or Kerkyra  is a Greek island in the Ionian Sea, of the Ionian Islands, and, including its  small satellite islands, forms the margin of the northwestern frontier of Greece. The island is part of the Corfu regional unit, and is administered by three municipalities with the  islands of Othonoi, Ereikoussa, and Mathraki. The principal city of the island  is also named Corfu. Corfu is home to the Ionian University.  
 
  
 ## Unsplash photos

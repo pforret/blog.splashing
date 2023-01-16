@@ -10,18 +10,7 @@ tags:
 ---
 # Dubai
 
-Dubai  is the most populous city in the United Arab Emirates  and the capital of the Emirate of 
-Dubai.
-Established in the 18th century as a small fishing village, the city grew rapidly in the early 21st 
-century into a cosmopolitan metropolis with a focus on tourism and hospitality.
-Dubai is one of the world's most popular tourist destinations.This can be accredited to Dubai's mix 
-of cosmopolitan lifestyle and local culture.
-As well as Dubai having the second most five-star hotels in the world and the tallest building in 
-the world, the Burj Khalifa.
-Because of upcoming competition and other reasons, the taller Creek Tower is being built to keep 
-that title.Located in the eastern part of the Arabian Peninsula on the coast of the Persian Gulf, 
-Dubai aims to be the business hub of Western Asia.
-It is also a major global transport hub for passengers and cargo.
+Dubai  is the most populous city in the United Arab Emirates  and the capital of the Emirate of  Dubai, the most populated of the 7 emirates of the United Arab Emirates. Established in the 18th century as a small fishing village, the city grew rapidly in the early 21st  century with a focus on tourism and luxury, having the second most five-star hotels in the world,  and the tallest building in the world, the Burj Khalifa, which is 828 metres  tall.In the eastern  Arabian Peninsula on the coast of the Persian Gulf, it is also a major global transport hub for  passengers and cargo. Oil revenue helped accelerate the development of the city, which was already a major mercantile hub. A centre for regional and international trade since the early 20th century, Dubai's economy relies  on revenues from trade, tourism, aviation, real estate, and financial services. Oil production contributed less than 1 percent of the emirate's GDP in 2018. 
 
  
 ## Unsplash photos

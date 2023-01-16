@@ -9,7 +9,7 @@ tags:
 ---
 # vinyl
 
-Vinyl may refer to:
+Vinyl may refer to:    
 
  
 ## Unsplash photos

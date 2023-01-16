@@ -9,15 +9,7 @@ tags:
 ---
 # Western Digital
 
-Western Digital Corporation  is an American computer hard disk drive manufacturer and data storage 
-company, headquartered in San Jose, California.
-It designs, manufactures and sells data technology products, including storage devices, data center 
-systems and cloud storage services.
-
-Western Digital has a long history in the electronics industry as an integrated circuit maker and a 
-storage products company.
-It is one of the largest computer hard disk drive manufacturers, along with producing SSDs and 
-flash memory devices.
+Western Digital Corporation  is an American computer drive manufacturer and data storage company,  headquartered in San Jose, California. It designs, manufactures and sells data technology products, including data storage devices, data  center systems and cloud storage services.  Western Digital has a long history in the electronics industry as an integrated circuit maker and a  storage products company. It is one of the largest computer hard disk drive manufacturers, along with producing solid state  drives and flash memory devices. 
 
  
 ## Unsplash photos

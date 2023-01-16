@@ -9,16 +9,7 @@ tags:
 ---
 # Pristina
 
-Pristina   is the capital of Kosovo and seat of Pristina Municipality and Pristina District.
-The largest city by area and population of Kosovo, Pristina is predominantly populated by Albanians 
-of which it forms the second-largest Albanian-inhabited capital after Tirana, Albania.
-
-Inhabited by humans since prehistoric times, the area of Pristina was home to several Illyrian  
-peoples.
-King Bardyllis of the Dardanians brought various tribes together in the 4th century BC and 
-established the Dardanian Kingdom.
-The heritage of the classical era is represented by the settlement of Ulpiana, which was considered 
-as one of the most influental Roman cities in the Balkan Peninsula.
+Pristina  is the capital and largest city of Kosovo. The city's municipal boundaries in Pristina District form the largest urban center in Kosovo. After Tirana, Pristina has the second largest population of ethnic Albanians and speakers of the  Albanian language.  Inhabited by humans since prehistoric times, the area of Pristina was home to several Illyrian   peoples. 
 
  
 ## Unsplash photos

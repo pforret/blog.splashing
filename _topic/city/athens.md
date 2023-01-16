@@ -10,19 +10,7 @@ tags:
 ---
 # Athens
 
-Athens  is the capital and largest city of Greece.
-Athens dominates the Attica region and is one of the world's oldest cities, with its recorded 
-history spanning over 3,400 years and its earliest human presence beginning somewhere between the 
-11th and 7th centuries BC.Classical Athens was a powerful city-state.
-It was a centre for the arts, learning and philosophy, and the home of Plato's Academy and 
-Aristotle's Lyceum.
-It is widely referred to as the cradle of Western civilization and the birthplace of democracy, 
-largely because of its cultural and political impact on the European continent—particularly Ancient 
-Rome.
-In modern times, Athens is a large cosmopolitan metropolis and central to economic, financial, 
-industrial, maritime, political and cultural life in Greece.
-In 2021, Athens' urban area hosted more than three and a half million people, which is around 35% 
-of the entire population of Greece.
+Athens  is a coastal city in the Mediterranean and is both the capital and largest city of Greece. With a population close to four million, it is also the seventh largest city in the European Union. Athens dominates and is the capital of the Attica region and is one of the world's oldest cities,  with its recorded history spanning over 3,400 years and its earliest human presence beginning  somewhere between the 11th and 7th millennia BC.Classical Athens was a powerful city-state. It was a centre for the arts, learning and philosophy, and the home of Plato's Academy and  Aristotle's Lyceum. It is widely referred to as the cradle of Western civilization and the birthplace of democracy,  largely because of its cultural and political influence on the European continent—particularly  Ancient Rome. 
 
  
 ## Unsplash photos

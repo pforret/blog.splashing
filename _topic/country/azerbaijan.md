@@ -9,15 +9,7 @@ tags:
 ---
 # Azerbaijan
 
-Azerbaijan, officially the Azerbaijan Republic or the Republic of Azerbaijan, is a transcontinental 
-country located at the boundary of Eastern Europe and Western Asia.
-It is a part of the South Caucasus region, and is bounded by the Caspian Sea to the east, Russia  
-to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south.
-Baku is the capital and largest city.
-
-The Azerbaijan Democratic Republic proclaimed its independence from the Transcaucasian Democratic 
-Federative Republic in 1918 and became the first secular democratic Muslim-majority state, taking 
-its name from the adjacent region of northwestern Iran for political reasons.
+Azerbaijan, officially the Republic of Azerbaijan, is a transcontinental country located at the  boundary of Eastern Europe and Western Asia. It is a part of the South Caucasus region and is bounded by the Caspian Sea to the east, Russia  to  the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south. Baku is the capital and largest city.  The Azerbaijan Democratic Republic proclaimed its independence from the Transcaucasian Democratic  Federative Republic in 1918 and became the first secular democratic Muslim-majority state. 
 
  
 ## Unsplash photos

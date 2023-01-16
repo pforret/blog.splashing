@@ -9,13 +9,7 @@ tags:
 ---
 # Profession: governor
 
-A governor is a government leader and head of a province, ranking under the President of a Country 
-or a Nation.
-In provinces, governor may be either appointed or elected.
-The power of the governor can vary dramatically between political systems, with all governors being 
-head of the province.
-
-The adjective pertaining to a governor is gubernatorial, from the Latin root gubernare.
+A governor is an administrative leader and head of a polity or political region, ranking under the  head of state and in some cases, such as governors-general, as the head of state's official  representative. Depending on the type of political region or polity, a governor may be either appointed or elected,  and the governor's powers can vary significantly, depending on the public laws in place locally.  The adjective pertaining to a governor is gubernatorial, from the Latin root gubernare.  
 
  
 ## Unsplash photos

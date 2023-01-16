@@ -5,23 +5,12 @@ image: /images/city/auckland.1.jpg
 category: city
 tags:
 - auckland
+- australia
 
 ---
 # Auckland
 
-Auckland  is a large metropolitan city in the North Island of New Zealand.
-The most populous urban area in the country, Auckland has an urban population of about 1,463,000 .
-It is located in the Auckland Region—the area governed by Auckland Council—which includes outlying 
-rural areas and the islands of the Hauraki Gulf, and which has a total population of 1,715,600.
-While Europeans continue to make up the plurality of Auckland's population, the city became 
-multicultural and cosmopolitan in the late-20th century, with Asians accounting for 31% of the 
-city's population in 2018.
-With its large population of Pasifika New Zealanders, Auckland is also home to the biggest ethnic 
-Polynesian population in the world.
-The Māori-language name for Auckland is Tāmaki Makaurau, meaning Tāmaki desired by many, in 
-reference to the desirability of its natural resources and geography.Auckland lies between the 
-Hauraki Gulf to the east, the Hunua Ranges to the south-east, the Manukau Harbour to the 
-south-west, and the Waitākere Ranges and smaller ranges to the west and north-west.
+Auckland   is a large metropolitan city in the North Island of New Zealand. The most populous urban area in the country and the fifth largest city in Oceania, Auckland has an  urban population of about 1,440,300 . It is located in the greater Auckland Region—the area governed by Auckland Council—which includes  outlying rural areas and the islands of the Hauraki Gulf, and which has a total population of  1,695,200. While Europeans continue to make up the plurality of Auckland's population, the city became  multicultural and cosmopolitan in the late-20th century, with Asians accounting for 31% of the  city's population in 2018. Auckland has the fourth largest foreign-born population in the world, with 39% of its residents  born overseas. 
 
  
 ## Unsplash photos

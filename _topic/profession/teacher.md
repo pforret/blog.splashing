@@ -9,10 +9,7 @@ tags:
 ---
 # Profession: teacher
 
-A teacher, also called a schoolteacher or formally an educator, is a person who helps students to 
-acquire knowledge, competence or virtue.
-
-Informally the role of teacher may be taken on by anyone .
+A teacher, also called a schoolteacher or formally an educator, is a person who helps students to  acquire knowledge, competence, or virtue, via the practice of teaching.  Informally the role of teacher may be taken on by anyone .   
 
  
 ## Unsplash photos

@@ -9,13 +9,7 @@ tags:
 ---
 # bassoon
 
-The bassoon is a woodwind instrument in the double reed family, which plays in the tenor and bass 
-ranges.
-It is composed of six pieces, and is usually made of wood.
-It is known for its distinctive tone color, wide range, versatility, and virtuosity.
-It is a non-transposing instrument and typically its music is written in the bass and tenor clefs, 
-and sometimes in the treble.
-There are two forms of modern bassoon: the Buffet  and Heckel  systems.
+The bassoon is a woodwind instrument in the double reed family, which plays in the tenor and bass  ranges. It is composed of six pieces, and is usually made of wood. It is known for its distinctive tone color, wide range, versatility, and virtuosity. It is a non-transposing instrument and typically its music is written in the bass and tenor clefs,  and sometimes in the treble. There are two forms of modern bassoon: the Buffet  and Heckel  systems. 
 
  
 ## Unsplash photos

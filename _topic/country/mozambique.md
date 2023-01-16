@@ -9,15 +9,7 @@ tags:
 ---
 # Mozambique
 
-Mozambique (, officially the Republic of Mozambique, is a country located in Southeastern Africa 
-bordered by the Indian Ocean to the east, Tanzania to the north, Malawi and Zambia to the 
-northwest, Zimbabwe to the west, and Eswatini  and South Africa to the southwest.
-The sovereign state is separated from the Comoros, Mayotte and Madagascar by the Mozambique Channel 
-to the east.
-The capital and largest city of Mozambique is Maputo .
-
-Between the first and fifth centuries AD, Bantu-speaking peoples migrated to present-day Mozambique 
-from farther north and west.
+Mozambique, officially the Republic of Mozambique, is a country located in southeastern Africa  bordered by the Indian Ocean to the east, Tanzania to the north, Malawi and Zambia to the  northwest, Zimbabwe to the west, and Eswatini and South Africa to the southwest. The sovereign state is separated from the Comoros, Mayotte and Madagascar by the Mozambique Channel  to the east. The capital and largest city is Maputo.  Notably Northern Mozambique lies within the monsoon trade winds of the Indian Ocean and is  frequentely affected by disruptive weather. 
 
  
 ## Unsplash photos

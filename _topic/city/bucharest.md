@@ -10,14 +10,7 @@ tags:
 ---
 # Bucharest
 
-Bucharest  is the capital and largest city of Romania, as well as its cultural, industrial, and 
-financial centre.
-It is located in the southeast of the country, on the banks of the Dâmbovița River, less than 60 km 
- north of the Danube River and the Bulgarian border.
-
-Bucharest was first mentioned in documents in 1459.
-It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art.
-Its architecture is a mix of historical, interbellum, communist era and modern.
+Bucharest  is the capital and largest city of Romania. It is described as the cultural, financial, entertainment, and media center in Romania with a  significant influence in Eastern and South-Eastern Europe. It is also an influence in education, tourism, research, technology, health care, art, fashion,  sports, and politics in Romania. It is located in the southeast of the country, on the banks of the Dâmbovița River, less than 60 km   north of the Danube River and the Bulgarian border. It is also one of the most populated cities of the European Union  within city limits and the most  populated capital in South-Eastern Europe. 
 
  
 ## Unsplash photos

@@ -10,17 +10,7 @@ tags:
 ---
 # Destination: Valencia
 
-Valencia  is the capital of the autonomous community of Valencia and the third-largest city in 
-Spain after Madrid and Barcelona, with 789,744 inhabitants in the municipality.
-The wider urban area also comprising the neighbouring municipalities has a population of around 1.6 
-million.
-Valencia is Spain's third-largest metropolitan area, with a population ranging from 1.7 to 2.5 
-million depending on how the metropolitan area is defined.
-The Port of Valencia is the 5th-busiest container port in Europe and the busiest container port on 
-the Mediterranean Sea.
-The city is ranked as a Gamma-level global city by the Globalization and World Cities Research 
-Network.Valencia was founded as a Roman colony by the consul Decimus Junius Brutus Callaicus in 138 
-BC and called Valentia Edetanorum.
+Valencia  is the capital of the autonomous community of Valencia and the third-most populated  municipality in Spain, with 791,413 inhabitants. It is also the capital of the province of the same name. The wider urban area also comprising the neighbouring municipalities has a population of around 1.6  million, constituting one of the major urban areas on the European side of the Mediterranean Sea. It is located on the banks of the Turia, on the east coast of the Iberian Peninsula, at the Gulf of  Valencia, north of the Albufera lagoon.  
 
  
 ## Unsplash photos

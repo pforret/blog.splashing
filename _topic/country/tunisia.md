@@ -9,16 +9,7 @@ tags:
 ---
 # Tunisia
 
-Tunisia, officially the Republic of Tunisia, is the northernmost country in Africa.
-It is a part of the Maghreb region of North Africa, and is bordered by Algeria to the west and 
-southwest, Libya to the southeast, and the Mediterranean Sea to the north and east; covering 
-163,610 km2, with a population of 11 million.
-It contains the eastern end of the Atlas Mountains and the northern reaches of the Sahara desert, 
-with much of its remaining territory arable land.
-Its 1,300 km  of coastline include the African conjunction of the western and eastern parts of the 
-Mediterranean Basin.
-Tunisia is home to Africa's northernmost point, Cape Angela; and its capital and largest city is 
-Tunis, located on its northeastern coast, which lends the country its name.
+Tunisia, officially the Republic of Tunisia, is the northernmost country in Africa. It is a part of the Maghreb region of North Africa, bordered by Algeria to the west and southwest,  Libya to the southeast, and the Mediterranean Sea to the north and east. It features the archaeological sites of Carthage dating back to the 9th century BC, as well as the  Great Mosque of Kairouan. Known for its ancient architecture, souks and blue coasts, it covers 163,610 km2, and has a  population of 12.1 million. It contains the eastern end of the Atlas Mountains and the northern reaches of the Sahara desert;  much of its remaining territory is arable land. 
 
  
 ## Unsplash photos

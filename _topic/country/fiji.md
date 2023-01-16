@@ -9,15 +9,7 @@ tags:
 ---
 # Fiji
 
-Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the 
-South Pacific Ocean.
-It lies about 1,100 nautical miles  northeast of New Zealand.
-Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently 
-inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square 
-kilometres .
-The most outlying island group is Ono-i-Lau.
-About 87% of the total population of 883,483 live on the two major islands, Viti Levu and Vanua 
-Levu.
+Fiji, officially the Republic of Fiji, is an island country in Melanesia, part of Oceania in the  South Pacific Ocean. It lies about 1,100 nautical miles  north-northeast of New Zealand. Fiji consists of an archipelago of more than 330 islands—of which about 110 are permanently  inhabited—and more than 500 islets, amounting to a total land area of about 18,300 square  kilometres . The most outlying island group is Ono-i-Lau. About 87% of the total population of 924,610 live on the two major islands, Viti Levu and Vanua  Levu. 
 
  
 ## Unsplash photos

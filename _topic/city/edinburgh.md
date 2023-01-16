@@ -11,15 +11,7 @@ tags:
 ---
 # Edinburgh
 
-Edinburgh   is the capital city of Scotland and one of its 32 council areas.
-Historically part of the county of Midlothian, it is located in Lothian on the southern shore of 
-the Firth of Forth.
-Edinburgh is Scotland's second-most populous city and the seventh-most populous city in the United 
-Kingdom.
-
-Recognised as the capital of Scotland since at least the 15th century, Edinburgh is the seat of the 
-Scottish Government, the Scottish Parliament and the highest courts in Scotland.
-The city's Palace of Holyroodhouse is the official residence of the monarch in Scotland.
+Edinburgh  is the capital city of Scotland and one of its 32 council areas. The city was historically part of the county of Midlothian, but was administered separately from  the surrounding county from 1482 onwards. It is located in Lothian on the southern shore of the Firth of Forth. Edinburgh is Scotland's second-most populous city, after Glasgow, and the seventh-most populous  city in the United Kingdom.  
 
  
 ## Unsplash photos

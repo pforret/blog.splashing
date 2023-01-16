@@ -2,5 +2,5 @@
 layout: with_tag
 title: Google
 keyword: google
-count: 2
+count: 1
 ---

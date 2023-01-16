@@ -9,18 +9,7 @@ tags:
 ---
 # Lahore
 
-Lahore  is the capital of the Pakistani province of Punjab and is the country's 2nd largest city 
-after Karachi, in addition to being the 26th largest city in the world.
-Lahore is one of Pakistan's wealthiest cities with an estimated GDP  of $84 billion as of 2019.
-It is the largest city and historic cultural centre of the greater Punjab region, and is one of 
-Pakistan's most socially liberal, progressive, and cosmopolitan cities.Lahore's origins reach into 
-antiquity.
-The city has been controlled by numerous empires throughout the course of its history, including 
-the Hindu Shahis, Ghaznavids, Ghurids, and Delhi Sultanate by the medieval era.
-Lahore reached the height of its splendour under the Mughal Empire between the late 16th and early 
-18th century and served as its capital city for many years.
-The city was captured by the forces of the Afsharid ruler Nader Shah in 1739, then fell into a 
-period of decay while being contested between the Afghans and the Sikhs.
+Lahore  is the second most populous city in Pakistan after Karachi and 26th most populous city in  the world, with a population of over 13 million. It is the capital of the province of Punjab where it is the largest city. Lahore is one of Pakistan's major industrial and economic hubs, with an estimated GDP  of $84  billion as of 2019. It is the largest city as well as the historic capital and cultural centre of the wider Punjab  region, and is one of Pakistan's most socially liberal, progressive, and cosmopolitan cities. It is situated in the north-east of the country, close to the International border with India. 
 
  
 ## Unsplash photos

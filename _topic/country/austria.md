@@ -9,13 +9,7 @@ tags:
 ---
 # Austria
 
-Austria, officially the Republic of Austria, is a country in the southern part of Central Europe.
-It is a federation of nine states, one of which is the capital Vienna, the largest city and state 
-by population.
-The country is bordered by Germany to the northwest, the Czech Republic to the north, Slovakia to 
-the northeast, Hungary to the east, Slovenia and Italy to the south, and Switzerland and 
-Liechtenstein to the west.
-It occupies a landlocked area of 83,879 km2  and has a population of roughly 9 million people.
+Austria, formally the Republic of Austria, is a country in the southern part of Central Europe,  lying in the Eastern Alps. It is a federation of nine states, one of which is the capital, Vienna, the most populous city and  state. A landlocked country, Austria is bordered by Germany to the northwest, the Czech Republic to the  north, Slovakia to the northeast, Hungary to the east, Slovenia and Italy to the south, and  Switzerland and Liechtenstein to the west. The country occupies an area of 83,871 km2  and has a population of 9 million.Austria emerged from  the remnants of the Eastern and Hungarian March at the end of the first millennium. Originally a margraviate of Bavaria, it developed into a duchy of the Holy Roman Empire in 1156 and  was later made an archduchy in 1453. 
 
  
 ## Unsplash photos

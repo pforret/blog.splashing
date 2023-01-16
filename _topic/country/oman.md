@@ -9,14 +9,7 @@ tags:
 ---
 # Oman
 
-Oman, officially the Sultanate of Oman, is a country in Western Asia.
-It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the 
-Persian Gulf.
-Oman shares land borders with Saudi Arabia, the United Arab Emirates, and Yemen; while sharing 
-maritime borders with Iran and Pakistan.
-The coast is formed by the Arabian Sea on the southeast, and the Gulf of Oman on the northeast.
-The Madha and Musandam exclaves are surrounded by the United Arab Emirates on their land borders, 
-with the Strait of Hormuz  and the Gulf of Oman forming Musandam's coastal boundaries.
+Oman, officially the Sultanate of Oman, is an Arab country located in Western Asia. It is situated on the southeastern coast of the Arabian Peninsula, and spans the mouth of the  Persian Gulf. Oman shares land borders with Saudi Arabia, the United Arab Emirates, and Yemen, while sharing  maritime borders with Iran and Pakistan. The coast is formed by the Arabian Sea on the southeast, and the Gulf of Oman on the northeast. The Madha and Musandam exclaves are surrounded by the United Arab Emirates on their land borders,  with the Strait of Hormuz  and the Gulf of Oman forming Musandam's coastal boundaries. 
 
  
 ## Unsplash photos

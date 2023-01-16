@@ -9,15 +9,7 @@ tags:
 ---
 # Micronesia
 
-Micronesia  is a subregion of Oceania, consisting of about two thousand small islands in the 
-western Pacific Ocean.
-It has a close shared cultural history with three other island regions: the Philippines to the 
-west, Polynesia to the east, and Melanesia to the south—as well as with the wider community of 
-Austronesian peoples.
-
-The region has a tropical marine climate and is part of the Oceanian realm.
-It includes four main archipelagos—the Caroline Islands, the Gilbert Islands, the Mariana Islands, 
-and the Marshall Islands—as well as numerous islands that are not part of any archipelago.
+Micronesia  is a subregion of Oceania, consisting of about 2,000 small islands in the western  Pacific Ocean. It has a close shared cultural history with three other island regions: Indonesia and the  Philippines to the west, Polynesia to the east, and Melanesia to the south—as well as with the  wider community of Austronesian peoples.  The region has a tropical marine climate and is part of the Oceanian realm. It includes four main archipelagos—the Caroline Islands, the Gilbert Islands, the Mariana Islands,  and the Marshall Islands—as well as numerous islands that are not part of any archipelago. 
 
  
 ## Unsplash photos

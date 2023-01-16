@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/mazda.1.jpg
 category: car
 tags:
+- japan
 
 ---
 # Photos for Mazda

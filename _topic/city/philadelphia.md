@@ -9,20 +9,7 @@ tags:
 ---
 # Philadelphia
 
-Philadelphia is the largest city in the Commonwealth of Pennsylvania in the United States.
-With a population of 1,603,797 as of 2020, it is the sixth-most-populous city in the United States, 
-the most populous city in the state of Pennsylvania, and the second-most populous city on the East 
-Coast of the United States, behind New York City.
-Since 1854, the city has had the same geographic boundaries as Philadelphia County, the 
-most-populous county in Pennsylvania and the urban core of the seventh largest metropolitan area in 
-the nation, with more than 6 million residents as of 2017.
-Philadelphia is the economic and cultural center of the greater Delaware Valley along the lower 
-Delaware and Schuylkill rivers within the Northeast megalopolis.
-The Delaware Valley's 2020 population of 7.38 million makes it the eighth largest combined 
-statistical area in the United States.Philadelphia is one of the oldest municipalities in the 
-United States and played a central role in the country's founding.
-William Penn, an English Quaker, founded the city in 1682 to serve as capital of the Pennsylvania 
-Colony.
+Philadelphia, often called Philly, is the largest city in the Commonwealth of Pennsylvania, the  sixth-largest city in the United States, and the second-largest city in both the Northeast  megalopolis and Mid-Atlantic regions after New York City. The city's population at the 2020 census was 1,603,797, and over 56 million people live within 250  mi  of Philadelphia. Since 1854, the city has been coextensive with Philadelphia County, the most populous county in  Pennsylvania and the urban core of the Delaware Valley, the nation's seventh-largest and one of  world's largest metropolitan regions with 6.245 million residents in 2020.Philadelphia was founded  in 1682 by William Penn, an English Quaker. The city served as capital of the Pennsylvania Colony during the British colonial era and went on  to play a historic and vital role as the central meeting place for the nation's founding fathers  whose plans and actions in Philadelphia ultimately inspired the American Revolution and the  nation's independence. Philadelphia hosted the First Continental Congress in 1774 following the Boston Tea Party,  preserved the Liberty Bell, and hosted the Second Continental Congress during which the founders  signed the Declaration of Independence, which historian Joseph Ellis has described as the most  potent and consequential words in American history. 
 
  
 ## Unsplash photos

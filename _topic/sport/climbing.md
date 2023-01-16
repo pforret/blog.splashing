@@ -9,15 +9,7 @@ tags:
 ---
 # Sport: climbing
 
-Climbing is the activity of using one's hands, feet, or any other part of the body to ascend a 
-steep topographical object.
-It is done for locomotion, recreation and competition, and within trades that rely on ascension; 
-such as emergency rescue and military operations.
-It is done indoors and out, on natural and man-made structures.
-
-Professional mountain guides or rock climbing guides, such as members of the IFMGA, have been known 
-to be a historically significant element of developing the popularity of the sport in the natural 
-environment, and remain so today.
+Climbing is the activity of using one's hands, feet, or any other part of the body to ascend a  steep topographical object that can range from the world's tallest mountains, to small boulders.  Climbing is done for locomotion, sporting recreation, and for competition, and is also done in  trades that rely on ascension; such as emergency rescue and military operations.  Climbing is done indoors and outdoors and on natural  and artificial surfaces.     
 
  
 ## Unsplash photos

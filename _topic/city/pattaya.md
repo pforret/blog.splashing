@@ -9,15 +9,7 @@ tags:
 ---
 # Pattaya
 
-Pattaya  is a city in Thailand.
-It is on the east coast of the Gulf of Thailand, about 100 kilometres  southeast of Bangkok, 
-within, but not part of, Bang Lamung District in the province of Chonburi.
-Pattaya City  is a self-governing municipal area which covers Tambon's Nong Prue and Na Klua and 
-parts of Huai Yai and Nong Pla Lai.
-The city is in the industrial Eastern Seaboard zone, along with Si Racha, Laem Chabang, and 
-Chonburi.
-Pattaya is at the center of the Pattaya-Chonburi Metropolitan Area—a conurbation in Chonburi 
-Province—with a population of roughly 1,000,000.
+Pattaya  is a city in Thailand. It is on the east coast of the Gulf of Thailand, about 100 kilometres  southeast of Bangkok,  within, but not part of, Bang Lamung district in the province of Chonburi. Pattaya  is a self-governing municipal area which covers Tambon's Nong Prue and Na Klua and parts  of Huai Yai and Nong Pla Lai. The city is in the industrial Eastern Seaboard zone, along with Si Racha, Laem Chabang, and  Chonburi. Pattaya is at the center of the Pattaya-Chonburi Metropolitan Area—a conurbation in Chonburi  Province—with a population of roughly 1,000,000. 
 
  
 ## Unsplash photos

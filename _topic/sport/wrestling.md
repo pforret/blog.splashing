@@ -9,15 +9,7 @@ tags:
 ---
 # Sport: wrestling
 
-Wrestling is a combat sport involving grappling-type techniques such as clinch fighting, throws and 
-takedowns, joint locks, pins and other grappling holds.
-The sport can either be genuinely competitive or sportive entertainment .
-Wrestling comes in different forms such as freestyle, Greco-Roman, judo, sambo, folkstyle, catch, 
-submission, sumo, pehlwani, shuai jiao and others.
-A wrestling bout is a physical competition, between two  competitors or sparring partners, who 
-attempt to gain and maintain a superior position.
-There are a wide range of styles with varying rules, with both traditional historic and modern 
-styles.
+Wrestling is a sport of physical engagement between two unarmed persons, in which each wrestler  strives to obtain a position of advantage over their opponent. Wrestling involves different grappling-type techniques such as clinch fighting, throws and  takedowns, joint locks, pins and other grappling holds. Many different wrestling techniques have been incorporated into martial arts, combat sports and  military systems. The sport can either be genuinely competitive or sportive entertainment .  
 
  
 ## Unsplash photos

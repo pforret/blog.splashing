@@ -9,15 +9,7 @@ tags:
 ---
 # Grenada
 
-Grenada (  grə-NAY-də; Grenadian Creole French: Gwenad  is an island country in the West Indies in 
-the Caribbean Sea at the southern end of the Grenadines island chain.
-Grenada consists of the island of Grenada itself, two smaller islands, Carriacou and Petite 
-Martinique, and several small islands which lie to the north of the main island and are a part of 
-the Grenadines.
-It is located northwest of Trinidad and Tobago, northeast of Venezuela and southwest of Saint 
-Vincent and the Grenadines.
-Its size is 348.5 square kilometres, and it had an estimated population of 112,523 in July 2020.
-Its capital is St.
+Grenada  is an island country in the West Indies in the Caribbean Sea at the southern end of the  Grenadines island chain. Grenada consists of the island of Grenada itself, two smaller islands, Carriacou and Petite  Martinique, and several small islands which lie to the north of the main island and are a part of  the Grenadines. It is located northwest of Trinidad and Tobago, northeast of Venezuela and southwest of Saint  Vincent and the Grenadines. Its size is 348.5 square kilometres, and it had an estimated population of 112,523 in July 2020. Its capital is St. 
 
  
 ## Unsplash photos

@@ -10,21 +10,7 @@ tags:
 ---
 # Amsterdam
 
-Amsterdam  is the capital and most populous city of the Netherlands; with a population of 905,234 
-within the city proper, 1,558,755 in the urban area and 2,480,394 in the metropolitan area.
-Found within the Dutch province of North Holland, Amsterdam is colloquially referred to as the 
-Venice of the North, due to the large number of canals which form a UNESCO World Heritage 
-Site.Amsterdam was founded at the Amstel, that was dammed to control flooding; the city's name 
-derives from the Amstel dam.
-Originating as a small fishing village in the late 12th century, Amsterdam became one of the most 
-important ports in the world during the Dutch Golden Age of the 17th century, and became the 
-leading centre for the finance and trade sectors.
-In the 19th and 20th centuries, the city expanded and many new neighborhoods and suburbs were 
-planned and built.
-The 17th-century canals of Amsterdam and the 19–20th century Defence Line of Amsterdam are on the 
-UNESCO World Heritage List.
-Sloten, annexed in 1921 by the municipality of Amsterdam, is the oldest part of the city, dating to 
-the 9th century.
+Amsterdam  is the capital and most populous city of the Netherlands, with The Hague being the seat  of government. It has a population of 921,402 within the city proper, 1,457,018 in the urban area and 2,480,394 in  the metropolitan area. Located in the Dutch province of North Holland, Amsterdam is colloquially referred to as the Venice  of the North, for its large number of canals, now designated a UNESCO World Heritage Site.Amsterdam  was founded at the mouth of the Amstel River that was dammed to control flooding; the city's name  derives from the Amstel dam. Originally a small fishing village in the late 12th century, Amsterdam became a major world port  during the Dutch Golden Age of the 17th century, when the Netherlands was an economic powerhouse. Amsterdam is the leading center for finance and trade, as well as a hub of production of secular  art. 
 
  
 ## Unsplash photos

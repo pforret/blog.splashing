@@ -9,14 +9,7 @@ tags:
 ---
 # Uruguay
 
-Uruguay, officially the Oriental Republic of the Uruguay, is a country in South America.
-It shares borders with Argentina to its west and southwest and Brazil to its north and northeast; 
-while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast.
-Uruguay covers an area of approximately 176,000 square kilometers  and has a population of an 
-estimated 3.51 million, of whom 2 million live in the metropolitan area of its capital and largest 
-city, Montevideo.
-
-The area that became Uruguay was first inhabited by groups of hunter–gatherers 13,000 years ago.
+Uruguay, officially the Oriental Republic of Uruguay or the Eastern Republic of Uruguay, is a  country in South America. It shares borders with Argentina to its west and southwest and Brazil to its north and northeast;  while bordering the Río de la Plata to the south and the Atlantic Ocean to the southeast. It is part of the Southern Cone region of South America. Uruguay covers an area of approximately 181,034 square kilometers  and has a population of an  estimated 3.4 million, of whom around 2 million live in the metropolitan area of its capital and  largest city, Montevideo.  
 
  
 ## Unsplash photos

@@ -10,15 +10,7 @@ tags:
 ---
 # Mechelen
 
-Mechelen  is a city and municipality in the province of Antwerp in the Flemish Region of Belgium.
-The municipality comprises the city of Mechelen proper, some quarters at its outskirts, the hamlets 
-of Nekkerspoel  and Battel, as well as the villages of Walem, Heffen, Leest, Hombeek, and Muizen.
-The Dyle  flows through the city, hence it is often referred to as the Dijlestad .
-
-Mechelen lies on the major urban and industrial axis Brussels–Antwerp, about 25 km from each city.
-Inhabitants find employment at Mechelen's southern industrial and northern office estates, as well 
-as at offices or industry near the capital and Zaventem Airport, or at industrial plants near 
-Antwerp's seaport.
+Mechelen  is a city and municipality in the province of Antwerp in the Flemish Region of Belgium. The municipality comprises the city of Mechelen proper, some quarters at its outskirts, the hamlets  of Nekkerspoel  and Battel, as well as the villages of Walem, Heffen, Leest, Hombeek, and Muizen. The Dyle  flows through the city, hence it is often referred to as the Dijlestad .  Mechelen lies on the major urban and industrial axis Brussels–Antwerp, about 25 km from each city. 
 
  
 ## Unsplash photos

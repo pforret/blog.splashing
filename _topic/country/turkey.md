@@ -9,14 +9,7 @@ tags:
 ---
 # Turkey
 
-Turkey, officially the Republic of Turkey, is a transcontinental country located mainly on Anatolia 
-in Western Asia, with a portion on the Balkans in Southeast Europe.
-It shares borders with Greece and Bulgaria to the northwest; the Black Sea to the north; Georgia to 
-the northeast; Armenia, Azerbaijan, and Iran to the east; Iraq to the southeast; Syria and the 
-Mediterranean Sea to the south; and the Aegean Sea to the west.
-Cyprus is located off the south coast.
-Turks form the vast majority of the nation's population and Kurds are the largest minority.
-Ankara is Turkey's capital, while Istanbul is its largest city and financial centre.
+Turkey, officially the Republic of Türkiye, is a transcontinental country located mainly on the  Anatolian Peninsula in Western Asia, with a small portion on the Balkan Peninsula in Southeast  Europe. It shares borders with the Black Sea to the north; Georgia to the northeast; Armenia, Azerbaijan,  and Iran to the east; Iraq to the southeast; Syria and the Mediterranean Sea to the south; the  Aegean Sea to the west; and Greece and Bulgaria to the northwest. Cyprus is located off the south coast. Turks form the vast majority of the nation's population and Kurds are the largest minority. Ankara is Turkey's capital, while Istanbul is its largest city and financial centre. 
 
  
 ## Unsplash photos

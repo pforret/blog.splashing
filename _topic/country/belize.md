@@ -9,11 +9,7 @@ tags:
 ---
 # Belize
 
-Belize  is a Caribbean country on the northeastern coast of Central America.
-It borders Mexico to the north, the Caribbean Sea to the east, and Guatemala to the west and south.
-It has an area of 22,970 square kilometres  and a population of 419,199 .
-Its mainland is about 290 km  long and 110 km  wide.
-It has the lowest population and population density in Central America.
+Belize  is a Caribbean and Central American country on the north-eastern coast of Central America. It is bordered by Mexico to the north, the Caribbean Sea to the east, and Guatemala to the west and  south. It also shares a water boundary with Honduras to the southeast.  It has an area of 22,970 square kilometres  and a population of 441,471 . Its mainland is about 290 km  long and 110 km  wide. 
 
  
 ## Unsplash photos

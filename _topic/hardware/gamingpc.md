@@ -9,7 +9,7 @@ tags:
 ---
 # gaming PC
 
-
+  
 
  
 ## Unsplash photos

@@ -9,11 +9,7 @@ tags:
 ---
 # Profession: designer
 
-A designer is a person who plans the form or structure of something before it is made, by preparing 
-drawings or plans.
-
-In practice, anyone who creates tangible or intangible objects, products, processes, laws, games, 
-graphics, services, or experiences can be referred to as a designer.
+A designer is a person who plans the form or structure of something before it is made, by preparing  drawings or plans.  In practice, anyone who creates tangible or intangible objects, products, processes, laws, games,  graphics, services, or experiences can be referred to as a designer.  
 
  
 ## Unsplash photos

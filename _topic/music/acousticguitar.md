@@ -9,15 +9,7 @@ tags:
 ---
 # acoustic guitar
 
-An acoustic guitar is a musical instrument in the string family.
-When a string is plucked its vibration is transmitted from the bridge, resonating throughout the 
-top of the guitar.
-It is also transmitted to the side and back of the instrument, resonating through the air in the 
-body, and producing sound from the sound hole.
-The original, general term for this stringed instrument is guitar, and the retronym 'acoustic 
-guitar' distinguishes it from an electric guitar, which relies on electronic amplification.
-Typically, a guitar's body is a sound box, of which the top side serves as a sound board that 
-enhances the vibration sounds of the strings.
+An acoustic guitar is a musical instrument in the string family. When a string is plucked its vibration is transmitted from the bridge, resonating throughout the  top of the guitar. It is also transmitted to the side and back of the instrument, resonating through the air in the  body, and producing sound from the sound hole. The original, general term for this stringed instrument is guitar, and the retronym 'acoustic  guitar' distinguishes it from an electric guitar, which relies on electronic amplification. Typically, a guitar's body is a sound box, of which the top side serves as a sound board that  enhances the vibration sounds of the strings. 
 
  
 ## Unsplash photos

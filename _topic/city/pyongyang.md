@@ -9,13 +9,7 @@ tags:
 ---
 # Pyongyang
 
-Pyongyang  is the capital and largest city of North Korea, where it is known as the Capital of the 
-Revolution.
-Pyongyang is located on the Taedong River about 109 km  upstream from its mouth on the Yellow Sea.
-According to the 2008 population census, it has a population of 3,255,288.
-Pyongyang is a directly administered city  with equal status to North Korean provinces.
-
-Pyongyang is one of the oldest cities in Korea.
+Pyongyang  is the capital and largest city of North Korea, where it is known as the Capital of the  Revolution. Pyongyang is located on the Taedong River about 109 km  upstream from its mouth on the Yellow Sea. According to the 2008 population census, it has a population of 3,255,288. Pyongyang is a directly administered city  with a status equal to that of the North Korean  provinces.  
 
  
 ## Unsplash photos

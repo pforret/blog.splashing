@@ -9,16 +9,7 @@ tags:
 ---
 # Guatemala
 
-Guatemala, officially the Republic of Guatemala, is a country in Central America, bordered by 
-Mexico to the north and west, Belize and the Caribbean to the northeast, Honduras to the east, El 
-Salvador to the southeast and the Pacific Ocean to the south.
-With an estimated population of around 17.2 million, it is the most populous country in Central 
-America and is the 11th most populous country in the Americas.
-Guatemala is a representative democracy; its capital and largest city is Nueva Guatemala de la 
-Asunción, also known as Guatemala City, the largest city in Central America.
-
-The core of the Maya civilization, which extended across Mesoamerica, was historically based in the 
-territory of modern Guatemala.
+Guatemala, officially the Republic of Guatemala, is a country in Central America. It is bordered to the north and west by Mexico; to the northeast by Belize and the Caribbean; to  the east by Honduras; to the southeast by El Salvador and to the south by the Pacific Ocean. With an estimated population of around 17.6 million, Guatemala is the most populous country in  Central America and the 11th most populous country in the Americas. It is a representative democracy with its capital and largest city being Nueva Guatemala de la  Asunción, also known as Guatemala City, the most populous city in Central America.  
 
  
 ## Unsplash photos

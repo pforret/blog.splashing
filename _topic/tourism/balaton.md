@@ -10,9 +10,7 @@ tags:
 ---
 # Destination: Balaton
 
-Lake Balaton is a lake in Hungary, the largest lake in central Europe
-
-Balaton may also refer to: 
+Lake Balaton is a lake in Hungary, the largest lake in Central Europe  Balaton may also refer to:  
 
  
 ## Unsplash photos

@@ -10,16 +10,7 @@ tags:
 ---
 # Tehran
 
-Tehran  is the capital of Iran and Tehran Province.
-With a population of around 8.7 million in the city and 15 million in the larger metropolitan area 
-of Greater Tehran, Tehran is the most populous city in Iran and Western Asia, and has the 
-second-largest metropolitan area in the Middle East, after Cairo.
-It is ranked 24th in the world by metropolitan area population.
-It is also known for its sprawling development and futuristic architecture, epitomized by the Milad 
-Tower and the Fereshteh Pasargad Hotel, designed by Zaha Hadid.In the Classical era, part of the 
-territory of present-day Tehran was occupied by Rhages, a prominent Median city destroyed in the 
-medieval Arab, Turkic, and Mongol invasions.
-Modern Ray is urban area absorbed into the metropolitan area of Greater Tehran.
+Tehran  is the largest city in Tehran Province and the capital of Iran. With a population of around 9 million in the city and around 16 million in the larger metropolitan  area of Greater Tehran, Tehran is the most populous city in Iran and Western Asia, and has the  second-largest metropolitan area in the Middle East, after Cairo. It is ranked 24th in the world by metropolitan area population.  In the Classical era, part of the territory of present-day Tehran was occupied by Rhages, a  prominent Median city destroyed in the medieval Arab, Turkic, and Mongol invasions. 
 
  
 ## Unsplash photos

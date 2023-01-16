@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/lexus.1.jpg
 category: car
 tags:
+- japan
 
 ---
 # Photos for Lexus

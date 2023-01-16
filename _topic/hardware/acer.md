@@ -9,7 +9,7 @@ tags:
 ---
 # Acer
 
-Acer may refer to:
+Acer may refer to:    
 
  
 ## Unsplash photos

@@ -4,6 +4,7 @@ layout: splash
 image: /images/car/nissan.1.jpg
 category: car
 tags:
+- japan
 
 ---
 # Photos for Nissan

@@ -2,5 +2,5 @@
 layout: with_tag
 title: Latin
 keyword: latin
-count: 6
+count: 7
 ---

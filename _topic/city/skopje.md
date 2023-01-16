@@ -9,14 +9,7 @@ tags:
 ---
 # Skopje
 
-Skopje  is the capital and largest city of North Macedonia.
-It is the country's political, cultural, economic, and academic centre.
-
-The territory of Skopje has been inhabited since at least 4000 BC; remains of Neolithic settlements 
-have been found within the old Kale Fortress that overlooks the modern city centre.
-Originally a Paeonian city, Scupi became the capital of Dardania in the second century BC.
-On the eve of the 1st century AD, the settlement was seized by the Romans and became a military 
-camp.
+Skopje  is the capital and largest city of North Macedonia. It is the country's political, cultural, economic, and academic centre.  The territory of Skopje has been inhabited since at least 4000 BC; remains of Neolithic settlements  have been found within the old Kale Fortress that overlooks the modern city centre. Originally a Paeonian city, Scupi became the capital of Dardania in the second century BC. 
 
  
 ## Unsplash photos

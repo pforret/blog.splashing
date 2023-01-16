@@ -9,7 +9,7 @@ tags:
 ---
 # Burkina
 
-
+  
 
  
 ## Unsplash photos

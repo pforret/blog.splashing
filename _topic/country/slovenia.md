@@ -9,13 +9,7 @@ tags:
 ---
 # Slovenia
 
-Slovenia, officially the Republic of Slovenia, is a country in Central Europe.
-It is bordered by Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the 
-southeast, and the Adriatic Sea to the southwest.
-Slovenia is mostly mountainous and forested, covers 20,271 square kilometres, and has a population 
-of 2.1 million .
-Slovenes constitute over 80% of the country's population.
-Slovene, a South Slavic language, is the official language.
+Slovenia, officially the Republic of Slovenia, is a country in Central Europe. It is bordered by Italy to the west, Austria to the north, Hungary to the northeast, Croatia to the  southeast, and the Adriatic Sea to the southwest. Slovenia is mostly mountainous and forested, covers 20,271 square kilometres, and has a population  of 2.1 million . Slovenes constitute over 80% of the country's population. Slovene, a South Slavic language, is the official language. 
 
  
 ## Unsplash photos

@@ -9,14 +9,7 @@ tags:
 ---
 # Sport: rowing
 
-Rowing is the act of propelling a boat using the motion of oars in the water by displacing water to 
-propel the boat forward.
-Rowing and paddling are similar.
-However, rowing requires oars to have a mechanical connection with the boat, while paddles  are 
-hand-held and have no mechanical connection.
-
-In some strict terminologies, using oars for propulsion may be termed either pulling or rowing, 
-with different definitions for each.
+Rowing is the act of propelling a human-powered watercraft using the sweeping motions of oars to  displace water and generate reactional propulsion. Rowing is functionally similar to paddling, but rowing requires oars to be mechanically attached to  the boat, and the rower drives the oar like a lever, exerting force in the same direction as the  boat's travel; while paddles are completely hand-held and have no attachment to the boat, and are  driven like a cantilever, exerting force opposite to the intended direction of the boat.  In some strict terminologies, using oars for propulsion may be termed either pulling or rowing,  with different definitions for each. Where these strict terminologies are used, the definitions are reversed depending on the context. 
 
  
 ## Unsplash photos

@@ -1,5 +1,5 @@
 4x4
-Acura
+Acura|Japan
 Alfa Romeo
 Alpina
 Audi|germany
@@ -12,6 +12,7 @@ Chevrolet
 Chrysler
 Citroen|france
 Dacia
+Daihatsu|japan
 Dodge
 Ferrari|italy
 Fiat|italy
@@ -19,7 +20,7 @@ Ford|USA
 Honda|japan
 Hummer|USA
 Hyundai
-Infiniti
+Infiniti|japan
 Isuzu
 Jaguar|UK
 Jeep
@@ -28,16 +29,16 @@ Lada
 Lamborghini
 Lancia
 Landrover
-Lexus
+Lexus|japan
 Lincoln
 Maserati
 Maybach
-Mazda
+Mazda|japan
 McLaren
 Mercedes|germany
 Mini
-Mitsubishi
-Nissan
+Mitsubishi|japan
+Nissan|japan
 Opel
 Peugeot|france
 Polestar|sweden
@@ -47,13 +48,15 @@ Range Rover|uk
 Rolls-Royce|uk
 SUV
 Saab|sweden
+Scion|japan
 Seat|spain
 Skoda
-Subaru
+Subaru|japan
 Suzuki|japan
 Tesla|usa
 Toyota|japan
 Volkswagen|germany
 Volvo|sweden
 electric car
+EV
 hatchback

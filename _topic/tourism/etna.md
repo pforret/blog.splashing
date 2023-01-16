@@ -10,9 +10,7 @@ tags:
 ---
 # Destination: Etna
 
-Mount Etna is an active volcano on the east coast of Sicily.
-
-Etna or ETNA may also refer to:
+Mount Etna is an active volcano on the east coast of Sicily.  Etna or ETNA may also refer to:  
 
  
 ## Unsplash photos

@@ -9,11 +9,7 @@ tags:
 ---
 # Medion
 
-Medion AG is a German consumer electronics company, and a subsidiary of Chinese multinational 
-technology company Lenovo.
-The company operates in Europe, the United States, and the Asia-Pacific region.
-The company's main products are computers and notebooks, but also smartphones, tablet computers, 
-digital cameras, TVs, refrigerators, toasters, and fitness equipment.
+Medion AG is a German consumer electronics company, and a subsidiary of Chinese multinational  technology company Lenovo. The company operates in Europe, Turkey, Asia-Pacific, United States and Australia regions. The company's main products are computers and notebooks, but also smartphones, tablet computers,  digital cameras, TVs, refrigerators, toasters, and fitness equipment.   
 
  
 ## Unsplash photos

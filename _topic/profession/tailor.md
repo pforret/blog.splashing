@@ -9,14 +9,7 @@ tags:
 ---
 # Profession: tailor
 
-A tailor is a person who makes or alters clothing, particularly in men's clothing.
-Although the term dates to the thirteenth century, tailor took on its modern sense in the late 
-eighteenth century, and now properly refers to makers of men's and women's suits, coats, trousers, 
-and similar garments, commonly of wool, linen, or silk.
-
-Fictional tailors include the tailor in The Tailor of Gloucester, The Emperor's New Clothes  and 
-The Valiant Little Tailor.
-A more recent example is John le Carré's The Tailor of Panama.
+A tailor is a person who makes or alters clothing, particularly in men's clothing. The Oxford English Dictionary dates the term to the thirteenth century.    
 
  
 ## Unsplash photos

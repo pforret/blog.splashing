@@ -9,18 +9,7 @@ tags:
 ---
 # Israel
 
-Israel, officially the State of Israel, is a country in Western Asia.
-It is situated on the southeastern shore of the Mediterranean Sea and the northern shore of the Red 
-Sea, and shares borders with Lebanon to the north, Syria to the northeast, Jordan to the east, and 
-Egypt to the southwest; it is also bordered by the Palestinian territories of the West Bank and the 
-Gaza Strip to the east and west, respectively.
-Tel Aviv is the economic and technological center of the country, while its seat of government is 
-in its proclaimed capital of Jerusalem, although Israeli sovereignty over East Jerusalem is 
-unrecognized internationally.Israel has evidence of the earliest hominid migrations out of Africa.
-Canaanite tribes are archaeologically attested in the region since the Middle Bronze Age, while the 
-kingdoms of Israel and Judah emerged during the Iron Age.
-The northern Kingdom of Israel was destroyed by the Neo-Assyrian Empire around 720 BCE, and the 
-Kingdom of Judah was incorporated into the Neo-Babylonian Empire in 586 BCE.
+Israel, officially the State of Israel, is a country in Western Asia. Situated between the Eastern Mediterranean and the Red Sea, it is bordered by Lebanon to the north,  by Syria to the northeast, by Jordan to the east, by Egypt to the southwest, and by the Palestinian  territories — the West Bank along the east and the Gaza Strip along the southwest — with which it  shares legal boundaries. Tel Aviv is the economic and technological center of the country, while its seat of government is  in its proclaimed capital of Jerusalem, although Israeli sovereignty over East Jerusalem is  unrecognized internationally.The Southern Levant,  of which modern Israel forms a part, witnessed  some of the earliest human occupation outside of Africa, and is also among the earliest known sites  of agriculture. It was inhabited by the Canaanites during the Bronze Age and by the Israelites during the Iron Age. The Israelites established two related polities, Israel and Judah, which later fell to,  respectively, the Neo-Assyrian Empire  and the Neo-Babylonian Empire . 
 
  
 ## Unsplash photos

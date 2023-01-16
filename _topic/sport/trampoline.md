@@ -9,13 +9,7 @@ tags:
 ---
 # Sport: trampoline
 
-A trampoline is a device consisting of a piece of taut, strong fabric stretched between a steel 
-frame using many coiled springs.
-Not all trampolines have springs, as the Springfree Trampoline uses glass-reinforced plastic rods.
-People bounce on trampolines for recreational and competitive purposes.
-
-The fabric that users bounce on  is not elastic itself; the elasticity is provided by the springs 
-that connect it to the frame, which store potential energy.
+A trampoline is a device consisting of a piece of taut, strong fabric stretched between a steel  frame using many coiled springs. Not all trampolines have springs, as the Springfree Trampoline uses glass-reinforced plastic rods. People bounce on trampolines for recreational and competitive purposes.  The fabric that users bounce on  is not elastic itself; the elasticity is provided by the springs  that connect it to the frame, which store potential energy. 
 
  
 ## Unsplash photos

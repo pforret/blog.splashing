@@ -10,21 +10,7 @@ tags:
 ---
 # Toronto
 
-Toronto  is the capital city of the Canadian province of Ontario.
-With a recorded population of 2,794,356 in 2021, it is the most populous city in Canada and the 
-fourth most populous city in North America.
-The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people  
-surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021 
-population of 6,712,341.
-Toronto is an international centre of business, finance, arts, and culture, and is recognized as 
-one of the most multicultural and cosmopolitan cities in the world.Indigenous peoples have 
-travelled through and inhabited the Toronto area, located on a broad sloping plateau interspersed 
-with rivers, deep ravines, and urban forest, for more than 10,000 years.
-After the broadly disputed Toronto Purchase, when the Mississauga surrendered the area to the 
-British Crown, the British established the town of York in 1793 and later designated it as the 
-capital of Upper Canada.
-During the War of 1812, the town was the site of the Battle of York and suffered heavy damage by 
-American troops.
+Toronto  is the capital city of the Canadian province of Ontario. With a recorded population of 2,794,356 in 2021, it is the most populous city in Canada and the  fourth most populous city in North America. The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people   surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021  population of 6,712,341. Toronto is an international centre of business, finance, arts, sports and culture, and is  recognized as one of the most multicultural and cosmopolitan cities in the world.Indigenous peoples  have travelled through and inhabited the Toronto area, located on a broad sloping plateau  interspersed with rivers, deep ravines, and urban forest, for more than 10,000 years. After the broadly disputed Toronto Purchase, when the Mississauga surrendered the area to the  British Crown, the British established the town of York in 1793 and later designated it as the  capital of Upper Canada. 
 
  
 ## Unsplash photos

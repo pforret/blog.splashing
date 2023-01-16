@@ -9,10 +9,7 @@ tags:
 ---
 # Profession: clerk
 
-A clerk  is a white-collar worker who conducts general office tasks, or a worker who performs 
-similar sales-related tasks in a retail environment.
-The responsibilities of clerical workers commonly include record keeping, filing, staffing service 
-counters, screening callers, and other administrative tasks.
+A clerk is a white-collar worker who conducts general office tasks, or a worker who performs  similar sales-related tasks in a retail environment. The responsibilities of clerical workers commonly include record keeping, filing, staffing service  counters, screening callers, and other administrative tasks.    
 
  
 ## Unsplash photos

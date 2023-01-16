@@ -9,13 +9,7 @@ tags:
 ---
 # trombone
 
-The trombone  is a musical instrument in the brass family.
-As with all brass instruments, sound is produced when the player's vibrating lips  cause the air 
-column inside the instrument to vibrate.
-Most brass instruments use valves to alter the pitch, but trombones have a telescoping slide 
-mechanism instead.
-Many modern trombone models also have a valve attachment which lowers the pitch of the instrument.
-Variants such as the valve trombone and superbone have three valves similar to those on the trumpet.
+The trombone  is a musical instrument in the brass family. As with all brass instruments, sound is produced when the player's vibrating lips cause the air  column inside the instrument to vibrate. Nearly all trombones use a telescoping slide mechanism to alter the pitch instead of the valves  used by other brass instruments. The valve trombone is an exception, using three valves similar to those on a trumpet, and the  superbone has valves and a slide.  
 
  
 ## Unsplash photos

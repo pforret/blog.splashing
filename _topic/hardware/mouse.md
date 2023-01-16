@@ -9,12 +9,7 @@ tags:
 ---
 # mouse
 
-A mouse  is a small mammal.
-Characteristically, mice are known to have a pointed snout, small rounded ears, a body-length scaly 
-tail, and a high breeding rate.
-The best known mouse species is the common house mouse .
-Mice are also popular as pets.
-In some places, certain kinds of field mice are locally common.
+A mouse  is a small rodent. Characteristically, mice are known to have a pointed snout, small rounded ears, a body-length scaly  tail, and a high breeding rate. The best known mouse species is the common house mouse . Mice are also popular as pets. In some places, certain kinds of field mice are locally common. 
 
  
 ## Unsplash photos

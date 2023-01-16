@@ -9,12 +9,7 @@ tags:
 ---
 # Sport: snowboard
 
-Snowboards are boards where the user places both feet, usually secured, to the same board.
-The board itself is wider than most skis, with the ability to glide on snow.
-Snowboards widths are between 6 and 12 inches or 15 to 30 centimeters.
-Snowboards are differentiated from monoskis by the stance of the user.
-In monoskiing, the user stands with feet inline with direction of travel , whereas in snowboarding, 
-users stand with feet transverse  to the longitude of the board.
+Snowboards are boards where the user places both feet, usually secured, to the same board. The board itself is wider than most skis, with the ability to glide on snow. Snowboards widths are between 6 and 12 inches or 15 to 30 centimeters. Snowboards are differentiated from monoskis by the stance of the user. In monoskiing, the user stands with feet inline with direction of travel , whereas in snowboarding,  users stand with feet transverse  to the longitude of the board. 
 
  
 ## Unsplash photos

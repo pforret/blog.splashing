@@ -10,9 +10,7 @@ tags:
 ---
 # Destination: Alicante
 
-Alicante  is a city and municipality in the Valencian Community, Spain.
-It is the capital of the province of Alicante and a historic Mediterranean port.
-The population of the city was 337,482 as of 2020, the second-largest in Valencian Community.
+Alicante  is a city and municipality in the Valencian Community, Spain. It is the capital of the province of Alicante and a historic Mediterranean port. The population of the city was 337,482 as of 2020, the second-largest in the Valencian Community.   
 
  
 ## Unsplash photos
