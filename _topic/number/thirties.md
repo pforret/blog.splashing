@@ -4,6 +4,7 @@ layout: splash
 image: /images/number/thirties.1.jpg
 category: number
 tags:
+- era
 
 ---
 # Photos for thirties
