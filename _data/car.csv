@@ -4,6 +4,7 @@ Alfa Romeo
 Alpina
 Audi|germany
 BMW|germany
+BYD|china
 Bentley
 Bugatti
 Buick
@@ -14,6 +15,7 @@ Citroen|france
 Dacia
 Daihatsu|japan
 Dodge
+EV
 Ferrari|italy
 Fiat|italy
 Ford|USA
@@ -31,6 +33,7 @@ Lancia
 Landrover
 Lexus|japan
 Lincoln
+Lynk & Co|china
 Maserati
 Maybach
 Mazda|japan
@@ -58,5 +61,4 @@ Toyota|japan
 Volkswagen|germany
 Volvo|sweden
 electric car
-EV
 hatchback
