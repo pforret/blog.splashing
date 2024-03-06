@@ -5,6 +5,7 @@ image: /images/city/kualalumpur.1.jpg
 category: city
 tags:
 - kualalumpur
+- malaysia
 
 ---
 # Kuala Lumpur

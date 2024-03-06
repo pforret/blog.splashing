@@ -5,6 +5,7 @@ image: /images/city/washingtondc.1.jpg
 category: city
 tags:
 - washingtondc
+- usa
 
 ---
 # Washington D.C.

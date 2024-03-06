@@ -5,6 +5,7 @@ image: /images/city/tallinn.1.jpg
 category: city
 tags:
 - tallinn
+- estonia
 
 ---
 # Tallinn

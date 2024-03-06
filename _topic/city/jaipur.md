@@ -5,6 +5,7 @@ image: /images/city/jaipur.1.jpg
 category: city
 tags:
 - jaipur
+- india
 
 ---
 # Jaipur

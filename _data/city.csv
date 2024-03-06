@@ -1,9 +1,9 @@
 Aalst|Belgium
-Abu Dhabi
+Abu Dhabi|UAE
 Addis Ababa
 Aleppo|Syria
 Algiers|Algeria
-Amman
+Amman|Jordan
 Amsterdam|Netherlands
 Ankara|Turkey
 Antalya|Turkey
@@ -20,9 +20,9 @@ Bari|Italy
 Beirut|Lebanon
 Bejing|Chian
 Belfast|UK,Northern-Ireland
-Berlin
+Berlin|Germany
 Bodrum|Turkey
-Bogota
+Bogota|Colombia
 Bologna|Italy
 Bordeaux|France
 Boston|USA,Massachusetts
@@ -50,7 +50,7 @@ Dakar
 Dallas|Texas,USA
 Delhi|India
 Detroit|Michigan,USA
-Dhaka
+Dhaka|Bangladesh
 Dubai|UAE
 Dublin|Ireland
 Dusseldorf|Germany
@@ -60,130 +60,131 @@ Frankfurt|Germany
 Geneva|Switzerland
 Genoa|Italy
 Gent|Belgium
-Georgetown
+Georgetown|Guyana
 Granada|Spain
 Hamburg|Germany
-Hanoi
+Hanoi|Vietnam
 Hasselt|Belgium
 Helsinki|Finland
 Heraklion|Greece
 Ho Chi Minh City
 Hong Kong
-Honolulu
+Honolulu|Hawaii
 Houston|Texas,USA
 Istanbul|Turkey
-Jaipur
-Jakarta
+Jaipur|India
+Jakarta|Indonesia
 Jerusalem|Israel
 Johannesburg|South-Africa
-Kabul
-Karachi
+Kabul|Afghanistan
+Karachi|Pakistan
 Kharkiv|Ukraine
-Kingston
+Kingston|Jamaica
 Kinshasa|Congo
-Kopenhagen
-Kuala Lumpur
+Kopenhagen|Denmark
+Kuala Lumpur|Malaysia
 Kyiv|Ukraine
 Kyoto|Japan
-Lagos
-Lahore
+Lagos|Nigeria
+Lahore|Pakistan
 Las Vegas|Nevada,USA
-Leuven
-Libreville
+Leuven|Belgium
+Liege|Belgium
+Libreville|Gabon
 Lima|Peru
 Lisbon|Portugal
 London|UK
 Los Angeles|California,USA
-Luanda
-Luhansk
+Luanda|Angola
+Luhansk|Ukraine
 Lyon|France
-Macau
+Macau|China
 Madrid|Spain
 Manila|Philippines
-Mariupol
+Mariupol|Ukraine
 Marrakesh|Morocco
 Marseille|France
-Mecca
+Mecca|Saudi Arabia
 Mechelen|Belgium
-Medina
+Medina|Saudi Arabia
 Melbourne|Australia
 Messina|Italy
 Mexico City|Mexico
 Miami|Florida,USA
 Milan|Italy
-Minsk
-Monaco
-Monrovia
-Montreal
+Minsk|Belarus
+Monaco|France
+Monrovia|Liberia
+Montreal|Canada
 Moscow|Russia
 Mumbai|India
 Munich|Germany
-Nairobi
-Nanjing
+Nairobi|Kenya
+Nanjing|China
 Napoli|Italy
-Nassau
-New Delhi
+Nassau|Bahamas
+New Delhi|India
 New York|USA
 Nice|France
-Odesa
+Odesa|Ukraine
 Oostende|Belgium
 Orlando|USA
 Osaka|Japan
 Oslo|Norway
-Ouagadougou
+Ouagadougou|Burkina Faso
 Padia|Italy
 Palermo|Italy,Sicily
 Panama City
 Paris|France
 Parma|Italy
-Pattaya
-Philadelphia
-Phnom Penh
-Phoenix
-Phuket
-Porto
+Pattaya|Thailand
+Philadelphia|USA
+Phnom Penh|Cambodia
+Phoenix|Arizona,USA
+Phuket|Thailand
+Porto|Portugal
 Prague|Czech Republic
 Prato|Italy
-Pristina
-Pyongyang
-Quito
+Pristina|Kosovo
+Pyongyang|North Korea
+Quito|Ecuador
 Reykjavik|Iceland
 Rhodos|Greece
-Riga
-Rimini
+Riga|Latvia
+Rimini|Italy
 Rio de Janeiro|Brasil
 Rome|Italy
 Saint Petersburg|Russia
 San Francisco|California,USA
 San Jose|California,USA
-San Salvador
+San Salvador|El Salvador
 Santiago|Chile
 Sao Paulo|Brasil
-Sarajevo
+Sarajevo|Bosnia
 Sardinia|Italy
 Seoul|South Korea
 Sevilla|Spain
-Shanghai
+Shanghai|China
 Sicily|Italy
-Singapore
-Skopje
+Singapore|Singapore
+Skopje|Macedonia
 Sofia|Bulgaria
-Split
+Split|Croatia
 Stockholm|Sweden
-Suva
+Suva|Fiji
 Sydney|Australia
-Taipei
-Tallinn
+Taipei|Taiwan
+Tallinn|Estonia
 Tbilisi|Georgia
 Tehran|Iran
 Tel Aviv|Israel
-Tirana
+Tirana|Albania
 Tokyo|Japan
 Torino|Italy
 Toronto|Canada
 Trieste|Italy
-Tripoli
-Valletta
+Tripoli|Libya
+Valletta|Malta
 Vancouver|Canada
 Varna|Bulgaria
 Venice|Italy
@@ -191,9 +192,9 @@ Verona|Italy
 Vienna|Austria
 Vilnius|Lithuania
 Warsaw|Poland
-Washington
-Washington D.C.
-Wuhan
-Yerevan
+Washington|USA
+Washington D.C.|USA
+Wuhan|China
+Yerevan|Armenia
 Zagreb|Croatia
 Zurich|Switzerland

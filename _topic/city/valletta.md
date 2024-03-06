@@ -5,6 +5,7 @@ image: /images/city/valletta.1.jpg
 category: city
 tags:
 - valletta
+- malta
 
 ---
 # Valletta

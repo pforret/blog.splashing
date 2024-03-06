@@ -5,6 +5,7 @@ image: /images/city/nanjing.1.jpg
 category: city
 tags:
 - nanjing
+- china
 
 ---
 # Nanjing

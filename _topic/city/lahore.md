@@ -5,6 +5,7 @@ image: /images/city/lahore.1.jpg
 category: city
 tags:
 - lahore
+- pakistan
 
 ---
 # Lahore

@@ -5,6 +5,7 @@ image: /images/city/odesa.1.jpg
 category: city
 tags:
 - odesa
+- ukraine
 
 ---
 # Odesa

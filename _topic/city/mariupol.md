@@ -5,6 +5,7 @@ image: /images/city/mariupol.1.jpg
 category: city
 tags:
 - mariupol
+- ukraine
 
 ---
 # Mariupol

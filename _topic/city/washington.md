@@ -5,6 +5,7 @@ image: /images/city/washington.1.jpg
 category: city
 tags:
 - washington
+- usa
 
 ---
 # Washington

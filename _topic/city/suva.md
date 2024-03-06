@@ -5,6 +5,7 @@ image: /images/city/suva.1.jpg
 category: city
 tags:
 - suva
+- fiji
 
 ---
 # Suva

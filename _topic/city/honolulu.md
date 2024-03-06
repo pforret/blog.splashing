@@ -5,6 +5,7 @@ image: /images/city/honolulu.1.jpg
 category: city
 tags:
 - honolulu
+- hawaii
 
 ---
 # Honolulu

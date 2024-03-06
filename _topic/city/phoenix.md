@@ -5,6 +5,8 @@ image: /images/city/phoenix.1.jpg
 category: city
 tags:
 - phoenix
+- arizona
+- usa
 
 ---
 # Phoenix

@@ -5,6 +5,7 @@ image: /images/city/tripoli.1.jpg
 category: city
 tags:
 - tripoli
+- libya
 
 ---
 # Tripoli

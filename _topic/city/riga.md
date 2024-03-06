@@ -5,6 +5,7 @@ image: /images/city/riga.1.jpg
 category: city
 tags:
 - riga
+- latvia
 
 ---
 # Riga

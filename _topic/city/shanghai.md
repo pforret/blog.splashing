@@ -5,6 +5,7 @@ image: /images/city/shanghai.1.jpg
 category: city
 tags:
 - shanghai
+- china
 
 ---
 # Shanghai

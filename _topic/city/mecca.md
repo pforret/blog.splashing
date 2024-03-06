@@ -5,6 +5,7 @@ image: /images/city/mecca.1.jpg
 category: city
 tags:
 - mecca
+- saudi arabia
 
 ---
 # Mecca

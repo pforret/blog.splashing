@@ -5,6 +5,7 @@ image: /images/city/quito.1.jpg
 category: city
 tags:
 - quito
+- ecuador
 
 ---
 # Quito

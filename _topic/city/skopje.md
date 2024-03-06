@@ -5,6 +5,7 @@ image: /images/city/skopje.1.jpg
 category: city
 tags:
 - skopje
+- macedonia
 
 ---
 # Skopje

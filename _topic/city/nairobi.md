@@ -5,6 +5,7 @@ image: /images/city/nairobi.1.jpg
 category: city
 tags:
 - nairobi
+- kenya
 
 ---
 # Nairobi

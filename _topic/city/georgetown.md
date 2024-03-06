@@ -5,6 +5,7 @@ image: /images/city/georgetown.1.jpg
 category: city
 tags:
 - georgetown
+- guyana
 
 ---
 # Georgetown

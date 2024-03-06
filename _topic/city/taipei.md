@@ -5,6 +5,7 @@ image: /images/city/taipei.1.jpg
 category: city
 tags:
 - taipei
+- taiwan
 
 ---
 # Taipei

@@ -5,6 +5,7 @@ image: /images/city/kopenhagen.1.jpg
 category: city
 tags:
 - kopenhagen
+- denmark
 
 ---
 # Kopenhagen

@@ -5,6 +5,7 @@ image: /images/city/pyongyang.1.jpg
 category: city
 tags:
 - pyongyang
+- north korea
 
 ---
 # Pyongyang

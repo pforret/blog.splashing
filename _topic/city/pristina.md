@@ -5,6 +5,7 @@ image: /images/city/pristina.1.jpg
 category: city
 tags:
 - pristina
+- kosovo
 
 ---
 # Pristina

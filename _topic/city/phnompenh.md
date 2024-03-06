@@ -5,6 +5,7 @@ image: /images/city/phnompenh.1.jpg
 category: city
 tags:
 - phnompenh
+- cambodia
 
 ---
 # Phnom Penh

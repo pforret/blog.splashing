@@ -5,6 +5,7 @@ image: /images/city/nassau.1.jpg
 category: city
 tags:
 - nassau
+- bahamas
 
 ---
 # Nassau

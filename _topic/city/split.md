@@ -5,6 +5,7 @@ image: /images/city/split.1.jpg
 category: city
 tags:
 - split
+- croatia
 
 ---
 # Split

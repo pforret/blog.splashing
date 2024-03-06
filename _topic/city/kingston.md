@@ -5,6 +5,7 @@ image: /images/city/kingston.1.jpg
 category: city
 tags:
 - kingston
+- jamaica
 
 ---
 # Kingston

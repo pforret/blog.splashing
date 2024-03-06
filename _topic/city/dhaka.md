@@ -5,6 +5,7 @@ image: /images/city/dhaka.1.jpg
 category: city
 tags:
 - dhaka
+- bangladesh
 
 ---
 # Dhaka

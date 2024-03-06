@@ -5,6 +5,7 @@ image: /images/city/newdelhi.1.jpg
 category: city
 tags:
 - newdelhi
+- india
 
 ---
 # New Delhi

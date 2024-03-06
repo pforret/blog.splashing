@@ -5,6 +5,7 @@ image: /images/city/sansalvador.1.jpg
 category: city
 tags:
 - sansalvador
+- el salvador
 
 ---
 # San Salvador

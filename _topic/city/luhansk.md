@@ -5,6 +5,7 @@ image: /images/city/luhansk.1.jpg
 category: city
 tags:
 - luhansk
+- ukraine
 
 ---
 # Luhansk

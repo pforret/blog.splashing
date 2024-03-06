@@ -5,6 +5,7 @@ image: /images/city/jakarta.1.jpg
 category: city
 tags:
 - jakarta
+- indonesia
 
 ---
 # Jakarta

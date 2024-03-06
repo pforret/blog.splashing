@@ -5,6 +5,7 @@ image: /images/city/minsk.1.jpg
 category: city
 tags:
 - minsk
+- belarus
 
 ---
 # Minsk

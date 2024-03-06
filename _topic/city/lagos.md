@@ -5,6 +5,7 @@ image: /images/city/lagos.1.jpg
 category: city
 tags:
 - lagos
+- nigeria
 
 ---
 # Lagos

@@ -5,6 +5,7 @@ image: /images/city/wuhan.1.jpg
 category: city
 tags:
 - wuhan
+- china
 
 ---
 # Wuhan

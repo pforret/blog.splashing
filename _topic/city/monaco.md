@@ -5,6 +5,7 @@ image: /images/city/monaco.1.jpg
 category: city
 tags:
 - monaco
+- france
 
 ---
 # Monaco

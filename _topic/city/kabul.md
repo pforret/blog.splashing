@@ -5,6 +5,7 @@ image: /images/city/kabul.1.jpg
 category: city
 tags:
 - kabul
+- afghanistan
 
 ---
 # Kabul

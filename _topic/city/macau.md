@@ -5,6 +5,7 @@ image: /images/city/macau.1.jpg
 category: city
 tags:
 - macau
+- china
 
 ---
 # Macau

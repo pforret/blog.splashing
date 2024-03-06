@@ -5,6 +5,7 @@ image: /images/city/sarajevo.1.jpg
 category: city
 tags:
 - sarajevo
+- bosnia
 
 ---
 # Sarajevo

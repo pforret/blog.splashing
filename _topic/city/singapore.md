@@ -5,6 +5,7 @@ image: /images/city/singapore.1.jpg
 category: city
 tags:
 - singapore
+- singapore
 
 ---
 # Singapore

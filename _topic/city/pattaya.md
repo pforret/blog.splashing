@@ -5,6 +5,7 @@ image: /images/city/pattaya.1.jpg
 category: city
 tags:
 - pattaya
+- thailand
 
 ---
 # Pattaya

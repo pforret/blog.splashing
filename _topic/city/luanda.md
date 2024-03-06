@@ -5,6 +5,7 @@ image: /images/city/luanda.1.jpg
 category: city
 tags:
 - luanda
+- angola
 
 ---
 # Luanda

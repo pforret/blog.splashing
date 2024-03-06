@@ -5,6 +5,7 @@ image: /images/city/hanoi.1.jpg
 category: city
 tags:
 - hanoi
+- vietnam
 
 ---
 # Hanoi

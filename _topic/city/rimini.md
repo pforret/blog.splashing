@@ -5,6 +5,7 @@ image: /images/city/rimini.1.jpg
 category: city
 tags:
 - rimini
+- italy
 
 ---
 # Rimini

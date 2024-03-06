@@ -5,6 +5,7 @@ image: /images/city/amman.1.jpg
 category: city
 tags:
 - amman
+- jordan
 
 ---
 # Amman

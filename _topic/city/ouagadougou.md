@@ -5,6 +5,7 @@ image: /images/city/ouagadougou.1.jpg
 category: city
 tags:
 - ouagadougou
+- burkina faso
 
 ---
 # Ouagadougou

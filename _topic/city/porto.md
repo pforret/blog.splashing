@@ -5,6 +5,7 @@ image: /images/city/porto.1.jpg
 category: city
 tags:
 - porto
+- portugal
 
 ---
 # Porto

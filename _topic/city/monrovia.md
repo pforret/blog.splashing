@@ -5,6 +5,7 @@ image: /images/city/monrovia.1.jpg
 category: city
 tags:
 - monrovia
+- liberia
 
 ---
 # Monrovia

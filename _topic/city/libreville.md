@@ -5,6 +5,7 @@ image: /images/city/libreville.1.jpg
 category: city
 tags:
 - libreville
+- gabon
 
 ---
 # Libreville

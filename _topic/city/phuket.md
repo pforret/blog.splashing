@@ -5,6 +5,7 @@ image: /images/city/phuket.1.jpg
 category: city
 tags:
 - phuket
+- thailand
 
 ---
 # Phuket

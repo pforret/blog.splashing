@@ -5,6 +5,7 @@ image: /images/city/leuven.1.jpg
 category: city
 tags:
 - leuven
+- belgium
 
 ---
 # Leuven
