@@ -129,11 +129,11 @@ do_loop() {
         taglist="$(echo "$tags" | awk -F, '{ if($1) printf "- " tolower($1) "\\n";if($2) printf "- " tolower($2) "\\n";if($3) printf "- " tolower($3) "\\n";}')"
 
         progress "=---- $name (photo 1)"
-        image1=$(do_splashmark "$name" "$title" "$search" "$image_dir/$slug.1.jpg" 1)
+        image1=$(do_splashmark "$title" "$search" "$image_dir/$slug.1.jpg" 1)
         progress "==--- $name (photo 2)"
-        image2=$(do_splashmark "$name" "$title" "$search" "$image_dir/$slug.2.jpg" 2)
+        image2=$(do_splashmark "$title" "$search" "$image_dir/$slug.2.jpg" 2)
         progress "===-- $name (photo 3)"
-        image3=$(do_splashmark "$name" "$title" "$search" "$image_dir/$slug.3.jpg" 3)
+        image3=$(do_splashmark "$title" "$search" "$image_dir/$slug.3.jpg" 3)
 
         wikipedia=""
         if [[ $use_wikipedia -gt 0 ]] ; then
@@ -183,11 +183,10 @@ do_loop() {
 }
 
 do_splashmark(){
-  local name="$1"
-  local title="$2"
-  local keyword="$3"
-  local filename="$4"
-  local nb="${5:-1}"
+  local title="$1"
+  local keyword="$2"
+  local filename="$3"
+  local nb="${4:-1}"
   if [[ ! -f $"$filename" ]] ; then
     splashmark -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r "FFFB" unsplash "$keyword" "$filename"
   else

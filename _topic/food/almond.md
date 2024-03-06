@@ -1,7 +1,7 @@
 ---
 title: almond
 layout: splash
-image: /
+image: /images/food/almond.1.jpg
 category: food
 tags:
 - almond
@@ -14,6 +14,15 @@ The almond  is a species of small tree from the genus Prunus, cultivated worldwi
  
 ## Unsplash photos
 These are the most popular photos on [Unsplash](https://unsplash.com) for **almond**.
+ 
+![almond](/images/food/almond.1.jpg)
+Photographer:  Tetiana Bykovets
+ 
+![almond](/images/food/almond.2.jpg)
+Photographer:  Avinash Kumar
+ 
+![almond](/images/food/almond.3.jpg)
+Photographer:  Mockup Graphics
  
 Find even more on [unsplash.com/s/photos/almond](https://unsplash.com/s/photos/almond)
  
