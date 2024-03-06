@@ -10,7 +10,7 @@ tags:
 ---
 # Manila
 
-Manila, officially City of Manila, is the capital of the Philippines and its second-most populous  city. Manila is located on the eastern shore of Manila Bay on the island of Luzon. It is highly urbanized and as of 2019, was the world's most densely populated city proper. Manila is considered to be a global city and is rated as an Alpha – City by Globalization and World  Cities Research Network . It was the first chartered city in the country, and was designated as such by the Philippine  Commission Act 183 of July 31, 1901. 
+Manila, officially the City of Manila, is the capital and second-most populous city of the  Philippines. Located on the eastern shore of Manila Bay on the island of Luzon, it is classified as a highly  urbanized city. As of 2019, it is the world's most densely populated city proper. It was the first chartered city in the country, and was designated as such by the Philippine  Commission Act No. 183 on July 31, 1901. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Turkey
 
-Turkey, officially the Republic of Türkiye, is a transcontinental country located mainly on the  Anatolian Peninsula in Western Asia, with a small portion on the Balkan Peninsula in Southeast  Europe. It shares borders with the Black Sea to the north; Georgia to the northeast; Armenia, Azerbaijan,  and Iran to the east; Iraq to the southeast; Syria and the Mediterranean Sea to the south; the  Aegean Sea to the west; and Greece and Bulgaria to the northwest. Cyprus is located off the south coast. Turks form the vast majority of the nation's population and Kurds are the largest minority. Ankara is Turkey's capital, while Istanbul is its largest city and financial centre. 
+Turkey, officially the Republic of Türkiye, is a country mainly in Anatolia in West Asia, with a  smaller part called East Thrace in Southeast Europe. It borders the Black Sea to the north; Georgia, Armenia, Azerbaijan, and Iran to the east; Iraq,  Syria, and the Mediterranean Sea and Cyprus to the south; and the Aegean Sea, Greece, and Bulgaria  to the west. Turkey is home to over 85 million people; most are ethnic Turks, while ethnic Kurds are the largest  ethnic minority. Officially a secular state, Turkey has a Muslim-majority population. Ankara is Turkey's capital and second-largest city; Istanbul is its largest city, and its economic  and financial center, as well as the largest city in Europe. 
 
  
 ## Unsplash photos

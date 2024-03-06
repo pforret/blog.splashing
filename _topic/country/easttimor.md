@@ -9,7 +9,7 @@ tags:
 ---
 # East Timor
 
-East Timor, also known as Timor-Leste, officially the Democratic Republic of Timor-Leste, is a  country in Southeast Asia. It comprises the eastern half of the island of Timor, the exclave of Oecusse on the island's  north-western half, and the minor islands of Atauro and Jaco. Australia is the country's southern neighbour, separated by the Timor Sea. The country's size is 14,874 square kilometres . Dili is its capital and largest city. 
+East Timor, also known as Timor-Leste, officially the Democratic Republic of Timor-Leste, is a  country in Southeast Asia. It comprises the eastern half of the island of Timor - of which the western half is administered by  Indonesia - the exclave of Oecusse on the island's north-western half, and the minor islands of  Atauro and Jaco. Australia is the country's southern neighbour, separated by the Timor Sea. The country's size is 14,874 square kilometres . Dili is its capital and largest city. 
 
  
 ## Unsplash photos

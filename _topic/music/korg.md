@@ -10,7 +10,7 @@ tags:
 ---
 # Korg
 
-Korg Inc., founded as Keio Electronic Laboratories, is a Japanese multinational corporation that  manufactures electronic musical instruments, audio processors and guitar pedals, recording  equipment, and electronic tuners. Under the Vox brand name, they also manufacture guitar amplifiers and electric guitars.    
+KORG Inc., founded as Keio Electronic Laboratories, is a Japanese multinational corporation that  manufactures electronic musical instruments, audio processors and guitar pedals, recording  equipment, and electronic tuners. Under the Vox brand name, they also manufacture guitar amplifiers and electric guitars.    
 
  
 ## Unsplash photos

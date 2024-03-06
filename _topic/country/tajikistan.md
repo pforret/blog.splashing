@@ -9,7 +9,7 @@ tags:
 ---
 # Tajikistan
 
-Tajikistan, officially the Republic of Tajikistan, is a landlocked country in Central Asia. It has an area of 143,100 km2  and an estimated population of 9,749,625 people. Its capital and largest city is Dushanbe. It is bordered by Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the north, and  China to the east. It is separated narrowly from Pakistan by Afghanistan's Wakhan Corridor. 
+Tajikistan, officially the Republic of Tajikistan, is a landlocked country in Central Asia. Dushanbe is the capital and most populous city. Tajikistan is bordered by Afghanistan to the south, Uzbekistan to the west, Kyrgyzstan to the  north, and China to the east. It is separated from Pakistan by Afghanistan's Wakhan Corridor. Tajiks form the ethnic majority in the country and their national language is Tajik, a variety of  Persian.The territory was previously home to cultures of the Neolithic and the Bronze Age,  including the city of Sarazm, and was later home to kingdoms ruled by people of faiths and  cultures, including the Oxus civilization, Andronovo culture, Buddhism, Nestorian Christianity,  Hinduism, Zoroastrianism, Manichaeism, and Islam. 
 
  
 ## Unsplash photos

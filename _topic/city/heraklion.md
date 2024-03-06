@@ -10,7 +10,7 @@ tags:
 ---
 # Heraklion
 
-Heraklion or Iraklion  is the largest city and the administrative capital of the island of Crete  and capital of Heraklion regional unit. It is the fourth largest city in Greece with a population of 211,370  according to the 2011 census. The population of the municipality was 177,064.The Bronze Age palace of Knossos, also known as the  Palace of Minos, is located 5.5 km  southeast of the city.  Heraklion was Europe's fastest growing tourism destination for 2017, according to Euromonitor, with  an 11.2% growth in international arrivals. 
+Heraklion or Herakleion, sometimes Iraklion, is the largest city and the administrative capital of  the island of Crete and capital of Heraklion regional unit. It is the fourth largest city in Greece with a municipal population of 177,064 and 211,370 in its  wider metropolitan area, according to the 2011 census.  The ancient Minoan palace at Knossos is located 5.5 km  southeast of the city. It is the second most visited archaeological site in Greece, after the Parthenon. 
 
  
 ## Unsplash photos

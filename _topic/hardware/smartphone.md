@@ -9,7 +9,7 @@ tags:
 ---
 # smartphone
 
-A smartphone is a portable computer device that combines mobile telephone and computing functions  into one unit. They are distinguished from feature phones by their stronger hardware capabilities and extensive  mobile operating systems, which facilitate wider software, internet, and multimedia functionality,  alongside core phone functions such as voice calls and text messaging. Smartphones typically contain a number of metal–oxide–semiconductor  integrated circuit  chips,  include various sensors that can be leveraged by pre-included and third-party software, and support  wireless communications protocols . More recently, smartphone manufacturers have begun to integrate satellite messaging connectivity  and satellite emergency services into devices for use in remote regions, where there is no reliable  cellular network.  
+A smartphone  is a mobile device that combines the functionality of a traditional mobile phone with  advanced computing capabilities. It typically has a touchscreen interface, allowing users to access a wide range of applications and  services, such as web browsing, email, and social media, as well as multimedia playback and  streaming. Smartphones also have built-in cameras, GPS navigation, and support for various communication  methods, including voice calls, text messaging, and internet-based messaging apps.  Smartphones are distinguished from older-design feature phones by their more advanced hardware  capabilities and extensive mobile operating systems, access to the internet, business applications,  mobile payments, and multimedia functionality, including music, video, gaming, radio, and  television. 
 
  
 ## Unsplash photos

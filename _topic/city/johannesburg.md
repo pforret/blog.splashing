@@ -10,7 +10,7 @@ tags:
 ---
 # Johannesburg
 
-Johannesburg, colloquially known as Jozi, Joburg, or The City of Gold, is the largest city in South  Africa, classified as a megacity, and is one of the 100 largest urban areas in the world. According to Demographia, the Johannesburg–Pretoria urban area  is the 26th-largest in the world in  terms of population, with 14,167,000 inhabitants. It is the provincial capital and largest city of Gauteng, which is the wealthiest province in South  Africa. Johannesburg is the seat of the Constitutional Court, the highest court in South Africa. Most of the major South African companies and banks have their head offices in Johannesburg. 
+Johannesburg   is the most populous city in South Africa with 4,803,262 people, and is classified  as a megacity; it is one of the 100 largest urban areas in the world. It is the provincial capital and largest city of Gauteng, which is the wealthiest province in South  Africa. Johannesburg is the seat of the Constitutional Court, the highest court in South Africa. Most of the major South African companies and banks have their head offices in Johannesburg. The city is located within the mineral-rich Witwatersrand hills, the epicentre of the  international-scale mineral, gold and  diamond trade. 
 
  
 ## Unsplash photos

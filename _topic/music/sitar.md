@@ -9,7 +9,7 @@ tags:
 ---
 # sitar
 
-The sitar  is a plucked stringed instrument, originating from the Indian subcontinent, used in  Hindustani classical music. The instrument was invented in medieval India, flourished in the 18th century, and arrived at its  present form in 19th-century India. Khusrau Khan, an 18th-century figure of Mughal Empire has been identified by modern scholarship as  the originator of Sitar. According to most historians, he developed the sitar from the setar, an Iranian instrument of  Abbasid or Safavid origin. Another view supported by a minority of scholars is that Khusrau Khan developed it from Veena.Used  widely throughout the Indian subcontinent, the sitar became popularly known in the wider world  through the works of Ravi Shankar, beginning in the late 1950s and early 1960s. 
+The sitar  is a plucked stringed instrument, originating from the Indian subcontinent, used in  Hindustani classical music. The instrument was invented in medieval India, flourished in the 18th century, and arrived at its  present form in 19th-century India. Khusrau Khan, an 18th-century figure of the Mughal Empire has been identified by modern scholarship  as the inventor of the sitar. According to most historians, he developed the sitar from the setar, an Iranian instrument of  Abbasid or Safavid origin. Another view supported by a minority of scholars is that Khusrau Khan developed it from Veena.Used  widely throughout the Indian subcontinent, the sitar became popularly known in the wider world  through the works of Ravi Shankar, beginning in the late 1950s and early 1960s. 
 
  
 ## Unsplash photos

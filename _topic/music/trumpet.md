@@ -9,7 +9,7 @@ tags:
 ---
 # trumpet
 
-The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet—with the highest register in the brass family—to  the bass trumpet, pitched one octave below the standard B♭ or C trumpet.  Trumpet-like instruments have historically been used as signaling devices in battle or hunting,  with examples dating back to at least 1500 BC. They began to be used as musical instruments only in the late 14th or early 15th century. 
+The trumpet is a brass instrument commonly used in classical and jazz ensembles. The trumpet group ranges from the piccolo trumpet—with the highest register in the brass family—to  the bass trumpet, pitched one octave below the standard B♭ or C trumpet.  Trumpet-like instruments have historically been used as signaling devices in battle or hunting,  with examples dating back to at least 2000 BC. They began to be used as musical instruments only in the late 14th or early 15th century. 
 
  
 ## Unsplash photos

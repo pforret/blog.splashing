@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: weightlifting
 
-Weightlifting generally refers to activities in which people lift weights, often in the form of  dumbbells or barbells. People lift various kinds of weights for a variety of different reasons. These may include various types of competition; promoting health and fitness; developing physical  strength; or developing a muscular physique, possibly with the goal of engaging in competitive  bodybuilding.According to an article in The New York Times, lifting weights can prevent some  disabilities, increase metabolism, and lower body fat. When compared to machines, free weights improve not only strength but muscle function as well. Lifting weights can also improve self-confidence and make people feel better about themselves. 
+Weightlifting or weight lifting generally refers to physical exercises and sports in which people  lift weights, often in the form of dumbbells or barbells. People engage in weightlifting for a variety of different reasons. These can include: developing physical strength; promoting health and fitness; competing in  weightlifting sports; and developing a muscular and aesthetic physique.Olympic weightlifting is a  specific type of weightlifting sport practiced at the Olympic Games, commonly referred to simply as  weightlifting. Other weightlifting sports include powerlifting, kettlebell lifting, and para powerlifting—the  weightlifting sport practiced at the Paralympic Games. Different weightlifting sports may be distinguished by the different ways of lifting a weight,  and/or the objects lifted. 
 
  
 ## Unsplash photos

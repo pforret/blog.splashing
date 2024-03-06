@@ -10,7 +10,7 @@ tags:
 ---
 # Beirut
 
-
+Beirut  is the capital and largest city of Lebanon. As of 2014, Greater Beirut has a population of 2.5 million, which makes it the third-largest city  in the Levant region and the thirteenth-largest in the Arab world. The city is situated on a peninsula at the midpoint of Lebanon's Mediterranean coast. Beirut has been inhabited for more than 5,000 years, making it one of the oldest cities in the  world.  
 
  
 ## Unsplash photos

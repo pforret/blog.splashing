@@ -9,7 +9,7 @@ tags:
 ---
 # Ho Chi Minh City
 
-Ho Chi Minh City, formerly  known as Saigon or Gia Dinh city, is the largest city in Vietnam, with  a population of around 9 million in 2019. Situated in the Southeast region of Vietnam, the city surrounds the Saigon River and covers about  2,061 km2 .    Saigon was the capital of French Indochina from 1887 to 1902, and again from 1945 until its  cessation in 1954. 
+Ho Chi Minh City, commonly known as Saigon, is the most populous city in Vietnam, with a population  of around 9.3 million in 2023. The city's geography is defined by rivers and canals, the largest of which is the eponymously-named  Saigon River. As a municipality, Ho Chi Minh City consists of 16 urban districts, five rural districts, and one  municipal city . As the largest financial centre in Vietnam, Ho Chi Minh City has the highest gross regional  domestic product out of all Vietnam provinces and municipalities, contributing around a quarter of  the country's total GDP. Ho Chi Minh City's metropolitan area is ASEAN's 6th largest economy, also the biggest outside an  ASEAN country capital. 
 
  
 ## Unsplash photos

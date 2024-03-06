@@ -10,7 +10,7 @@ tags:
 ---
 # clarinet
 
-The clarinet is a musical instrument in the woodwind family. The instrument has a nearly cylindrical bore and a flared bell, and uses a single reed to produce  sound.  Clarinets comprise a family of instruments of differing sizes and pitches. The clarinet family is the largest such woodwind family, with more than a dozen types, ranging from  the BB♭ contrabass to the E♭ soprano. 
+The clarinet is a single-reed musical instrument in the woodwind family, with a nearly cylindrical  bore and a flared bell.  Clarinets comprise a family of instruments of differing sizes and pitches. The clarinet family is the largest woodwind family, ranging from the BB♭ contrabass to the E♭  soprano. The B♭ soprano clarinet is the most common type, and is the instrument usually indicated by the  word clarinet. 
 
  
 ## Unsplash photos

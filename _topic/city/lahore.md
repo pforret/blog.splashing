@@ -9,7 +9,7 @@ tags:
 ---
 # Lahore
 
-Lahore  is the second most populous city in Pakistan after Karachi and 26th most populous city in  the world, with a population of over 13 million. It is the capital of the province of Punjab where it is the largest city. Lahore is one of Pakistan's major industrial and economic hubs, with an estimated GDP  of $84  billion as of 2019. It is the largest city as well as the historic capital and cultural centre of the wider Punjab  region, and is one of Pakistan's most socially liberal, progressive, and cosmopolitan cities. It is situated in the north-east of the country, close to the International border with India. 
+Lahore  is the capital and largest city of the Pakistani province of Punjab. It is the second largest city in Pakistan, after Karachi, and 26th largest in the world, with a  population of over 13 million. It is located in the north-eastern region of Punjab, along the River Ravi. Lahore is one of Pakistan's major industrial and economic hubs. It has been the historic capital and cultural centre of the wider Punjab region, and is one of  Pakistan's most socially liberal, progressive, and cosmopolitan cities.Lahore's origin dates back  to antiquity. 
 
  
 ## Unsplash photos

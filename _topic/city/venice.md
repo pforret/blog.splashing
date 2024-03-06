@@ -10,7 +10,7 @@ tags:
 ---
 # Venice
 
-Venice  is a city in northeastern Italy and the capital of the Veneto region. It is built on a group of 118 small islands that are separated by canals and linked by over 400  bridges. The islands are in the shallow Venetian Lagoon, an enclosed bay lying between the mouths of the Po  and the Piave rivers . In 2020, around 258,685 people resided in greater Venice or the Comune di Venezia, of whom around  55,000 live in the historical island city of Venice  and the rest on the mainland . Together with the cities of Padua and Treviso, Venice is included in the Padua-Treviso-Venice  Metropolitan Area, which is considered a statistical metropolitan area, with a total population of  2.6 million.The name is derived from the ancient Veneti people who inhabited the region by the 10th  century BC. 
+Venice  is a city in northeastern Italy and the capital of the Veneto region. It is built on a group of 126 islands that are separated by expanses of open water and by canals;  portions of the city are linked by 472 bridges. The islands are in the shallow Venetian Lagoon, an enclosed bay lying between the mouths of the Po  and the Piave rivers . In 2020, around 258,685 people resided in greater Venice or the Comune di Venezia, of whom around  51,000 live in the historical island city of Venice  and the rest on the mainland . Together with the cities of Padua and Treviso, Venice is included in the Padua-Treviso-Venice  Metropolitan Area, which is considered a statistical metropolitan area, with a total population of  2.6 million.The name is derived from the ancient Veneti people who inhabited the region by the 10th  century BC. 
 
  
 ## Unsplash photos

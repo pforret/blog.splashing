@@ -10,7 +10,7 @@ tags:
 ---
 # Mexico City
 
-Mexico City  is the capital and largest city of Mexico, and the most populous city in North America. One of the world's alpha cities, it is located in the Valley of Mexico within the high Mexican  central plateau, at an altitude of 2,240 meters . The city has 16 boroughs or demarcaciones territoriales, which are in turn divided into  neighborhoods or colonias.  The 2020 population for the city proper was 9,209,944, with a land area of 1,495 square kilometers . 
+Mexico City  is the capital and largest city of Mexico, and the most populous city in North America. Mexico City is one of the most important cultural and financial centers in the world. It is located in the Valley of Mexico within the high Mexican central plateau, at an altitude of  2,240 meters . The city has 16 boroughs or demarcaciones territoriales, which are in turn divided into  neighborhoods or colonias.  
 
  
 ## Unsplash photos

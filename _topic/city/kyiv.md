@@ -10,7 +10,7 @@ tags:
 ---
 # Kyiv
 
-Kyiv, also spelled Kiev, is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. As of 1 January 2021, its population was 2,962,180, making Kyiv the seventh-most populous city in  Europe.Kyiv is an important industrial, scientific, educational, and cultural center in Eastern  Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. The city has an extensive system of public transport and infrastructure, including the Kyiv Metro. 
+Kyiv  is the capital and most populous city of Ukraine. It is in north-central Ukraine along the Dnieper River. As of 1 January 2022, its population was 2,952,301, making Kyiv the seventh-most populous city in  Europe. Kyiv is an important industrial, scientific, educational, and cultural center in Eastern Europe. It is home to many high-tech industries, higher education institutions, and historical landmarks. 
 
  
 ## Unsplash photos

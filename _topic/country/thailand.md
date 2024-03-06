@@ -9,7 +9,7 @@ tags:
 ---
 # Thailand
 
-Thailand, historically known as Siam ( and officially the Kingdom of Thailand, is a country in  Southeast Asia, located at the centre of the Indochinese Peninsula, spanning 513,120 square  kilometres, with a population of almost 70 million. The country is bordered to the north by Myanmar and Laos, to the east by Laos and Cambodia, to the  south by the Gulf of Thailand and Malaysia, and to the west by the Andaman Sea and the extremity of  Myanmar. Thailand also shares maritime borders with Vietnam to the southeast, and Indonesia and India to the  southwest. Bangkok is the nation's capital and largest city.  
+Thailand, officially the Kingdom of Thailand and also known historically as Siam, is a country in  Southeast Asia on the Indochinese Peninsula. With a population of almost 70 million, it spans 513,120 square kilometres . Thailand is bordered to the northwest by Myanmar, to the northeast by Laos, to the southeast by  Cambodia, to the south by the Gulf of Thailand and Malaysia, and to the southwest by the Andaman  Sea; it also shares maritime borders with Vietnam to the southeast and Indonesia and India to the  southwest. Bangkok is the nation's capital and largest city.  
 
  
 ## Unsplash photos

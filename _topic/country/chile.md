@@ -10,7 +10,7 @@ tags:
 ---
 # Chile
 
-Chile, officially the Republic of Chile, is a country in the western part of South America. It is the southernmost country in the world, and the closest to Antarctica, occupying a long and  narrow strip of land between the Andes to the east and the Pacific Ocean to the west. Chile covers an area of 756,096 square kilometers, with a population of 17.5 million as of 2017. It shares land borders with Peru to the north, Bolivia to the north-east, Argentina to the east,  and the Drake Passage in the far south. Chile also controls the Pacific islands of Juan Fernández, Isla Salas y Gómez, Desventuradas, and  Easter Island in Oceania. 
+Chile, officially the Republic of Chile, is a country located in western South America. It is the southernmost country in the world and the closest to Antarctica, stretching along a  narrow strip of land between the Andes Mountains and the Pacific Ocean. With an area of 756,102 square kilometers  and a population of 17.5 million as of 2017, Chile  shares borders with Peru to the north, Bolivia to the northeast, Argentina to the east, and the  Drake Passage to the south. The country also controls several Pacific islands, including Juan Fernández, Isla Salas y Gómez,  Desventuradas, and Easter Island, and claims about 1,250,000 square kilometers  of Antarctica as  the Chilean Antarctic Territory. The capital and largest city of Chile is Santiago, and the national language is Spanish. 
 
  
 ## Unsplash photos

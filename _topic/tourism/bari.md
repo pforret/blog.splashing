@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Bari
 
-Bari  is the capital city of the Metropolitan City of Bari and of the Apulia region, on the  Adriatic Sea, southern Italy. It is the second most important economic centre of mainland Southern Italy after Naples. It is a port and university city, as well as the city of Saint Nicholas. The city itself has a population of 315,284 inhabitants, over 116 square kilometres, while the  urban area has 750,000 inhabitants. The metropolitan area has 1.3 million inhabitants. 
+Bari  is the capital city of the Metropolitan City of Bari and of the Apulia region, on the  Adriatic Sea, southern Italy. It is the second most important economic centre of mainland Southern Italy after Naples. It is a port and university city, as well as the city of Saint Nicholas. The city itself has a population of 315,284 inhabitants, and an area of over 116 square kilometres,  while the urban area has 750,000 inhabitants. The metropolitan area has 1.3 million inhabitants.Bari is made up of four different urban sections. 
 
  
 ## Unsplash photos

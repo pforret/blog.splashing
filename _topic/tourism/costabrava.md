@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Costa Brava
 
-The Costa Brava  is a coastal region of Catalonia in northeastern Spain. Whilst sources differ on the exact definition of the Costa Brava, it can be regarded as stretching  from the town of Blanes, 60 km  northeast of Barcelona, to the French border, and thus includes the  coastal parts of the province of Girona.  In the 1950s, the Costa Brava was identified by the Spanish government and local entrepreneurs as  being suitable for substantial development as a holiday destination, mainly for package holiday  tourists from Europe. The combination of a very good summer climate, nature, excellent beaches and a favourable foreign  exchange rate, which made Costa Brava an attractive tourist destination, was exploited by the  construction of large numbers of hotels and apartments in such seaside resorts as Blanes, Tossa de  Mar and Lloret de Mar. 
+The Costa Brava  is a coastal region of Catalonia in northeastern Spain. Sources differ on the exact definition of the Costa Brava. Usually it can be regarded as stretching from the town of Blanes, 60 km  northeast of Barcelona, to  the French border – in other words it consists of the coast of the province of Girona.  In the 1950s, the Costa Brava was identified by the Spanish government and local entrepreneurs as  being suitable for substantial development as a holiday destination, mainly for package holiday  tourists from Europe. 
 
  
 ## Unsplash photos

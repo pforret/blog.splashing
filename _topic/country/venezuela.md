@@ -9,7 +9,7 @@ tags:
 ---
 # Venezuela
 
-Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of  South America, consisting of a continental landmass and many islands and islets in the Caribbean  Sea. It has a territorial extension of 916,445 km2, and its population was estimated at 29 million in  2022. The capital and largest urban agglomeration is the city of Caracas.  The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on  the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east and on the east by  Guyana. 
+Venezuela, officially the Bolivarian Republic of Venezuela, is a country on the northern coast of  South America, consisting of a continental landmass and many islands and islets in the Caribbean  Sea. Venezuela comprises an area of 916,445 km2, and its population was estimated at 29 million in 2022. The capital and largest urban agglomeration is the city of Caracas.  The continental territory is bordered on the north by the Caribbean Sea and the Atlantic Ocean, on  the west by Colombia, Brazil on the south, Trinidad and Tobago to the north-east and on the east by  Guyana. 
 
  
 ## Unsplash photos

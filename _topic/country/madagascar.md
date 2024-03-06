@@ -9,7 +9,7 @@ tags:
 ---
 # Madagascar
 
-Madagascar, officially the Republic of Madagascar  is an island country in the Indian Ocean,  approximately 400 kilometres  off the coast of East Africa across the Mozambique Channel. At 592,800 square kilometres, it is the world's second-largest island country, after Indonesia.Home  to around 30 million people, it consists of the island of Madagascar  and numerous smaller  peripheral islands.   Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from the Indian  subcontinent around 90 million years ago, allowing native plants and animals to evolve in relative  isolation. 
+Madagascar, officially the Republic of Madagascar, is an island country comprising the island of  Madagascar and numerous smaller peripheral islands. Lying off the southeastern coast of Africa, it is the world's fourth largest island, the  second-largest island country and the 44th largest country in the world. Its capital and largest city is Antananarivo.  Following the prehistoric breakup of the supercontinent Gondwana, Madagascar split from Africa  during the Early Jurassic, around 180 million years ago, and split from the Indian subcontinent  around 90 million years ago, allowing native plants and animals to evolve in relative isolation;  consequently, it is a biodiversity hotspot and one of the world's 17 megadiverse countries, with  over 90% of wildlife being endemic. 
 
  
 ## Unsplash photos

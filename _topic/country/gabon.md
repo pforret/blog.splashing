@@ -9,7 +9,7 @@ tags:
 ---
 # Gabon
 
-Gabon, officially the Gabonese Republic, is a country on the west coast of Central Africa. Located on the equator, it is bordered by Equatorial Guinea to the northwest, Cameroon to the  north, the Republic of the Congo on the east and south, and the Gulf of Guinea to the west. It has an area of nearly 270,000 square kilometres  and its population is estimated at 2.3 million  people. There are coastal plains, mountains, and a savanna in the east.  
+Gabon, officially the Gabonese Republic, is a country on the Atlantic coast of Central Africa, on  the equator, bordered by Equatorial Guinea to the northwest, Cameroon to the north, the Republic of  the Congo on the east and south, and the Gulf of Guinea to the west. It has an area of 270,000 square kilometres  and a population of 2.3 million. There are coastal plains, mountains, and a savanna in the east. Libreville is the country's capital and the largest city.  
 
  
 ## Unsplash photos

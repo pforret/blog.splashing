@@ -9,7 +9,7 @@ tags:
 ---
 # Hong Kong
 
-Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of  China, is a city and special administrative region of China on the eastern Pearl River Delta in  South China. With 7.5 million residents of various nationalities in a 1,104-square-kilometre  territory, Hong  Kong is one of the most densely populated places in the world. Hong Kong is also a major global financial centre and one of the most developed cities in the world.  Hong Kong was established as a colony of the British Empire after the Qing Empire ceded Hong Kong  Island from Xin'an County at the end of the First Opium War in 1841 then again in 1842. 
+Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of  China, is a city and a special administrative region in China. With 7.4 million residents of various nationalities in a 1,104-square-kilometre  territory, Hong  Kong is one of the most densely populated territories in the world.  Hong Kong was established as a colony of the British Empire after the Qing dynasty ceded Hong Kong  Island in 1841–1842 as a consequence of losing the First Opium War. The colony expanded to the Kowloon Peninsula in 1860 and was further extended when the United  Kingdom obtained a 99-year lease of the New Territories in 1898. 
 
  
 ## Unsplash photos

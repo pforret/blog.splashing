@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Mykonos
 
-Mykonos  is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos. The island has an area of 85.5 square kilometres  and rises to an elevation of 341 metres  at its  highest point. There are 10,134 inhabitants according to the 2011 census, most of whom live in the largest town,  Mykonos, which lies on the west coast. The town is also known as Chora .  
+Mykonos  is a Greek island, part of the Cyclades, lying between Tinos, Syros, Paros and Naxos. The island has an area of 85.5 square kilometres  and rises to an elevation of 341 metres  at its  highest point. At the 2011 census, there were 10,134 inhabitants, most of whom lived in the largest town, Mykonos,  which is on the west coast. The town is also known as Chora .  
 
  
 ## Unsplash photos

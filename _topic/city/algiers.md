@@ -10,7 +10,7 @@ tags:
 ---
 # Algiers
 
-Algiers  is the capital and largest city of Algeria. The city's population at the 2008 census was 2,988,145 and in 2020 was estimated to be around  4,500,000. Algiers is located on the Mediterranean Sea and in the north-central portion of Algeria.Algiers is  situated on the west side of a bay of the Mediterranean Sea. The modern part of the city is built on the level ground by the seashore; the old part, the ancient  city of the deys, climbs the steep hill behind the modern town and is crowned by the Casbah or  citadel, 122 metres  above the sea. The casbah and the two quays form a triangle. 
+Algiers  is the capital and largest city of Algeria. The city's population at the 2008 census was 2,988,145 and in 2020 was estimated to be around  4,500,000. Algiers is in the north-central part of Algeria.Algiers is situated on the west side of the Bay of  Algiers, in the Mediterranean Sea. The modern part of the city is built on the level ground by the seashore; the old part, the ancient  city of the deys, climbs the steep hill behind the modern town and is crowned by the Casbah or  citadel, 122 metres  above the sea. The Casbah and the two quays form a triangle. 
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # Seoul
 
-Seoul, officially known as the Seoul Special City, is the capital and largest metropolis of South  Korea. According to the 2020 census, Seoul has a population of 9.9 million people, and forms the heart of  the Seoul Capital Area with the surrounding Incheon metropolis and Gyeonggi province. Considered to be a global city and rated as an Alpha – City by Globalization and World Cities  Research Network, Seoul was the world's fourth largest metropolitan economy in 2014, following  Tokyo, New York City and Los Angeles.  Seoul was rated Asia's most livable city with the second highest quality of life globally by  Arcadis in 2015, with a GDP per capita  of around $40,000. 
+Seoul, officially Seoul Special City, serves as the capital of South Korea, and is its most  extensive urban center. The broader Seoul Capital Area, encompassing Gyeonggi province and Incheon metropolitan city,  emerged as the world's fourth largest metropolitan economy in 2014, trailing only Tokyo, New York  City, and Los Angeles, hosting more than half of South Korea's population. Although Seoul's population peaked at slightly over 10 million, it has gradually decreased since  2014, standing at approximately 9.97 million residents as of 2020. Seoul is the seat of the South Korean government.  
 
  
 ## Unsplash photos

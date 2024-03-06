@@ -9,7 +9,7 @@ tags:
 ---
 # New Delhi
 
-New Delhi  is the capital of India and a part of the National Capital Territory of Delhi . New Delhi is the seat of all three branches of the government of India, hosting the Rashtrapati  Bhavan, Parliament House, and the Supreme Court of India. New Delhi is a municipality within the NCT, administered by the NDMC, which covers mostly Lutyens'  Delhi and a few adjacent areas. The municipal area is part of a larger administrative district, the New Delhi district.  
+New Delhi, historically known as Indraprastha, is the capital of India and a part of the National  Capital Territory of Delhi . New Delhi is the seat of all three branches of the Government of India, hosting the Rashtrapati  Bhavan, Sansad Bhavan, and the Supreme Court. New Delhi is a municipality within the NCT, administered by the NDMC, which covers mostly Lutyens'  Delhi and a few adjacent areas. The municipal area is part of a larger administrative district, the New Delhi district.  
 
  
 ## Unsplash photos

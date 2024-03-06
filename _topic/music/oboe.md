@@ -9,7 +9,7 @@ tags:
 ---
 # oboe
 
-The oboe  is a type of double reed woodwind instrument. Oboes are usually made of wood, but may also be made of synthetic materials, such as plastic,  resin, or hybrid composites. The most common oboe plays in C using the treble clef, but other members of the oboe family play in  different keys such as the English Horn which is in the key of F. All oboes in the oboe family read in treble clef regardless of range to allow oboists to read on  all oboe family instruments effectively.  
+The oboe  is a type of double-reed woodwind instrument. Oboes are usually made of wood, but may also be made of synthetic materials, such as plastic,  resin, or hybrid composites.  The most common type of oboe, the soprano oboe pitched in C, measures roughly 65 cm  long and has  metal keys, a conical bore and a flared bell. Sound is produced by blowing into the reed at a sufficient air pressure, causing it to vibrate with  the air column. 
 
  
 ## Unsplash photos

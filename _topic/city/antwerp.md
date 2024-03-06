@@ -10,7 +10,7 @@ tags:
 ---
 # Antwerp
 
-Antwerp  is the largest city in Belgium by area at 204.51 square kilometres  and the capital of  Antwerp Province in the Flemish Region. With a population of 530,504, it is the most populous municipality in Belgium, and with a  metropolitan population of around 1,200,000 people, it is the second-largest metropolitan region in  Belgium, after only Brussels.Antwerp is on the river Scheldt, linked to the North Sea by the  river's Westerschelde estuary. It is about 40 kilometres  north of Brussels, and about 15 kilometres  south of the Dutch border. The Port of Antwerp is one of the biggest in the world, ranking second in Europe and within the top  20 globally. The city is also known as the hub of the world's diamond trade. 
+Antwerp  is a city and a municipality in the Flemish Region of Belgium. It is the capital and largest city of Antwerp Province, and the third largest city in Belgium by  area at 204.51 km2  after Tournai and Couvin. With a population of 536,079, it is the most populous municipality in Belgium, and with a  metropolitan population of over 1,200,000 people, the country's second-largest metropolitan region  after Brussels.Flowing through Antwerp is the river Scheldt. Antwerp is linked to the North Sea by the river's Westerschelde estuary. It is about 40 km  north of Brussels, and about 15 km  south of the Dutch border. 
 
  
 ## Unsplash photos

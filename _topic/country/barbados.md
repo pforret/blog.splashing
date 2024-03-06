@@ -9,7 +9,7 @@ tags:
 ---
 # Barbados
 
-Barbados is an island country in the Lesser Antilles of the West Indies, in the Caribbean region of  the Americas, and the most easterly of the Caribbean Islands. It occupies an area of 432 km2  and has a population of about 287,000 . Its capital and largest city is Bridgetown.  Inhabited by Kalinago people since the 13th century, and prior to that by other Amerindians,  Spanish navigators took possession of Barbados in the late 15th century, claiming it for the Crown  of Castile. 
+Barbados  is an island country in the Lesser Antilles of the West Indies, in the Caribbean region  of North America, and is the most easterly of the Caribbean islands. It lies on the boundary of the South American and the Caribbean Plates. Its capital and largest city is Bridgetown.  Inhabited by Kalinago people since the 13th century, and prior to that by other Indigenous peoples,  Spanish navigators took possession of Barbados in the late 15th century, claiming it for the Crown  of Castile. 
 
  
 ## Unsplash photos

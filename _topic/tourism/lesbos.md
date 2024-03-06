@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Lesbos
 
-Lesbos or Lesvos  is a Greek island located in the northeastern Aegean Sea. It has an area of 1,633 km2, with approximately 400 kilometres  of coastline, making it the third  largest island in Greece and the eighth largest in the Mediterranean. It is separated from Asia Minor by the narrow Mytilini Strait. On the southeastern coast is the island's capital and largest city, Mytilene, whose name is also  used as a moniker for the whole island. Lesbos is a separate regional unit with the seat in Mytilene, which is also the capital of the  larger North Aegean region. 
+Lesbos or Lesvos  is a Greek island located in the northeastern Aegean Sea. It has an area of 1,633 km2, with approximately 400 kilometres  of coastline, making it the third  largest island in Greece and the eighth largest in the Mediterranean. It is separated from Asia Minor by the narrow Mytilini Strait. On the southeastern coast is the island's capital and largest city, Mytilene, whose name is also  used for the island as a whole. Lesbos is a separate regional unit with the seat in Mytilene, which is also the capital of the  larger North Aegean region. 
 
  
 ## Unsplash photos

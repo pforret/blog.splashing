@@ -9,7 +9,7 @@ tags:
 ---
 # Maldives
 
-Maldives, officially the Republic of Maldives, is an archipelagic state in South Asia, situated in  the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres  from the Asian continent's mainland. Maldives' chain of 26 atolls stretches across the equator from Ihavandhippolhu Atoll in the north  to Addu Atoll in the south.  Comprising a territory spanning roughly 90,000 square kilometres  including the sea, land area of  all the islands comprises 298 square kilometres, Maldives is one of the world's most geographically  dispersed sovereign states and the smallest Asian country as well as one of the smallest  Muslim-majority countries by land area and, with around 557,751 inhabitants, the 2nd least populous  country in Asia. 
+The Maldives, officially the Republic of Maldives, is a country and archipelagic state in South  Asia in the Indian Ocean. The Maldives is named after the main island and capital of Male. The word Maldives means the islands  of Male. The name may derive from the Sanskrit word maladvipa meaning garland of islands. Dhivehi Raajje in Dhivehi means Kingdom of the Dhivehi people. 
 
  
 ## Unsplash photos

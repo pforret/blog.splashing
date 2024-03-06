@@ -9,7 +9,7 @@ tags:
 ---
 # Tirana
 
-Tirana  is the capital and largest city of Albania. It is located in the centre of the country, enclosed by mountains and hills with Dajti rising to  the east and a slight valley to the northwest overlooking the Adriatic Sea in the distance. Due to its location at the Plain of Tirana and the close proximity to the Mediterranean Sea, the  city is particularly influenced by a Mediterranean seasonal climate. It is among the wettest and sunniest cities in Europe, with 2,544 hours of sun per year.Tirana was  founded as a city in 1614 by the Ottoman Albanian general Sylejman Pasha Bargjini and flourished by  then around the Old Mosque and the türbe. The area that today corresponds to the city's territory has been continuously inhabited since the  Iron Age. 
+Tirana  is the capital and largest city of Albania. It is located in the centre of the country, enclosed by mountains and hills with Dajti rising to  the east and a slight valley to the northwest overlooking the Adriatic Sea in the distance. It is among the wettest and sunniest cities in Europe, with 2,544 hours of sun per year.Tirana was  founded as a city in 1614 by the Ottoman Albanian general Sylejman Pasha Bargjini and flourished by  then around the Old Mosque and the türbe. The area that today corresponds to the city's territory has been continuously inhabited since the  Iron Age. It was inhabited by Illyrians, and was most likely the core of the Illyrian Kingdom of the  Taulantii, which in Classical Antiquity was centred in the hinterland of Epidamnus. 
 
  
 ## Unsplash photos

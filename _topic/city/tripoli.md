@@ -9,7 +9,7 @@ tags:
 ---
 # Tripoli
 
-Tripoli or Tripolis may refer to:    
+Tripoli or Tripolis  may refer to:    
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Riga
 
-Riga  is the capital and largest city of Latvia and is home to 605,802 inhabitants which is a third  of Latvia's population. The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km2  and lies 1–10 m  above sea level, on a flat and sandy  plain.Riga was founded in 1201 and is a former Hanseatic League member. Riga's historical centre is a UNESCO World Heritage Site, noted for its Art Nouveau/Jugendstil  architecture and 19th century wooden architecture. Riga was the European Capital of Culture in 2014, along with Umeå in Sweden. 
+Riga ( is the capital, primate, and the largest city of Latvia as well as the most populous city in  the Baltic States. Home to 609,489 inhabitants, the city accounts for a third of Latvia's total population. The population of Riga metropolitan area, which stretches beyond the city limits, is estimated at  860,142 . The city lies on the Gulf of Riga at the mouth of the Daugava river where it meets the Baltic Sea. Riga's territory covers 307.17 km2  and lies 1–10 m  above sea level on a flat and sandy plain.Riga  was founded in 1201 and is a former Hanseatic League member. 
 
  
 ## Unsplash photos

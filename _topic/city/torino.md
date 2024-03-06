@@ -5,6 +5,7 @@ image: /images/city/torino.1.jpg
 category: city
 tags:
 - torino
+- italy
 
 ---
 # Torino

@@ -10,7 +10,7 @@ tags:
 ---
 # Lyon
 
-Lyon, also spelled in English as Lyons, is the third-largest city and second-largest metropolitan  area of France. It is located at the confluence of the rivers Rhône and Saône, to the northwest of the French Alps,  391 km  southeast of Paris, 278 km  north of Marseille, 113 km  southwest of Geneva, 50 km   northeast of Saint-Étienne.  The City of Lyon proper had a population of 522,228 in 2020 within its small municipal territory of  48 km2, but together with its suburbs and exurbs the Lyon metropolitan area had a population of  2,293,180 that same year, the second most populated in France. Lyon and 58 suburban municipalities have formed since 2015 the Metropolis of Lyon, a directly  elected metropolitan authority now in charge of most urban issues, with a population of 1,416,545  in 2020. 
+Lyon, traditionally spelled in English as Lyons, is the third-largest city of France. It is located at the confluence of the rivers Rhône and Saône, to the northwest of the French Alps,  391 km  southeast of Paris, 278 km  north of Marseille, 113 km  southwest of Geneva, 58 km   northeast of Saint-Étienne.  The City of Lyon had a population of 522,000 in 2023 within its small municipal territory of 48  km2, but together with its suburbs and exurbs the Lyon metropolitan area had a population of  2,293,180 that same year, the second most populated in France. Lyon and 58 suburban municipalities have formed since 2015 the Metropolis of Lyon, a directly  elected metropolitan authority now in charge of most urban issues, with a population of 1,416,545  in 2020. 
 
  
 ## Unsplash photos

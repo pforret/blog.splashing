@@ -9,7 +9,7 @@ tags:
 ---
 # Liechtenstein
 
-Liechtenstein, officially the Principality of Liechtenstein, is a German-speaking microstate  located in the Alps between Austria and Switzerland. It is the sixth smallest nation worldwide.  Liechtenstein is a semi-constitutional monarchy headed by the prince of Liechtenstein.  
+Liechtenstein, officially the Principality of Liechtenstein, is a landlocked German-speaking  microstate located in the Alps between Austria and Switzerland. It is the sixth smallest country in the world. Liechtenstein is a semi-constitutional monarchy headed by the prince of Liechtenstein.  Liechtenstein is bordered by Switzerland to the west and south and Austria to the east and north. 
 
  
 ## Unsplash photos

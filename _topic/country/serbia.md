@@ -9,7 +9,7 @@ tags:
 ---
 # Serbia
 
-Serbia, officially the Republic of Serbia, is a landlocked country in Southeastern and Central  Europe, situated at the crossroads of the Pannonian Basin and the Balkans. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the  southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and  Montenegro to the southwest, and claims a border with Albania through the disputed territory of  Kosovo. Serbia without Kosovo has about 6.7 million inhabitants, about 8.4 million if Kosovo is included. Its capital Belgrade is also the largest city.  
+Serbia, officially the Republic of Serbia, is a landlocked country at the crossroads of Southeast  and Central Europe, located in the Balkans and the Pannonian Plain. It shares land borders with Hungary to the north, Romania to the northeast, Bulgaria to the  southeast, North Macedonia to the south, Croatia and Bosnia and Herzegovina to the west, and  Montenegro to the southwest. Serbia claims a border with Albania through the disputed territory of Kosovo. Serbia has about 6.6 million inhabitants, excluding Kosovo. Its capital Belgrade is also the largest city. 
 
  
 ## Unsplash photos

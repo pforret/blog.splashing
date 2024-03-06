@@ -9,7 +9,7 @@ tags:
 ---
 # Montreal
 
-Montreal  is the second-most populous city in Canada and most populous city in the Canadian  province of Quebec. Founded in 1642 as Ville-Marie, or City of Mary, it is named after Mount Royal, the triple-peaked  hill around which the early city of Ville-Marie is built. The city is centred on the Island of Montreal, which obtained its name from the same origin as the  city, and a few much smaller peripheral islands, the largest of which is Île Bizard. The city is 196 km  east of the national capital Ottawa, and 258 km  southwest of the provincial  capital, Quebec City.  
+Montreal  is the second most populous city in Canada, the tenth most populous city in North  America, and the most populous city in the province of Quebec. Founded in 1642 as Ville-Marie, or City of Mary, it is named after Mount Royal, the triple-peaked  hill around which the early city of Ville-Marie was built. The city is centred on the Island of Montreal, which obtained its name from the same origin as the  city, and a few much smaller peripheral islands, the largest of which is Île Bizard. The city is 196 km  east of the national capital, Ottawa, and 258 km  southwest of the provincial  capital, Quebec City.  
 
  
 ## Unsplash photos

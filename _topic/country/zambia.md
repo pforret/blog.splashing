@@ -9,7 +9,7 @@ tags:
 ---
 # Zambia
 
-Zambia (, officially the Republic of Zambia, is a landlocked country at the crossroads of Central,  Southern and East Africa, although it is typically referred to as being in Southern Africa at its  most central point. Its neighbours are the Democratic Republic of the Congo to the north, Tanzania to the northeast,  Malawi to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, Namibia to the  southwest, and Angola to the west. The capital city of Zambia is Lusaka, located in the south-central part of Zambia. The nation's population of around 19.5 million is concentrated mainly around Lusaka in the south  and the Copperbelt Province to the north, the core economic hubs of the country.  
+Zambia (, officially the Republic of Zambia, is a landlocked country at the crossroads of Central,  Southern and East Africa. It is typically referred to being in South-Central Africa or Southern Africa. It is bordered to the north by Democratic Republic of the Congo, Tanzania to the north-east, Malawi  to the east, Mozambique to the southeast, Zimbabwe and Botswana to the south, Namibia to the  southwest, and Angola to the west. The capital city of Zambia is Lusaka, located in the south-central part of Zambia. The population is concentrated mainly around Lusaka in the south and the Copperbelt Province to the  north, the core economic hubs of the country. 
 
  
 ## Unsplash photos

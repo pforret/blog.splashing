@@ -9,7 +9,7 @@ tags:
 ---
 # Cuba
 
-Cuba, officially the Republic of Cuba, is an island country comprising the island of Cuba, as well  as Isla de la Juventud and several minor archipelagos. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet. Cuba is located east of the Yucatán Peninsula, south of both the American state of Florida and the  Bahamas, west of Hispaniola, and north of both Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The official area of the Republic of Cuba is 109,884 km2   but a total of 350,730 km²  including  the exclusive economic zone. 
+Cuba, officially the Republic of Cuba, is an island country, comprising the island of Cuba, Isla de  la Juventud, archipelagos, 4,195 islands and cays surrounding the main island. Cuba is located where the northern Caribbean Sea, Gulf of Mexico, and Atlantic Ocean meet. Cuba is located east of the Yucatán Peninsula, south of both the American state of Florida and the  Bahamas, west of Hispaniola, and north of Jamaica and the Cayman Islands. Havana is the largest city and capital; other major cities include Santiago de Cuba and Camagüey. The official area of the Republic of Cuba is 109,884 km2   but a total of 350,730 km2  including  the exclusive economic zone. 
 
  
 ## Unsplash photos

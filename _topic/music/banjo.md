@@ -9,7 +9,7 @@ tags:
 ---
 # banjo
 
-The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a  resonator. The membrane is typically circular, and usually made of plastic, or occasionally animal skin. Early forms of the instrument were fashioned by African Americans in the United States. The banjo is frequently associated with folk, bluegrass and country music, and has also been used  in some rock, pop and hip-hop. Several rock bands, such as the Eagles, Led Zeppelin, and the Grateful Dead, have used the  five-string banjo in some of their songs. 
+The banjo is a stringed instrument with a thin membrane stretched over a frame or cavity to form a  resonator. The membrane is typically circular, in modern forms usually made of plastic, originally of animal  skin. Early forms of the instrument were fashioned by African Americans and had African antecedents. In the 19th century, interest in the instrument was spread across the United States and United  Kingdom by traveling shows of the 19th century minstrel show fad, followed by mass-production and  mail-order sales, including instruction method books. The inexpensive or home-made banjo remained part of rural folk culture, but 5-string and 4-string  banjos also became popular for home parlor music entertainment, college music clubs, and early 20th  century jazz bands. 
 
  
 ## Unsplash photos

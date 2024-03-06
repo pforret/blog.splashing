@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Machu Picchu
 
-Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a  2,430-meter  mountain range. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which  is 80 kilometers  northwest of Cusco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a  tropical mountain climate.For most speakers of English or Spanish, the first 'c' in Picchu is  silent. In English, the name is pronounced  or, in Spanish as [ˈmatʃu ˈpitʃu] or [ˈmatʃu ˈpiktʃu], and in  Quechua  as [ˈmatʃʊ ˈpɪktʃʊ].  
+Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a  2,430-meter  mountain ridge.  Often referred to as the Lost City of the Incas, it is the most familiar icon of the Inca Empire. It is located in the Machupicchu District within Urubamba Province above the Sacred Valley, which  is 80 kilometers  northwest of Cusco. The Urubamba River flows past it, cutting through the Cordillera and creating a canyon with a  tropical mountain climate. In reference to the site's name, for most English or Spanish speakers, the first 'c' in Picchu is  silent. 
 
  
 ## Unsplash photos

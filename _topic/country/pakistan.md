@@ -9,7 +9,7 @@ tags:
 ---
 # Pakistan
 
-Pakistan, officially the Islamic Republic of Pakistan (اِسلامی  جمہوریہ پاکِستان, is a country in South Asia. It is the world's fifth-most populous country, with a population of almost 243 million people, and  has the world's second-largest Muslim population just behind Indonesia. Pakistan is the 33rd-largest country in the world by area and 2nd largest in South Asia, spanning  881,913 square kilometres . 
+Pakistan, officially the Islamic Republic of Pakistan, is a country in South Asia. It is the fifth-most populous country, with a population of over 241.5 million, having the second  largest Muslim population as of 2023. Islamabad is the nation's capital, while Karachi is its largest city and financial centre. Pakistan is the 33rd-largest country by area, being the second largest in South Asia. Bounded by the Arabian Sea on the south, the Gulf of Oman on the southwest, and the Sir Creek on  the southeast, it shares land borders with India to the east; Afghanistan to the west; Iran to the  southwest; and China to the northeast. 
 
  
 ## Unsplash photos

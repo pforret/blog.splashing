@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: golf
 
-Golf is a club-and-ball sport in which players use various clubs to hit balls into a series of  holes on a course in as few strokes as possible.  Golf, unlike most ball games, cannot and does not use a standardized playing area, and coping with  the varied terrains encountered on different courses is a key part of the game. Courses typically have either 18 or 9 holes, regions of terrain that each contain a cup, the hole  that receives the ball. Each hole on a course contains a teeing ground to start from, and a putting green containing the  cup. 
+Golf is a club-and-ball sport in which players use various clubs to hit a ball into a series of  holes on a course in as few strokes as possible.  Golf, unlike most ball games, cannot and does not use a standardized playing area, and coping with  the varied terrains encountered on different courses is a key part of the game. Courses typically have either 9 or 18 holes, regions of terrain that each contain a cup, the hole  that receives the ball. Each hole on a course contains a teeing ground to start from, and a putting green containing the  cup. 
 
  
 ## Unsplash photos

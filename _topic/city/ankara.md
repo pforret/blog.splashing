@@ -10,7 +10,7 @@ tags:
 ---
 # Ankara
 
-Ankara, historically known as Ancyra and Angora, is the capital of Turkey. Located in the central part of Anatolia, the city has a population of 5.1 million in its urban  center and over 5.7 million in Ankara Province, making it Turkey's second-largest city after  Istanbul.  Serving as the capital of the ancient Celtic state of Galatia, and later of the Roman province with  the same name, the city is very old, with various Hattian, Hittite, Lydian, Phrygian, Galatian,  Greek, Persian, Roman, Byzantine, and Ottoman archeological sites. The Ottomans made the city the capital first of the Anatolia Eyalet  and then the Angora Vilayet . 
+Ankara, historically known as Ancyra and Angora, is the capital of Turkey. Located in the central part of Anatolia, the city has a population of 5.1 million in its urban  center and 5.8 million in Ankara Province, making it Turkey's second-largest city after Istanbul,  but first by the urban area .  Serving as the capital of the ancient Celtic state of Galatia, and later of the Roman province with  the same name, the city is very old, with various Hattian, Hittite, Lydian, Phrygian, Galatian,  Greek, Persian, Roman, Byzantine, and Ottoman archeological sites. The Ottomans made the city the capital first of the Anatolia Eyalet  and then the Angora Eyalet   and the Angora Vilayet . 
 
  
 ## Unsplash photos

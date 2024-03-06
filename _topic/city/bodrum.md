@@ -10,7 +10,7 @@ tags:
 ---
 # Bodrum
 
-Bodrum  is a port city in Muğla Province, southwestern Turkey, at the entrance to the Gulf of  Gökova. Its population was 35,795 at the 2012 census, with a total of 136,317 inhabitants residing within  the district's borders. Known in ancient times as Halicarnassus, the city was once home to the Mausoleum at Halicarnassus,  also known as the tomb of Mausolus, one of the Seven Wonders of the Ancient World.  The city was founded by Dorian Greeks. 
+Bodrum  is a municipality and district of Muğla Province, Turkey. Its area is 650 km2, and its population is 192,964 . It is a port city at the entrance to the Gulf of Gökova. Known in ancient times as Halicarnassus, the city was once home to the Mausoleum at Halicarnassus,  also known as the tomb of Mausolus, one of the Seven Wonders of the Ancient World.  
 
  
 ## Unsplash photos

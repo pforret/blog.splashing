@@ -10,7 +10,7 @@ tags:
 ---
 # Sofia
 
-Sofia  is the capital and largest city of Bulgaria. It is situated in the Sofia Valley at the foot of the Vitosha mountain in the western parts of the  country. The city is built west of the Iskar river, and has many mineral springs, such as the Sofia Central  Mineral Baths. It has a humid continental climate. Being in the centre of the Balkans, it is midway between the Black Sea and the Adriatic Sea, and  closest to the Aegean Sea.Known as Serdica in Antiquity and Sredets in the Middle Ages, Sofia has  been an area of human habitation since at least 7000 BC. 
+Sofia  is the capital and largest city of Bulgaria. It is situated in the Sofia Valley at the foot of the Vitosha mountain, in the western part of the  country. The city is built west of the Iskar river and has many mineral springs, such as the Sofia Central  Mineral Baths. It has a humid continental climate. Being in the centre of the Balkans, it is midway between the Black Sea and the Adriatic Sea and  closest to the Aegean Sea.Known as Serdica in antiquity and Sredets in the Middle Ages, Sofia has  been an area of human habitation since at least 7000 BC. 
 
  
 ## Unsplash photos

@@ -11,7 +11,7 @@ tags:
 ---
 # Bulgaria
 
-Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. It is situated on the eastern flank of the Balkans, and is bordered by Romania to the north, Serbia  and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. Bulgaria covers a territory of 110,994 square kilometres, and is the sixteenth-largest country in  Europe. Sofia is the nation's capital and largest city; other major cities are Plovdiv, Varna and Burgas.  
+Bulgaria, officially the Republic of Bulgaria, is a country in Southeast Europe. Located west of the Black Sea and south of the Danube river, Bulgaria is bordered by Greece and  Turkey to the south, Serbia and North Macedonia to the west, and Romania to the north. It covers a territory of 110,994 square kilometres  and is the 16th largest country in Europe. Sofia is the nation's capital and largest city; other major cities include Burgas, Plovdiv, and  Varna.  
 
  
 ## Unsplash photos

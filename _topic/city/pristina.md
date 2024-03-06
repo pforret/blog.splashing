@@ -9,7 +9,7 @@ tags:
 ---
 # Pristina
 
-Pristina  is the capital and largest city of Kosovo. The city's municipal boundaries in Pristina District form the largest urban center in Kosovo. After Tirana, Pristina has the second largest population of ethnic Albanians and speakers of the  Albanian language.  Inhabited by humans since prehistoric times, the area of Pristina was home to several Illyrian   peoples. 
+Pristina  is the capital and largest city of Kosovo. It is the administrative center of the eponymous municipality and district.In antiquity, the area  of Pristina was part of the Dardanian Kingdom. The heritage of the classical era is represented by the settlement of Ulpiana. After the Roman Empire was divided into a western and an eastern half, the area remained within the  Byzantine Empire between the 5th and 9th centuries. In the middle of the 9th century, it was ceded to the First Bulgarian Empire, before falling again  under Byzantine occupation in the early 11th century and then in the late 11th century to the  Second Bulgarian Empire. 
 
  
 ## Unsplash photos

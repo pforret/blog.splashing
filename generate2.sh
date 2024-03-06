@@ -76,6 +76,7 @@ main() {
 do_loop() {
   require_binary splashmark "basher install pforret/splashmark"
 
+  # shellcheck disable=SC2154
   local input_file="$template_dir/$action.csv"
   [[ ! -f "$input_file" ]] && die " Cannot find input file $input_file"
   debug "Input file: [$input_file]"
@@ -89,13 +90,15 @@ do_loop() {
     use_wikipedia=1
   fi
 
-  local name
+  # shellcheck disable=SC2154
   local output_dir="$out_dir/$action"
   [[ ! -d "$output_dir" ]] && mkdir -p "$output_dir"
   debug "Output dir: [$output_dir]"
+  # shellcheck disable=SC2154
   local image_dir="$img_dir/$action"
   [[ ! -d "$image_dir" ]] && mkdir -p "$image_dir"
   debug "Image dir: [$image_dir]"
+  # shellcheck disable=SC2154
   if (( clean )) ; then
     debug "Cleanup [[$output_dir]] first"
     rm "$output_dir"/*.md
@@ -112,16 +115,11 @@ do_loop() {
     }
     ' > "$output_index"
   fi
-  local slug
-  local tags
-  local title
-  local taglist
-  local image1
-  local image2
-  local image3
+  local slug tags title name
+  local image1 image2 image3
+  local wikipedia taglist
 
-    cat "$input_file" \
-    | while IFS="|" read -r name tags; do
+    while IFS="|" read -r name tags; do
       progress "----- Generate '$name' ..."
       slug="$(lower_case "${name//[^a-zA-Z]/}")"    # Los Angeles => losangeles
       local search="${name// /-}"                   # Los Angeles = Los-Angeles
@@ -178,7 +176,7 @@ do_loop() {
         echo " "
         } >> "$output_md"
       fi
-    done
+    done < "$input_file"
 
 
 
@@ -191,7 +189,7 @@ do_splashmark(){
   local filename="$4"
   local nb="${5:-1}"
   if [[ ! -f $"$filename" ]] ; then
-    splashmark -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r FFFB unsplash "$keyword" "$filename"
+    splashmark -w 800 -c 800 -i "$title" -z 120 -e dark,grain -3 " " -D "$nb" -r "FFFB" unsplash "$keyword" "$filename"
   else
     echo "$filename"
   fi

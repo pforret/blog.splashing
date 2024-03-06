@@ -10,7 +10,7 @@ tags:
 ---
 # Jerusalem
 
-Jerusalem  is a city in Western Asia. Situated on a plateau in the Judaean Mountains between the Mediterranean and the Dead Sea, it is  one of the oldest cities in the world and is considered to be a holy city for the three major  Abrahamic religions: Judaism, Christianity, and Islam. Both Israelis and Palestinians claim Jerusalem as their capital, as Israel maintains its primary  governmental institutions there and the State of Palestine ultimately foresees it as its seat of  power. Because of this dispute, neither claim is widely recognized internationally.Throughout its long  history, Jerusalem has been destroyed at least twice, besieged 23 times, captured and recaptured 44  times, and attacked 52 times. The part of Jerusalem called the City of David shows first signs of settlement in the 4th  millennium BCE, in the shape of encampments of nomadic shepherds. 
+Jerusalem  is an ancient city in West Asia, on a plateau in the Judaean Mountains between the  Mediterranean and the Dead Sea. It is one of the oldest cities in the world, and is considered holy to the three major Abrahamic  religions—Judaism, Christianity, and Islam. Both the State of Israel and Palestine claim Jerusalem as their capital; Israel maintains its  primary governmental institutions there, and Palestine ultimately foresees it as its seat of power. Neither claim, however, is widely recognized internationally.Throughout its long history, Jerusalem  has been destroyed at least twice, besieged 23 times, captured and recaptured 44 times, and  attacked 52 times. The part of Jerusalem called the City of David shows first signs of settlement in the 4th  millennium BCE, in the shape of encampments of nomadic shepherds. 
 
  
 ## Unsplash photos

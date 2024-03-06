@@ -9,7 +9,7 @@ tags:
 ---
 # Tobago
 
-Tobago ( is an island and ward within the Republic of Trinidad and Tobago. It is located 35 kilometres  northeast of the larger island of Trinidad and about 160 kilometres   off the northeastern coast of Venezuela. It also lies to the southeast of Grenada. The official bird of Tobago is the cocrico.  
+Tobago ( is an island and ward within the Republic of Trinidad and Tobago. It is located 35 kilometres  northeast of the larger island of Trinidad and about 160 kilometres   off the northeastern coast of Venezuela. It lies to the southeast of Grenada.   
 
  
 ## Unsplash photos

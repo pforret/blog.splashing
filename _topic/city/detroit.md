@@ -11,7 +11,7 @@ tags:
 ---
 # Detroit
 
-Detroit  is the largest city in the U.S. state of Michigan. It is also the largest U.S. city on the United States–Canada border, and the seat of government of Wayne County. The City of Detroit had a population of 639,111 at the 2020 census, making it the 27th-most  populous city in the United States. 
+Detroit  is the most populous city in the U.S. state of Michigan. It is the largest U.S. city on the United States–Canada border, and the seat of government of Wayne County. Detroit had a population of 639,111 at the 2020 census, making it the 29th-most populous city in  the United States. 
 
  
 ## Unsplash photos

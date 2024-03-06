@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: ice hockey
 
-Ice hockey  is a team sport played on ice skates, usually on an ice skating rink with lines and  markings specific to the sport. It belongs to a family of sports called hockey. In ice hockey, two opposing teams use ice hockey sticks to control, advance and shoot a closed,  vulcanized, rubber disc called a puck into the other team's goal. Each goal is worth one point. The team which scores the most goals is declared the winner. 
+Ice hockey  is a team sport played on ice skates, usually on an ice skating rink with lines and  markings specific to the sport. It belongs to a family of sports called hockey. In ice hockey, two opposing teams use ice hockey sticks to control, advance, and shoot a closed,  vulcanized, rubber disc called a puck into the other team's goal. Each goal is worth one point. The team which scores the most goals is declared the winner. 
 
  
 ## Unsplash photos

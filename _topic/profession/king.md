@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: king
 
-King is the title given to a male monarch in a variety of contexts. The female equivalent is queen, which title is also given to the consort of a king, although in  some cases, the title of King is given to females to show that the woman in question rules in her  own right, such as in the case of Jadwiga of Poland, or Irene of Athens.    
+King is the title given to a male monarch in a variety of contexts. A king is an absolute monarch if he holds the powers of government without control, or the entire  sovereignty over a nation; he is a limited monarch if his power is restrained by fixed laws; and he  is an absolute, when he holds the whole legislative, judicial, and executive power, or when the  legislative or judicial powers, or both, are vested in other people by the king. Kings are hereditary sovereigns when they hold the powers of government by right of birth or  inheritance, and elective when raised to the throne by choice.   
 
  
 ## Unsplash photos

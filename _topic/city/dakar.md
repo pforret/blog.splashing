@@ -9,7 +9,7 @@ tags:
 ---
 # Dakar
 
-Dakar , is the capital and largest city of Senegal. The city of Dakar proper has a population of 1,030,594, whereas the population of the Dakar  metropolitan area is estimated at 3.94 million in 2021.  The area around Dakar was colonized in the 15th century. The Portuguese established a presence on the island of Gorée off the coast of Cap-Vert and used it  as a base for the Atlantic slave trade. 
+Dakar  is the capital and largest city of Senegal. The department of Dakar has a population of 1,182,417, whereas the population of the Dakar  metropolitan area is estimated at 3.9 million in 2023.  The area around Dakar was colonized by the Portuguese in the early 15th century. The Portuguese established a presence on the island of Gorée off the coast of Cap-Vert and used it  as a base for the Atlantic slave trade. 
 
  
 ## Unsplash photos

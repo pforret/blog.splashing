@@ -11,7 +11,7 @@ tags:
 ---
 # Miami
 
-Miami, officially the City of Miami, known as the 305, The Magic City, and Gateway to the Americas,  is a major city, a coastal metropolis and the county seat of Miami-Dade County in South Florida,  United States. With a population of 442,241 at the 2020 census, it is the second-most populous city in Florida and  the eleventh-most populous city in the Southeastern United States. The Miami metropolitan area is the ninth largest in the U.S. with a population of 6.138 million in 2020. The city has the third-largest skyline in the U.S. 
+Miami, officially the City of Miami, is a coastal metropolis in the U.S. state of Florida and the seat of Miami-Dade County in South Florida. With a population of 442,241 as of the 2020 census, it is the second-most populous city in Florida  after Jacksonville. It is the core of the much larger Miami metropolitan area, which, with a population of 6.14  million, is the second-largest metropolitan area in the Southeast after Atlanta, and the  ninth-largest in the United States. Miami has the third-largest skyline in the U.S. 
 
  
 ## Unsplash photos

@@ -11,7 +11,7 @@ tags:
 ---
 # Las Vegas
 
-Las Vegas, often known simply as Vegas, is the 25th-most populous city in the United States, the  most populous city in the state of Nevada, and the county seat of Clark County. The city anchors the Las Vegas Valley metropolitan area and is the largest city within the greater  Mojave Desert. Las Vegas is an internationally renowned major resort city, known primarily for its gambling,  shopping, fine dining, entertainment, and nightlife. The Las Vegas Valley as a whole serves as the leading financial, commercial, and cultural center  for Nevada.  
+Las Vegas, often known simply as Vegas, is the most populous city in the U.S. state of Nevada and the county seat of Clark County. The Las Vegas Valley metropolitan area is the largest within the greater Mojave Desert, and  second-largest in the Southwestern United States. Las Vegas is an internationally renowned major resort city, known primarily for its gambling,  shopping, fine dining, entertainment, and nightlife, with most venues centered on downtown Las  Vegas and more to the Las Vegas Strip just outside city limits. The Las Vegas Valley as a whole serves as the leading financial, commercial, and cultural center  for Nevada. 
 
  
 ## Unsplash photos

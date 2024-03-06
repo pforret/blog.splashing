@@ -9,7 +9,7 @@ tags:
 ---
 # Lesotho
 
-Lesotho, officially the Kingdom of Lesotho, is a landlocked state within South Africa. It is situated in the Maloti Mountains and contains the highest mountains in Southern Africa. It has an area of over 30,000 km2  and has a population of about 2 million.  It was previously the British Crown colony of Basutoland, which declared independence from the  United Kingdom on 4 October 1966. 
+Lesotho, formally the Kingdom of Lesotho, is a landlocked country in Southern Africa. As an enclave of South Africa, with which it shares a 1,106 km border, it is the only sovereign  enclave in the world outside of the Italian Peninsula. It is situated in the Maloti Mountains and contains the highest peak in Southern Africa. It has an area of over 30,000 km2  and has a population of about 2 million. Its capital and largest city is Maseru. 
 
  
 ## Unsplash photos

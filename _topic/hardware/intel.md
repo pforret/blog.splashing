@@ -9,7 +9,7 @@ tags:
 ---
 # Intel
 
-Intel Corporation is an American multinational corporation and technology company headquartered in  Santa Clara, California. It is the world's largest semiconductor chip manufacturer by revenue, and is one of the developers  of the x86 series of instruction sets, the instruction sets found in most personal computers . Incorporated in Delaware, Intel ranked No. 45 in the 2020 Fortune 500 list of the largest United States corporations by total revenue for  nearly a decade, from 2007 to 2016 fiscal years.Intel supplies microprocessors for computer system  manufacturers such as Acer, Lenovo, HP, and Dell. Intel also manufactures motherboard chipsets, network interface controllers and integrated  circuits, flash memory, graphics chips, embedded processors and other devices related to  communications and computing. 
+Intel Corporation is an American multinational corporation and technology company headquartered in  Santa Clara, California, and incorporated in Delaware. Intel is one of the world's largest semiconductor chip manufacturers by revenue and ranked in the  Fortune 500 list of the largest United States corporations by revenue for nearly a decade, from  2007 to 2016 fiscal years, until it was removed from the ranking in 2018. In 2020, it was reinstated and ranked 45th, being the 7th-largest technology company in the ranking.  Intel supplies microprocessors for most manufacturers of computer systems, and is one of the  developers of the x86 series of instruction sets found in most personal computers . 
 
  
 ## Unsplash photos

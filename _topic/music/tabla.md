@@ -9,7 +9,7 @@ tags:
 ---
 # tabla
 
-A tabla is a pair of twin hand drums from the Indian subcontinent, that are somewhat similar in  shape to the bongos. Since the 18th century, it has been the principal percussion instrument in Hindustani classical  music, where it may be played solo, as accompaniment with other instruments and vocals, and as a  part of larger ensembles. It is frequently played in popular and folk music performances in India, Bangladesh, Afghanistan,  Pakistan, Nepal and Sri Lanka. The tabla is an essential instrument in the bhakti devotional traditions of Hinduism and Sikhism,  such as during bhajan and kirtan singing. It is one of the main qawali instrument used by Sufi musicians. 
+A tabla is a pair of hand drums from the Indian subcontinent. Since the 18th century, it has been the principal percussion instrument in Hindustani classical  music, where it may be played solo, as an accompaniment with other instruments and vocals, and as a  part of larger ensembles. It is frequently played in popular and folk music performances in India, Bangladesh, Afghanistan,  Pakistan, Nepal and Sri Lanka. The tabla is an essential instrument in the bhakti devotional traditions of Hinduism and Sikhism,  such as during bhajan and kirtan singing. It is one of the main qawwali instruments used by Sufi musicians. 
 
  
 ## Unsplash photos

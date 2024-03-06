@@ -9,7 +9,7 @@ tags:
 ---
 # Tuvalu
 
-Tuvalu  is an island country and microstate in the Polynesian subregion of Oceania in the Pacific  Ocean. Its islands are situated about midway between Hawaii and Australia. They lie east-northeast of the Santa Cruz Islands, northeast of Vanuatu, southeast of Nauru, south  of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna, and north of Fiji. Tuvalu is composed of three reef islands and six atolls. They are spread out between the latitude of 5° and 10° south and between the longitude of 176° and  180°. 
+Tuvalu, formerly known as the Ellice Islands, is an island country in the Polynesian subregion of  Oceania in the Pacific Ocean, about midway between Hawaii and Australia. It lies east-northeast of the Santa Cruz Islands, northeast of Vanuatu, southeast of Nauru, south  of Kiribati, west of Tokelau, northwest of Samoa and Wallis and Futuna, and north of Fiji.    Tuvalu is composed of three reef islands and six atolls spread out between the latitude of 5° and  10° south and between the longitude of 176° and 180°. 
 
  
 ## Unsplash photos

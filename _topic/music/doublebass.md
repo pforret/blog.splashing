@@ -9,7 +9,7 @@ tags:
 ---
 # double bass
 
-The double bass (, also known simply as the bass (, is the largest and lowest-pitched bowed  string  instrument in the modern symphony orchestra . Similar in structure to the cello, it has four, although occasionally five, strings.  The bass is a standard member of the orchestra's string section, along with violins, viola, and  cello,  as well as the concert band, and is featured in concertos, solo, and chamber music in  Western classical music. The bass is used in a range of other genres, such as jazz, 1950s-style blues, rock and roll,  rockabilly, psychobilly, traditional country music, bluegrass, tango and folk music. 
+The double bass (, also known as the upright bass, the acoustic bass, or simply the bass (, is the  largest and lowest-pitched chordophone, in the modern symphony orchestra . Similar in structure to the cello, it has four or five strings.  The bass is a standard member of the orchestra's string section, along with violins, violas, and  cellos, as well as the concert band, and is featured in concertos, solo, and chamber music in  Western classical music. The bass is used in a range of other genres, such as jazz, blues, rock and roll, rockabilly,  country music, bluegrass, tango, folk music and certain types of film and video game soundtracks. 
 
  
 ## Unsplash photos

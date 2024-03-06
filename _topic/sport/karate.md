@@ -10,7 +10,7 @@ tags:
 ---
 # Sport: karate
 
-Karate   is a martial art developed in the Ryukyu Kingdom. It developed from the indigenous Ryukyuan martial arts  under the influence of Chinese martial  arts, particularly Fujian White Crane. Karate is now predominantly a striking art using punching, kicking, knee strikes, elbow strikes and  open-hand techniques such as knife-hands, spear-hands and palm-heel strikes. Historically, and in some modern styles, grappling, throws, joint locks, restraints and vital-point  strikes are also taught. A karate practitioner is called a karateka . 
+Karate , also karate-do, is a martial art developed in the Ryukyu Kingdom. It developed from the indigenous Ryukyuan martial arts  under the influence of Chinese martial arts. While modern karate is primarily a striking art that uses punches and kicks, traditional karate  also employs throwing and joint locking techniques. A karate practitioner is called a karate-ka .  
 
  
 ## Unsplash photos

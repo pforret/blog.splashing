@@ -9,7 +9,7 @@ tags:
 ---
 # Kabul
 
-Kabul  is the capital and largest city of Afghanistan. Located in the eastern half of the country, it is also a municipality, forming part of the Kabul  Province; it is administratively divided into 22 municipal districts. According to late 2022 estimates, the population of Kabul was 13.5 million people. In contemporary times, the city has served as Afghanistan's political, cultural, and economical  centre, and rapid urbanisation has made Kabul the 75th-largest city in the world and the country's  primate city.  
+Kabul is the capital and largest city of Afghanistan. Located in the eastern half of the country, it is also a municipality, forming part of the Kabul  Province; it is administratively divided into 22 municipal districts. According to 2023 estimates, the population of Kabul was 4.95 million people. In contemporary times, the city has served as Afghanistan's political, cultural, and economical  center, and rapid urbanisation has made Kabul the 75th-largest city in the world and the country's  primate city.  
 
  
 ## Unsplash photos

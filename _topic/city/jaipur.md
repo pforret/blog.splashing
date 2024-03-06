@@ -9,7 +9,7 @@ tags:
 ---
 # Jaipur
 
-Jaipur, formerly Jeypore, is the capital and largest city of the Indian state of Rajasthan. As of 2022, the city had a population of 4.5 million, making it the tenth most populous city in the  country. Jaipur is also known as the Pink City, due to the dominant colour scheme of its buildings. It is also known as the Paris of India, and C. V. 
+Jaipur, formerly known as Jeypore, is the capital and the largest city of the Indian state of  Rajasthan. As of 2011, the city has a population of 3.1 million, making it the tenth most populous city in the  country. Located 268 km  from the national capital New Delhi, Jaipur is also known as the Pink City due to  the dominant color scheme of its buildings in old city.Jaipur was founded in 1727 by Sawai Jai  Singh, the Kachhwaha Rajput ruler of Amer, after whom the city is named. It is one of the earliest planned cities of modern India, designed by Vidyadhar Bhattacharya. During the British colonial period, the city served as the capital of Jaipur State. 
 
  
 ## Unsplash photos

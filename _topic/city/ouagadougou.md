@@ -9,7 +9,7 @@ tags:
 ---
 # Ouagadougou
 
-Ouagadougou  is the capital and largest city of Burkina Faso and the administrative,  communications, cultural, and economic centre of the nation. It is also the country's largest city, with a population of 2,415,266 in 2019. The city's name is often shortened to Ouaga. The inhabitants are called ouagalais. The spelling of the name Ouagadougou is derived from the French orthography common in former French  African colonies. 
+Ouagadougou or Wagadugu  is the capital of Burkina Faso, and the administrative, communications,  cultural and economic centre of the nation. It is also the country's largest city, with a population of 2,415,266 in 2019. The city's name is often shortened to Ouaga. The inhabitants are called ouagalais. The spelling of the name Ouagadougou is derived from the French orthography common in former French  African colonies. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Kyrgyzstan
 
-Kyrgyzstan, or the Kyrgyz Republic, is a landlocked country in Central Asia. Kyrgyzstan is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the south,  and the People's Republic of China to the east. Its capital and largest city is Bishkek.Ethnic Kyrgyz make up the majority of the country's seven  million people, followed by significant minorities of Uzbeks and Russians. The Kyrgyz language is closely related to other Turkic languages.  
+Kyrgyzstan, officially the Kyrgyz Republic, is a landlocked country in Central Asia, lying in the  Tian Shan and Pamir mountain ranges. Bishkek is the capital and largest city of the country. Kyrgyzstan is bordered by Kazakhstan to the north, Uzbekistan to the west, Tajikistan to the south,  and China to the east and southeast. Ethnic Kyrgyz make up the majority of the country's 7 million people, followed by significant  minorities of Uzbeks and Russians.Kyrgyzstan's history spans a variety of cultures and empires. Although geographically isolated by its highly mountainous terrain, Kyrgyzstan has been at the  crossroads of several great civilizations as part of the Silk Road along with other commercial  routes. 
 
  
 ## Unsplash photos

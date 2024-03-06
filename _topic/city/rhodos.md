@@ -5,7 +5,7 @@ image: /images/city/rhodos.1.jpg
 category: city
 tags:
 - rhodos
-- greec
+- greece
 
 ---
 # Rhodos

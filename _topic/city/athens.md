@@ -10,7 +10,7 @@ tags:
 ---
 # Athens
 
-Athens  is a coastal city in the Mediterranean and is both the capital and largest city of Greece. With a population close to four million, it is also the seventh largest city in the European Union. Athens dominates and is the capital of the Attica region and is one of the world's oldest cities,  with its recorded history spanning over 3,400 years and its earliest human presence beginning  somewhere between the 11th and 7th millennia BC.Classical Athens was a powerful city-state. It was a centre for the arts, learning and philosophy, and the home of Plato's Academy and  Aristotle's Lyceum. It is widely referred to as the cradle of Western civilization and the birthplace of democracy,  largely because of its cultural and political influence on the European continent—particularly  Ancient Rome. 
+Athens  is a major coastal urban area in the Mediterranean, and it is both the capital and the  largest city of Greece. Athens is also the capital of the Attica region and is the southernmost capital on the European  mainland. With its urban area's population numbering over three million, it is also the eighth largest urban  area in the European Union. The Municipality of Athens, which constitutes a small administrative unit of the entire urban area,  had a population of 643,452  within its official limits, and a land area of 38.96 km2 .Athens is  one of the world's oldest cities, with its recorded history spanning over 3,400 years, and its  earliest human presence beginning somewhere between the 11th and 7th millennia BC. According to Greek mythology the city was named after Athena, the ancient Greek goddess of wisdom,  but modern scholars generally agree that goddess took her name after the city. 
 
  
 ## Unsplash photos

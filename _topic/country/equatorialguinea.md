@@ -9,7 +9,7 @@ tags:
 ---
 # Equatorial Guinea
 
-Equatorial Guinea, officially the Republic of Equatorial Guinea, is a country on the west coast of  Central Africa, with an area of 28,000 square kilometres . Formerly the colony of Spanish Guinea, its post-independence name evokes its location near both the  Equator and the Gulf of Guinea. As of 2021, the country had a population of 1,468,777.Equatorial Guinea consists of two parts, an  insular and a mainland region. The insular region consists of the islands of Bioko  in the Gulf of Guinea and Annobón, a small  volcanic island which is the only part of the country south of the equator. Bioko Island is the northernmost part of Equatorial Guinea and is the site of the country's  capital, Malabo. 
+Equatorial Guinea, officially the Republic of Equatorial Guinea, is a country on the west coast of  Central Africa, with an area of 28,000 square kilometres . Formerly the colony of Spanish Guinea, its post-independence name refers to its location near both  the Equator and in the African region of Guinea. As of 2021, the country had a population of 1,468,777, over 85% of whom are members of the Fang  people, the country's dominant ethnic group. The Bubi people, indigenous to Bioko, are the second largest group at approximately 6.5% of the  population.  
 
  
 ## Unsplash photos

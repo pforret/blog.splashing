@@ -9,7 +9,7 @@ tags:
 ---
 # Moldova
 
-Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe. It is bordered by Romania to the west and Ukraine to the north, east, and south. The unrecognised state of Transnistria lies across the Dniester river on the country's eastern  border with Ukraine. Moldova's capital and largest city is Chișinău.  
+Moldova, officially the Republic of Moldova, is a landlocked country in Eastern Europe, on the  northeastern corner of the Balkans. The country spans a total of 33,483 km2  and has a population of approximately 2.5 million as of  January 2023. Moldova is bordered by Romania to the west and Ukraine to the north, east, and south. The unrecognised breakaway state of Transnistria lies across the Dniester river on the country's  eastern border with Ukraine. Moldova is a unitary parliamentary representative democratic republic with its capital in Chișinău,  the country's largest city and main cultural and commercial centre. 
 
  
 ## Unsplash photos

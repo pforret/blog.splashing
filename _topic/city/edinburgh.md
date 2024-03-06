@@ -11,7 +11,7 @@ tags:
 ---
 # Edinburgh
 
-Edinburgh  is the capital city of Scotland and one of its 32 council areas. The city was historically part of the county of Midlothian, but was administered separately from  the surrounding county from 1482 onwards. It is located in Lothian on the southern shore of the Firth of Forth. Edinburgh is Scotland's second-most populous city, after Glasgow, and the seventh-most populous  city in the United Kingdom.  
+Edinburgh  is the capital city of Scotland and one of its 32 council areas. The city is located in south-east Scotland, and is bounded to the north by the Firth of Forth  estuary and to the south by the Pentland Hills. Edinburgh had a population of  506,520 in mid-2020, making it the second-most populous city in Scotland and the seventh-most  populous in the United Kingdom. 
 
  
 ## Unsplash photos

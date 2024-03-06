@@ -10,7 +10,7 @@ tags:
 ---
 # Casablanca
 
-Casablanca, also known in Arabic as Dar al-Bayda  is the largest city in Morocco and the country's  economic and business center. Located on the Atlantic coast of the Chaouia plain in the central-western part of Morocco, the city  has a population of about 3.71 million in the urban area, and over 4.27 million in the Greater  Casablanca, making it the most populous city in the Maghreb region, and the eighth-largest in the  Arab world.  Casablanca is Morocco's chief port, with the Port of Casablanca being one of the largest artificial  ports in the world, and the second largest port in North Africa, after Tanger-Med . Casablanca also hosts the primary naval base for the Royal Moroccan Navy. 
+Casablanca, is the largest city in Morocco and the country's economic and business center. Located on the Atlantic coast of the Chaouia plain in the central-western part of Morocco, the city  has a population of about 3.71 million in the urban area, and over 4.27 million in Greater  Casablanca, making it the most populous city in the Maghreb region, and the eighth-largest in the  Arab world.  Casablanca is Morocco's chief port, with the Port of Casablanca being one of the largest artificial  ports in Africa, and the third-largest port in North Africa, after Tanger-Med  and Port Said. Casablanca also hosts the primary naval base for the Royal Moroccan Navy. 
 
  
 ## Unsplash photos

@@ -12,7 +12,7 @@ tags:
 ---
 # Finland
 
-Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. It shares land borders with Sweden to the northwest, Norway to the north, and Russia to the east,  with the Gulf of Bothnia to the west and the Gulf of Finland to the south, across from Estonia. Finland covers an area of 338,455 square kilometres  with a population of 5.6 million. Helsinki is the capital and largest city. The vast majority of the population are ethnic Finns. 
+Finland, officially the Republic of Finland, is a Nordic country in Northern Europe. It borders Sweden to the northwest, Norway to the north, and Russia to the east, with the Gulf of  Bothnia to the west and the Gulf of Finland to the south, opposite Estonia. Finland covers an area of 338,145 square kilometres  and has a population of 5.6 million. Helsinki is the capital and largest city. The vast majority of the population are ethnic Finns. 
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # Burgas
 
-Burgas, sometimes transliterated as Bourgas, is the second largest city on the Bulgarian Black Sea  Coast in the region of Northern Thrace and the fourth-largest in Bulgaria after Sofia, Plovdiv, and  Varna, with a population of 202,694 inhabitants, while 277,922 live in its urban area. It is the capital of Burgas Province and an important industrial, transport, cultural and tourist  centre.  The city is surrounded by the Burgas Lakes and located at the westernmost point of the Black Sea,  at the large Burgas Bay. LUKOIL Neftochim Burgas is the largest oil refinery in southeastern Europe and the largest  industrial enterprise. 
+Burgas, sometimes transliterated as Bourgas, is the second largest city on the Bulgarian Black Sea  Coast in the region of Northern Thrace and the fourth-largest city in Bulgaria after Sofia,  Plovdiv, and Varna, with a population of 203,000 inhabitants, while 277,922 live in its urban area. It is the capital of Burgas Province and an important industrial, transport, cultural and tourist  centre.  The city is surrounded by the Burgas Lakes and located at the westernmost point of the Black Sea,  at the large Burgas Bay. LUKOIL Neftochim Burgas is the largest oil refinery in southeastern Europe and the largest  industrial enterprise. 
 
  
 ## Unsplash photos

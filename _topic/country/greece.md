@@ -11,7 +11,7 @@ tags:
 ---
 # Greece
 
-Greece, officially the Hellenic Republic, is a country in Southeast Europe. It is situated on the southern tip of the Balkan Peninsula, and is located at the crossroads of  Europe, Asia, and Africa. Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the  north, and Turkey to the northeast. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Sea of Crete  and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. 
+Greece, officially the Hellenic Republic, is a country in Southeast Europe on the southern tip of  the Balkan peninsula. Greece shares land borders with Albania to the northwest, North Macedonia and Bulgaria to the  north, and Turkey to the east. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Mediterranean  Sea to the south. Greece has the longest coastline on the Mediterranean Basin, featuring thousands of islands. It has a population of nearly 10.3 million. 
 
  
 ## Unsplash photos

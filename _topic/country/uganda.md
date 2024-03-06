@@ -9,7 +9,7 @@ tags:
 ---
 # Uganda
 
-Uganda, officially the Republic of Uganda, is a landlocked country in East Africa. The country is bordered to the east by Kenya, to the north by South Sudan, to the west by the  Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania. The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya  and Tanzania. Uganda is in the African Great Lakes region. Uganda also lies within the Nile basin and has a varied but generally a modified equatorial climate. 
+Uganda, officially the Republic of Uganda, is a landlocked country in East Africa. The country is bordered to the east by Kenya, to the north by South Sudan, to the west by the  Democratic Republic of the Congo, to the south-west by Rwanda, and to the south by Tanzania. The southern part of the country includes a substantial portion of Lake Victoria, shared with Kenya  and Tanzania. Uganda is in the African Great Lakes region, lies within the Nile basin, and has a varied but  generally modified equatorial climate. As of 2023, it has a population of around 49.6 million, of which 8.5 million live in the capital  and largest city of Kampala. 
 
  
 ## Unsplash photos

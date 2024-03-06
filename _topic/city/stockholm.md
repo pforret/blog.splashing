@@ -10,7 +10,7 @@ tags:
 ---
 # Stockholm
 
-Stockholm  is the capital and largest city of Sweden as well as the largest urban area in  Scandinavia. Almost two and a half million people live in the municipality, with as many as 1.6 million in the  urban area alone, and 2.4 million in the metropolitan area. The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea. Outside the city to the east, and along the coast, is the island chain of the Stockholm archipelago. The area has been settled since the Stone Age, in the 6th millennium BC, and was founded as a city  in 1252 by Swedish statesman Birger Jarl. 
+Stockholm  is the capital and most populous city of Sweden as well as the largest urban area in the  Nordic countries. Approximately 1 million people live in the municipality, with 2.1 million in the urban area, and  2.4 million in the metropolitan area. The city stretches across fourteen islands where Lake Mälaren flows into the Baltic Sea. Outside the city to the east, and along the coast, is the island chain of the Stockholm archipelago. The area has been settled since the Stone Age, in the 6th millennium BC, and was founded as a city  in 1252 by Swedish statesman Birger Jarl. 
 
  
 ## Unsplash photos

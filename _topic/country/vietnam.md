@@ -9,7 +9,7 @@ tags:
 ---
 # Vietnam
 
-Vietnam or Viet Nam, officially the Socialist Republic of Vietnam, is a country in Southeast Asia,  at the eastern edge of mainland Southeast Asia, with an area of 311,699 square kilometres  and  population of 96 million, making it the world's sixteenth-most populous country. Vietnam borders China to the north, and Laos and Cambodia to the west. It shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines,  Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City .  
+Vietnam,  officially the Socialist Republic of Vietnam, is a country at the eastern edge of  mainland Southeast Asia, with an area of about 331,000 square kilometres  and a population of over  100 million, making it the world's fifteenth-most populous country. Vietnam shares land borders with China to the north, and Laos and Cambodia to the west. It shares maritime borders with Thailand through the Gulf of Thailand, and the Philippines,  Indonesia, and Malaysia through the South China Sea. Its capital is Hanoi and its largest city is Ho Chi Minh City .  
 
  
 ## Unsplash photos

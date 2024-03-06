@@ -10,7 +10,7 @@ tags:
 ---
 # Hamburg
 
-Hamburg, officially the Free and Hanseatic City of Hamburg, is the second-largest city in Germany  after Berlin, as well as the overall 7th largest city and largest non-capital city in the European  Union with a population of over 1.85 million. Hamburg's urban area has a population of around 2.5 million and is part of the Hamburg Metropolitan  Region, which has a population of over 5.1 million people in total. The city lies on the River Elbe and two of its tributaries, the River Alster and the River Bille. One of Germany's 16 federated states, Hamburg is surrounded by Schleswig-Holstein to the north and  Lower Saxony to the south.  
+Hamburg, officially the Free and Hanseatic City of Hamburg, is the second-largest city in Germany,  after Berlin, and 8th-largest in the European Union, with a population of over 1.9 million. The Hamburg Metropolitan Region has a population of over 5.1 million.  At the southern tip of the Jutland Peninsula, Hamburg stands on the branching River Elbe at the  head of a 110 km  estuary to the North Sea, on the mouth of the Alster and Bille. Hamburg is one of Germany's three city-states alongside Berlin and Bremen, and is surrounded by  Schleswig-Holstein to the north and Lower Saxony to the south. 
 
  
 ## Unsplash photos

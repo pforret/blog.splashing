@@ -11,7 +11,7 @@ tags:
 ---
 # Cagliari
 
-Cagliari  is an Italian municipality and the capital of the island of Sardinia, an autonomous  region of Italy. Cagliari's Sardinian name Casteddu means castle. It has about 155,000 inhabitants, while its metropolitan city  has more than 431,000 inhabitants. According to Eurostat, the population of the Functional urban area, the commuting zone of Cagliari,  rises to 476,975. Cagliari is the 26th largest city in Italy and the largest city on the island of Sardinia. 
+Cagliari  is an Italian municipality and the capital and largest city of the island of Sardinia, an  autonomous region of Italy. It has about 155,000 inhabitants, while its metropolitan city  has about 420,000 inhabitants. According to Eurostat, the population of the functional urban area, the commuting zone of Cagliari,  rises to 476,975. Cagliari is the 26th largest city in Italy and the largest city on the island of Sardinia.  
 
  
 ## Unsplash photos

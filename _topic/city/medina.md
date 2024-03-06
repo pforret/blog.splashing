@@ -9,7 +9,7 @@ tags:
 ---
 # Medina
 
-Medina, officially Al Madinah Al Munawwarah  and also commonly simplified as Madīnah or Madinah, is  the second-holiest city in Islam, and the capital of the Medina Province of Saudi Arabia. As of 2020, the estimated population of the city is 1,488,782, making it the fourth-most populous  city in the country. Located at the core of the Medina Province in the western reaches of the country, the city is  distributed over 589 km2, of which 293 km2  constitutes the city's urban area, while the rest is  occupied by the Hejaz Mountains, empty valleys, agricultural spaces and older dormant volcanoes.  Medina is generally considered to be the cradle of Islamic culture and civilization. 
+Medina, officially Al-Madinah al-Munawwarah  and also commonly simplified as Madīnah or Madinah, is  the capital of Medina Province in the Hejaz region of western Saudi Arabia. One of the most sacred cities in Islam, the population as of 2022 is 1,411,599, making it the  fifth-most populous city in the country. Around 58.5% of the population are Saudi citizens and 41.5% are foreigners. Located at the core of the Medina Province in the western reaches of the country, the city is  distributed over 589 km2, of which 293 km2  constitutes the city's urban area, while the rest is  occupied by the Hejaz Mountains, empty valleys, agricultural spaces and older dormant volcanoes.  
 
  
 ## Unsplash photos

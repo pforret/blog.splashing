@@ -9,7 +9,7 @@ tags:
 ---
 # Iran
 
-Iran, officially the Islamic Republic of Iran, and also called Persia, is a country located in  Western Asia. It is bordered by Iraq and Turkey to the west, by Azerbaijan and Armenia to the northwest, by the  Caspian Sea and Turkmenistan to the north, by Afghanistan and Pakistan to the east, and by the Gulf  of Oman and the Persian Gulf to the south. It covers an area of 1.64 million square kilometres, making it the 17th-largest country. Iran has an estimated population of 86.8 million, making it the 17th-most populous country in the  world, and the second-largest in the Middle East. Its largest cities, in descending order, are the capital Tehran, Mashhad, Isfahan, Karaj, Shiraz,  and Tabriz. 
+Iran, also known as Persia and officially the Islamic Republic of Iran, is a country in West Asia. It is bordered by Iraq to the west and Turkey to the northwest, Azerbaijan, Armenia, the Caspian  Sea and Turkmenistan to the north, Afghanistan to the east, Pakistan to the southeast, the Gulf of  Oman and the Persian Gulf to the south. With over 90 million inhabitants in an area of 1.648 million square kilometers, Iran ranks 17th in  the world in both geographic size and population. Its capital and largest city is Tehran, with around 16 million people in its metropolitan area;  other major urban centres include Mashhad, Isfahan, Karaj, and Shiraz.  
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # Prague
 
-Prague  is the capital and largest city in the Czech Republic, and the historical capital of  Bohemia. On the Vltava river, Prague is home to about 1.3 million people. The city has a temperate oceanic climate, with relatively warm summers and chilly winters.  Prague is a political, cultural, and economic hub of central Europe, with a rich history and  Romanesque, Gothic, Renaissance and Baroque architectures. 
+Prague  is the capital and largest city of the Czech Republic and the historical capital of Bohemia. On the Vltava river, Prague is home to about 1.3 million people. The city has a temperate oceanic climate, with relatively warm summers and chilly winters.  Prague is a political, cultural, and economic hub of central Europe, with a rich history and  Romanesque, Gothic, Renaissance and Baroque architectures. 
 
  
 ## Unsplash photos

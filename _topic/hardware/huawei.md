@@ -9,7 +9,7 @@ tags:
 ---
 # Huawei
 
-Huawei Technologies Co., Ltd.  is a Chinese multinational technology corporation headquartered in Shenzhen, Guangdong province,  that designs, develops, manufactures and sells telecommunications equipment, consumer electronics,  smart devices and various rooftop solar power products.  The corporation was founded in 1987 by Ren Zhengfei, a former officer in the People's Liberation  Army . Initially focused on manufacturing phone switches, Huawei has expanded its business to include  building telecommunications networks, providing operational and consulting services and equipment  to enterprises inside and outside of China, and manufacturing communications devices for the  consumer market.Huawei has deployed its products and services in more than 170 countries and areas. 
+Huawei Technologies Co., Ltd.  is a Chinese multinational technology corporation headquartered in Shenzhen, Guangdong. It designs, develops, manufactures and sells telecommunications equipment, consumer electronics,  smart devices and various rooftop solar products. The corporation was founded in 1987 by Ren Zhengfei, a former officer in the People's Liberation  Army .  
 
  
 ## Unsplash photos

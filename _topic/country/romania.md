@@ -9,7 +9,7 @@ tags:
 ---
 # Romania
 
-Romania  is a country located at the crossroads of Central, Eastern, and Southeastern Europe. It borders Bulgaria to the south, Ukraine to the north, Hungary to the west, Serbia to the  southwest, Moldova to the east, and the Black Sea to the southeast. It has a predominantly temperate-continental climate, and an area of 238,397 km2, with a population  of around 19 million. Romania is the twelfth-largest country in Europe and the sixth-most populous member state of the  European Union. Its capital and largest city is Bucharest, followed by Iași, Cluj-Napoca, Timișoara, Constanța,  Craiova, Brașov, and Galați. 
+Romania  is a country at the crossroads of Central, Eastern and Southeastern Europe. It borders Ukraine to the north and east, Hungary to the west, Serbia to the southwest, Bulgaria to  the south, Moldova to the east, and the Black Sea to the southeast. It has a predominantly continental climate, and an area of 238,397 km2  with a population of 19  million people . Romania is the twelfth-largest country in Europe and the sixth-most populous member state of the  European Union. Its capital and largest city is Bucharest, followed by Cluj-Napoca, Iași, Timișoara, Constanța,  Craiova, Brașov, and Galați. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: fencing
 
-Fencing is a combat sport that features sword fighting. The three disciplines of modern fencing are the foil, the épée, and the sabre ; each discipline  uses a different kind of blade, which shares the same name, and employs its own rules. Most competitive fencers specialize in one discipline. The modern sport gained prominence near the end of the 19th century and is based on the traditional  skill set of swordsmanship. The Italian school altered the historical European martial art of classical fencing, and the French  school later refined that system. 
+Fencing is a combat sport that features sword fighting. The three disciplines of modern fencing are the foil, the épée, and the sabre ; each discipline  uses a different kind of blade, which shares the same name, and employs its own rules. Most competitive fencers specialise in one discipline. The modern sport gained prominence near the end of the 19th century and is based on the traditional  skill set of swordsmanship. The Italian school altered the historical European martial art of classical fencing, and the French  school later refined that system. 
 
  
 ## Unsplash photos

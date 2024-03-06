@@ -9,7 +9,7 @@ tags:
 ---
 # Niger
 
-Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south,  Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest. It covers a land area of almost 1,270,000 km2, making it the second-largest landlocked country in  West Africa, after Chad. Over 80% of its land area lies in the Sahara. Its predominantly Muslim population of about 25 million live mostly in clusters in the further  south and west of the country. 
+Niger or the Niger, officially the Republic of the Niger, is a landlocked country in West Africa. It is a unitary state bordered by Libya to the northeast, Chad to the east, Nigeria to the south,  Benin and Burkina Faso to the southwest, Mali to the west, and Algeria to the northwest. It covers a land area of almost 1,270,000 km2, making it the largest landlocked country in West  Africa and the second largest landlocked nation in Africa behind Chad. Over 80% of its land area lies in the Sahara. Its predominantly Muslim population of about 25 million lives mostly in clusters in the south and  west of the country. 
 
  
 ## Unsplash photos

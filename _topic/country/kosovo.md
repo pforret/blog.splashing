@@ -9,7 +9,7 @@ tags:
 ---
 # Kosovo
 
-Kosovo, officially the Republic of Kosovo, is a partially recognised state in Southeast Europe. It lies at the centre of the Balkans. Kosovo unilaterally declared its independence from Serbia on 17 February 2008, and has since gained  diplomatic recognition as a sovereign state by 101 member states of the United Nations. It is bordered by Serbia to the north and east, North Macedonia to the southeast, Albania to the  southwest, and Montenegro to the west. Most of central Kosovo is dominated by the vast plains and fields of Dukagjini and Kosovo field. 
+Kosovo, officially the Republic of Kosovo, is a country in Southeast Europe with partial diplomatic  recognition.  Kosovo lies landlocked in the centre of the Balkans, bordered by Serbia to the north and east,  North Macedonia to the southeast, Albania to the southwest, and Montenegro to the west. Most of central Kosovo is dominated by the vast plains and fields of Metohija and the Kosovo field. The Accursed Mountains and Šar Mountains rise in the southwest and southeast, respectively. Its capital and largest city is Pristina. 
 
  
 ## Unsplash photos

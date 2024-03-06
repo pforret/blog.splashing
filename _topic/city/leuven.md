@@ -9,7 +9,7 @@ tags:
 ---
 # Leuven
 
-Leuven  or Louvain  is the capital and largest city of the province of Flemish Brabant in the  Flemish Region of Belgium. It is located about 25 kilometres  east of Brussels. The municipality itself comprises the historic city and the former neighbouring municipalities of  Heverlee, Kessel-Lo, a part of Korbeek-Lo, Wilsele and Wijgmaal. It is the eighth largest city in Belgium, with more than 100,244 inhabitants.KU Leuven, Belgium's  largest university, has its flagship campus in Leuven, which has been a university city since 1425. This makes it the oldest university city in the Low Countries. 
+Leuven  or Louvain  is the capital and largest city of the province of Flemish Brabant in the  Flemish Region of Belgium. It is located about 25 kilometres  east of Brussels. The municipality itself comprises the sub-municipalities of Heverlee, Kessel-Lo, Leuven proper,  Wilsele, Wijgmaal and part of Haasrode and Korbeek-Lo. It is the eighth largest city in Belgium, with more than 100,244 inhabitants.Leuven has been a  university city since 1425. This makes it the oldest university city in the Low Countries. 
 
  
 ## Unsplash photos

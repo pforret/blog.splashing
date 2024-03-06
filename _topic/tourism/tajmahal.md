@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Taj Mahal
 
-The Taj Mahal  is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna  in  the Indian city of Agra. It was commissioned in 1631 by the Mughal emperor Shah Jahan  to house the tomb of his favourite  wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare  complex, which includes a mosque and a guest house,  and is set in formal gardens bounded on three sides by a crenellated wall.  Construction of the mausoleum was essentially completed in 1643, but work continued on other phases  of the project for another 10 years. 
+The Taj Mahal  is an ivory-white marble mausoleum on the right bank of the river Yamuna  in Agra,  Uttar Pradesh, India. It was commissioned in 1631 by the fifth Mughal emperor, Shah Jahan  to house the tomb of his  beloved wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself. The tomb is the centrepiece of a 17-hectare  complex, which includes a mosque and a guest house,  and is set in formal gardens bounded on three sides by a crenellated wall.  Construction of the mausoleum was essentially completed in 1643, but work continued on other phases  of the project for another 10 years. 
 
  
 ## Unsplash photos

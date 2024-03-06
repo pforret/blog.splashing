@@ -10,7 +10,7 @@ tags:
 ---
 # Vienna
 
-Vienna  is the capital, largest city, and one of nine states of Austria. Vienna is Austria's most populous city and its primate city, with about two million inhabitants,  and its cultural, economic, and political center. It is the 6th-largest city proper by population in the European Union and the largest of all cities  on the Danube river.  Until the beginning of the 20th century, Vienna was the largest German-speaking city in the world,  and before the splitting of the Austro-Hungarian Empire in World War I, the city had two million  inhabitants. 
+Vienna  is the capital, largest city, and one of nine federal states of Austria. Vienna is Austria's most populous city and its primate city, with about two million inhabitants,  and its cultural, economic, and political center. It is the fifth-largest city proper by population in the European Union and the largest of all  cities on the Danube river by population.  The city lies on the eastern edge of the Vienna Woods —the northeasternmost foothills of the Alps,  that separate Vienna from the more western parts of Austria—at the transition to the Pannonian  Basin. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Palau
 
-Palau, officially the Republic of Palau and historically Belau, Palaos or Pelew, is an island  country and microstate in the western Pacific. The nation has approximately 340 islands and connects the western chain of the Caroline Islands  with parts of the Federated States of Micronesia. It has a total area of 466 square kilometers . The most populous island is Koror, home to the country's most populous city of the same name. The capital Ngerulmud is located on the nearby island of Babeldaob, in Melekeok State. 
+Palau, officially the Republic of Palau, is an island country in the Micronesia subregion of  Oceania in the western Pacific. The republic consists of approximately 340 islands and connects the western chain of the Caroline  Islands with parts of the Federated States of Micronesia. It has a total area of 466 square kilometers, making it one of the smallest countries in the world. The most populous island is Koror, home to the country's most populous city of the same name. The capital Ngerulmud is located on the largest island of Babeldaob, in Melekeok State. 
 
  
 ## Unsplash photos

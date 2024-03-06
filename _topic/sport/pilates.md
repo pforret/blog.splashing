@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: pilates
 
-Pilates  is a type of mind-body exercise developed in the early 20th century by German physical  trainer Joseph Pilates, after whom it was named. Pilates called his method Contrology. It is practiced worldwide, especially in countries such as Australia, Canada, South Korea, the  United States and the United Kingdom. As of 2005, there were 11 million people practicing the discipline regularly and 14,000 instructors  in the United States.Pilates developed in the aftermath of the late 19th century physical culture  of exercising in order to alleviate ill health. There is however only limited evidence to support the use of Pilates to alleviate problems such as  lower back pain. 
+Pilates  is a type of mind-body exercise developed in the early 20th century by German physical  trainer Joseph Pilates, after whom it was named. Pilates called his method Contrology. It is practiced worldwide, especially in developed countries such as Australia, Canada, South  Korea, the United Kingdom and the United States. Pilates uses a combination of around 50 repetitive exercises to spur muscle exertion. Each exercise flows from the five essentials: breath, cervical alignment, rib and scapular  stabilization, pelvic mobility, and utilization of the transversus abdominis. 
 
  
 ## Unsplash photos

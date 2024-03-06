@@ -9,7 +9,7 @@ tags:
 ---
 # Portugal
 
-Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula, in  southwestern Europe, and whose territory also includes the Atlantic archipelagos of the Azores and  Madeira. It features the westernmost point in continental Europe, and its Iberian portion is bordered to the  west and south by the Atlantic Ocean and to the north and east by Spain, the sole country to have a  land border with Portugal. Its two archipelagos form two autonomous regions with their own regional governments. Lisbon is the capital and largest city by population.  
+Portugal, officially the Portuguese Republic, is a country located on the Iberian Peninsula, in  Southwestern Europe, and whose territory also includes the Macaronesian archipelagos of the Azores  and Madeira. It features the westernmost point in continental Europe, its mainland west and south border with  the North Atlantic Ocean and in the north and east, the Portugal-Spain border constitutes the  longest uninterrupted border-line in the European Union. Its archipelagos form two autonomous regions with their own regional governments. In the mainland, Alentejo region occupies the biggest area but is one of the regions in Europe with  a lower population density. Lisbon is the capital and largest city by population, being also the main spot for tourists  alongside Porto and Algarve. 
 
  
 ## Unsplash photos

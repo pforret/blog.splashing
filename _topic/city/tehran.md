@@ -10,7 +10,7 @@ tags:
 ---
 # Tehran
 
-Tehran  is the largest city in Tehran Province and the capital of Iran. With a population of around 9 million in the city and around 16 million in the larger metropolitan  area of Greater Tehran, Tehran is the most populous city in Iran and Western Asia, and has the  second-largest metropolitan area in the Middle East, after Cairo. It is ranked 24th in the world by metropolitan area population.  In the Classical era, part of the territory of present-day Tehran was occupied by Rhages, a  prominent Median city destroyed in the medieval Arab, Turkic, and Mongol invasions. 
+Tehran  is the capital and largest city of Iran and the largest city in Tehran Province. It also serves as the capital of the province, county and the Central District. With a population of around 9 million in the city and around 16 million in the larger metropolitan  area of Greater Tehran, Tehran is the most populous city in Iran and Western Asia, and has the  second-largest metropolitan area in the Middle East, after Cairo. It is ranked 24th in the world by metropolitan area population.   
 
  
 ## Unsplash photos

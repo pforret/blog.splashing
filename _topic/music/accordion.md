@@ -9,7 +9,7 @@ tags:
 ---
 # accordion
 
-Accordions  are a family of box-shaped musical instruments of the bellows-driven free reed  aerophone type, colloquially referred to as a squeezebox. A person who plays the accordion is called an accordionist.  The concertina, harmoneon and bandoneon are related. The harmonium and American reed organ are in the same family, but are typically larger than an  accordion and sit on a surface or the floor.  
+Accordions  are a family of box-shaped musical instruments of the bellows-driven free reed  aerophone type . The essential characteristic of the accordion is to combine in one instrument a melody section,  also called the diskant, usually on the right-hand keyboard, with an accompaniment or Basso  continuo functionality on the left-hand. The musician normally plays the melody on buttons or keys on the right-hand side, and the  accompaniment on bass or pre-set chord buttons on the left-hand side. A person who plays the accordion is called an accordionist.  
 
  
 ## Unsplash photos

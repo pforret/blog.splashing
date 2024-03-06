@@ -9,7 +9,7 @@ tags:
 ---
 # bass guitar
 
-The bass guitar, electric bass or simply bass (, is the lowest-pitched member of the guitar family. It is a plucked string instrument similar in appearance and construction to an electric or acoustic  guitar, but with a longer neck and scale length, and typically four to six strings or courses. Since the mid-1950s, the bass guitar has largely replaced the double bass in popular music.  The four-string bass is usually tuned the same as the double bass, which corresponds to pitches one  octave lower than the four lowest-pitched strings of a guitar . 
+The bass guitar, electric bass or simply bass ( is the lowest-pitched member of the guitar family. It is a plucked string instrument similar in appearance and construction to an electric or acoustic  guitar, but with a longer neck and scale length. The bass most commonly has four strings, though five- and six-stringed models are also relatively  popular, and basses with even more  strings or courses have been built. Since the mid-1950s, the bass guitar has largely come to replace the double bass in popular music  due to its lighter weight, the inclusion of frets  in most models, and, most importantly, its  design for electric amplification.  
 
  
 ## Unsplash photos

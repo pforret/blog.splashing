@@ -9,7 +9,7 @@ tags:
 ---
 # Lebanon
 
-Lebanon, officially the Republic of Lebanon  or the Lebanese Republic, is a country in Western Asia. It is located between Syria to the north and east and Israel to the south, while Cyprus lies to its  west across the Mediterranean Sea; its location at the crossroads of the Mediterranean Basin and  the Arabian hinterland has contributed to its rich history and shaped a cultural identity of  religious diversity. It is part of the Levant region of the Middle East. Lebanon is home to roughly six million people and covers an area of 10,452 square kilometres,  making it the second smallest country in continental Asia. The official language of the state is Arabic, while French is also formally recognized; the  Lebanese dialect of Arabic is used alongside Modern Standard Arabic throughout the country. 
+Lebanon, officially the Republic of Lebanon, is a country in the Levant region of West Asia. It is bordered by Syria to the north and east, by Israel to the south, and by the Mediterranean Sea  to the west; Cyprus lies a short distance away from the country's coastline. Lebanon's location at the crossroads of the Mediterranean Basin and the Arabian hinterlands has  contributed to the country's rich history and shaped a unique cultural identity denoted by  religious diversity. Located in the Levant region of the Eastern Mediterranean, the country has a population of more  than five million people and covers an area of 10,452 square kilometres . Lebanon's capital and largest city is Beirut, followed by Tripoli and Jounieh. 
 
  
 ## Unsplash photos

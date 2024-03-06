@@ -10,7 +10,7 @@ tags:
 ---
 # Pioneer
 
-Pioneer commonly refers to a settler who migrates to previously uninhabited or sparsely inhabited  land.  In the United States pioneer commonly refers to an American pioneer, a person in American history  who migrated west to join in settling and developing new areas.  
+Pioneer commonly refers to a settler who migrates to previously uninhabited or sparsely inhabited  territory.  In the United States pioneer commonly refers to an American pioneer, a person in American history  who migrated westward to settle in what is now the Western and Midwestern United States.  
 
  
 ## Unsplash photos

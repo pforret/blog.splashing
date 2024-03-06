@@ -9,7 +9,7 @@ tags:
 ---
 # Chennai
 
-Chennai, formerly known as Madras, is the capital city of Tamil Nadu, the southernmost Indian state. It is the state's largest city in area and population, and is located on the Coromandel Coast of  the Bay of Bengal. According to the 2011 Indian census, Chennai is the sixth-most populous city in India and forms the  fourth-most populous urban agglomeration. The Greater Chennai Corporation is the civic body responsible for the city; it is the oldest city  corporation of India, established in 1688—the second oldest in the world after London.  
+Chennai, formerly known as Madras, is the capital city of Tamil Nadu, the southernmost state of  India. It is the state's primate city and is located on the Coromandel Coast of the Bay of Bengal. According to the 2011 Indian census, Chennai is the sixth-most populous city in India and forms the  fourth-most populous urban agglomeration. Incorporated in 1866, the Greater Chennai Corporation is the oldest municipal corporation of India  and the second oldest in the world after London.  
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Lanzarote
 
-Lanzarote  is a Spanish island, the easternmost of the Canary Islands in the Atlantic Ocean. It is located approximately 125 kilometres  off the north coast of Africa and 1,000 kilometres   from the Iberian Peninsula. Covering 845.94 square kilometres, Lanzarote is the fourth-largest of the islands in the  archipelago. With 152,289 inhabitants at the start of 2019, it is the third most populous Canary Island, after  Tenerife and Gran Canaria. Located in the centre-west of the island is Timanfaya National Park, one of its main attractions. 
+Lanzarote  is a Spanish island, the easternmost of the Canary Islands in the Atlantic Ocean, 125  kilometres  off the north coast of Africa and 1,000 kilometres  from the Iberian Peninsula. Covering 845.92 square kilometres, Lanzarote is the fourth-largest of the islands in the  archipelago. With 158,798 inhabitants at the start of 2023, it is the third most populous Canary Island, after  Tenerife and Gran Canaria. Located in the centre-west of the island is Timanfaya National Park, one of its main attractions. The island was declared a biosphere reserve by UNESCO in 1993. 
 
  
 ## Unsplash photos

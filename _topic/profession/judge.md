@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: judge
 
-A judge is a person who presides over court proceedings, either alone or as a part of a panel of  judges. A judge hears all the witnesses and any other evidence presented by the barristers or solicitors of  the case, assesses the credibility and arguments of the parties, and then issues a ruling in the  case based on their interpretation of the law and their own personal judgment. A judge is expected to conduct the trial impartially and, typically, in an open court.  The powers, functions, method of appointment, discipline, and training of judges vary widely across  different jurisdictions. 
+A judge is a person who presides over court proceedings, either alone or as a part of a panel of  judges. In an adversarial system the judge hears all the witnesses and any other evidence presented by the  barristers or solicitors of the case, assesses the credibility and arguments of the parties, and  then issues a ruling in the case based on their interpretation of the law and their own personal  judgment. A judge is expected to conduct the trial impartially and, typically, in an open court.  The powers, functions, method of appointment, discipline, and training of judges vary widely across  different jurisdictions. 
 
  
 ## Unsplash photos

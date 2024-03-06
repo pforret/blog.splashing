@@ -9,7 +9,7 @@ tags:
 ---
 # Abu Dhabi
 
-Abu Dhabi  is the capital and second-most populous city  of the United Arab Emirates. It is also the capital of the Emirate of Abu Dhabi and the centre of the Abu Dhabi Metropolitan  Area.   The city of Abu Dhabi is located on an island in the Persian Gulf, off the Central West Coast. 
+Abu Dhabi  is the capital of the United Arab Emirates. The city of Abu Dhabi is the capital of the Emirate of Abu Dhabi and the UAE's second-most populous  city after Dubai.  The city of Abu Dhabi is located on an island in the Persian Gulf, off the Central West Coast. Most of the city and the Emirate reside on the mainland connected to the rest of the country. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Cyprus
 
-Cyprus, officially the Republic of Cyprus, is an island country located south of the Anatolian  Peninsula in the eastern Mediterranean Sea. Its continental position is disputed; while it is geographically in Western Asia, its cultural ties  and geopolitics are overwhelmingly Southeastern European. Cyprus is the third-largest and third-most populous island in the Mediterranean. It is located north of Egypt, east of Greece, south of Turkey, and west of Lebanon and Syria. Its capital and largest city is Nicosia. 
+Cyprus, officially the Republic of Cyprus, is an island country located in the eastern  Mediterranean Sea, north of the Sinai Peninsula, south of the Anatolian Peninsula, and west of the  Levant. It is geographically a part of West Asia, but its cultural ties and geopolitics are overwhelmingly  Southeast European. Cyprus is the third-largest and third-most populous island in the Mediterranean. It is located east of Greece, north of Egypt, south of Turkey, and west of Lebanon and Syria. Its capital and largest city is Nicosia. 
 
  
 ## Unsplash photos

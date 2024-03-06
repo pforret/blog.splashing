@@ -9,7 +9,7 @@ tags:
 ---
 # Italy
 
-Italy, officially the Italian Republic, or the Republic of Italy, is a country in Southern and  Western Europe. Located in the middle of the Mediterranean Sea and delimited by the Alps, its territory largely  coincides with the homonymous geographical region.  Italy shares land borders with France, Switzerland, Austria, Slovenia and the enclaved microstates  of Vatican City and San Marino. It has a territorial exclave in Switzerland, Campione. 
+Italy, officially the Italian Republic, is a country in Southern and Western Europe. Located in the middle of the Mediterranean Sea, it consists of a peninsula surrounded by the Alps  and several islands, notably Sicily and Sardinia. Italy shares its borders with France, Switzerland, Austria, Slovenia and two enclaves: Vatican City  and San Marino. Its two territorial exclaves include Campione  and Pelagie Islands . It is the tenth-largest country by land area in the European continent covering an area of 301,340  km2,  and the third-most populous member state of the European Union with a population of nearly 60  million. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: lawyer
 
-A lawyer is a person who practices law. The role of a lawyer varies greatly across different legal jurisdictions. A lawyer can be classified as an advocate, attorney, barrister, canon lawyer, civil law notary,  counsel, counselor, solicitor, legal executive, or public servant — with each role having different  functions and privileges. Working as a lawyer generally involves the practical application of abstract legal theories and  knowledge to solve specific problems. Some lawyers also work primarily in advancing the interests of the law and legal profession. 
+A lawyer is a person who practices law. The role of a lawyer varies greatly across different legal jurisdictions. A lawyer can be classified as an advocate, attorney, barrister, canon lawyer, civil law notary,  counsel, solicitor, legal executive, or public servant — with each role having different functions  and privileges. Working as a lawyer generally involves the practical application of abstract legal theories and  knowledge to solve specific problems. Some lawyers also work primarily in advancing the interests of the law and legal profession. 
 
  
 ## Unsplash photos

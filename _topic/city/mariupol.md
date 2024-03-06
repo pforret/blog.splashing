@@ -9,7 +9,7 @@ tags:
 ---
 # Mariupol
 
-Mariupol  is a city in Donetsk Oblast, Ukraine. It is situated on the northern coast  of the Sea of Azov, at the mouth of the Kalmius River. Prior to the 2022 Russian invasion of Ukraine, it was the tenth-largest city in the country and the  second-largest city in Donetsk Oblast, with an estimated population of 425,681 people in January  2022. However, Mariupol has been militarily controlled by Russia since May 2022, and the city's residents  are now estimated to number around 100,000, according to Ukrainian authorities.Historically, the  city of Mariupol was a centre for trade and manufacturing, and played a key role in the development  of higher education and many businesses while also serving as a coastal resort on the Black Sea. From 1948 to 1989, the city was known as Zhdanov, named after Andrei Zhdanov, a high-ranking  official of the Communist Party of the Soviet Union; the name was part of a larger effort to rename  cities after high-ranking political figures in the Soviet Union. 
+Mariupol  is a city in Donetsk Oblast, Ukraine. It is situated on the northern coast  of the Sea of Azov, at the mouth of the Kalmius River. Prior to the Russian invasion of Ukraine, it was the tenth-largest city in the country and the  second-largest city in Donetsk Oblast, with an estimated population of 425,681 people in January  2022; Ukrainian authorities estimate the population of Mariupol at approximately 120,000. Mariupol has been occupied by Russian forces since May 2022.  
 
  
 ## Unsplash photos

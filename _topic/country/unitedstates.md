@@ -9,7 +9,7 @@ tags:
 ---
 # United States
 
-The United States of America, commonly known as the United States  or America, is a country  primarily located in North America. It consists of 50 states, a federal district, five major unincorporated territories, nine Minor  Outlying Islands, and 326 Indian reservations. It is the world's third-largest country by both land and total area. The United States shares land borders with Canada to its north and with Mexico to its south. It has maritime borders with the Bahamas, Cuba, Russia, and other nations. 
+The United States of America, commonly known as the United States  or America, is a country  primarily located in North America, between Canada and Mexico. It is a federation of 50 states, a federal capital district, and 326 Indian reservations that  overlap with state boundaries. Outside the union of states, it asserts sovereignty over five major unincorporated island  territories and various uninhabited islands. The country has the world's third-largest land area, largest maritime exclusive economic zone,  
 
  
 ## Unsplash photos

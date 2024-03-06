@@ -9,7 +9,7 @@ tags:
 ---
 # Somalia
 
-Somalia, officially the Federal Republic of Somalia, is a country in the Horn of Africa. The country is bordered by Ethiopia to the west, Djibouti to the northwest, the Gulf of Aden to the  north, the Indian Ocean to the east, and Kenya to the southwest. Somalia has the longest coastline on Africa's mainland. Its terrain consists mainly of plateaus, plains, and highlands. Hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall. 
+Somalia, officially the Federal Republic of Somalia, is the easternmost country in continental  Africa. The country is situated on the Horn of Africa and is bordered by Ethiopia to the west, Djibouti to  the northwest, the Gulf of Aden to the north, the Indian Ocean to the east, and Kenya to the  southwest. Somalia has the longest coastline on Africa's mainland. Its terrain consists mainly of plateaus, plains, and highlands. Hot conditions prevail year-round, with periodic monsoon winds and irregular rainfall. 
 
  
 ## Unsplash photos

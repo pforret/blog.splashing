@@ -10,7 +10,7 @@ tags:
 ---
 # Cape Town
 
-Cape Town  is one of South Africa's three capital cities, serving as the seat of the Parliament of  South Africa. It is the legislative capital of the country, the oldest city in the country, and the second  largest . Colloquially named the Mother City, it is the largest city of the Western Cape province, and is  managed by the City of Cape Town metropolitan municipality. The other two capitals are Pretoria, the executive capital, located in Gauteng, where the  Presidency is based, and Bloemfontein, the judicial capital in the Free State,  where the Supreme  Court of Appeal is located.The city is known for its harbour, for its natural setting in the Cape  Floristic Region, and for landmarks such as Table Mountain and Cape Point. Cape Town is home to 66% of the Western Cape's population. 
+Cape Town is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa. It is the country's second-largest city, after Johannesburg, and the largest in the Western Cape. The city is part of the City of Cape Town metropolitan municipality.  
 
  
 ## Unsplash photos

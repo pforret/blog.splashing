@@ -9,7 +9,7 @@ tags:
 ---
 # Nassau
 
-Nassau may refer to:    
+Several places in the German-speaking area are named Nassau, but most places and things named  Nassau ultimately derive their name from the town of Nassau on the Lahn in Rhineland-Palatinate,  after which the region and the House of Nassau are named. In German, nass means wet and Au  can be a short form of either Flussaue  or Auwald . It can also be used as a synonym for Feuchtwiese . Aue derives from Middle High German ouwe, which is related to the Latin aqua .  
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Sarajevo
 
-Sarajevo  is the capital and largest city of Bosnia and Herzegovina, with a population of 275,524  in its administrative limits. The Sarajevo metropolitan area including Sarajevo Canton, East Sarajevo and nearby municipalities  is home to 555,210 inhabitants. Located within the greater Sarajevo valley of Bosnia, it is surrounded by the Dinaric Alps and  situated along the Miljacka River in the heart of the Balkans, a region of Southern Europe.  Sarajevo is the political, financial, social and cultural center of Bosnia and Herzegovina and a  prominent center of culture in the Balkans. 
+Sarajevo  is the capital and largest city of Bosnia and Herzegovina, with a population of 275,524  in its administrative limits. The Sarajevo metropolitan area including Sarajevo Canton, East Sarajevo and nearby municipalities  is home to 555,210 inhabitants. Located within the greater Sarajevo valley of Bosnia, it is surrounded by the Dinaric Alps and  situated along the Miljacka River in the heart of the Balkans, a region of Southern Europe.  Sarajevo is the political, financial, social, and cultural center of Bosnia and Herzegovina and a  prominent center of culture in the Balkans. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Armenia
 
-Armenia, officially the Republic of Armenia, is a landlocked country in the Armenian Highlands of  Western Asia. It is a part of the Caucasus region; and is bordered by Turkey to the west, Georgia to the north,  the Lachin corridor  and Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan  to the south. Yerevan is the capital, largest city and the financial center.  Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. 
+Armenia, officially the Republic of Armenia, is a landlocked country in the Armenian Highlands. The country is geographically a part of West Asia, but is culturally and geopolitically considered  part of Eastern Europe. It is a part of the Caucasus region and is bordered by Turkey to the west, Georgia to the north and  Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. Yerevan is the capital, largest city and financial center.  
 
  
 ## Unsplash photos

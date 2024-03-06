@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: athlete
 
-An athlete  is a person who competes in one or more sports that involve physical strength, speed,  or endurance.  Athletes may be professionals or amateurs. Most professional athletes have particularly well-developed physiques obtained by extensive  physical training and strict exercise accompanied by a strict dietary regimen.  
+An athlete  is a person who competes in one or more sports involving physical strength, speed,  power, or endurance.  Athletes may be professionals or amateurs. Most professional athletes have particularly well-developed physiques obtained by extensive  physical training and strict exercise, accompanied by a strict dietary regimen.  
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: ski jumping
 
-Ski jumping is a winter sport in which competitors aim to achieve the farthest jump after sliding  down on their skis from a specially designed curved ramp.  Along with jump length, competitor's aerial style and other factors also affect the final score.  Ski jumping was first contested in Norway in the late 19th century, and later spread through  Europe and North America in the early 20th century. Along with cross-country skiing, it constitutes the traditional group of Nordic skiing  disciplines.The ski jumping venue, commonly referred to as a hill, consists of the jumping ramp,  take-off table, and a landing hill. Each jump is evaluated according to the distance traveled and the style performed. 
+Ski jumping is a winter sport in which competitors aim to achieve the farthest jump after sliding  down on their skis from a specially designed curved ramp.  Along with jump length, competitor's aerial style and other factors also affect the final score. Ski jumping was first contested in Norway in the late 19th century, and later spread through Europe  and North America in the early 20th century. Along with cross-country skiing, it constitutes the traditional group of Nordic skiing  disciplines.The ski jumping venue, commonly referred to as a hill, consists of the jumping ramp,  take-off table, and a landing hill. Each jump is evaluated according to the distance traveled and the style performed. 
 
  
 ## Unsplash photos

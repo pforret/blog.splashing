@@ -10,7 +10,7 @@ tags:
 ---
 # Santiago
 
-Santiago, also known as Santiago de Chile, is the capital and largest city of Chile as well as one  of the largest cities in the Americas. It is the center of Chile's most densely populated region, the Santiago Metropolitan Region, whose  total population is 8 million which is nearly 40% of the country's population, of which more than 6  million live in the city's continuous urban area. The city is entirely in the country's central valley. Most of the city lies between 500–650 m  above mean sea level.  
+Santiago, also known as Santiago de Chile, is the capital and largest city of Chile and one of the  largest cities in the Americas. It is located in the country's central valley and is the center of the Santiago Metropolitan  Region, which has a population of 7 million, representing 40% of Chile's total population. Most of the city is situated between 500–650 m  above sea level.  Founded in 1541 by the Spanish conquistador Pedro de Valdivia, Santiago has served as the capital  city of Chile since colonial times. 
 
  
 ## Unsplash photos

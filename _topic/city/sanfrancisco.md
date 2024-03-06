@@ -11,7 +11,7 @@ tags:
 ---
 # San Francisco
 
-San Francisco, officially the City and County of San Francisco, is the commercial, financial, and  cultural center of Northern California in the United States. The city proper is the fourth most populous in California and 17th most populous in the United  States, with 815,201 residents as of 2021. It covers a land area of 46.9 square miles, at the end of the San Francisco Peninsula, making it  the second most densely populated large U.S. city after New York City, and the fifth most densely populated U.S. county, behind only four of the five New York City boroughs. 
+San Francisco, officially the City and County of San Francisco, is a commercial, financial, and  cultural center in Northern California.  With a population of 808,437 residents as of 2022, San Francisco is the fourth most populous city  in the U.S. state of California. The city covers a land area of 46.9 square miles  at the end of the San Francisco Peninsula, making  it the second-most densely populated large U.S. city after New York City and the fifth-most densely populated U.S. 
 
  
 ## Unsplash photos

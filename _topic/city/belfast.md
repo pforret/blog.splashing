@@ -11,7 +11,7 @@ tags:
 ---
 # Belfast
 
-Belfast  is the capital and largest city of Northern Ireland, standing on the banks of the River  Lagan on the east coast. It is the 12th-largest city in the United Kingdom and the second-largest in Ireland. It had a population of 345,418 in 2021.By the early 19th century, Belfast was a major port. It played an important role in the Industrial Revolution in Ireland, briefly becoming the biggest  linen-producer in the world, earning it the nickname Linenopolis. By the time it was granted city status in 1888, it was a major centre of Irish linen production,  tobacco-processing and rope-making. 
+Belfast  is the de facto capital city and principal port of Northern Ireland, standing on the banks  of the River Lagan and connected to the open sea through Belfast Lough and the North Channel. It is second to Dublin as the largest city in the island of Ireland with a population in 2021 of  345,418 and a metro area population of 671,559.Established as an English settlement early in the  17th century, its early growth was driven by Scottish-descendant Presbyterians. Their disaffection with Ireland's Anglican establishment contributed to the rebellion of 1798, and  to the union with Great Britain—later regarded as a key to the town's industrial transformation. When granted city status in 1888, Belfast was the world's largest centre of linen manufacture, and  by the 1900s her shipyards were building up to a quarter of total United Kingdom tonnage.  
 
  
 ## Unsplash photos

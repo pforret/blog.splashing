@@ -10,7 +10,7 @@ tags:
 ---
 # Bordeaux
 
-Bordeaux  is a port city on the river Garonne in the Gironde department, Southwestern France. It is the capital of the Nouvelle-Aquitaine region, as well as the prefecture of the Gironde  department. Its inhabitants are called Bordelais  or Bordelaises . The term Bordelais may also refer to the city and its surrounding region.  
+Bordeaux  is a city on the river Garonne in the Gironde department, southwestern France. A port city, it is the capital of the Nouvelle-Aquitaine region, as well as the prefecture of the  Gironde department. Its inhabitants are called Bordelais  or Bordelaises  . The term Bordelais may also refer to the city and its surrounding region.  
 
  
 ## Unsplash photos

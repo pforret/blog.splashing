@@ -9,7 +9,7 @@ tags:
 ---
 # Bhutan
 
-Bhutan, officially the Kingdom of Bhutan, is a landlocked country in South Asia. It is situated in the Eastern Himalayas, between China in the north and India in the south. A mountainous country, Bhutan is known locally as Druk Yul or Land of the Thunder Dragon. Nepal and Bangladesh are located near Bhutan but do not share a land border. The country has a population of over 727,145 and territory of 38,394 square kilometres  and ranks  133rd in terms of land area and 160th in population. 
+Bhutan, officially the Kingdom of Bhutan, is a landlocked country in South Asia situated in the  Eastern Himalayas between China in the north and India in the south. With a population of over 727,145 and a territory of 38,394 square kilometres, Bhutan ranks 133rd  in land area and 160th in population. Bhutan is a constitutional monarchy with a king  as the head of state and a prime minister as the  head of government. Vajrayana Buddhism is the state religion and the Je Khenpo is the head of the state religion.  
 
  
 ## Unsplash photos

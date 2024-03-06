@@ -9,7 +9,7 @@ tags:
 ---
 # Brazil
 
-Brazil, officially the Federative Republic of Brazil, is the largest country in South America and  in Latin America. At 8.5 million square kilometers  and with over 217 million people, Brazil is the world's  fifth-largest country by area and the seventh most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the largest country and the only one in the Americas to have Portuguese as an official  language. 
+Brazil, officially the Federative Republic of Brazil, is the largest and easternmost country in  South America and in Latin America. Brazil is the world's fifth-largest country by area and the seventh most populous. Its capital is Brasília, and its most populous city is São Paulo. The federation is composed of the union of the 26 states and the Federal District. It is the only country in the Americas to have Portuguese as an official language. 
 
  
 ## Unsplash photos

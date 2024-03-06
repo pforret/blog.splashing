@@ -10,7 +10,7 @@ tags:
 ---
 # Munich
 
-Munich  is the capital and most populous city of the German state of Bavaria. With a population of 1,558,395 inhabitants as of 31 July 2020, it is the third-largest city in  Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as  well as the 11th-largest city in the European Union. The city's metropolitan region is home to 6 million people. Straddling the banks of the River Isar  north of the Bavarian Alps, Munich is the seat of the  Bavarian administrative region of Upper Bavaria, while being the most densely populated  municipality in Germany . Munich is the second-largest city in the Bavarian dialect area, after the Austrian capital of  Vienna. 
+Munich  is the capital and most populous city of the Free State of Bavaria. With a population of 1,578,132 inhabitants as of 31 May 2022, it is the third-largest city in  Germany, after Berlin and Hamburg, and thus the largest which does not constitute its own state, as  well as the 11th-largest city in the European Union. The city's metropolitan region is home to about six million people and the third biggest  metropolitan region by GDP in the European Union.Straddling the banks of the river Isar north of  the Alps, Munich is the seat of the Bavarian administrative region of Upper Bavaria, while being  the most densely populated municipality in Germany with 4,500 people per km2. Munich is the second-largest city in the Bavarian dialect area, after the Austrian capital of  Vienna.  
 
  
 ## Unsplash photos

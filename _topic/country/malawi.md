@@ -9,7 +9,7 @@ tags:
 ---
 # Malawi
 
-Malawi, officially the Republic of Malawi, is a landlocked country in Southeastern Africa that was  formerly known as Nyasaland. It is bordered by Zambia to the west, Tanzania to the north and northeast, and Mozambique to the  east, south and southwest. Malawi spans over 118,484 km2  and has an estimated population of 19,431,566 . Malawi's capital  is Lilongwe. Its second-largest is Blantyre, its third-largest is Mzuzu and its fourth-largest is its former  capital, Zomba. 
+Malawi  Chichewa pronunciation: [maláβi]; Tumbuka: Malaŵi, officially the Republic of Malawi and  formerly known as Nyasaland, is a landlocked country in Southeastern Africa. It is bordered by Zambia to the west, Tanzania to the north and northeast, and Mozambique to the  east, south and southwest. Malawi spans over 118,484 km2  and has an estimated population of 19,431,566 . Malawi's capital and largest city is Lilongwe. Its second-largest is Blantyre, its third-largest is Mzuzu and its fourth-largest is its former  capital, Zomba. 
 
  
 ## Unsplash photos

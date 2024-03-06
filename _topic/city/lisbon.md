@@ -10,7 +10,7 @@ tags:
 ---
 # Lisbon
 
-Lisbon  is the capital and largest city of Portugal, with an estimated population of 544,851 within  its administrative limits in an area of 100.05 km2. Lisbon's urban area extends beyond the city's administrative limits with a population of around 2.7  million people, being the 11th-most populous urban area in the European Union. About 3 million people live in the Lisbon metropolitan area, making it the third largest  metropolitan area in the Iberian Peninsula, after Madrid and Barcelona. It represents approximately 27% of the country's population. It is mainland Europe's westernmost capital city and the only one along the Atlantic coast. 
+Lisbon  is the capital and largest city of Portugal, with an estimated population of 548,703 as of  2022 within its administrative limits in an area of 100.05 km2. Lisbon is mainland Europe's westernmost capital city  and the only one along the Atlantic coast,  the others  being on islands. The city lies in the western portion of the Iberian Peninsula, on the northern shore of the River  Tagus. The western portion of its metro area, the Portuguese Riviera, hosts the westernmost point of  Continental Europe, culminating at Cabo da Roca.  
 
  
 ## Unsplash photos

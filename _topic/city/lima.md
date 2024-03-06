@@ -10,7 +10,7 @@ tags:
 ---
 # Lima
 
-Lima, originally founded as Ciudad de Los Reyes  is the capital and largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín Rivers, in the desert zone of the  central coastal part of the country, overlooking the Pacific Ocean. Together with the seaside city of Callao, it forms a contiguous urban area known as the Lima  Metropolitan Area. With a population of more than 9.7 million in its urban area and more than 11 million in its  metropolitan area, Lima is one of the largest cities in the Americas.  
+Lima  is the capital and largest city of Peru. It is located in the valleys of the Chillón, Rímac and Lurín Rivers, in the desert zone of the  central coastal part of the country, overlooking the Pacific Ocean. The city is considered the political, cultural, financial and commercial center of Peru. Due to its geostrategic importance, the Globalization and World Cities Research Network has  categorized it as a beta tier city. Jurisdictionally, the metropolis extends mainly within the province of Lima and in a smaller  portion, to the west, within the Constitutional Province of Callao, where the seaport and the Jorge  Chávez Airport are located. 
 
  
 ## Unsplash photos

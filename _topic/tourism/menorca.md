@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Menorca
 
-Menorca or Minorca  is one of the Balearic Islands located in the Mediterranean Sea belonging to  Spain. Its name derives from its size, contrasting it with nearby Majorca. Its capital is Mahón, situated on the island's eastern end, although Menorca is not a province and  forms a political union with the other islands in the archipelago. Ciutadella and Mahon are the main ports and largest towns. The port of Mahon is the second biggest natural port in the world. 
+Menorca or Minorca  is one of the Balearic Islands located in the Mediterranean Sea belonging to  Spain. Its name derives from its size, contrasting it with nearby Mallorca. Its capital is Mahón, situated on the island's eastern end, although Menorca is not a province and  forms a political union with the other islands in the archipelago. Ciutadella and Mahón are the main ports and largest towns. The port of Mahón is the second biggest natural port in the world. 
 
  
 ## Unsplash photos

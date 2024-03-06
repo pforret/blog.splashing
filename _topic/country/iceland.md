@@ -9,7 +9,7 @@ tags:
 ---
 # Iceland
 
-Iceland  is a Nordic island country in the North Atlantic Ocean and in the Arctic Ocean. Iceland is the most sparsely populated country in Europe. Iceland's capital and largest city is Reykjavík, which  is home to over 65% of the population. Iceland is the biggest part of the Mid-Atlantic Ridge that rises above sea level, and its central  volcanic plateau is erupting almost constantly. The interior consists of a plateau characterised by sand and lava fields, mountains, and glaciers,  and many glacial rivers flow to the sea through the lowlands. 
+Iceland  is a Nordic island country between the North Atlantic and Arctic Oceans, on the  Mid-Atlantic Ridge between North America and Europe. It is linked culturally and politically with Europe and is the region's most sparsely populated  country. Its capital and largest city is Reykjavík, which is home to about 36% of the country's roughly  380,000 residents. The official language of the country is Icelandic.  
 
  
 ## Unsplash photos

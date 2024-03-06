@@ -9,7 +9,7 @@ tags:
 ---
 # Asus
 
-ASUSTek Computer Inc.  is a Taiwanese multinational computer and phone hardware and electronics company headquartered in  Beitou District, Taipei, Taiwan. Its products include desktop computers, laptops, netbooks, mobile phones, networking equipment,  monitors, wi-fi routers, projectors, motherboards, graphics cards, optical storage, multimedia  products, peripherals, wearables, servers, workstations, and tablet PCs. The company is also an original equipment manufacturer .  
+ASUSTeK Computer Inc.  is a Taiwanese multinational computer, phone hardware and electronics manufacturer headquartered  in Beitou District, Taipei, Taiwan. Its products include desktop computers, laptops, netbooks, mobile phones, networking equipment,  monitors, Wi-Fi routers, projectors, motherboards, graphics cards, optical storage, multimedia  products, peripherals, wearables, servers, workstations and tablet PCs. The company is also an original equipment manufacturer .  
 
  
 ## Unsplash photos

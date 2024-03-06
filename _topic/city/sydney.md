@@ -10,7 +10,7 @@ tags:
 ---
 # Sydney
 
-Sydney  is the capital city of the state of New South Wales, and the most populous city in both  Australia and Oceania. Located on Australia's east coast, the metropolis surrounds Sydney Harbour and extends about 70 km   towards the Blue Mountains to the west, Hawkesbury to the north, the Royal National Park to the  south and Macarthur to the south-west. Sydney is made up of 658 suburbs, spread across 33 local government areas. Residents of the city are known as Sydneysiders. The 2021 census recorded the population of Greater Sydney as 5,231,150, meaning the city is home to  approximately 66% of the state's population. 
+Sydney is the capital city of the state of New South Wales and the most populous city in Australia. Located on Australia's east coast, the metropolis surrounds Sydney Harbour and extends about 80 km   from the Pacific Ocean in the east to the Blue Mountains in the west, and about 80 km  from the  Ku-ring-gai Chase National Park and the Hawkesbury River in the north and north-west, to the Royal  National Park and Macarthur in the south and south-west. Greater Sydney consists of 658 suburbs, spread across 33 local government areas. Residents of the city are colloquially known as Sydneysiders. The estimated population in June 2022 was 5,297,089, which is about 66% of the state's population. 
 
  
 ## Unsplash photos

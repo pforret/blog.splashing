@@ -10,7 +10,7 @@ tags:
 ---
 # Kharkiv
 
-Kharkiv, also known as Kharkov, is the second-largest city and municipality in Ukraine. Located in the northeast of the country, it is the largest city of the historic Slobozhanshchyna  region. Kharkiv is the administrative centre of Kharkiv Oblast and of the surrounding Kharkiv Raion. The latest population is 1,433,886 .Kharkiv was founded in 1654 as Kharkiv fortress, and after  these humble beginnings, it grew to be a major centre of industry, trade and Ukrainian culture in  the Russian Empire. At the beginning of the 20th century, the city was predominantly Russian in population, but as  industrial expansion drew in further labor from the distressed countryside, and as the Soviet  regime moderated previous restrictions on Ukrainian cultural expression, by the eve of World War II  the greater part of the population was officially identified as Ukrainian. 
+Kharkiv, also known as Kharkov, is the second-largest city in Ukraine. Located in the northeast of the country, it is the largest city of the historic region of Sloboda  Ukraine. Kharkiv is the administrative centre of Kharkiv Oblast and of the surrounding Kharkiv Raion. It has a population of 1,421,125 .Kharkiv was founded in 1654 as a fortress, and grew to become a  major centre of industry, trade, and Ukrainian culture in Sloboda Ukraine in the composition  Russian Empire. At the beginning of the 20th century, the city had a predominantly Ukrainian and Russian  population, but as industrial expansion drew in further labor from the distressed countryside, and  as the Soviet Union moderated previous restrictions on Ukrainian cultural expression, Ukrainians  became the largest ethnic group in the city by the eve of World War II. 
 
  
 ## Unsplash photos

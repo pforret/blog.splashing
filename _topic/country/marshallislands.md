@@ -9,7 +9,7 @@ tags:
 ---
 # Marshall Islands
 
-The Marshall Islands, officially the Republic of the Marshall Islands, is an independent island  country and microstate near the Equator in the Pacific Ocean, slightly west of the International  Date Line. Geographically, the country is part of the larger island group of Micronesia. The country's population of 58,413 people  is spread out over five islands and 29 coral atolls,  comprising 1,156 individual islands and islets. The capital and largest city is Majuro. It has the largest portion of its territory composed of water of any sovereign state, at 97.87%. 
+The Marshall Islands, officially the Republic of the Marshall Islands, is an island country west of  the International Date Line and north of the equator in the Micronesia region in the Northwestern  Pacific Ocean. The territory consists of 29 coral atolls and five islands, divided across two island chains: Ratak  in the east and Ralik in the west. 97.87% of its territory is water, the largest proportion of water to land of any sovereign state. The country shares maritime boundaries with Wake Island to the north, Kiribati to the southeast,  Nauru to the south, and the Federated States of Micronesia to the west. The capital and largest city is Majuro, home to approximately half of the country's population. 
 
  
 ## Unsplash photos

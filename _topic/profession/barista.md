@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: barista
 
-A barista  is a person, usually a coffeehouse employee, who prepares and serves espresso-based  coffee drinks.    
+A barista  is a person, usually a coffeehouse employee, who prepares and serves espresso-based  coffee drinks and other beverages.    
 
  
 ## Unsplash photos

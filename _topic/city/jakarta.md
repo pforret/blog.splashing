@@ -9,7 +9,7 @@ tags:
 ---
 # Jakarta
 
-Jakarta, officially the Special Capital Region of Jakarta, is the capital and largest city of  Indonesia. Lying on the northwest coast of Java, the world's most populous island, Jakarta is the largest city  in Southeast Asia and serves as the diplomatic capital of ASEAN.  The city is the economic, cultural, and political centre of Indonesia. It possesses a province-level status and has a population of 10,562,088 as of mid 2021. 
+Jakarta, officially the Special Capital Region of Jakarta  and formerly known as Batavia until  1949, is the nation's capital city and the centre of the largest metropolis of Indonesia. Lying on the northwest coast of Java, the world's most populous island, Jakarta is the largest  metropole in Southeast Asia, and serves as the diplomatic capital of ASEAN. Jakarta is bordered by two provinces: West Java to the south and east; and  Banten to the west. Its coastline faces the Java Sea to the north, and it shares a maritime border with Lampung to the  west. Jakarta's metropolitan area is ASEAN's second largest economy after Singapore. 
 
  
 ## Unsplash photos

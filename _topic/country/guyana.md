@@ -9,7 +9,7 @@ tags:
 ---
 # Guyana
 
-Guyana, officially the Co‑operative Republic of Guyana, is a country on the northern mainland of  South America. Guyana is an indigenous word which means Land of Many Waters. The capital city is Georgetown. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela  to the west, and Suriname to the east. With 215,000 km2, Guyana is the third-smallest sovereign state by area in mainland South America  after Uruguay and Suriname, and is the second-least populous sovereign state in South America after  Suriname; it is also one of the least densely populated countries on Earth. 
+Guyana, officially the Co-operative Republic of Guyana, is a country on the northern coast of South  America, part of the historic mainland British West Indies. Guyana is an indigenous word which means Land of Many Waters. Georgetown is the capital of Guyana with the largest population. Guyana is bordered by the Atlantic Ocean to the north, Brazil to the south and southwest, Venezuela  to the west, and Suriname to the east. With a land area of 214,969 km2, Guyana is the third-smallest sovereign state by area in mainland  South America after Uruguay and Suriname, and is the second-least populous sovereign state in South  America after Suriname; it is also one of the least densely populated countries on Earth. 
 
  
 ## Unsplash photos

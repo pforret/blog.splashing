@@ -10,7 +10,7 @@ tags:
 ---
 # Zagreb
 
-Zagreb  is the capital and largest city of Croatia. It is in the northwest of the country, along the Sava river, at the southern slopes of the  Medvednica mountain. Zagreb stands near the international border between Croatia and Slovenia at an elevation of  approximately 122 m  above sea level. At the 2021 census, the city had a population of 767,131. The population of the Zagreb urban agglomeration is 1,071,150, approximately a quarter of the total  population of Croatia. 
+Zagreb  is the capital and largest city of Croatia. It is in the north of the country, along the Sava river, at the southern slopes of the Medvednica  mountain. Zagreb stands near the international border between Croatia and Slovenia at an elevation of  approximately 158 m  above sea level. At the 2021 census, the city itself had a population of 767,131, while the population of Zagreb  urban agglomeration is slightly above one million people.  
 
  
 ## Unsplash photos

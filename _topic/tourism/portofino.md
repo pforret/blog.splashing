@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Portofino
 
-Portofino  is a comune located in the Metropolitan City of Genoa on the Italian Riviera. The town is clustered around its small harbour, and is known for the colourfully painted buildings  that line the shore. Since the late 19th century Portofino has attracted tourism of the European aristocracy and it is  now a resort for the world's jet set.   
+Portofino  is a comune located in the Metropolitan City of Genoa on the Italian Riviera. The town is clustered around its small harbour, and is known for the colourfully painted buildings  that line the shore. Since the late 19th century, Portofino has attracted tourism of the European aristocracy and it is  now a resort for the world's jet set.   
 
  
 ## Unsplash photos

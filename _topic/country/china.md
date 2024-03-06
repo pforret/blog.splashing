@@ -10,7 +10,7 @@ tags:
 ---
 # China
 
-China, officially the People's Republic of China, is a country in East Asia. It is the world's most populous country, with a population exceeding 1.4 billion, slightly ahead of  India. China spans the equivalent of five time zones and borders fourteen countries by land, the most of  any country in the world, tied with Russia. Covering an area of approximately 9.6 million square kilometres, it is the world's third largest  country by total land area. The country consists of 22 provinces, five autonomous regions, four municipalities, and two Special  Administrative Regions . 
+China, officially the People's Republic of China, is a country in East Asia. With a population exceeding 1.4 billion, it is the world's second-most-populous country. China spans the equivalent of five time zones and borders fourteen countries by land. With an area of nearly 9.6 million square kilometers, it is the third-largest country by total land  area. The country is divided into 33 province-level divisions, inclusive of 22 provinces, five autonomous  regions, four municipalities, and two semi-autonomous special administrative regions. 
 
  
 ## Unsplash photos

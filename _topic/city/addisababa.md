@@ -9,7 +9,7 @@ tags:
 ---
 # Addis Ababa
 
-Addis Ababa, is the capital and largest city of Ethiopia. It is also serves as the capital of the Oromia Region. In the 2007 census, the city's population was estimated to be 2,739,551 inhabitants. Addis Ababa is a highly developed and important cultural, artistic, financial and administrative  centre of Ethiopia.Addis Ababa was portrayed in the 15th century as a fortified location called  Barara that housed the emperors of Ethiopia at the time. Prior to Emperor Dawit II, Barara was completely destroyed during the Ethiopian–Adal War and Oromo  expansions. 
+Addis Ababa  is the capital and largest city of Ethiopia. In the 2007 census, the city's population was estimated to be 2,739,551 inhabitants. Addis Ababa is a highly developed and important cultural, artistic, financial and administrative  centre of Ethiopia.The founding history of Addis Ababa dates back to the late 19th century by  Menelik II, Negus of Shewa, in 1886 after finding Mount Entoto unpleasant two years prior. At the time, the city was a resort town; its large mineral spring abundance attracted nobilities of  the empire and led them to establish permanent settlement. It also attracted many members of the working classes – including artisans and merchants – and  foreign visitors. 
 
  
 ## Unsplash photos

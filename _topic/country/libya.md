@@ -9,7 +9,7 @@ tags:
 ---
 # Libya
 
-Libya, officially the State of Libya, is a country in the Maghreb region in North Africa. It is bordered by the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast,  Chad to the south, Niger to the southwest, Algeria to the west, and Tunisia to the northwest. Libya is made of three historical regions: Tripolitania, Fezzan, and Cyrenaica. With an area of almost 700,000 square miles, it is the fourth-largest country in Africa and the  Arab world, and the 16th-largest in the world. Libya has the 10th-largest proven oil reserves in the world. 
+Libya, officially the State of Libya, is a country in the Maghreb region of North Africa. Libya borders the Mediterranean Sea to the north, Egypt to the east, Sudan to the southeast, Chad  to the south, Niger to the southwest, Algeria to the west, and Tunisia to the northwest. Libya comprises three historical regions: Tripolitania, Fezzan, and Cyrenaica. With an area of almost 1.8 million km2, it is the fourth-largest country in Africa and the Arab  world, and the 16th-largest in the world. The country's official religion is Islam, with 96.6% of the Libyan population being Sunni Muslims. 
 
  
 ## Unsplash photos

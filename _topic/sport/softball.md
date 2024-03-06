@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: softball
 
-Softball is a game similar to baseball played with a larger ball on a smaller field. Softball is played competitively at club levels, the college level, and the professional level. The game was first created in 1887 in Chicago by George Hancock.  There are two rule sets for softball generally: slow pitch softball and fastpitch. 
+Softball is a sport similar to baseball, and it is played with a larger ball on a smaller field and  with only underhand pitches  permitted. Softball is played competitively at club levels, the college level, and the professional level. The game was first created in 1887 in Chicago by George Hancock.  There are two rule sets for softball generally: slow pitch softball and fastpitch. 
 
  
 ## Unsplash photos

@@ -10,7 +10,7 @@ tags:
 ---
 # Paris
 
-Paris  is the capital and most populous city of France, with an estimated population of 2,165,423  residents in 2019 in an area of more than 105 km², making it the 30th most densely populated city  in the world in 2020. Since the 17th century, Paris has been one of the world's major centres of finance, diplomacy,  commerce, fashion, gastronomy, and science. For its leading role in the arts and sciences, as well as its very early system of street lighting,  in the 19th century it became known as the City of Light. Like London, prior to the Second World War, it was also sometimes called the capital of the world.  
+Paris  is the capital and most populous city of France. With an official estimated population of 2,102,650 residents as of 1 January 2023 in an area of  more than 105 km2, Paris is the fourth-most populated city in the European Union and the 30th most  densely populated city in the world in 2022. Since the 17th century, Paris has been one of the world's major centres of finance, diplomacy,  commerce, culture, fashion, and gastronomy. For its leading role in the arts and sciences, as well as its early and extensive system of street  lighting, in the 19th century, it became known as the City of Light.The City of Paris is the centre  of the Île-de-France region, or Paris Region, with an official estimated population of 12,271,794  inhabitants on 1 January 2023, or about 19% of the population of France. The Paris Region had a GDP of €765 billion  in 2021, the highest in the European Union. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: boxing
 
-Boxing  is a combat sport in which two people, usually wearing protective gloves and other  protective equipment such as hand wraps and mouthguards, throw punches at each other for a  predetermined amount of time in a boxing ring.  Although the term boxing is commonly attributed to western boxing, in which only the fists are  involved, boxing has developed in various ways in different geographical areas and cultures. In global terms, boxing is a set of combat sports focused on striking, in which two opponents face  each other in a fight using at least their fists, and possibly involving other actions such as  kicks, elbow strikes, knee strikes, and headbutts, depending on the rules. Some of the forms of the modern sport are western boxing, bare knuckle boxing, kickboxing,  muay-thai, lethwei, savate, and sanda. 
+Boxing  is a combat sport and a martial art in which two people, usually wearing protective gloves  and other protective equipment such as hand wraps and mouthguards, throw punches at each other for  a predetermined amount of time in a boxing ring.  Although the term boxing is commonly attributed to Western boxing, in which only fists are  involved, it has developed in different ways in different geographical areas and cultures of the  World. In global terms, boxing today is also a set of combat sports focused on striking, in which two  opponents face each other in a fight using at least their fists, and possibly involving other  actions such as kicks, elbow strikes, knee strikes, and headbutts, depending on the rules. Some of these variants are the bare-knuckle boxing, kickboxing, Muay Thai, Lethwei, savate, and  sanda. 
 
  
 ## Unsplash photos

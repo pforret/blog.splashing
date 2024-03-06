@@ -9,7 +9,7 @@ tags:
 ---
 # Minsk
 
-Minsk  is the capital and the largest city of Belarus, located on the Svislach and the now  subterranean Niamiha rivers. As the capital, Minsk has a special administrative status in Belarus and is the administrative  centre of Minsk Region  and Minsk District . As of January 2021, its population was 2 million, making Minsk the 11th most populous city in  Europe. Minsk is one of the administrative capitals of the Commonwealth of Independent States  and the  Eurasian Economic Union .  
+Minsk  is the capital and the largest city of Belarus, located on the Svislach and the now  subterranean Niamiha rivers. As the capital, Minsk has a special administrative status in Belarus and is the administrative  centre of Minsk Region and Minsk District. As of 2023, it has a population of two million, making Minsk the 11th-most populous city in Europe. Minsk is one of the administrative capitals of the Commonwealth of Independent States  and the  Eurasian Economic Union .  
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # flamenco guitar
 
-A flamenco guitar is a guitar similar to a classical guitar but with thinner tops and less internal  bracing. It usually has nylon strings, like the classical guitar, but it generally possesses a livelier,  more gritty sound compared to the classical guitar. It is used in toque, the guitar-playing part of the art of flamenco.   
+A flamenco guitar is a guitar similar to a classical guitar, but with thinner tops and less  internal bracing. It usually has nylon strings, like the classical guitar, but it generally possesses a livelier,  more gritty sound compared to the classical guitar. It is used in toque, the guitar-playing part of the art of flamenco.   
 
  
 ## Unsplash photos

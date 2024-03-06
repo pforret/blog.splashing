@@ -9,7 +9,7 @@ tags:
 ---
 # Sierra Leone
 
-Sierra Leone, officially the Republic of Sierra Leone,  is a country on the southwest coast of West  Africa. It is bordered by Liberia to the southeast and Guinea surrounds the northern half of the nation. Covering a total area of 71,740 km2, Sierra Leone has a tropical climate, with diverse environments  ranging from savanna to rainforests. The country has a population of 7,092,113 as of the 2015 census. Freetown is the capital and largest city. 
+Sierra Leone, officially the Republic of Sierra Leone, is country on the southwest coast of West  Africa. It shares its southeastern border with Liberia and is bordered by Guinea to the north. With a land area of 71,740 km2, Sierra Leone has a tropical climate and with a variety of  environments ranging from savannas to rainforests. According to the 2015 census, Sierra Leone has a population of 7,092,113, with Freetown serving as  both the capital and largest city. The country is divided into five administrative regions, which are further subdivided into 16  districts.Sierra Leone is governed as a presidential republic, with a unicameral parliament and a  directly elected president. 
 
  
 ## Unsplash photos

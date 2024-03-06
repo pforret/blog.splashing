@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: kayak
 
-A kayak is a small, narrow watercraft which is typically propelled by means of a double-bladed  paddle. The word kayak originates from the Greenlandic word qajaq .  The traditional kayak has a covered deck and one or more cockpits, each seating one paddler. The cockpit is sometimes covered by a spray deck that prevents the entry of water from waves or  spray, differentiating the craft from a canoe. 
+A kayak is a small, narrow human-powered watercraft typically propelled by means of a long,  double-bladed paddle. The word kayak originates from the Greenlandic word qajaq .  In British English, the kayak is considered to be a kind of canoe. While technically understandable, in the North American sense this is not the case. 
 
  
 ## Unsplash photos

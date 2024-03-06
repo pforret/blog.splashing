@@ -9,7 +9,7 @@ tags:
 ---
 # Yemen
 
-Yemen, officially the Republic of Yemen, is a country in Western Asia. It is situated on the southern end of the Arabian Peninsula, and borders Saudi Arabia to the north  and Oman to the northeast and shares maritime borders with Eritrea, Djibouti, and Somalia. Yemen is the second-largest Arab sovereign state in the peninsula, occupying 555,000 square  kilometres, with a coastline stretching about 2,000 kilometres . Its constitutionally stated capital, and largest city, is Sanaa. As of 2021, Yemen has an estimated population of some 30.4 million. 
+Yemen, officially the Republic of Yemen, is a country in West Asia. It is located in the southern end of the Arabian Peninsula, bordering Saudi Arabia to the north and  Oman to the northeast. It shares maritime borders with Eritrea, Djibouti and Somalia. Covering 530,000 square kilometres  and having a coastline of approximately 2,000 kilometres, Yemen  is the second-largest Arab sovereign state on the Arabian Peninsula. Sanaa is its constitutionally stated capital and largest city. 
 
  
 ## Unsplash photos

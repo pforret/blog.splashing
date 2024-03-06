@@ -9,7 +9,7 @@ tags:
 ---
 # Cambodia
 
-Cambodia, officially the Kingdom of Cambodia, is a country located in the southern portion of the  Indochinese Peninsula in Southeast Asia, spanning an area of 181,035 square kilometres, bordered by  Thailand to the northwest, Laos to the north, Vietnam to the east, and the Gulf of Thailand to the  southwest. The capital and largest city is Phnom Penh.  The sovereign state of Cambodia has a population of over 17 million. Buddhism is enshrined in the constitution as the official state religion, and is practised by more  than 97% of the population. 
+Cambodia, officially the Kingdom of Cambodia, is a country in Mainland Southeast Asia, spanning an  area of 181,035 square kilometres, bordered by Thailand to the northwest, Laos to the north,  Vietnam to the east, and the Gulf of Thailand to the southwest. The capital and most populous city is Phnom Penh.  In 802 AD, Jayavarman II declared himself king, uniting the warring Khmer princes of Chenla under  the name Kambuja. This marked the beginning of the Khmer Empire. 
 
  
 ## Unsplash photos

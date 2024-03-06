@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Formentera
 
-Formentera  is the smallest and most southerly island of the Pityusic Islands group, which belongs  to the Balearic Islands autonomous community . It covers an area of 83.22 square kilometres   and had a population of 10,582 at the Census of 1  November 2011; the latest official estimate  was 12,111.    
+Formentera  is a Spanish island located in the Mediterranean Sea, which belongs to the Balearic  Islands autonomous community  together with Mallorca, Menorca, and Ibiza.  Moreover, Formentera is the smallest and most southerly island of the Pityusic Islands group . It covers an area of 83.24 square kilometres, including offshore islets. At the 2011 Census, the population was 10,583; according to the Census of 1 January 2021, it  counted 11,891 inhabitants, while the official estimate as at 1 January 2023 was 11,389. 
 
  
 ## Unsplash photos

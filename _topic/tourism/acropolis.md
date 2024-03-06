@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Acropolis
 
-An acropolis was the settlement of an upper part of an ancient Greek city, especially a citadel,  and frequently a hill with precipitous sides, mainly chosen for purposes of defense. The term is typically used to refer to the Acropolis of Athens, yet every Greek city had an  acropolis of its own. Acropoloi were used as religious centers and places of worship, forts, and places in which the  royal and high-status resided. Acropolises became the nuclei of large cities of classical ancient times, and served as important  centers of a community. Some well-known acropoloi have become the centers of tourism in present-day, and, especially, the  Acropolis of Athens has been a revolutionary center for the studies of ancient Greece since the  Mycenaean period. 
+An acropolis was the settlement of an upper part of an ancient Greek city, especially a citadel,  and frequently a hill with precipitous sides, mainly chosen for purposes of defense. The term is typically used to refer to the Acropolis of Athens, yet every Greek city had an  acropolis of its own. Acropolises were used as religious centers and places of worship, forts, and places in which the  royal and high-status resided. Acropolises became the nuclei of large cities of classical ancient times, and served as important  centers of a community. Some well-known acropolises have become the centers of tourism in present-day, and, especially, the  Acropolis of Athens has been a revolutionary center for the studies of ancient Greece since the  Mycenaean period. 
 
  
 ## Unsplash photos

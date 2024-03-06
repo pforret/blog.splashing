@@ -10,7 +10,7 @@ tags:
 ---
 # viola
 
-The viola  is a string instrument that is bowed, plucked, or played with varying techniques. Slightly larger than a violin, it has a lower and deeper sound. Since the 18th century, it has been the middle or alto voice of the violin family, between the  violin  and the cello . The strings from low to high are typically tuned to C3, G3, D4, and A4.  
+The viola  is a string instrument that is usually bowed. Slightly larger than a violin, it has a lower and deeper sound. Since the 18th century, it has been the middle or alto voice of the violin family, between the  violin  and the cello . The strings from low to high are typically tuned to C3, G3, D4, and A4.  
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Mecca
 
-Mecca  is a city and administrative center of the Mecca Province of Saudi Arabia, and the holiest  city in Islam. It is 70 km  inland from Jeddah on the Red Sea, in a narrow valley 277 m  above sea level. Its last recorded population was 1,578,722 in 2015. Its estimated metro population in 2020 is 2.042 million, making it the third-most populated city in  Saudi Arabia after Riyadh and Jeddah. Pilgrims more than triple this number every year during the Ḥajj pilgrimage, observed in the  twelfth Hijri month of Dhūl-Ḥijjah. 
+Mecca  is the capital of Mecca Province in the Hejaz region of western Saudi Arabia and the holiest  city in Islam. It is 70 km  inland from Jeddah on the Red Sea, in a narrow valley 277 m  above sea level. Its last recorded population was 2,385,509 in 2022. Its metropolitan population in 2022 is 2.4 million, making it the third-most populated city in  Saudi Arabia after Riyadh and Jeddah. Around 44.5% of the population are Saudi citizens and around 55.5% are foreigners from other muslim  countries. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Botswana
 
-Botswana, officially the Republic of Botswana, is a landlocked country in Southern Africa. Botswana is topographically flat, with approximately 70 percent of its territory being the Kalahari  Desert. It is bordered by South Africa to the south and southeast, Namibia to the west and north, and  Zimbabwe to the northeast. It is connected by the Kazungula Bridge to Zambia, across the world’s shortest border between two  countries.  
+Botswana, officially the Republic of Botswana, is a landlocked country in Southern Africa. Botswana is topographically flat, with approximately 70 percent of its territory being the Kalahari  Desert. It is bordered by South Africa to the south and southeast, Namibia to the west and north, and  Zimbabwe to the northeast. It is connected by the Kazungula Bridge to Zambia, across the world's shortest border between two  countries.  
 
  
 ## Unsplash photos

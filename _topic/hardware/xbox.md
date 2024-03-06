@@ -9,7 +9,7 @@ tags:
 ---
 # Xbox
 
-Xbox is a video gaming brand created and owned by Microsoft. The brand consists of five video game consoles, as well as applications, streaming services, an  online service by the name of Xbox network, and the development arm by the name of Xbox Game  Studios. The brand was first introduced in the United States in November 2001, with the launch of the  original Xbox console.  The original device was the first video game console offered by an American company after the Atari  Jaguar stopped sales in 1996. 
+Xbox is a video gaming brand that consists of five home video game consoles, as well as  applications, streaming service Xbox Cloud Gaming, and online services such as the Xbox network and  Xbox Game Pass. The brand is produced by Microsoft Gaming, a division of Microsoft.  The brand was first introduced in the United States in November 2001, with the launch of the  original Xbox console. The Xbox branding was formerly, from 2012 to 2015, used as Microsoft's digital media entertainment  brand replacing Zune. 
 
  
 ## Unsplash photos

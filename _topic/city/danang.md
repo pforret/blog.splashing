@@ -9,7 +9,7 @@ tags:
 ---
 # Da Nang
 
-Da Nang or Danang  is a class-1 municipality and the fifth-largest city in Vietnam by municipal  population. It lies on the coast of the East Sea of Vietnam at the mouth of the Hàn River, and is one of  Vietnam's most important port cities. As one of the country's five direct-controlled municipalities, it falls under the administration of  the central government.  Da Nang is the commercial and educational centre of Central Vietnam and is the largest city in the  region. 
+Da Nang or Danang  is a class-1 municipality and the fifth-largest city in Vietnam by municipal  population. It lies on the coast of the East Sea of Vietnam at the mouth of the Hàn River, and is one of  Vietnam's most important port cities. As one of the country's five direct-controlled municipalities, it falls under the administration of  the central government.  The city was known as Cửa Hàn during early Đại Việt settlement, and as Tourane  during French  colonial rule. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: plumber
 
-A plumber is a tradesperson who specializes in installing and maintaining systems used for potable   water, and for sewage and drainage in plumbing systems.    
+A plumber is a tradesperson who specializes in installing and maintaining systems used for potable   water, hot-water production, sewage and drainage in plumbing systems.    
 
  
 ## Unsplash photos

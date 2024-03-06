@@ -10,7 +10,7 @@ tags:
 ---
 # Destination: Ibiza
 
-Ibiza  is a Spanish island in the Mediterranean Sea off the eastern coast of the Iberian Peninsula. It is 150 kilometres  from the city of Valencia. It is the third largest of the Balearic Islands, in Spain. Its largest settlements are Ibiza Town, Santa Eulària des Riu, and Sant Antoni de Portmany. Its highest point, called Sa Talaiassa, is 475 metres  above sea level. 
+Ibiza, in Catalan: Eivissa, is a Spanish island in the Mediterranean Sea off the eastern coast of  the Iberian Peninsula. It is 150 kilometres  from the city of Valencia. It is the third largest of the Balearic Islands in area, but the second-largest by population. Its largest settlements are Ibiza Town, Santa Eulària des Riu, and Sant Antoni de Portmany. Its highest point, called Sa Talaiassa, is 475 metres  above sea level. 
 
  
 ## Unsplash photos

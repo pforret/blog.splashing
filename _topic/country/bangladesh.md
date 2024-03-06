@@ -9,7 +9,7 @@ tags:
 ---
 # Bangladesh
 
-Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world, with a population exceeding 165 million people  in an area of 148,460 square kilometres . Bangladesh is among the most densely populated countries in the world, and shares land borders with  India to the west, north, and east, and Myanmar to the southeast; to the south it has a coastline  along the Bay of Bengal. It is narrowly separated from Bhutan and Nepal by the Siliguri Corridor; and from China by the  Indian state of Sikkim in the north. Dhaka, the capital and largest city, is the nation's political, financial and cultural centre. 
+Bangladesh, officially the People's Republic of Bangladesh, is a country in South Asia. It is the eighth-most populous country in the world and is among the most densely populated  countries with a population of nearly 170 million in an area of 148,460 square kilometres . Bangladesh shares land borders with India to the north, west, and east, and Myanmar to the  southeast. To the south, it has a coastline along the Bay of Bengal. It is narrowly separated from Bhutan and Nepal by the Siliguri Corridor, and from China by the  mountainous Indian state of Sikkim in the north. 
 
  
 ## Unsplash photos

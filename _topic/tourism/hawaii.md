@@ -9,7 +9,7 @@ tags:
 ---
 # Destination: Hawaii
 
-Hawaii  is a state in the Western  United States, located in the Pacific Ocean about 2,000 miles   from the U.S. mainland. It is the only U.S. state outside North America, the only state that is an archipelago, and the only state in the  tropics.  
+Hawaii  is an island state of the United States, in the Pacific Ocean about 2,000 miles  southwest  of the U.S. mainland. It is the only state not on the North American mainland, the only state that is an archipelago, and  the only state in the tropics.  Hawaii consists of 137 volcanic islands that comprise almost the entire Hawaiian archipelago . 
 
  
 ## Unsplash photos

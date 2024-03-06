@@ -9,7 +9,7 @@ tags:
 ---
 # camera
 
-A camera is an optical instrument that captures images. Most cameras can capture 2D images, while some more advanced models can capture 3D images. At a basic level, most cameras consist of a sealed box, with a small hole  that allows light to  pass through and capture an image on a light-sensitive surface . Cameras have various mechanisms to control how light falls onto the light-sensitive surface,  including lenses that focus the light and a shutter that determines the amount of time the  photosensitive surface is exposed to the light.  
+A camera is an instrument used to capture and store images and videos, either digitally via an  electronic image sensor, or chemically via a light-sensitive material such as photographic film. As a pivotal technology in the fields of photography and videography, cameras have played a  significant role in the progression of visual arts, media, entertainment, surveillance, and  scientific research. The invention of the camera dates back to the 19th century and has since evolved with advancements  in technology, leading to a vast array of types and models in the 21st century.  Cameras function through a combination of multiple mechanical components and principles. 
 
  
 ## Unsplash photos

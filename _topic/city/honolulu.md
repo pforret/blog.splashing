@@ -9,7 +9,7 @@ tags:
 ---
 # Honolulu
 
-Honolulu  is the capital and largest city of the U.S. state of Hawaii, which is in the Pacific Ocean. It is an unincorporated county seat of the consolidated City and County of Honolulu, situated along  the southeast coast of the island of Oʻahu, and is the westernmost and southernmost major U.S. city. Honolulu is Hawaii's main gateway to the world. 
+Honolulu  is the capital and most populous city of the U.S. state of Hawaii, which is in the Pacific Ocean. An unincorporated city, it is the county seat of the consolidated City and County of Honolulu,  situated along the southeast coast of the island of Oʻahu, and is the westernmost and southernmost  major U.S. city. Honolulu is Hawaii's main gateway to the world. 
 
  
 ## Unsplash photos

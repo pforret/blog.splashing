@@ -9,7 +9,7 @@ tags:
 ---
 # Taiwan
 
-Taiwan, officially the Republic of China, is a country in East Asia, at the junction of the East  and South China Seas in the northwestern Pacific Ocean, with the People's Republic of China  to the  northwest, Japan to the northeast, and the Philippines to the south. The territories controlled by the ROC consist of 168 islands, with a combined area of 36,193 square  kilometres . The main island of Taiwan, also known as Formosa, has an area of 35,808 square kilometres, with  mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly  urbanised population is concentrated. The capital, Taipei, forms along with New Taipei City and Keelung the largest metropolitan area of  Taiwan. Other major cities include Taoyuan, Taichung, Tainan, and Kaohsiung. 
+Taiwan, officially the Republic of China, is a country in East Asia.  It is located at the junction of the East and South China Seas in the northwestern Pacific Ocean,  with the People's Republic of China  to the northwest, Japan to the northeast, and the Philippines  to the south. The territories controlled by the ROC consist of 168 islands with a combined area of 36,193 square  kilometres . The main island of Taiwan, also known as Formosa, has an area of 35,808 square kilometres, with  mountain ranges dominating the eastern two-thirds and plains in the western third, where its highly  urbanized population is concentrated. 
 
  
 ## Unsplash photos

@@ -9,7 +9,7 @@ tags:
 ---
 # Wuhan
 
-Wuhan  is the capital of Hubei Province in the People's Republic of China. It is the largest city in Hubei and the most populous city in Central China, with a population of  over eleven million, the ninth-most populous Chinese city and one of the nine National Central  Cities of China.The name Wuhan came from the city's historical origin from the conglomeration of  Wuchang, Hankou, and Hanyang, which are collectively known as the Three Towns of Wuhan . Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest  tributary, the Han River, and is known as Nine Provinces' Thoroughfare .Wuhan has historically  served as a busy city port for commerce and trading. Other historical events taking place in Wuhan include the Wuchang Uprising of 1911, which led to  the end of 2,000 years of dynastic rule. Wuhan was briefly the capital of China in 1927 under the left wing of the Kuomintang  government. 
+Wuhan  is the capital of Hubei Province in the People's Republic of China. With a population of over eleven million, it is the most populous city in Hubei and the ninth most  populous city in China. It is also one of the nine national central cities.Wuhan historically served as a busy city port  for commerce and trading with some crucial influences on Chinese history. The name Wuhan came from the city's historical origin from the conglomeration of Wuchang, Hankou,  and Hanyang, which are collectively known as the Three Towns of Wuhan . Wuhan lies in the eastern Jianghan Plain, at the confluence of the Yangtze river and its largest  tributary, the Han River, and is known as Nine Provinces' Thoroughfare . 
 
  
 ## Unsplash photos

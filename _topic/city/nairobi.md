@@ -9,7 +9,7 @@ tags:
 ---
 # Nairobi
 
-Nairobi  is the capital and largest city of Kenya. The name is derived from the Maasai phrase Enkare Nairobi, which translates to place of cool  waters, a reference to the Nairobi River which flows through the city. The city proper had a population of 4,397,073 in the 2019 census, while the metropolitan area has a  projected population in 2022 of 10.8 million. The city is commonly referred to as the Green City in the Sun.Nairobi was founded in 1899 by  colonial authorities in British East Africa, as a rail depot on the Uganda - Kenya Railway. The town quickly grew to replace Mombasa as the capital of Kenya in 1907. 
+Nairobi  is the capital and largest city of Kenya. The name is derived from the Maasai phrase Enkare Nairobi, which translates to 'place of cool  waters', a reference to the Nairobi River which flows through the city. The city proper had a population of 4,397,073 in the 2019 census. The city is commonly referred to as The Green City in the Sun.Nairobi was founded in 1899 as a rail  depot on the Uganda - Kenya Railway. It was favoured by the authorities as an ideal resting place due to its high elevation, temperate  climate, and adequate water supply  The town quickly grew to replace Mombasa as the capital of  Kenya in 1907. 
 
  
 ## Unsplash photos

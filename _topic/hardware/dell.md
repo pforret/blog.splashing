@@ -9,7 +9,7 @@ tags:
 ---
 # Dell
 
-Dell is an American based technology company. It develops, sells, repairs, and supports computers and related products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers, servers, data  storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and  electronics built by other manufacturers. The company is known for how it manages its supply chain and electronic commerce. This includes Dell selling directly to customers and delivering PCs that the customer wants. 
+Dell Inc. is an American technology company that develops, sells, repairs, and supports computers and related  products and services. Dell is owned by its parent company, Dell Technologies.Dell sells personal computers, servers, data  storage devices, network switches, software, computer peripherals, HDTVs, cameras, printers, and  electronics built by other manufacturers. The company is known for how it manages its supply chain and electronic commerce. This includes Dell selling directly to customers and delivering PCs that the customer wants. 
 
  
 ## Unsplash photos

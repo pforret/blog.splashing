@@ -9,7 +9,7 @@ tags:
 ---
 # marimba
 
-The marimba ( is a musical instrument in the percussion family that consists of wooden bars that  are struck by mallets. Below each bar is a resonator pipe that amplifies particular harmonics of its sound. Compared to the xylophone, the timbre of the marimba is warmer, deeper, more resonant, and more  pure. It also tends to have a lower range than that of a xylophone. Typically, the bars of a marimba are arranged chromatically, like the keys of a piano. 
+The marimba ( is a musical instrument in the percussion family that consists of wooden bars that  are struck by mallets. Below each bar is a resonator pipe that amplifies particular harmonics of its sound. Compared to the xylophone, the marimba has a lower range. Typically, the bars of a marimba are arranged chromatically, like the keys of a piano. The marimba is a type of idiophone. 
 
  
 ## Unsplash photos

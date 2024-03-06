@@ -9,7 +9,7 @@ tags:
 ---
 # Profession: janitor
 
-A janitor (American English, also known as a custodian, porter, cleanser, cleaner or caretaker, is  a person who cleans and maintains buildings. In some cases, they will also carry out maintenance and security duties. A similar position, but usually with more managerial duties and not including cleaning, is occupied  by building superintendents in the United States and Canada and by site managers in schools in the  United Kingdom. Cleaning is one of the most commonly outsourced services.  
+A janitor, also known as a custodian, porter, cleanser, cleaner or caretaker, is a person who  cleans and maintains buildings. In some cases, they will also carry out maintenance and security duties. A similar position, but usually with more managerial duties and not including cleaning, is occupied  by building superintendents in the United States and Canada and by site managers in schools in the  United Kingdom. Cleaning is one of the most commonly outsourced services.  
 
  
 ## Unsplash photos

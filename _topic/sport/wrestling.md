@@ -9,7 +9,7 @@ tags:
 ---
 # Sport: wrestling
 
-Wrestling is a sport of physical engagement between two unarmed persons, in which each wrestler  strives to obtain a position of advantage over their opponent. Wrestling involves different grappling-type techniques such as clinch fighting, throws and  takedowns, joint locks, pins and other grappling holds. Many different wrestling techniques have been incorporated into martial arts, combat sports and  military systems. The sport can either be genuinely competitive or sportive entertainment .  
+Wrestling is a martial art and combat sport that involves grappling with an opponent and striving  to obtain a position of advantage through different throws or techniques, within a given ruleset. Wrestling involves different grappling-type techniques such as clinch fighting, throws and  takedowns, joint locks, pins, and other grappling holds. Many different wrestling techniques have been incorporated into martial arts, combat sports, and  military systems. Wrestling is genuine competition; professional wrestling is athletic theatre.  
 
  
 ## Unsplash photos

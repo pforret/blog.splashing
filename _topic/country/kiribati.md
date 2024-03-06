@@ -9,7 +9,7 @@ tags:
 ---
 # Kiribati
 
-Kiribati (, officially the Republic of Kiribati, is an island country in Oceania in the central  Pacific Ocean. The permanent population is over 119,000, more than half of whom live on Tarawa atoll. The state comprises 32 atolls and one remote raised coral island, Banaba. There is a total land area of 811 square kilometres  dispersed over 3.5 million km2  of ocean.  
+Kiribati, officially the Republic of Kiribati, is an island country in the Micronesia subregion of  Oceania in the central Pacific Ocean. Its permanent population is over 119,000 as of the 2020 census, with more than half living on  Tarawa atoll. The state comprises 32 atolls and one remote raised coral island, Banaba. Its total land area is 811 km2  dispersed over 3,441,810 km2  of ocean.  
 
  
 ## Unsplash photos

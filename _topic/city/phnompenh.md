@@ -9,7 +9,7 @@ tags:
 ---
 # Phnom Penh
 
-Phnom Penh  is the capital and most populous city of Cambodia. It has been the national capital since the French protectorate of Cambodia and has grown to become  the nation's primate city and its economic, industrial, and cultural centre.  Phnom Penh succeeded Angkor Thom as the capital of the Khmer nation but was abandoned several times  before being reestablished in 1865 by King Norodom. The city formerly functioned as a processing center, with textiles, pharmaceuticals, machine  manufacturing, and rice milling. 
+Phnom Penh  is the capital and most populous city of Cambodia. It has been the national capital since the French protectorate of Cambodia and has grown to become  the nation's primate city and its economic, industrial, and cultural centre. Before Phnom Penh became capital city, Oudong was the capital of the country.   
 
  
 ## Unsplash photos

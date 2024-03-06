@@ -11,7 +11,7 @@ tags:
 ---
 # Atlanta
 
-Atlanta  is the capital and most populous city of the U.S. state of Georgia. It is the seat of Fulton County, the most populous county in Georgia, but its territory falls in  both Fulton and DeKalb counties. With a population of 498,715 living within the city limits, it is the eighth most populous city in  the Southeast and 38th most populous city in the United States according to the 2020 U.S. census. 
+Atlanta  is the capital and most populous city in the U.S. state of Georgia. It is the seat of Fulton County, and a portion of the city extends into neighboring DeKalb County. With a population of 498,715 living within the city limits, Atlanta is the eighth most populous  city in the Southeast and 38th most populous city in the United States according to the 2020 U.S. census. 
 
  
 ## Unsplash photos

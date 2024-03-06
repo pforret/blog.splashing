@@ -9,7 +9,7 @@ tags:
 ---
 # flute
 
-The flute is a family of classical music instrument in the woodwind group. Like all woodwinds, flutes are aerophones, meaning they make sound by vibrating a column of air. However, unlike woodwind instruments with reeds, a flute is a reedless wind instrument that  produces its sound from the flow of air across an opening. According to the instrument classification of Hornbostel–Sachs, flutes are categorized as  edge-blown aerophones. A musician who plays the flute is called a flautist or flutist. 
+The flute is a member of a family of musical instruments in the woodwind group. Like all woodwinds, flutes are aerophones, producing sound with a vibrating column of air. Unlike woodwind instruments with reeds, a flute produces sound when the player's air flows across  an opening. In the Hornbostel–Sachs classification system, flutes are edge-blown aerophones. A musician who plays the flute is called a flautist or flutist. 
 
  
 ## Unsplash photos

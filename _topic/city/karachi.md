@@ -9,7 +9,7 @@ tags:
 ---
 # Karachi
 
-Karachi  is the most populous city in Pakistan and 12th most populous city in the world, with a  population of over 20 million. It is situated at the southern tip of the country along the Arabian Sea coast. It is the former capital of Pakistan and capital of the province of Sindh. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an  estimated GDP of over $200 billion  as of 2021. Karachi paid $9billion  as tax during fiscal year July 2021 to May 2022 according to FBR report. 
+Karachi  is the capital city of the Pakistani province of Sindh. It is the largest city in Pakistan and the 12th largest in the world, with a population of over 20  million. It is situated at the southern tip of the country along the Arabian Sea coast and formerly served  as the capital of Pakistan. Ranked as a beta-global city, it is Pakistan's premier industrial and financial centre, with an  estimated GDP of over $200 billion  as of 2021. Karachi is considered  Pakistan's most cosmopolitan city, and among the country’s most  linguistically, ethnically-, and religiously-diverse regions, as well as one of the country’s most  progressive and socially liberal cities.The region has been inhabited for millennia, but the city  was formally founded as the fortified village of Kolachi as recently as 1729. 
 
  
 ## Unsplash photos
