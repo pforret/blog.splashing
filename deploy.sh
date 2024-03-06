@@ -8,7 +8,7 @@ function main() {
 topics=$(find _data -type f -name "*.csv" | sort | while read -r file ; do basename "$file" .csv ; done)
 #  jekyll_taxonomy generate category
 #  git add category
-
+  local topic
   if [[ "$1" == "1" ]] ; then
     for topic in $topics ; do
       echo "## GENERATE $topic pages                         "
